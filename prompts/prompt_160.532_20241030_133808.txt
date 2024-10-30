@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.532', 'data': '§ 160.532 Collateral estoppel. When a final determination that the respondent violated an administrative simplification provision has been rendered in any proceeding in which the respondent was a party and had an opportunity to be heard, the respondent is bound by that determination in any proceeding under this part. '}
+You may now respond.

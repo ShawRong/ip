@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.102', 'data': '§ 160.102 Applicability.'}, {'id': '160.102', 'data': '§ 160.102 Applicability.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.102(b)', 'data': '(b) Where provided, the standards, requirements, and implementation specifications adopted under this subchapter apply to a business associate. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.306(b)', 'data': '(b) Flexibility of approach. '}, {'id': '164.306(b)(2)(i)', 'data': '(i) The size, complexity, and capabilities of the covered entity or business associate. '}, {'id': '164.306(b)(2)(ii)', 'data': '(ii) The covered entity's or the business associate's technical infrastructure, hardware, and software security capabilities. '}, {'id': '164.306(b)(2)(iii)', 'data': '(iii) The costs of security measures. '}, {'id': '164.306(b)(2)(iv)', 'data': '(iv) The probability and criticality of potential risks to electronic protected health information. '}, {'id': '164.306(b)', 'data': '(b) Flexibility of approach. '}, {'id': '164.306(b)(2)(i)', 'data': '(i) The size, complexity, and capabilities of the covered entity or business associate. '}, {'id': '164.306(b)(2)(ii)', 'data': '(ii) The covered entity's or the business associate's technical infrastructure, hardware, and software security capabilities. '}, {'id': '164.306(b)(2)(iii)', 'data': '(iii) The costs of security measures. '}, {'id': '164.306(b)(2)(iv)', 'data': '(iv) The probability and criticality of potential risks to electronic protected health information. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.306(b)(2)', 'data': '(2) In deciding which security measures to use, a covered entity or business associate must take into account the following factors: '}
+You may now respond.

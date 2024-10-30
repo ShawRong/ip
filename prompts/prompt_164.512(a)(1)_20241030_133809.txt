@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(a)', 'data': '(a) Standard: Uses and disclosures required by law. '}, {'id': '164.512(a)', 'data': '(a) Standard: Uses and disclosures required by law. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(a)(1)', 'data': '(1) A covered entity may use or disclose protected health information to the extent that such use or disclosure is required by law and the use or disclosure complies with and is limited to the relevant requirements of such law. '}
+You may now respond.

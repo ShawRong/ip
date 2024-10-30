@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(g)', 'data': '(g) '}, {'id': '164.502(g)(1)', 'data': '(1) Standard: Personal representatives.  As specified in this paragraph, a covered entity must, except as provided in paragraphs (g)(3) and (g)(5) of this section, treat a personal representative as the individual for purposes of this subchapter. '}, {'id': '164.502(g)(5)(i)', 'data': '(i) The covered entity has a reasonable belief that: '}, {'id': '164.502(g)(5)(ii)', 'data': '(ii) The covered entity, in the exercise of professional judgment, decides that it is not in the best interest of the individual to treat the person as the individual's personal representative. '}, {'id': '164.502(g)', 'data': '(g) '}, {'id': '164.502(g)(5)(i)', 'data': '(i) The covered entity has a reasonable belief that: '}, {'id': '164.502(g)(5)(ii)', 'data': '(ii) The covered entity, in the exercise of professional judgment, decides that it is not in the best interest of the individual to treat the person as the individual's personal representative. '}, {'id': '164.502(g)(1)', 'data': '(1) Standard: Personal representatives.  As specified in this paragraph, a covered entity must, except as provided in paragraphs (g)(3) and (g)(5) of this section, treat a personal representative as the individual for purposes of this subchapter. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(g)(5)', 'data': '(5) Implementation specification: Abuse, neglect, endangerment situations.  Notwithstanding a State law or any requirement of this paragraph to the contrary, a covered entity may elect not to treat a person as the personal representative of an individual if: '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.306(d)', 'data': '(d) Implementation specifications.  In this subpart: '}, {'id': '164.306(d)(3)(i)', 'data': '(i) Assess whether each implementation specification is a reasonable and appropriate safeguard in its environment, when analyzed with reference to the likely contribution to protecting electronic protected health information; and '}, {'id': '164.306(d)(3)(ii)', 'data': '(ii) As applicable to the covered entity or business associate— '}, {'id': '164.308', 'data': '§ 164.308 Administrative safeguards.'}, {'id': '164.310', 'data': '§ 164.310 Physical safeguards. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.312', 'data': '§ 164.312 Technical safeguards. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.314', 'data': '§ 164.314 Organizational requirements.'}, {'id': '164.316', 'data': '§ 164.316 Policies and procedures and documentation requirements. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.306(d)', 'data': '(d) Implementation specifications.  In this subpart: '}, {'id': '164.306(d)(3)(i)', 'data': '(i) Assess whether each implementation specification is a reasonable and appropriate safeguard in its environment, when analyzed with reference to the likely contribution to protecting electronic protected health information; and '}, {'id': '164.306(d)(3)(ii)', 'data': '(ii) As applicable to the covered entity or business associate— '}, {'id': '164.308', 'data': '§ 164.308 Administrative safeguards.'}, {'id': '164.310', 'data': '§ 164.310 Physical safeguards. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.312', 'data': '§ 164.312 Technical safeguards. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.314', 'data': '§ 164.314 Organizational requirements.'}, {'id': '164.316', 'data': '§ 164.316 Policies and procedures and documentation requirements. A covered entity or business associate must, in accordance with § 164.306: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.306(d)(3)', 'data': '(3) When a standard adopted in § 164.308, § 164.310, § 164.312, § 164.314, or § 164.316 includes addressable implementation specifications, a covered entity or business associate must— '}
+You may now respond.

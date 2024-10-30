@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.410(a)(1)', 'data': '(1) Prior to February 18, 2011, impose a civil money penalty on a covered entity or business associate for an act that violates an administrative simplification provision if the covered entity or business associate establishes that the violation is punishable under 42 U.S.C. 1320d–6. '}, {'id': '160.410(a)(2)', 'data': '(2) On or after February 18, 2011, impose a civil money penalty on a covered entity or business associate for an act that violates an administrative simplification provision if the covered entity or business associate establishes that a penalty has been imposed under 42 U.S.C. 1320d–6 with respect to such act. '}, {'id': '160.548', 'data': '§ 160.548 Appeal of the ALJ's decision.'}, {'id': '160.548', 'data': '§ 160.548 Appeal of the ALJ's decision.'}, {'id': '160.410(a)(1)', 'data': '(1) Prior to February 18, 2011, impose a civil money penalty on a covered entity or business associate for an act that violates an administrative simplification provision if the covered entity or business associate establishes that the violation is punishable under 42 U.S.C. 1320d–6. '}, {'id': '160.410(a)(2)', 'data': '(2) On or after February 18, 2011, impose a civil money penalty on a covered entity or business associate for an act that violates an administrative simplification provision if the covered entity or business associate establishes that a penalty has been imposed under 42 U.S.C. 1320d–6 with respect to such act. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.548(e)', 'data': '(e) Except for an affirmative defense under § 160.410(a)(1) or (2) of this part, the Board may not consider any issue not raised in the parties' briefs, nor any issue in the briefs that could have been raised before the ALJ but was not. '}
+You may now respond.

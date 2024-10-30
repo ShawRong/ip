@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.410(b)(2)(ii)', 'data': '(ii) Corrected during either: '}, {'id': '160.508(c)(5)', 'data': '(5) May not review the exercise of discretion by the Secretary with respect to whether to grant an extension under § 160.410(b)(2)(ii)(B) or (c)(2)(ii) of this part or to provide technical assistance under 42 U.S.C. 1320d–5(b)(2)(B). '}, {'id': '160.410(b)(2)(ii)', 'data': '(ii) Corrected during either: '}, {'id': '160.508(c)(5)', 'data': '(5) May not review the exercise of discretion by the Secretary with respect to whether to grant an extension under § 160.410(b)(2)(ii)(B) or (c)(2)(ii) of this part or to provide technical assistance under 42 U.S.C. 1320d–5(b)(2)(B). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.410(b)(2)(ii)(B)', 'data': '(B) Such additional period as the Secretary determines to be appropriate based on the nature and extent of the failure to comply. '}
+You may now respond.

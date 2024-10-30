@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.202', 'data': '§ 160.202 Definitions. For purposes of this subpart, the following terms have the following meanings: '}, {'id': '160.202', 'data': '§ 160.202 Definitions. For purposes of this subpart, the following terms have the following meanings: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.202Relatestotheprivacyofindividuallyidentifiablehealthinformation', 'data': 'Relates to the privacy of individually identifiable health information   means, with respect to a State law, that the State law has the specific purpose of protecting the privacy of health information or affects the privacy of health information in a direct, clear, and substantial way. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.406', 'data': '§ 162.406 Standard unique health identifier for health care providers.'}, {'id': '162.406', 'data': '§ 162.406 Standard unique health identifier for health care providers.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.406(a)', 'data': '(a) Standard.  The standard unique health identifier for health care providers is the National Provider Identifier (NPI). The NPI is a 10-position numeric identifier, with a check digit in the 10th position, and no intelligence about the health care provider in the number. '}
+You may now respond.

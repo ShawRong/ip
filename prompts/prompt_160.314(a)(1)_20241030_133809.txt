@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.314(a)', 'data': '(a) The Secretary may issue subpoenas in accordance with 42 U.S.C. 405(d) and (e), 1320a–7a(j), and 1320d–5 to require the attendance and testimony of witnesses and the production of any other evidence during an investigation or compliance review pursuant to this part. For purposes of this paragraph, a person other than a natural person is termed an “entity.” '}, {'id': '160.314(a)(1)(i)', 'data': '(i) State the name of the person (including the entity, if applicable) to whom the subpoena is addressed; '}, {'id': '160.314(a)(1)(ii)', 'data': '(ii) State the statutory authority for the subpoena; '}, {'id': '160.314(a)(1)(iii)', 'data': '(iii) Indicate the date, time, and place that the testimony will take place; '}, {'id': '160.314(a)(1)(iv)', 'data': '(iv) Include a reasonably specific description of any documents or items required to be produced; and '}, {'id': '160.314(a)(1)(v)', 'data': '(v) If the subpoena is addressed to an entity, describe with reasonable particularity the subject matter on which testimony is required. In that event, the entity must designate one or more natural persons who will testify on its behalf, and must state as to each such person that person's name and address and the matters on which he or she will testify. The designated person must testify as to matters known or reasonably available to the entity. '}, {'id': '160.314(a)', 'data': '(a) The Secretary may issue subpoenas in accordance with 42 U.S.C. 405(d) and (e), 1320a–7a(j), and 1320d–5 to require the attendance and testimony of witnesses and the production of any other evidence during an investigation or compliance review pursuant to this part. For purposes of this paragraph, a person other than a natural person is termed an “entity.” '}, {'id': '160.314(a)(1)(i)', 'data': '(i) State the name of the person (including the entity, if applicable) to whom the subpoena is addressed; '}, {'id': '160.314(a)(1)(ii)', 'data': '(ii) State the statutory authority for the subpoena; '}, {'id': '160.314(a)(1)(iii)', 'data': '(iii) Indicate the date, time, and place that the testimony will take place; '}, {'id': '160.314(a)(1)(iv)', 'data': '(iv) Include a reasonably specific description of any documents or items required to be produced; and '}, {'id': '160.314(a)(1)(v)', 'data': '(v) If the subpoena is addressed to an entity, describe with reasonable particularity the subject matter on which testimony is required. In that event, the entity must designate one or more natural persons who will testify on its behalf, and must state as to each such person that person's name and address and the matters on which he or she will testify. The designated person must testify as to matters known or reasonably available to the entity. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.314(a)(1)', 'data': '(1) A subpoena issued under this paragraph must— '}
+You may now respond.

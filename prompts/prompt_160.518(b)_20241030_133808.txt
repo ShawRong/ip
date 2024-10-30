@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.518', 'data': '§ 160.518 Exchange of witness lists, witness statements, and exhibits.'}, {'id': '160.518(b)(1)', 'data': '(1) If, at any time, a party objects to the proposed admission of evidence not exchanged in accordance with paragraph (a) of this section, the ALJ must determine whether the failure to comply with paragraph (a) of this section should result in the exclusion of that evidence. '}, {'id': '160.518(b)(2)', 'data': '(2) Unless the ALJ finds that extraordinary circumstances justified the failure timely to exchange the information listed under paragraph (a) of this section, the ALJ must exclude from the party's case-in-chief— '}, {'id': '160.518(b)(3)', 'data': '(3) If the ALJ finds that extraordinary circumstances existed, the ALJ must then determine whether the admission of that evidence would cause substantial prejudice to the objecting party. '}, {'id': '160.518', 'data': '§ 160.518 Exchange of witness lists, witness statements, and exhibits.'}, {'id': '160.518(b)(1)', 'data': '(1) If, at any time, a party objects to the proposed admission of evidence not exchanged in accordance with paragraph (a) of this section, the ALJ must determine whether the failure to comply with paragraph (a) of this section should result in the exclusion of that evidence. '}, {'id': '160.518(b)(2)', 'data': '(2) Unless the ALJ finds that extraordinary circumstances justified the failure timely to exchange the information listed under paragraph (a) of this section, the ALJ must exclude from the party's case-in-chief— '}, {'id': '160.518(b)(3)', 'data': '(3) If the ALJ finds that extraordinary circumstances existed, the ALJ must then determine whether the admission of that evidence would cause substantial prejudice to the objecting party. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.518(b)', 'data': '(b) '}
+You may now respond.

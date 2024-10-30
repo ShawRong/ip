@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1402(a)', 'data': '(a) For the period from October 16, 2003 through March 16, 2009: The ASC X12N–276/277 Health Care Claim Status Request and Response, Version 4010, May 2000, Washington Publishing Company, 004010X093 and Addenda to Health Care Claim Status Request and Response, Version 4010, October 2002, Washington Publishing Company, 004010X093A1. (Incorporated by reference in § 162.920.) '}, {'id': '162.1402(b)', 'data': '(b) For the period from March 17, 2009 through December 31, 2011, both: '}, {'id': '162.1402(b)', 'data': '(b) For the period from March 17, 2009 through December 31, 2011, both: '}, {'id': '162.1402(a)', 'data': '(a) For the period from October 16, 2003 through March 16, 2009: The ASC X12N–276/277 Health Care Claim Status Request and Response, Version 4010, May 2000, Washington Publishing Company, 004010X093 and Addenda to Health Care Claim Status Request and Response, Version 4010, October 2002, Washington Publishing Company, 004010X093A1. (Incorporated by reference in § 162.920.) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1402(b)(1)', 'data': '(1) The standard identified in paragraph (a) of this section; and '}
+You may now respond.

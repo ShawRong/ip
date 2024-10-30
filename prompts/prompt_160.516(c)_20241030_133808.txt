@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.516', 'data': '§ 160.516 Discovery.'}, {'id': '160.516(a)', 'data': '(a) A party may make a request to another party for production of documents for inspection and copying that are relevant and material to the issues before the ALJ. '}, {'id': '160.516', 'data': '§ 160.516 Discovery.'}, {'id': '160.516(a)', 'data': '(a) A party may make a request to another party for production of documents for inspection and copying that are relevant and material to the issues before the ALJ. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.516(c)', 'data': '(c) Requests for documents, requests for admissions, written interrogatories, depositions and any forms of discovery, other than those permitted under paragraph (a) of this section, are not authorized. '}
+You may now respond.

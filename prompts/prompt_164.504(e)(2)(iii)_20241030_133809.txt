@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.504(e)(2)', 'data': '(2) Implementation specifications: Business associate contracts.  A contract between the covered entity and a business associate must: '}, {'id': '164.504(e)(3)(iii)', 'data': '(iii) The covered entity may omit from its other arrangements the termination authorization required by paragraph (e)(2)(iii) of this section, if such authorization is inconsistent with the statutory obligations of the covered entity or its business associate. '}, {'id': '164.504(e)(2)', 'data': '(2) Implementation specifications: Business associate contracts.  A contract between the covered entity and a business associate must: '}, {'id': '164.504(e)(3)(iii)', 'data': '(iii) The covered entity may omit from its other arrangements the termination authorization required by paragraph (e)(2)(iii) of this section, if such authorization is inconsistent with the statutory obligations of the covered entity or its business associate. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.504(e)(2)(iii)', 'data': '(iii) Authorize termination of the contract by the covered entity, if the covered entity determines that the business associate has violated a material term of the contract. '}
+You may now respond.

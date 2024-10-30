@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.940(a)', 'data': '(a) Requests for an exception.  An organization may request an exception from the use of a standard from the Secretary to test a proposed modification to that standard. For each proposed modification, the organization must meet the following requirements: '}, {'id': '162.940(a)', 'data': '(a) Requests for an exception.  An organization may request an exception from the use of a standard from the Secretary to test a proposed modification to that standard. For each proposed modification, the organization must meet the following requirements: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.940(a)(2)', 'data': '(2) Specifications for the proposed modification.  Provide specifications for the proposed modification, including any additional system requirements. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)(1)', 'data': '(1) Covered entities: Permitted uses and disclosures.  A covered entity is permitted to use or disclose protected health information as follows: '}, {'id': '164.506', 'data': '§ 164.506 Uses and disclosures to carry out treatment, payment, or health care operations.'}, {'id': '164.502(a)(1)', 'data': '(1) Covered entities: Permitted uses and disclosures.  A covered entity is permitted to use or disclose protected health information as follows: '}, {'id': '164.506', 'data': '§ 164.506 Uses and disclosures to carry out treatment, payment, or health care operations.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(a)(1)(ii)', 'data': '(ii) For treatment, payment, or health care operations, as permitted by and in compliance with § 164.506; '}
+You may now respond.

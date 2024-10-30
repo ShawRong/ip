@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.548(k)', 'data': '(k) '}, {'id': '160.548(k)', 'data': '(k) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.548(k)(2)', 'data': '(2) In compliance with 28 U.S.C. 2112(a), a copy of any petition for judicial review filed in any U.S. Court of Appeals challenging the final decision of the Secretary must be sent by certified mail, return receipt requested, to the General Counsel of HHS. The petition copy must be a copy showing that it has been time-stamped by the clerk of the court when the original was filed with the court. '}
+You may now respond.

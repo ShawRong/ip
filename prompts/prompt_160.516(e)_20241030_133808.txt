@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.516', 'data': '§ 160.516 Discovery.'}, {'id': '160.516(e)(1)', 'data': '(1) When a request for production of documents has been received, within 30 days the party receiving that request must either fully respond to the request, or state that the request is being objected to and the reasons for that objection. If objection is made to part of an item or category, the part must be specified. Upon receiving any objections, the party seeking production may then, within 30 days or any other time frame set by the ALJ, file a motion for an order compelling discovery. The party receiving a request for production may also file a motion for protective order any time before the date the production is due. '}, {'id': '160.516(e)(2)', 'data': '(2) The ALJ may grant a motion for protective order or deny a motion for an order compelling discovery if the ALJ finds that the discovery sought— '}, {'id': '160.516(e)(3)', 'data': '(3) The ALJ may extend any of the time frames set forth in paragraph (e)(1) of this section. '}, {'id': '160.516(e)(4)', 'data': '(4) The burden of showing that discovery should be allowed is on the party seeking discovery. '}, {'id': '160.516', 'data': '§ 160.516 Discovery.'}, {'id': '160.516(e)(1)', 'data': '(1) When a request for production of documents has been received, within 30 days the party receiving that request must either fully respond to the request, or state that the request is being objected to and the reasons for that objection. If objection is made to part of an item or category, the part must be specified. Upon receiving any objections, the party seeking production may then, within 30 days or any other time frame set by the ALJ, file a motion for an order compelling discovery. The party receiving a request for production may also file a motion for protective order any time before the date the production is due. '}, {'id': '160.516(e)(2)', 'data': '(2) The ALJ may grant a motion for protective order or deny a motion for an order compelling discovery if the ALJ finds that the discovery sought— '}, {'id': '160.516(e)(3)', 'data': '(3) The ALJ may extend any of the time frames set forth in paragraph (e)(1) of this section. '}, {'id': '160.516(e)(4)', 'data': '(4) The burden of showing that discovery should be allowed is on the party seeking discovery. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.516(e)', 'data': '(e) '}
+You may now respond.

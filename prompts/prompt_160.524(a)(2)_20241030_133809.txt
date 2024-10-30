@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.524(a)', 'data': '(a) Forms. '}, {'id': '160.524(a)', 'data': '(a) Forms. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.524(a)(2)', 'data': '(2) Every pleading and paper filed in the proceeding must contain a caption setting forth the title of the action, the case number, and a designation of the paper, such as motion to quash subpoena. '}
+You may now respond.

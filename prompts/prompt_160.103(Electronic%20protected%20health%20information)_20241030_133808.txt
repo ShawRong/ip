@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103', 'data': '§ 160.103 Definitions. Except as otherwise provided, the following definitions apply to this subchapter: '}, {'id': '160.103', 'data': '§ 160.103 Definitions. Except as otherwise provided, the following definitions apply to this subchapter: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Electronic%20protected%20health%20information)', 'data': 'Electronic protected health information   means information that comes within paragraphs (1)(i) or (1)(ii) of the definition of protected health information as specified in this section. '}
+You may now respond.

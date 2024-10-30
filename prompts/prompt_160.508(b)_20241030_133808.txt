@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.508', 'data': '§ 160.508 Authority of the ALJ.'}, {'id': '160.508(b)(1)', 'data': '(1) Set and change the date, time and place of the hearing upon reasonable notice to the parties; '}, {'id': '160.508(b)(2)', 'data': '(2) Continue or recess the hearing in whole or in part for a reasonable period of time; '}, {'id': '160.508(b)(3)', 'data': '(3) Hold conferences to identify or simplify the issues, or to consider other matters that may aid in the expeditious disposition of the proceeding; '}, {'id': '160.508(b)(4)', 'data': '(4) Administer oaths and affirmations; '}, {'id': '160.508(b)(5)', 'data': '(5) Issue subpoenas requiring the attendance of witnesses at hearings and the production of documents at or in relation to hearings; '}, {'id': '160.508(b)(6)', 'data': '(6) Rule on motions and other procedural matters; '}, {'id': '160.508(b)(7)', 'data': '(7) Regulate the scope and timing of documentary discovery as permitted by this subpart; '}, {'id': '160.508(b)(8)', 'data': '(8) Regulate the course of the hearing and the conduct of representatives, parties, and witnesses; '}, {'id': '160.508(b)(9)', 'data': '(9) Examine witnesses; '}, {'id': '160.508(b)(10)', 'data': '(10) Receive, rule on, exclude, or limit evidence; '}, {'id': '160.508(b)(11)', 'data': '(11) Upon motion of a party, take official notice of facts; '}, {'id': '160.508(b)(12)', 'data': '(12) Conduct any conference, argument or hearing in person or, upon agreement of the parties, by telephone; and '}, {'id': '160.508(b)(13)', 'data': '(13) Upon motion of a party, decide cases, in whole or in part, by summary judgment where there is no disputed issue of material fact. A summary judgment decision constitutes a hearing on the record for the purposes of this subpart. '}, {'id': '160.508', 'data': '§ 160.508 Authority of the ALJ.'}, {'id': '160.508(b)(1)', 'data': '(1) Set and change the date, time and place of the hearing upon reasonable notice to the parties; '}, {'id': '160.508(b)(2)', 'data': '(2) Continue or recess the hearing in whole or in part for a reasonable period of time; '}, {'id': '160.508(b)(3)', 'data': '(3) Hold conferences to identify or simplify the issues, or to consider other matters that may aid in the expeditious disposition of the proceeding; '}, {'id': '160.508(b)(4)', 'data': '(4) Administer oaths and affirmations; '}, {'id': '160.508(b)(5)', 'data': '(5) Issue subpoenas requiring the attendance of witnesses at hearings and the production of documents at or in relation to hearings; '}, {'id': '160.508(b)(6)', 'data': '(6) Rule on motions and other procedural matters; '}, {'id': '160.508(b)(7)', 'data': '(7) Regulate the scope and timing of documentary discovery as permitted by this subpart; '}, {'id': '160.508(b)(8)', 'data': '(8) Regulate the course of the hearing and the conduct of representatives, parties, and witnesses; '}, {'id': '160.508(b)(9)', 'data': '(9) Examine witnesses; '}, {'id': '160.508(b)(10)', 'data': '(10) Receive, rule on, exclude, or limit evidence; '}, {'id': '160.508(b)(11)', 'data': '(11) Upon motion of a party, take official notice of facts; '}, {'id': '160.508(b)(12)', 'data': '(12) Conduct any conference, argument or hearing in person or, upon agreement of the parties, by telephone; and '}, {'id': '160.508(b)(13)', 'data': '(13) Upon motion of a party, decide cases, in whole or in part, by summary judgment where there is no disputed issue of material fact. A summary judgment decision constitutes a hearing on the record for the purposes of this subpart. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.508(b)', 'data': '(b) The ALJ may— '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.314(b)', 'data': '(b) Investigational inquiries are non-public investigational proceedings conducted by the Secretary. '}, {'id': '160.314(b)', 'data': '(b) Investigational inquiries are non-public investigational proceedings conducted by the Secretary. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.314(b)(3)', 'data': '(3) Representatives of the Secretary are entitled to attend and ask questions. '}
+You may now respond.

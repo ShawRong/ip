@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.508(b)(4)', 'data': '(4) Prohibition on conditioning of authorizations.  A covered entity may not condition the provision to an individual of treatment, payment, enrollment in the health plan, or eligibility for benefits on the provision of an authorization, except: '}, {'id': '164.508(c)(2)(ii)', 'data': '(ii) The ability or inability to condition treatment, payment, enrollment or eligibility for benefits on the authorization, by stating either: '}, {'id': '164.508(c)(2)(ii)', 'data': '(ii) The ability or inability to condition treatment, payment, enrollment or eligibility for benefits on the authorization, by stating either: '}, {'id': '164.508(b)(4)', 'data': '(4) Prohibition on conditioning of authorizations.  A covered entity may not condition the provision to an individual of treatment, payment, enrollment in the health plan, or eligibility for benefits on the provision of an authorization, except: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.508(c)(2)(ii)(A)', 'data': '(A) The covered entity may not condition treatment, payment, enrollment or eligibility for benefits on whether the individual signs the authorization when the prohibition on conditioning of authorizations in paragraph (b)(4) of this section applies; or '}
+You may now respond.

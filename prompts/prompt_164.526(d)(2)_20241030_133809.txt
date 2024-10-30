@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.526(d)', 'data': '(d) Implementation specifications: Denying the amendment.  If the covered entity denies the requested amendment, in whole or in part, the covered entity must comply with the following requirements. '}, {'id': '164.526(d)', 'data': '(d) Implementation specifications: Denying the amendment.  If the covered entity denies the requested amendment, in whole or in part, the covered entity must comply with the following requirements. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.526(d)(2)', 'data': '(2) Statement of disagreement.  The covered entity must permit the individual to submit to the covered entity a written statement disagreeing with the denial of all or part of a requested amendment and the basis of such disagreement. The covered entity may reasonably limit the length of a statement of disagreement. '}
+You may now respond.

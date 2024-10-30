@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1602', 'data': '§ 162.1602 Standards for health care electronic funds transfers (EFT) and remittance advice transaction. The Secretary adopts the following standards: '}, {'id': '162.1602(d)(1)', 'data': '(1) Except when transmissions as described in § 162.1601(a) and (b) are contained within the same transmission, for Stage 1 Payment Initiation transmissions described in § 162.1601(a), all of the following standards: '}, {'id': '162.1602(d)(2)', 'data': '(2) For transmissions described in § 162.1601(b), including when transmissions as described in § 162.1601(a) and (b) are contained within the same transmission, the ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, “Health Care Claim Payment/Advice (835), April 2006, ASC X12N/005010X221. (Incorporated by reference in § 162.920). '}, {'id': '162.1602', 'data': '§ 162.1602 Standards for health care electronic funds transfers (EFT) and remittance advice transaction. The Secretary adopts the following standards: '}, {'id': '162.1602(d)(1)', 'data': '(1) Except when transmissions as described in § 162.1601(a) and (b) are contained within the same transmission, for Stage 1 Payment Initiation transmissions described in § 162.1601(a), all of the following standards: '}, {'id': '162.1602(d)(2)', 'data': '(2) For transmissions described in § 162.1601(b), including when transmissions as described in § 162.1601(a) and (b) are contained within the same transmission, the ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, “Health Care Claim Payment/Advice (835), April 2006, ASC X12N/005010X221. (Incorporated by reference in § 162.920). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1602(d)', 'data': '(d) For the period on and after January 1, 2014, the following standards: '}
+You may now respond.

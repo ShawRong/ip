@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103', 'data': '§ 160.103 Definitions. Except as otherwise provided, the following definitions apply to this subchapter: '}, {'id': '160.103(Transaction)(1)', 'data': '(1) Health care claims or equivalent encounter information. '}, {'id': '160.103(Transaction)(2)', 'data': '(2) Health care payment and remittance advice. '}, {'id': '160.103(Transaction)(3)', 'data': '(3) Coordination of benefits. '}, {'id': '160.103(Transaction)(4)', 'data': '(4) Health care claim status. '}, {'id': '160.103(Transaction)(5)', 'data': '(5) Enrollment and disenrollment in a health plan. '}, {'id': '160.103(Transaction)(6)', 'data': '(6) Eligibility for a health plan. '}, {'id': '160.103(Transaction)(7)', 'data': '(7) Health plan premium payments. '}, {'id': '160.103(Transaction)(8)', 'data': '(8) Referral certification and authorization. '}, {'id': '160.103(Transaction)(9)', 'data': '(9) First report of injury. '}, {'id': '160.103(Transaction)(10)', 'data': '(10) Health claims attachments. '}, {'id': '160.103(Transaction)(11)', 'data': '(11) Health care electronic funds transfers (EFT) and remittance advice. '}, {'id': '160.103(Transaction)(12)', 'data': '(12) Other transactions that the Secretary may prescribe by regulation. '}, {'id': '160.103', 'data': '§ 160.103 Definitions. Except as otherwise provided, the following definitions apply to this subchapter: '}, {'id': '160.103(Transaction)(1)', 'data': '(1) Health care claims or equivalent encounter information. '}, {'id': '160.103(Transaction)(2)', 'data': '(2) Health care payment and remittance advice. '}, {'id': '160.103(Transaction)(3)', 'data': '(3) Coordination of benefits. '}, {'id': '160.103(Transaction)(4)', 'data': '(4) Health care claim status. '}, {'id': '160.103(Transaction)(5)', 'data': '(5) Enrollment and disenrollment in a health plan. '}, {'id': '160.103(Transaction)(6)', 'data': '(6) Eligibility for a health plan. '}, {'id': '160.103(Transaction)(7)', 'data': '(7) Health plan premium payments. '}, {'id': '160.103(Transaction)(8)', 'data': '(8) Referral certification and authorization. '}, {'id': '160.103(Transaction)(9)', 'data': '(9) First report of injury. '}, {'id': '160.103(Transaction)(10)', 'data': '(10) Health claims attachments. '}, {'id': '160.103(Transaction)(11)', 'data': '(11) Health care electronic funds transfers (EFT) and remittance advice. '}, {'id': '160.103(Transaction)(12)', 'data': '(12) Other transactions that the Secretary may prescribe by regulation. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Transaction)', 'data': 'Transaction   means the transmission of information between two parties to carry out financial or administrative activities related to health care. It includes the following types of information transmissions: '}
+You may now respond.

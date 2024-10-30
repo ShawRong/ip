@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.524', 'data': '§ 164.524 Access of individuals to protected health information.'}, {'id': '164.526', 'data': '§ 164.526 Amendment of protected health information.'}, {'id': '164.528', 'data': '§ 164.528 Accounting of disclosures of protected health information.'}, {'id': '164.530(f)', 'data': '(f) Standard: Mitigation.  A covered entity must mitigate, to the extent practicable, any harmful effect that is known to the covered entity of a use or disclosure of protected health information in violation of its policies and procedures or the requirements of this subpart by the covered entity or its business associate. '}, {'id': '164.532(e)', 'data': '(e) Implementation specification: Deemed compliance —'}, {'id': '164.532(e)', 'data': '(e) Implementation specification: Deemed compliance —'}, {'id': '164.524', 'data': '§ 164.524 Access of individuals to protected health information.'}, {'id': '164.526', 'data': '§ 164.526 Amendment of protected health information.'}, {'id': '164.528', 'data': '§ 164.528 Accounting of disclosures of protected health information.'}, {'id': '164.530(f)', 'data': '(f) Standard: Mitigation.  A covered entity must mitigate, to the extent practicable, any harmful effect that is known to the covered entity of a use or disclosure of protected health information in violation of its policies and procedures or the requirements of this subpart by the covered entity or its business associate. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.532(e)(3)', 'data': '(3) Covered entity responsibilities.  Nothing in this section shall alter the requirements of a covered entity to comply with part 160, subpart C of this subchapter and §§ 164.524, 164.526, 164.528, and 164.530(f) with respect to protected health information held by a business associate. '}
+You may now respond.

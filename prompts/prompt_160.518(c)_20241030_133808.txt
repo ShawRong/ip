@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.518', 'data': '§ 160.518 Exchange of witness lists, witness statements, and exhibits.'}, {'id': '160.518(a)', 'data': '(a) The parties must exchange witness lists, copies of prior written statements of proposed witnesses, and copies of proposed hearing exhibits, including copies of any written statements that the party intends to offer in lieu of live testimony in accordance with § 160.538, not more than 60, and not less than 15, days before the scheduled hearing, except that if a respondent intends to introduce the evidence of a statistical expert, the respondent must provide the Secretarial party with a copy of the statistical expert's report not less than 30 days before the scheduled hearing. '}, {'id': '160.518', 'data': '§ 160.518 Exchange of witness lists, witness statements, and exhibits.'}, {'id': '160.518(a)', 'data': '(a) The parties must exchange witness lists, copies of prior written statements of proposed witnesses, and copies of proposed hearing exhibits, including copies of any written statements that the party intends to offer in lieu of live testimony in accordance with § 160.538, not more than 60, and not less than 15, days before the scheduled hearing, except that if a respondent intends to introduce the evidence of a statistical expert, the respondent must provide the Secretarial party with a copy of the statistical expert's report not less than 30 days before the scheduled hearing. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.518(c)', 'data': '(c) Unless the other party objects within a reasonable period of time before the hearing, documents exchanged in accordance with paragraph (a) of this section will be deemed to be authentic for the purpose of admissibility at the hearing. '}
+You may now respond.

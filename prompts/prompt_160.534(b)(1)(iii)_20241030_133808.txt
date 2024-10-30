@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.412', 'data': '§ 160.412 Waiver. For violations described in § 160.410(b)(2) or (c) that are not corrected within the period specified under such paragraphs, the Secretary may waive the civil money penalty, in whole or in part, to the extent that the payment of the penalty would be excessive relative to the violation. '}, {'id': '160.534(b)(1)', 'data': '(1) The respondent has the burden of going forward and the burden of persuasion with respect to any: '}, {'id': '160.534(b)(1)', 'data': '(1) The respondent has the burden of going forward and the burden of persuasion with respect to any: '}, {'id': '160.412', 'data': '§ 160.412 Waiver. For violations described in § 160.410(b)(2) or (c) that are not corrected within the period specified under such paragraphs, the Secretary may waive the civil money penalty, in whole or in part, to the extent that the payment of the penalty would be excessive relative to the violation. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.534(b)(1)(iii)', 'data': '(iii) Claim that a proposed penalty should be reduced or waived pursuant to § 160.412 of this part; and '}
+You may now respond.

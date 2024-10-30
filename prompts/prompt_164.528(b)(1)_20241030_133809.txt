@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.528(a)', 'data': '(a) Standard: Right to an accounting of disclosures of protected health information. '}, {'id': '164.528(a)(3)', 'data': '(3) An individual may request an accounting of disclosures for a period of time less than six years from the date of the request. '}, {'id': '164.528(b)', 'data': '(b) Implementation specifications: Content of the accounting.  The covered entity must provide the individual with a written accounting that meets the following requirements. '}, {'id': '164.528(b)', 'data': '(b) Implementation specifications: Content of the accounting.  The covered entity must provide the individual with a written accounting that meets the following requirements. '}, {'id': '164.528(a)', 'data': '(a) Standard: Right to an accounting of disclosures of protected health information. '}, {'id': '164.528(a)(3)', 'data': '(3) An individual may request an accounting of disclosures for a period of time less than six years from the date of the request. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.528(b)(1)', 'data': '(1) Except as otherwise provided by paragraph (a) of this section, the accounting must include disclosures of protected health information that occurred during the six years (or such shorter time period at the request of the individual as provided in paragraph (a)(3) of this section) prior to the date of the request for an accounting, including disclosures to or by business associates of the covered entity. '}
+You may now respond.

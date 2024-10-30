@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.920(c)(4)', 'data': '(4) Council for Affordable Quality Healthcare (CAQH) Phase III Committee on Operating Rules for Information Exchange (CORE) EFT & ERA Operating Rule Set, Approved June 2012, as specified in this paragraph and referenced in § 162.1603. '}, {'id': '162.920(c)(4)', 'data': '(4) Council for Affordable Quality Healthcare (CAQH) Phase III Committee on Operating Rules for Information Exchange (CORE) EFT & ERA Operating Rule Set, Approved June 2012, as specified in this paragraph and referenced in § 162.1603. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.920(c)(4)(iv)', 'data': '(iv) CORE-required Code Combinations for CORE-defined Business Scenarios for the Phase III CORE 360 Uniform Use of Claim Adjustment Reason Codes and Remittance Advice Remark Codes (835) Rule, version 3.0.0, June 2012. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.410(a)', 'data': '(a) A covered entity that is a covered health care provider must: '}, {'id': '162.410(a)(2)', 'data': '(2) Use the NPI it obtained from the NPS to identify itself on all standard transactions that it conducts where its health care provider identifier is required. '}, {'id': '162.410(a)(5)', 'data': '(5) If it uses one or more business associates to conduct standard transactions on its behalf, require its business associate(s) to use its NPI and other NPIs appropriately as required by the transactions that the business associate(s) conducts on its behalf. '}, {'id': '162.410(a)', 'data': '(a) A covered entity that is a covered health care provider must: '}, {'id': '162.410(a)(2)', 'data': '(2) Use the NPI it obtained from the NPS to identify itself on all standard transactions that it conducts where its health care provider identifier is required. '}, {'id': '162.410(a)(5)', 'data': '(5) If it uses one or more business associates to conduct standard transactions on its behalf, require its business associate(s) to use its NPI and other NPIs appropriately as required by the transactions that the business associate(s) conducts on its behalf. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.410(a)(6)', 'data': '(6) If it has been assigned NPIs for one or more subparts, comply with the requirements of paragraphs (a)(2) through (a)(5) of this section with respect to each of those NPIs. '}
+You may now respond.

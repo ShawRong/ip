@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1402', 'data': '§ 162.1402 Standards for health care claim status transaction. The Secretary adopts the following standards for the health care claim status transaction: '}, {'id': '162.1402(b)(1)', 'data': '(1) The standard identified in paragraph (a) of this section; and '}, {'id': '162.1402(b)(2)', 'data': '(2) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Claim Status Request and Response (276/277), August 2006, ASC X12N/005010X212, and Errata to Health Care Claim Status Request and Response (276/277), ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, April 2008, ASC X12N/005010X212E1. (Incorporated by reference in § 162.920.) '}, {'id': '162.1402', 'data': '§ 162.1402 Standards for health care claim status transaction. The Secretary adopts the following standards for the health care claim status transaction: '}, {'id': '162.1402(b)(1)', 'data': '(1) The standard identified in paragraph (a) of this section; and '}, {'id': '162.1402(b)(2)', 'data': '(2) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Claim Status Request and Response (276/277), August 2006, ASC X12N/005010X212, and Errata to Health Care Claim Status Request and Response (276/277), ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, April 2008, ASC X12N/005010X212E1. (Incorporated by reference in § 162.920.) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1402(b)', 'data': '(b) For the period from March 17, 2009 through December 31, 2011, both: '}
+You may now respond.

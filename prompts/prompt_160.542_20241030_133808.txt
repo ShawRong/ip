@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': '160.542(a)', 'data': '(a) The hearing must be recorded and transcribed. Transcripts may be obtained following the hearing from the ALJ. A party that requests a transcript of hearing proceedings must pay the cost of preparing the transcript unless, for good cause shown by the party, the payment is waived by the ALJ or the Board, as appropriate. '}, {'id': '160.542(b)', 'data': '(b) The transcript of the testimony, exhibits, and other evidence admitted at the hearing, and all papers and requests filed in the proceeding constitute the record for decision by the ALJ and the Secretary. '}, {'id': '160.542(c)', 'data': '(c) The record may be inspected and copied (upon payment of a reasonable fee) by any person, unless otherwise ordered by the ALJ for good cause shown. '}, {'id': '160.542(d)', 'data': '(d) For good cause, the ALJ may order appropriate redactions made to the record. '}, {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': '160.542(a)', 'data': '(a) The hearing must be recorded and transcribed. Transcripts may be obtained following the hearing from the ALJ. A party that requests a transcript of hearing proceedings must pay the cost of preparing the transcript unless, for good cause shown by the party, the payment is waived by the ALJ or the Board, as appropriate. '}, {'id': '160.542(b)', 'data': '(b) The transcript of the testimony, exhibits, and other evidence admitted at the hearing, and all papers and requests filed in the proceeding constitute the record for decision by the ALJ and the Secretary. '}, {'id': '160.542(c)', 'data': '(c) The record may be inspected and copied (upon payment of a reasonable fee) by any person, unless otherwise ordered by the ALJ for good cause shown. '}, {'id': '160.542(d)', 'data': '(d) For good cause, the ALJ may order appropriate redactions made to the record. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.542', 'data': '§ 160.542 The record.'}
+You may now respond.

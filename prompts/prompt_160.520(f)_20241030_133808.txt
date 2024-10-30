@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.520', 'data': '§ 160.520 Subpoenas for attendance at hearing.'}, {'id': '160.520', 'data': '§ 160.520 Subpoenas for attendance at hearing.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.520(f)', 'data': '(f) Within 15 days after the written motion requesting issuance of a subpoena is served, any party may file an opposition or other response. '}
+You may now respond.

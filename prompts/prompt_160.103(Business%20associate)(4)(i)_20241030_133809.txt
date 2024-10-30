@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103(Business%20associate)(4)', 'data': '(4) Business associate  does not include: '}, {'id': '160.103(Business%20associate)(4)', 'data': '(4) Business associate  does not include: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Business%20associate)(4)(i)', 'data': '(i) A health care provider, with respect to disclosures by a covered entity to the health care provider concerning the treatment of the individual. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.314(a)', 'data': '(a) The Secretary may issue subpoenas in accordance with 42 U.S.C. 405(d) and (e), 1320a–7a(j), and 1320d–5 to require the attendance and testimony of witnesses and the production of any other evidence during an investigation or compliance review pursuant to this part. For purposes of this paragraph, a person other than a natural person is termed an “entity.” '}, {'id': '160.314(b)(7)', 'data': '(7) If a witness refuses to answer any question not privileged or to produce requested documents or items, or engages in conduct likely to delay or obstruct the investigational inquiry, the Secretary may seek enforcement of the subpoena under paragraph (a)(5) of this section. '}, {'id': '160.314(a)', 'data': '(a) The Secretary may issue subpoenas in accordance with 42 U.S.C. 405(d) and (e), 1320a–7a(j), and 1320d–5 to require the attendance and testimony of witnesses and the production of any other evidence during an investigation or compliance review pursuant to this part. For purposes of this paragraph, a person other than a natural person is termed an “entity.” '}, {'id': '160.314(b)(7)', 'data': '(7) If a witness refuses to answer any question not privileged or to produce requested documents or items, or engages in conduct likely to delay or obstruct the investigational inquiry, the Secretary may seek enforcement of the subpoena under paragraph (a)(5) of this section. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.314(a)(5)', 'data': '(5) A subpoena under this section is enforceable through the district court of the United States for the district where the subpoenaed natural person resides or is found or where the entity transacts business. '}
+You may now respond.

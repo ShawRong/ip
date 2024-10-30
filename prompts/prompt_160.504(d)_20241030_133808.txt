@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.504', 'data': '§ 160.504 Hearing before an ALJ.'}, {'id': '160.504(d)(1)', 'data': '(1) On motion of the Secretary, the ALJ determines that the respondent's hearing request is not timely filed as required by paragraphs (b) or does not meet the requirements of paragraph (c) of this section; '}, {'id': '160.504(d)(2)', 'data': '(2) The respondent withdraws the request for a hearing; '}, {'id': '160.504(d)(3)', 'data': '(3) The respondent abandons the request for a hearing; or '}, {'id': '160.504(d)(4)', 'data': '(4) The respondent's hearing request fails to raise any issue that may properly be addressed in a hearing. '}, {'id': '160.504', 'data': '§ 160.504 Hearing before an ALJ.'}, {'id': '160.504(d)(1)', 'data': '(1) On motion of the Secretary, the ALJ determines that the respondent's hearing request is not timely filed as required by paragraphs (b) or does not meet the requirements of paragraph (c) of this section; '}, {'id': '160.504(d)(2)', 'data': '(2) The respondent withdraws the request for a hearing; '}, {'id': '160.504(d)(3)', 'data': '(3) The respondent abandons the request for a hearing; or '}, {'id': '160.504(d)(4)', 'data': '(4) The respondent's hearing request fails to raise any issue that may properly be addressed in a hearing. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.504(d)', 'data': '(d) The ALJ must dismiss a hearing request where— '}
+You may now respond.

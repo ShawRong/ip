@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.520(d)', 'data': '(d) A party seeking a subpoena must file a written motion not less than 30 days before the date fixed for the hearing, unless otherwise allowed by the ALJ for good cause shown. That motion must— '}, {'id': '160.520(d)', 'data': '(d) A party seeking a subpoena must file a written motion not less than 30 days before the date fixed for the hearing, unless otherwise allowed by the ALJ for good cause shown. That motion must— '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.520(d)(2)', 'data': '(2) Designate the witnesses; and '}
+You may now respond.

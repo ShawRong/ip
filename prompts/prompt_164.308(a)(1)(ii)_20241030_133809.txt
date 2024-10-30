@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.308(a)(1)', 'data': '(1) '}, {'id': '164.308(a)(1)(ii)(A)', 'data': '(A) Risk analysis (Required).  Conduct an accurate and thorough assessment of the potential risks and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information held by the covered entity or business associate. '}, {'id': '164.308(a)(1)(ii)(B)', 'data': '(B) Risk management (Required).  Implement security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to comply with § 164.306(a). '}, {'id': '164.308(a)(1)(ii)(C)', 'data': '(C) Sanction policy (Required).  Apply appropriate sanctions against workforce members who fail to comply with the security policies and procedures of the covered entity or business associate. '}, {'id': '164.308(a)(1)(ii)(D)', 'data': '(D) Information system activity review (Required).  Implement procedures to regularly review records of information system activity, such as audit logs, access reports, and security incident tracking reports. '}, {'id': '164.308(a)(1)', 'data': '(1) '}, {'id': '164.308(a)(1)(ii)(A)', 'data': '(A) Risk analysis (Required).  Conduct an accurate and thorough assessment of the potential risks and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information held by the covered entity or business associate. '}, {'id': '164.308(a)(1)(ii)(B)', 'data': '(B) Risk management (Required).  Implement security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to comply with § 164.306(a). '}, {'id': '164.308(a)(1)(ii)(C)', 'data': '(C) Sanction policy (Required).  Apply appropriate sanctions against workforce members who fail to comply with the security policies and procedures of the covered entity or business associate. '}, {'id': '164.308(a)(1)(ii)(D)', 'data': '(D) Information system activity review (Required).  Implement procedures to regularly review records of information system activity, such as audit logs, access reports, and security incident tracking reports. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.308(a)(1)(ii)', 'data': '(ii) Implementation specifications: '}
+You may now respond.

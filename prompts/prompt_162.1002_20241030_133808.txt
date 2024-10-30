@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartJ', 'data': 'Subpart J—Code Sets'}, {'id': '162.1000(a)', 'data': '(a) Medical data code sets.  Use the applicable medical data code sets described in § 162.1002 as specified in the implementation specification adopted under this part that are valid at the time the health care is furnished. '}, {'id': '162.1002(a)', 'data': '(a) For the period from October 16, 2002 through October 15, 2003: '}, {'id': '162.1002(b)', 'data': '(b) For the period on and after October 16, 2003 through September 30, 2015: '}, {'id': '162.1002(c)', 'data': '(c) For the period on and after October 1, 2015: '}, {'id': 'Part162SubpartJ', 'data': 'Subpart J—Code Sets'}, {'id': '162.1002(a)', 'data': '(a) For the period from October 16, 2002 through October 15, 2003: '}, {'id': '162.1002(b)', 'data': '(b) For the period on and after October 16, 2003 through September 30, 2015: '}, {'id': '162.1002(c)', 'data': '(c) For the period on and after October 1, 2015: '}, {'id': '162.1000(a)', 'data': '(a) Medical data code sets.  Use the applicable medical data code sets described in § 162.1002 as specified in the implementation specification adopted under this part that are valid at the time the health care is furnished. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1002', 'data': '§ 162.1002 Medical data code sets. The Secretary adopts the following maintaining organization's code sets as the standard medical data code sets: '}
+You may now respond.

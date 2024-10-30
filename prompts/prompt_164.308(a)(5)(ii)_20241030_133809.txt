@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.308(a)(5)', 'data': '(5) '}, {'id': '164.308(a)(5)(ii)(A)', 'data': '(A) Security reminders (Addressable).  Periodic security updates. '}, {'id': '164.308(a)(5)(ii)(B)', 'data': '(B) Protection from malicious software (Addressable).  Procedures for guarding against, detecting, and reporting malicious software. '}, {'id': '164.308(a)(5)(ii)(C)', 'data': '(C) Log-in monitoring (Addressable).  Procedures for monitoring log-in attempts and reporting discrepancies. '}, {'id': '164.308(a)(5)(ii)(D)', 'data': '(D) Password management (Addressable).  Procedures for creating, changing, and safeguarding passwords. '}, {'id': '164.308(a)(5)', 'data': '(5) '}, {'id': '164.308(a)(5)(ii)(A)', 'data': '(A) Security reminders (Addressable).  Periodic security updates. '}, {'id': '164.308(a)(5)(ii)(B)', 'data': '(B) Protection from malicious software (Addressable).  Procedures for guarding against, detecting, and reporting malicious software. '}, {'id': '164.308(a)(5)(ii)(C)', 'data': '(C) Log-in monitoring (Addressable).  Procedures for monitoring log-in attempts and reporting discrepancies. '}, {'id': '164.308(a)(5)(ii)(D)', 'data': '(D) Password management (Addressable).  Procedures for creating, changing, and safeguarding passwords. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.308(a)(5)(ii)', 'data': '(ii) Implementation specifications.  Implement: '}
+You may now respond.

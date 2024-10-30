@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.314(b)', 'data': '(b) '}, {'id': '164.314(b)(2)(i)', 'data': '(i) Implement administrative, physical, and technical safeguards that reasonably and appropriately protect the confidentiality, integrity, and availability of the electronic protected health information that it creates, receives, maintains, or transmits on behalf of the group health plan; '}, {'id': '164.314(b)(2)(ii)', 'data': '(ii) Ensure that the adequate separation required by § 164.504(f)(2)(iii) is supported by reasonable and appropriate security measures; '}, {'id': '164.314(b)(2)(iii)', 'data': '(iii) Ensure that any agent to whom it provides this information agrees to implement reasonable and appropriate security measures to protect the information; and '}, {'id': '164.314(b)(2)(iv)', 'data': '(iv) Report to the group health plan any security incident of which it becomes aware. '}, {'id': '164.314(b)', 'data': '(b) '}, {'id': '164.314(b)(2)(i)', 'data': '(i) Implement administrative, physical, and technical safeguards that reasonably and appropriately protect the confidentiality, integrity, and availability of the electronic protected health information that it creates, receives, maintains, or transmits on behalf of the group health plan; '}, {'id': '164.314(b)(2)(ii)', 'data': '(ii) Ensure that the adequate separation required by § 164.504(f)(2)(iii) is supported by reasonable and appropriate security measures; '}, {'id': '164.314(b)(2)(iii)', 'data': '(iii) Ensure that any agent to whom it provides this information agrees to implement reasonable and appropriate security measures to protect the information; and '}, {'id': '164.314(b)(2)(iv)', 'data': '(iv) Report to the group health plan any security incident of which it becomes aware. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.314(b)(2)', 'data': '(2) Implementation specifications (Required).  The plan documents of the group health plan must be amended to incorporate provisions to require the plan sponsor to— '}
+You may now respond.

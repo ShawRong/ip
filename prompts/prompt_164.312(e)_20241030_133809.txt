@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.312', 'data': '§ 164.312 Technical safeguards. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.312(e)(1)', 'data': '(1) Standard: Transmission security.  Implement technical security measures to guard against unauthorized access to electronic protected health information that is being transmitted over an electronic communications network. '}, {'id': '164.312(e)(2)', 'data': '(2) Implementation specifications: '}, {'id': '164.312', 'data': '§ 164.312 Technical safeguards. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.312(e)(1)', 'data': '(1) Standard: Transmission security.  Implement technical security measures to guard against unauthorized access to electronic protected health information that is being transmitted over an electronic communications network. '}, {'id': '164.312(e)(2)', 'data': '(2) Implementation specifications: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.312(e)', 'data': '(e) '}
+You may now respond.

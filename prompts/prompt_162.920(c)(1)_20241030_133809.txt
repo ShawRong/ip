@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.920(c)', 'data': '(c) Council for Affordable Quality Healthcare's (CAQH) Committee on Operating Rules for Information Exchange (CORE), 601 Pennsylvania Avenue, NW. South Building, Suite 500 Washington, DC 20004; Telephone (202) 861–1492; Fax (202) 861- 1454; E-mail info@CAQH.org; and Internet at http://www.caqh.org/benefits.php. '}, {'id': '162.920(c)(1)(i)', 'data': '(i) Phase I CORE 152: Eligibility and Benefit Real Time Companion Guide Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)(1)(ii)', 'data': '(ii) Phase I CORE 153: Eligibility and Benefits Connectivity Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)(1)(iii)', 'data': '(iii) Phase I CORE 154: Eligibility and Benefits 270/271 Data Content Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)(1)(iv)', 'data': '(iv) Phase I CORE 155: Eligibility and Benefits Batch Response Time Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)(1)(v)', 'data': '(v) Phase I CORE 156: Eligibility and Benefits Real Time Response Time Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)(1)(vi)', 'data': '(vi) Phase I CORE 157: Eligibility and Benefits System Availability Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)', 'data': '(c) Council for Affordable Quality Healthcare's (CAQH) Committee on Operating Rules for Information Exchange (CORE), 601 Pennsylvania Avenue, NW. South Building, Suite 500 Washington, DC 20004; Telephone (202) 861–1492; Fax (202) 861- 1454; E-mail info@CAQH.org; and Internet at http://www.caqh.org/benefits.php. '}, {'id': '162.920(c)(1)(i)', 'data': '(i) Phase I CORE 152: Eligibility and Benefit Real Time Companion Guide Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)(1)(ii)', 'data': '(ii) Phase I CORE 153: Eligibility and Benefits Connectivity Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)(1)(iii)', 'data': '(iii) Phase I CORE 154: Eligibility and Benefits 270/271 Data Content Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)(1)(iv)', 'data': '(iv) Phase I CORE 155: Eligibility and Benefits Batch Response Time Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)(1)(v)', 'data': '(v) Phase I CORE 156: Eligibility and Benefits Real Time Response Time Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}, {'id': '162.920(c)(1)(vi)', 'data': '(vi) Phase I CORE 157: Eligibility and Benefits System Availability Rule, version 1.1.0, March 2011, as referenced in § 162.1203. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.920(c)(1)', 'data': '(1) CAQH, Committee on Operating Rules for Information Exchange, CORE Phase I Policies and Operating Rules, Approved April 2006, v5010 Update March 2011. '}
+You may now respond.

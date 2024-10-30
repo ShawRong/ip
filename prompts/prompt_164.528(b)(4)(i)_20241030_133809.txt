@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(i)', 'data': '(i) Standard: Uses and disclosures for research purposes —'}, {'id': '164.528(b)(4)', 'data': '(4) '}, {'id': '164.528(b)(4)(i)(A)', 'data': '(A) The name of the protocol or other research activity; '}, {'id': '164.528(b)(4)(i)(B)', 'data': '(B) A description, in plain language, of the research protocol or other research activity, including the purpose of the research and the criteria for selecting particular records; '}, {'id': '164.528(b)(4)(i)(C)', 'data': '(C) A brief description of the type of protected health information that was disclosed; '}, {'id': '164.528(b)(4)(i)(D)', 'data': '(D) The date or period of time during which such disclosures occurred, or may have occurred, including the date of the last such disclosure during the accounting period; '}, {'id': '164.528(b)(4)(i)(E)', 'data': '(E) The name, address, and telephone number of the entity that sponsored the research and of the researcher to whom the information was disclosed; and '}, {'id': '164.528(b)(4)(i)(F)', 'data': '(F) A statement that the protected health information of the individual may or may not have been disclosed for a particular protocol or other research activity. '}, {'id': '164.528(b)(4)', 'data': '(4) '}, {'id': '164.528(b)(4)(i)(A)', 'data': '(A) The name of the protocol or other research activity; '}, {'id': '164.528(b)(4)(i)(B)', 'data': '(B) A description, in plain language, of the research protocol or other research activity, including the purpose of the research and the criteria for selecting particular records; '}, {'id': '164.528(b)(4)(i)(C)', 'data': '(C) A brief description of the type of protected health information that was disclosed; '}, {'id': '164.528(b)(4)(i)(D)', 'data': '(D) The date or period of time during which such disclosures occurred, or may have occurred, including the date of the last such disclosure during the accounting period; '}, {'id': '164.528(b)(4)(i)(E)', 'data': '(E) The name, address, and telephone number of the entity that sponsored the research and of the researcher to whom the information was disclosed; and '}, {'id': '164.528(b)(4)(i)(F)', 'data': '(F) A statement that the protected health information of the individual may or may not have been disclosed for a particular protocol or other research activity. '}, {'id': '164.512(i)', 'data': '(i) Standard: Uses and disclosures for research purposes —'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.528(b)(4)(i)', 'data': '(i) If, during the period covered by the accounting, the covered entity has made disclosures of protected health information for a particular research purpose in accordance with § 164.512(i) for 50 or more individuals, the accounting may, with respect to such disclosures for which the protected health information about the individual may have been included, provide: '}
+You may now respond.

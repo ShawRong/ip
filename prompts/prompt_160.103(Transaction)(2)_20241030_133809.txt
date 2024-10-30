@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103(Transaction)', 'data': 'Transaction   means the transmission of information between two parties to carry out financial or administrative activities related to health care. It includes the following types of information transmissions: '}, {'id': '160.103(Transaction)', 'data': 'Transaction   means the transmission of information between two parties to carry out financial or administrative activities related to health care. It includes the following types of information transmissions: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Transaction)(2)', 'data': '(2) Health care payment and remittance advice. '}
+You may now respond.

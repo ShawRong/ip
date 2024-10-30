@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.202', 'data': '§ 160.202 Definitions. For purposes of this subpart, the following terms have the following meanings: '}, {'id': '164.520(b)(1)(ii)', 'data': '(ii) Uses and disclosures.  The notice must contain: '}, {'id': '164.520(b)(1)(ii)(A)', 'data': '(A) A description, including at least one example, of the types of uses and disclosures that the covered entity is permitted by this subpart to make for each of the following purposes: treatment, payment, and health care operations. '}, {'id': '164.520(b)(1)(ii)(B)', 'data': '(B) A description of each of the other purposes for which the covered entity is permitted or required by this subpart to use or disclose protected health information without the individual's written authorization. '}, {'id': '164.520(b)(1)(ii)', 'data': '(ii) Uses and disclosures.  The notice must contain: '}, {'id': '164.520(b)(1)(ii)(A)', 'data': '(A) A description, including at least one example, of the types of uses and disclosures that the covered entity is permitted by this subpart to make for each of the following purposes: treatment, payment, and health care operations. '}, {'id': '164.520(b)(1)(ii)(B)', 'data': '(B) A description of each of the other purposes for which the covered entity is permitted or required by this subpart to use or disclose protected health information without the individual's written authorization. '}, {'id': '160.202', 'data': '§ 160.202 Definitions. For purposes of this subpart, the following terms have the following meanings: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.520(b)(1)(ii)(C)', 'data': '(C) If a use or disclosure for any purpose described in paragraphs (b)(1)(ii)(A) or (B) of this section is prohibited or materially limited by other applicable law, the description of such use or disclosure must reflect the more stringent law as defined in § 160.202 of this subchapter. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': '160.534(a)', 'data': '(a) The ALJ must conduct a hearing on the record in order to determine whether the respondent should be found liable under this part. '}, {'id': '160.534(b)', 'data': '(b) '}, {'id': '160.534(c)', 'data': '(c) The hearing must be open to the public unless otherwise ordered by the ALJ for good cause shown. '}, {'id': '160.534(d)', 'data': '(d) '}, {'id': '160.536(a)', 'data': '(a) In meeting the burden of proof set forth in § 160.534, the Secretary may introduce the results of a statistical sampling study as evidence of the number of violations under § 160.406 of this part, or the factors considered in determining the amount of the civil money penalty under § 160.408 of this part. Such statistical sampling study, if based upon an appropriate sampling and computed by valid statistical methods, constitutes prima facie evidence of the number of violations and the existence of factors material to the proposed civil money penalty as described in §§ 160.406 and 160.408. '}, {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': '160.534(a)', 'data': '(a) The ALJ must conduct a hearing on the record in order to determine whether the respondent should be found liable under this part. '}, {'id': '160.534(b)', 'data': '(b) '}, {'id': '160.534(c)', 'data': '(c) The hearing must be open to the public unless otherwise ordered by the ALJ for good cause shown. '}, {'id': '160.534(d)', 'data': '(d) '}, {'id': '160.536(a)', 'data': '(a) In meeting the burden of proof set forth in § 160.534, the Secretary may introduce the results of a statistical sampling study as evidence of the number of violations under § 160.406 of this part, or the factors considered in determining the amount of the civil money penalty under § 160.408 of this part. Such statistical sampling study, if based upon an appropriate sampling and computed by valid statistical methods, constitutes prima facie evidence of the number of violations and the existence of factors material to the proposed civil money penalty as described in §§ 160.406 and 160.408. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.534', 'data': '§ 160.534 The hearing.'}
+You may now respond.

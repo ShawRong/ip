@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.306', 'data': '§ 160.306 Complaints to the Secretary.'}, {'id': '160.306(b)(1)', 'data': '(1) A complaint must be filed in writing, either on paper or electronically. '}, {'id': '160.306(b)(2)', 'data': '(2) A complaint must name the person that is the subject of the complaint and describe the acts or omissions believed to be in violation of the applicable administrative simplification provision(s). '}, {'id': '160.306(b)(3)', 'data': '(3) A complaint must be filed within 180 days of when the complainant knew or should have known that the act or omission complained of occurred, unless this time limit is waived by the Secretary for good cause shown. '}, {'id': '160.306(b)(4)', 'data': '(4) The Secretary may prescribe additional procedures for the filing of complaints, as well as the place and manner of filing, by notice in the Federal Register. '}, {'id': '160.306', 'data': '§ 160.306 Complaints to the Secretary.'}, {'id': '160.306(b)(1)', 'data': '(1) A complaint must be filed in writing, either on paper or electronically. '}, {'id': '160.306(b)(2)', 'data': '(2) A complaint must name the person that is the subject of the complaint and describe the acts or omissions believed to be in violation of the applicable administrative simplification provision(s). '}, {'id': '160.306(b)(3)', 'data': '(3) A complaint must be filed within 180 days of when the complainant knew or should have known that the act or omission complained of occurred, unless this time limit is waived by the Secretary for good cause shown. '}, {'id': '160.306(b)(4)', 'data': '(4) The Secretary may prescribe additional procedures for the filing of complaints, as well as the place and manner of filing, by notice in the Federal Register. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.306(b)', 'data': '(b) Requirements for filing complaints.  Complaints under this section must meet the following requirements: '}
+You may now respond.

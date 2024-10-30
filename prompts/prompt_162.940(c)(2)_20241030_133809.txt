@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.940(c)', 'data': '(c) Secretary's decision on exception.  The Secretary makes a decision and notifies the organization requesting the exception whether the request is granted or denied. '}, {'id': '162.940(c)', 'data': '(c) Secretary's decision on exception.  The Secretary makes a decision and notifies the organization requesting the exception whether the request is granted or denied. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.940(c)(2)', 'data': '(2) Exception denied.  If the Secretary does not grant an exception, the notification explains the reasons the Secretary considers the proposed modification would not be a significant improvement to the current standard and any other rationale for the denial. '}
+You may now respond.

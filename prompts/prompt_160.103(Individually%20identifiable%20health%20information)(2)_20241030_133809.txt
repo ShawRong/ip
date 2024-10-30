@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103(Individually%20identifiable%20health%20information)', 'data': 'Individually identifiable health information   is information that is a subset of health information, including demographic information collected from an individual, and: '}, {'id': '160.103(Individually%20identifiable%20health%20information)(2)(i)', 'data': '(i) That identifies the individual; or '}, {'id': '160.103(Individually%20identifiable%20health%20information)(2)(ii)', 'data': '(ii) With respect to which there is a reasonable basis to believe the information can be used to identify the individual. '}, {'id': '160.103(Individually%20identifiable%20health%20information)', 'data': 'Individually identifiable health information   is information that is a subset of health information, including demographic information collected from an individual, and: '}, {'id': '160.103(Individually%20identifiable%20health%20information)(2)(i)', 'data': '(i) That identifies the individual; or '}, {'id': '160.103(Individually%20identifiable%20health%20information)(2)(ii)', 'data': '(ii) With respect to which there is a reasonable basis to believe the information can be used to identify the individual. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Individually%20identifiable%20health%20information)(2)', 'data': '(2) Relates to the past, present, or future physical or mental health or condition of an individual; the provision of health care to an individual; or the past, present, or future payment for the provision of health care to an individual; and '}
+You may now respond.

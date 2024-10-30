@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.424', 'data': '§ 160.424 Collection of penalty.'}, {'id': '160.424', 'data': '§ 160.424 Collection of penalty.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.424(a)', 'data': '(a) Once a determination of the Secretary to impose a penalty has become final, the penalty will be collected by the Secretary, subject to the first sentence of 42 U.S.C. 1320a–7a(f). '}
+You may now respond.

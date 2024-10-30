@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1302', 'data': '§ 162.1302 Standards for referral certification and authorization transaction. The Secretary adopts the following standards for the referral certification and authorization transaction: '}, {'id': '162.1302(b)(2)', 'data': '(2) '}, {'id': '162.1302', 'data': '§ 162.1302 Standards for referral certification and authorization transaction. The Secretary adopts the following standards for the referral certification and authorization transaction: '}, {'id': '162.1302(b)(2)', 'data': '(2) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1302(c)', 'data': '(c) For the period on and after January 1, 2012, the standards identified in paragraph (b)(2) of this section. '}
+You may now respond.

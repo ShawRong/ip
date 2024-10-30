@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartD', 'data': 'Subpart D—Standard Unique Health Identifier for Health Care Providers'}, {'id': '162.404(b)', 'data': '(b) Health plans.  A health plan must comply with the implementation specifications in § 162.412 no later than one of the following dates: '}, {'id': '162.406(b)(1)', 'data': '(1) The NPI must be used as stated in §§ 162.410, 162.412, and 162.414. '}, {'id': '162.412(a)', 'data': '(a) A health plan must use the NPI of any health care provider (or subpart(s), if applicable) that has been assigned an NPI to identify that health care provider on all standard transactions where that health care provider's identifier is required. '}, {'id': '162.412(b)', 'data': '(b) A health plan may not require a health care provider that has been assigned an NPI to obtain an additional NPI. '}, {'id': 'Part162SubpartD', 'data': 'Subpart D—Standard Unique Health Identifier for Health Care Providers'}, {'id': '162.412(a)', 'data': '(a) A health plan must use the NPI of any health care provider (or subpart(s), if applicable) that has been assigned an NPI to identify that health care provider on all standard transactions where that health care provider's identifier is required. '}, {'id': '162.412(b)', 'data': '(b) A health plan may not require a health care provider that has been assigned an NPI to obtain an additional NPI. '}, {'id': '162.404(b)', 'data': '(b) Health plans.  A health plan must comply with the implementation specifications in § 162.412 no later than one of the following dates: '}, {'id': '162.406(b)(1)', 'data': '(1) The NPI must be used as stated in §§ 162.410, 162.412, and 162.414. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.412', 'data': '§ 162.412 Implementation specifications: Health plans.'}
+You may now respond.

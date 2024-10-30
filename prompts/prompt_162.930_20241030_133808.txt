@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartI', 'data': 'Subpart I—General Provisions for Transactions'}, {'id': '162.930(a)', 'data': '(a) Receive a standard transaction on behalf of the covered entity and translate it into a nonstandard transaction (for example, nonstandard format and/or nonstandard data content) for transmission to the covered entity. '}, {'id': '162.930(b)', 'data': '(b) Receive a nonstandard transaction (for example, nonstandard format and/or nonstandard data content) from the covered entity and translate it into a standard transaction for transmission on behalf of the covered entity. '}, {'id': 'Part162SubpartI', 'data': 'Subpart I—General Provisions for Transactions'}, {'id': '162.930(a)', 'data': '(a) Receive a standard transaction on behalf of the covered entity and translate it into a nonstandard transaction (for example, nonstandard format and/or nonstandard data content) for transmission to the covered entity. '}, {'id': '162.930(b)', 'data': '(b) Receive a nonstandard transaction (for example, nonstandard format and/or nonstandard data content) from the covered entity and translate it into a standard transaction for transmission on behalf of the covered entity. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.930', 'data': '§ 162.930 Additional rules for health care clearinghouses. When acting as a business associate for another covered entity, a health care clearinghouse may perform the following functions: '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103', 'data': '§ 160.103 Definitions. Except as otherwise provided, the following definitions apply to this subchapter: '}, {'id': '160.103(Health%20care)(1)', 'data': '(1) Preventive, diagnostic, therapeutic, rehabilitative, maintenance, or palliative care, and counseling, service, assessment, or procedure with respect to the physical or mental condition, or functional status, of an individual or that affects the structure or function of the body; and '}, {'id': '160.103(Health%20care)(2)', 'data': '(2) Sale or dispensing of a drug, device, equipment, or other item in accordance with a prescription. '}, {'id': '160.103', 'data': '§ 160.103 Definitions. Except as otherwise provided, the following definitions apply to this subchapter: '}, {'id': '160.103(Health%20care)(1)', 'data': '(1) Preventive, diagnostic, therapeutic, rehabilitative, maintenance, or palliative care, and counseling, service, assessment, or procedure with respect to the physical or mental condition, or functional status, of an individual or that affects the structure or function of the body; and '}, {'id': '160.103(Health%20care)(2)', 'data': '(2) Sale or dispensing of a drug, device, equipment, or other item in accordance with a prescription. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Health%20care)', 'data': 'Health care   means care, services, or supplies related to the health of an individual. Health care includes, but is not limited to, the following: '}
+You may now respond.

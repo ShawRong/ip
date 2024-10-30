@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.910', 'data': '§ 162.910 Maintenance of standards and adoption of modifications and new standards.'}, {'id': '162.910(c)(1)', 'data': '(1) Open public access. '}, {'id': '162.910(c)(2)', 'data': '(2) Coordination with other DSMOs. '}, {'id': '162.910(c)(3)', 'data': '(3) An appeals process for each of the following, if dissatisfied with the decision on the request: '}, {'id': '162.910(c)(4)', 'data': '(4) Expedited process to address content needs identified within the industry, if appropriate. '}, {'id': '162.910(c)(5)', 'data': '(5) Submission of the recommendation to the National Committee on Vital and Health Statistics (NCVHS). '}, {'id': '162.910', 'data': '§ 162.910 Maintenance of standards and adoption of modifications and new standards.'}, {'id': '162.910(c)(1)', 'data': '(1) Open public access. '}, {'id': '162.910(c)(2)', 'data': '(2) Coordination with other DSMOs. '}, {'id': '162.910(c)(3)', 'data': '(3) An appeals process for each of the following, if dissatisfied with the decision on the request: '}, {'id': '162.910(c)(4)', 'data': '(4) Expedited process to address content needs identified within the industry, if appropriate. '}, {'id': '162.910(c)(5)', 'data': '(5) Submission of the recommendation to the National Committee on Vital and Health Statistics (NCVHS). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.910(c)', 'data': '(c) Process for modification of existing standards and adoption of new standards.  The Secretary considers a recommendation for a proposed modification to an existing standard, or a proposed new standard, only if the recommendation is developed through a process that provides for the following: '}
+You may now respond.

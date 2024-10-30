@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.308(a)(4)', 'data': '(4) '}, {'id': '164.308(a)(4)(ii)(A)', 'data': '(A) Isolating health care clearinghouse functions (Required).  If a health care clearinghouse is part of a larger organization, the clearinghouse must implement policies and procedures that protect the electronic protected health information of the clearinghouse from unauthorized access by the larger organization. '}, {'id': '164.308(a)(4)(ii)(B)', 'data': '(B) Access authorization (Addressable).  Implement policies and procedures for granting access to electronic protected health information, for example, through access to a workstation, transaction, program, process, or other mechanism. '}, {'id': '164.308(a)(4)(ii)(C)', 'data': '(C) Access establishment and modification (Addressable).  Implement policies and procedures that, based upon the covered entity's or the business associate's access authorization policies, establish, document, review, and modify a user's right of access to a workstation, transaction, program, or process. '}, {'id': '164.308(a)(4)', 'data': '(4) '}, {'id': '164.308(a)(4)(ii)(A)', 'data': '(A) Isolating health care clearinghouse functions (Required).  If a health care clearinghouse is part of a larger organization, the clearinghouse must implement policies and procedures that protect the electronic protected health information of the clearinghouse from unauthorized access by the larger organization. '}, {'id': '164.308(a)(4)(ii)(B)', 'data': '(B) Access authorization (Addressable).  Implement policies and procedures for granting access to electronic protected health information, for example, through access to a workstation, transaction, program, process, or other mechanism. '}, {'id': '164.308(a)(4)(ii)(C)', 'data': '(C) Access establishment and modification (Addressable).  Implement policies and procedures that, based upon the covered entity's or the business associate's access authorization policies, establish, document, review, and modify a user's right of access to a workstation, transaction, program, or process. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.308(a)(4)(ii)', 'data': '(ii) Implementation specifications: '}
+You may now respond.

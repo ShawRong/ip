@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': '160.530(a)', 'data': '(a) In the case of refusal to provide or permit discovery under the terms of this part, drawing negative factual inferences or treating the refusal as an admission by deeming the matter, or certain facts, to be established; '}, {'id': '160.530(b)', 'data': '(b) Prohibiting a party from introducing certain evidence or otherwise supporting a particular claim or defense; '}, {'id': '160.530(c)', 'data': '(c) Striking pleadings, in whole or in part; '}, {'id': '160.530(d)', 'data': '(d) Staying the proceedings; '}, {'id': '160.530(e)', 'data': '(e) Dismissal of the action; '}, {'id': '160.530(f)', 'data': '(f) Entering a decision by default; '}, {'id': '160.530(g)', 'data': '(g) Ordering the party or attorney to pay the attorney's fees and other costs caused by the failure or misconduct; and '}, {'id': '160.530(h)', 'data': '(h) Refusing to consider any motion or other action that is not filed in a timely manner. '}, {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': '160.530(a)', 'data': '(a) In the case of refusal to provide or permit discovery under the terms of this part, drawing negative factual inferences or treating the refusal as an admission by deeming the matter, or certain facts, to be established; '}, {'id': '160.530(b)', 'data': '(b) Prohibiting a party from introducing certain evidence or otherwise supporting a particular claim or defense; '}, {'id': '160.530(c)', 'data': '(c) Striking pleadings, in whole or in part; '}, {'id': '160.530(d)', 'data': '(d) Staying the proceedings; '}, {'id': '160.530(e)', 'data': '(e) Dismissal of the action; '}, {'id': '160.530(f)', 'data': '(f) Entering a decision by default; '}, {'id': '160.530(g)', 'data': '(g) Ordering the party or attorney to pay the attorney's fees and other costs caused by the failure or misconduct; and '}, {'id': '160.530(h)', 'data': '(h) Refusing to consider any motion or other action that is not filed in a timely manner. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.530', 'data': '§ 160.530 Sanctions. The ALJ may sanction a person, including any party or attorney, for failing to comply with an order or procedure, for failing to defend an action or for other misconduct that interferes with the speedy, orderly or fair conduct of the hearing. The sanctions must reasonably relate to the severity and nature of the failure or misconduct. The sanctions may include— '}
+You may now respond.

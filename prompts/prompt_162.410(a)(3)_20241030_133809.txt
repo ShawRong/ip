@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.410(a)', 'data': '(a) A covered entity that is a covered health care provider must: '}, {'id': '162.410(a)', 'data': '(a) A covered entity that is a covered health care provider must: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.410(a)(3)', 'data': '(3) Disclose its NPI, when requested, to any entity that needs the NPI to identify that covered health care provider in a standard transaction. '}
+You may now respond.

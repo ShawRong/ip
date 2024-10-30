@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.920(d)', 'data': '(d) The National Automated Clearing House Association (NACHA), The Electronic Payments Association, 1350 Sunrise Valle Drive, Suite 100, Herndon, Virginia 20171 (Phone) (703) 561–1100; (Fax) (703) 713–1641; Email: info@nacha.org; and Internet at http://www.nacha.org. The implementation specifications are as follows: '}, {'id': '162.1602', 'data': '§ 162.1602 Standards for health care electronic funds transfers (EFT) and remittance advice transaction. The Secretary adopts the following standards: '}, {'id': '162.920(d)', 'data': '(d) The National Automated Clearing House Association (NACHA), The Electronic Payments Association, 1350 Sunrise Valle Drive, Suite 100, Herndon, Virginia 20171 (Phone) (703) 561–1100; (Fax) (703) 713–1641; Email: info@nacha.org; and Internet at http://www.nacha.org. The implementation specifications are as follows: '}, {'id': '162.1602', 'data': '§ 162.1602 Standards for health care electronic funds transfers (EFT) and remittance advice transaction. The Secretary adopts the following standards: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.920(d)(1)', 'data': '(1) 2011 NACHA Operating Rules & Guidelines, A Complete Guide to the Rules Governing the ACH Network, NACHA Operating Rules, Appendix One: ACH File Exchange Specifications (Operating Rule 59) as referenced in § 162.1602. '}
+You may now respond.

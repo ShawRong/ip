@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartI', 'data': 'Subpart I—General Provisions for Transactions'}, {'id': '162.910(a)', 'data': '(a) Designation of DSMOs. '}, {'id': '162.910(b)', 'data': '(b) Maintenance of standards.  Maintenance of a standard by the appropriate DSMO constitutes maintenance of the standard for purposes of this part, if done in accordance with the processes the Secretary may require. '}, {'id': '162.910(c)', 'data': '(c) Process for modification of existing standards and adoption of new standards.  The Secretary considers a recommendation for a proposed modification to an existing standard, or a proposed new standard, only if the recommendation is developed through a process that provides for the following: '}, {'id': 'Part162SubpartI', 'data': 'Subpart I—General Provisions for Transactions'}, {'id': '162.910(a)', 'data': '(a) Designation of DSMOs. '}, {'id': '162.910(b)', 'data': '(b) Maintenance of standards.  Maintenance of a standard by the appropriate DSMO constitutes maintenance of the standard for purposes of this part, if done in accordance with the processes the Secretary may require. '}, {'id': '162.910(c)', 'data': '(c) Process for modification of existing standards and adoption of new standards.  The Secretary considers a recommendation for a proposed modification to an existing standard, or a proposed new standard, only if the recommendation is developed through a process that provides for the following: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.910', 'data': '§ 162.910 Maintenance of standards and adoption of modifications and new standards.'}
+You may now respond.

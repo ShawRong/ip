@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.420', 'data': '§ 160.420 Notice of proposed determination.'}, {'id': '160.540', 'data': '§ 160.540 Evidence.'}, {'id': '160.540', 'data': '§ 160.540 Evidence.'}, {'id': '160.420', 'data': '§ 160.420 Notice of proposed determination.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.540(g)', 'data': '(g) Evidence of crimes, wrongs, or acts other than those at issue in the instant case is admissible in order to show motive, opportunity, intent, knowledge, preparation, identity, lack of mistake, or existence of a scheme. This evidence is admissible regardless of whether the crimes, wrongs, or acts occurred during the statute of limitations period applicable to the acts or omissions that constitute the basis for liability in the case and regardless of whether they were referenced in the Secretary's notice of proposed determination under § 160.420 of this part. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part164SubpartD', 'data': 'Subpart D—Notification in the Case of Breach of Unsecured Protected Health Information'}, {'id': 'Part164SubpartD', 'data': 'Subpart D—Notification in the Case of Breach of Unsecured Protected Health Information'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.400', 'data': '§ 164.400 Applicability. The requirements of this subpart shall apply with respect to breaches of protected health information occurring on or after September 23, 2009. '}
+You may now respond.

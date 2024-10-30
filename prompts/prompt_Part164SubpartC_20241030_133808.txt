@@ -1,0 +1,26 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part164', 'data': 'PART 164—SECURITY AND PRIVACY
+'}, {'id': '164.302', 'data': '§ 164.302 Applicability. A covered entity or business associate must comply with the applicable standards, implementation specifications, and requirements of this subpart with respect to electronic protected health information of a covered entity. '}, {'id': '164.304', 'data': '§ 164.304 Definitions. As used in this subpart, the following terms have the following meanings: '}, {'id': '164.306', 'data': '§ 164.306 Security standards: General rules.'}, {'id': '164.308', 'data': '§ 164.308 Administrative safeguards.'}, {'id': '164.310', 'data': '§ 164.310 Physical safeguards. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.312', 'data': '§ 164.312 Technical safeguards. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.314', 'data': '§ 164.314 Organizational requirements.'}, {'id': '164.316', 'data': '§ 164.316 Policies and procedures and documentation requirements. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.318', 'data': '§ 164.318 Compliance dates for the initial implementation of the security standards.'}, {'id': 'AppendixAtoSubpartCofPart164,Title45', 'data': 'Appendix A to Subpart C of Part 164—Security Standards: Matrix
+'}, {'id': 'Part164', 'data': 'PART 164—SECURITY AND PRIVACY
+'}, {'id': '164.302', 'data': '§ 164.302 Applicability. A covered entity or business associate must comply with the applicable standards, implementation specifications, and requirements of this subpart with respect to electronic protected health information of a covered entity. '}, {'id': '164.304', 'data': '§ 164.304 Definitions. As used in this subpart, the following terms have the following meanings: '}, {'id': '164.306', 'data': '§ 164.306 Security standards: General rules.'}, {'id': '164.308', 'data': '§ 164.308 Administrative safeguards.'}, {'id': '164.310', 'data': '§ 164.310 Physical safeguards. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.312', 'data': '§ 164.312 Technical safeguards. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.314', 'data': '§ 164.314 Organizational requirements.'}, {'id': '164.316', 'data': '§ 164.316 Policies and procedures and documentation requirements. A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.318', 'data': '§ 164.318 Compliance dates for the initial implementation of the security standards.'}, {'id': 'AppendixAtoSubpartCofPart164,Title45', 'data': 'Appendix A to Subpart C of Part 164—Security Standards: Matrix
+'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part164SubpartC', 'data': 'Subpart C—Security Standards for the Protection of Electronic Protected Health Information'}
+You may now respond.

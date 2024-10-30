@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103(Organized%20health%20care%20arrangement)(2)', 'data': '(2) An organized system of health care in which more than one covered entity participates and in which the participating covered entities: '}, {'id': '160.103(Organized%20health%20care%20arrangement)(2)(ii)(A)', 'data': '(A) Utilization review, in which health care decisions by participating covered entities are reviewed by other participating covered entities or by a third party on their behalf; '}, {'id': '160.103(Organized%20health%20care%20arrangement)(2)(ii)(B)', 'data': '(B) Quality assessment and improvement activities, in which treatment provided by participating covered entities is assessed by other participating covered entities or by a third party on their behalf; or '}, {'id': '160.103(Organized%20health%20care%20arrangement)(2)(ii)(C)', 'data': '(C) Payment activities, if the financial risk for delivering health care is shared, in part or in whole, by participating covered entities through the joint arrangement and if protected health information created or received by a covered entity is reviewed by other participating covered entities or by a third party on their behalf for the purpose of administering the sharing of financial risk. '}, {'id': '160.103(Organized%20health%20care%20arrangement)(2)', 'data': '(2) An organized system of health care in which more than one covered entity participates and in which the participating covered entities: '}, {'id': '160.103(Organized%20health%20care%20arrangement)(2)(ii)(A)', 'data': '(A) Utilization review, in which health care decisions by participating covered entities are reviewed by other participating covered entities or by a third party on their behalf; '}, {'id': '160.103(Organized%20health%20care%20arrangement)(2)(ii)(B)', 'data': '(B) Quality assessment and improvement activities, in which treatment provided by participating covered entities is assessed by other participating covered entities or by a third party on their behalf; or '}, {'id': '160.103(Organized%20health%20care%20arrangement)(2)(ii)(C)', 'data': '(C) Payment activities, if the financial risk for delivering health care is shared, in part or in whole, by participating covered entities through the joint arrangement and if protected health information created or received by a covered entity is reviewed by other participating covered entities or by a third party on their behalf for the purpose of administering the sharing of financial risk. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Organized%20health%20care%20arrangement)(2)(ii)', 'data': '(ii) Participate in joint activities that include at least one of the following: '}
+You may now respond.

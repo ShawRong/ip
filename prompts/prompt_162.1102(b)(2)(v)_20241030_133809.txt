@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1102(b)(2)', 'data': '(2) '}, {'id': '162.1102(b)(2)(v)(A)', 'data': '(A) The Telecommunication Standard, Implementation Guide Version 5, Release 1, September 1999. (Incorporated by reference in § 162.920.) '}, {'id': '162.1102(b)(2)(v)(B)', 'data': '(B) The Telecommunication Standard Implementation Guide, Version D, Release 0 (Version D.0), August 2007, and equivalent Batch Standard Implementation Guide, Version 1, Release 2 (Version 1.2), National Council for Prescription Drug Programs (Incorporated by reference in § 162.920); and '}, {'id': '162.1102(b)(2)(v)(C)', 'data': '(C) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Claim: Professional (837), May 2006, ASC X12N/005010X222. (Incorporated by reference in § 162.920.) '}, {'id': '162.1102(b)(2)', 'data': '(2) '}, {'id': '162.1102(b)(2)(v)(A)', 'data': '(A) The Telecommunication Standard, Implementation Guide Version 5, Release 1, September 1999. (Incorporated by reference in § 162.920.) '}, {'id': '162.1102(b)(2)(v)(B)', 'data': '(B) The Telecommunication Standard Implementation Guide, Version D, Release 0 (Version D.0), August 2007, and equivalent Batch Standard Implementation Guide, Version 1, Release 2 (Version 1.2), National Council for Prescription Drug Programs (Incorporated by reference in § 162.920); and '}, {'id': '162.1102(b)(2)(v)(C)', 'data': '(C) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Claim: Professional (837), May 2006, ASC X12N/005010X222. (Incorporated by reference in § 162.920.) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1102(b)(2)(v)', 'data': '(v) Retail pharmacy supplies and professional services claims. '}
+You may now respond.

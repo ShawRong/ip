@@ -1,0 +1,24 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part164', 'data': 'PART 164—SECURITY AND PRIVACY
+'}, {'id': '164.400', 'data': '§ 164.400 Applicability. The requirements of this subpart shall apply with respect to breaches of protected health information occurring on or after September 23, 2009. '}, {'id': '164.402', 'data': '§ 164.402 Definitions. As used in this subpart, the following terms have the following meanings: '}, {'id': '164.404', 'data': '§ 164.404 Notification to individuals.'}, {'id': '164.406', 'data': '§ 164.406 Notification to the media.'}, {'id': '164.408', 'data': '§ 164.408 Notification to the Secretary.'}, {'id': '164.410', 'data': '§ 164.410 Notification by a business associate.'}, {'id': '164.412', 'data': '§ 164.412 Law enforcement delay. If a law enforcement official states to a covered entity or business associate that a notification, notice, or posting required under this subpart would impede a criminal investigation or cause damage to national security, a covered entity or business associate shall: '}, {'id': '164.414', 'data': '§ 164.414 Administrative requirements and burden of proof.'}, {'id': 'Part164', 'data': 'PART 164—SECURITY AND PRIVACY
+'}, {'id': '164.400', 'data': '§ 164.400 Applicability. The requirements of this subpart shall apply with respect to breaches of protected health information occurring on or after September 23, 2009. '}, {'id': '164.402', 'data': '§ 164.402 Definitions. As used in this subpart, the following terms have the following meanings: '}, {'id': '164.404', 'data': '§ 164.404 Notification to individuals.'}, {'id': '164.406', 'data': '§ 164.406 Notification to the media.'}, {'id': '164.408', 'data': '§ 164.408 Notification to the Secretary.'}, {'id': '164.410', 'data': '§ 164.410 Notification by a business associate.'}, {'id': '164.412', 'data': '§ 164.412 Law enforcement delay. If a law enforcement official states to a covered entity or business associate that a notification, notice, or posting required under this subpart would impede a criminal investigation or cause damage to national security, a covered entity or business associate shall: '}, {'id': '164.414', 'data': '§ 164.414 Administrative requirements and burden of proof.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part164SubpartD', 'data': 'Subpart D—Notification in the Case of Breach of Unsecured Protected Health Information'}
+You may now respond.

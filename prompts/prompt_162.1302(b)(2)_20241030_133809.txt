@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1302(b)', 'data': '(b) For the period from March 17, 2009 through December 31, 2011 both— '}, {'id': '162.1302(b)(2)(i)', 'data': '(i) Retail pharmacy drugs.  The Telecommunication Standard Implementation Guide Version D, Release 0 (Version D.0), August 2007, and equivalent Batch Standard Implementation Guide, Version 1, Release 2 (Version 1.2), National Council for Prescription Drug Programs. (Incorporated by reference in § 162.920.) '}, {'id': '162.1302(b)(2)(ii)', 'data': '(ii) Dental, professional, and institutional request for review and response.  The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Services Review—Request for Review and Response (278), May 2006, ASC X12N/005010X217, and Errata to Health Care Services Review-—Request for Review and Response (278), ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, April 2008, ASC X12N/005010X217E1. (Incorporated by reference in § 162.920.) '}, {'id': '162.1302(c)', 'data': '(c) For the period on and after January 1, 2012, the standards identified in paragraph (b)(2) of this section. '}, {'id': '162.1302(b)', 'data': '(b) For the period from March 17, 2009 through December 31, 2011 both— '}, {'id': '162.1302(b)(2)(i)', 'data': '(i) Retail pharmacy drugs.  The Telecommunication Standard Implementation Guide Version D, Release 0 (Version D.0), August 2007, and equivalent Batch Standard Implementation Guide, Version 1, Release 2 (Version 1.2), National Council for Prescription Drug Programs. (Incorporated by reference in § 162.920.) '}, {'id': '162.1302(b)(2)(ii)', 'data': '(ii) Dental, professional, and institutional request for review and response.  The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Services Review—Request for Review and Response (278), May 2006, ASC X12N/005010X217, and Errata to Health Care Services Review-—Request for Review and Response (278), ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, April 2008, ASC X12N/005010X217E1. (Incorporated by reference in § 162.920.) '}, {'id': '162.1302(c)', 'data': '(c) For the period on and after January 1, 2012, the standards identified in paragraph (b)(2) of this section. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1302(b)(2)', 'data': '(2) '}
+You may now respond.

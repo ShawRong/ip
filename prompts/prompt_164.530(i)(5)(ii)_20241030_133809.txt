@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.530(i)(5)', 'data': '(5) Implementation specification: Changes to other policies or procedures.  A covered entity may change, at any time, a policy or procedure that does not materially affect the content of the notice required by § 164.520, provided that: '}, {'id': '164.530(j)', 'data': '(j) '}, {'id': '164.530(i)(5)', 'data': '(5) Implementation specification: Changes to other policies or procedures.  A covered entity may change, at any time, a policy or procedure that does not materially affect the content of the notice required by § 164.520, provided that: '}, {'id': '164.530(j)', 'data': '(j) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(i)(5)(ii)', 'data': '(ii) Prior to the effective date of the change, the policy or procedure, as revised, is documented as required by paragraph (j) of this section. '}
+You may now respond.

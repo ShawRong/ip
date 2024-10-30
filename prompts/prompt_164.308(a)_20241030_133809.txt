@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.306', 'data': '§ 164.306 Security standards: General rules.'}, {'id': '164.308', 'data': '§ 164.308 Administrative safeguards.'}, {'id': '164.308(a)(1)', 'data': '(1) '}, {'id': '164.308(a)(2)', 'data': '(2) Standard: Assigned security responsibility.  Identify the security official who is responsible for the development and implementation of the policies and procedures required by this subpart for the covered entity or business associate. '}, {'id': '164.308(a)(3)', 'data': '(3) '}, {'id': '164.308(a)(4)', 'data': '(4) '}, {'id': '164.308(a)(5)', 'data': '(5) '}, {'id': '164.308(a)(6)', 'data': '(6) '}, {'id': '164.308(a)(7)', 'data': '(7) '}, {'id': '164.308(a)(8)', 'data': '(8) Standard: Evaluation.  Perform a periodic technical and nontechnical evaluation, based initially upon the standards implemented under this rule and, subsequently, in response to environmental or operational changes affecting the security of electronic protected health information, that establishes the extent to which a covered entity's or business associate's security policies and procedures meet the requirements of this subpart. '}, {'id': '164.308', 'data': '§ 164.308 Administrative safeguards.'}, {'id': '164.308(a)(1)', 'data': '(1) '}, {'id': '164.308(a)(2)', 'data': '(2) Standard: Assigned security responsibility.  Identify the security official who is responsible for the development and implementation of the policies and procedures required by this subpart for the covered entity or business associate. '}, {'id': '164.308(a)(3)', 'data': '(3) '}, {'id': '164.308(a)(4)', 'data': '(4) '}, {'id': '164.308(a)(5)', 'data': '(5) '}, {'id': '164.308(a)(6)', 'data': '(6) '}, {'id': '164.308(a)(7)', 'data': '(7) '}, {'id': '164.308(a)(8)', 'data': '(8) Standard: Evaluation.  Perform a periodic technical and nontechnical evaluation, based initially upon the standards implemented under this rule and, subsequently, in response to environmental or operational changes affecting the security of electronic protected health information, that establishes the extent to which a covered entity's or business associate's security policies and procedures meet the requirements of this subpart. '}, {'id': '164.306', 'data': '§ 164.306 Security standards: General rules.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.308(a)', 'data': '(a) A covered entity or business associate must, in accordance with § 164.306: '}
+You may now respond.

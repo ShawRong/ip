@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.308(a)(7)', 'data': '(7) '}, {'id': '164.308(a)(7)(ii)(A)', 'data': '(A) Data backup plan (Required).  Establish and implement procedures to create and maintain retrievable exact copies of electronic protected health information. '}, {'id': '164.308(a)(7)(ii)(B)', 'data': '(B) Disaster recovery plan (Required).  Establish (and implement as needed) procedures to restore any loss of data. '}, {'id': '164.308(a)(7)(ii)(C)', 'data': '(C) Emergency mode operation plan (Required).  Establish (and implement as needed) procedures to enable continuation of critical business processes for protection of the security of electronic protected health information while operating in emergency mode. '}, {'id': '164.308(a)(7)(ii)(D)', 'data': '(D) Testing and revision procedures (Addressable).  Implement procedures for periodic testing and revision of contingency plans. '}, {'id': '164.308(a)(7)(ii)(E)', 'data': '(E) Applications and data criticality analysis (Addressable).  Assess the relative criticality of specific applications and data in support of other contingency plan components. '}, {'id': '164.308(a)(7)', 'data': '(7) '}, {'id': '164.308(a)(7)(ii)(A)', 'data': '(A) Data backup plan (Required).  Establish and implement procedures to create and maintain retrievable exact copies of electronic protected health information. '}, {'id': '164.308(a)(7)(ii)(B)', 'data': '(B) Disaster recovery plan (Required).  Establish (and implement as needed) procedures to restore any loss of data. '}, {'id': '164.308(a)(7)(ii)(C)', 'data': '(C) Emergency mode operation plan (Required).  Establish (and implement as needed) procedures to enable continuation of critical business processes for protection of the security of electronic protected health information while operating in emergency mode. '}, {'id': '164.308(a)(7)(ii)(D)', 'data': '(D) Testing and revision procedures (Addressable).  Implement procedures for periodic testing and revision of contingency plans. '}, {'id': '164.308(a)(7)(ii)(E)', 'data': '(E) Applications and data criticality analysis (Addressable).  Assess the relative criticality of specific applications and data in support of other contingency plan components. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.308(a)(7)(ii)', 'data': '(ii) Implementation specifications: '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.314(a)(1)', 'data': '(1) Standard: Business associate contracts or other arrangements.  The contract or other arrangement required by § 164.308(b)(3) must meet the requirements of paragraph (a)(2)(i), (a)(2)(ii), or (a)(2)(iii) of this section, as applicable. '}, {'id': '164.314(a)(2)', 'data': '(2) Implementation specifications (Required) —'}, {'id': '164.504(e)(2)', 'data': '(2) Implementation specifications: Business associate contracts.  A contract between the covered entity and a business associate must: '}, {'id': '164.504(e)(3)(i)', 'data': '(i) If a covered entity and its business associate are both governmental entities: '}, {'id': '164.504(e)(3)(i)', 'data': '(i) If a covered entity and its business associate are both governmental entities: '}, {'id': '164.314(a)(1)', 'data': '(1) Standard: Business associate contracts or other arrangements.  The contract or other arrangement required by § 164.308(b)(3) must meet the requirements of paragraph (a)(2)(i), (a)(2)(ii), or (a)(2)(iii) of this section, as applicable. '}, {'id': '164.504(e)(2)', 'data': '(2) Implementation specifications: Business associate contracts.  A contract between the covered entity and a business associate must: '}, {'id': '164.314(a)(2)', 'data': '(2) Implementation specifications (Required) —'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.504(e)(3)(i)(B)', 'data': '(B) The covered entity may comply with this paragraph and § 164.314(a)(1), if applicable, if other law (including regulations adopted by the covered entity or its business associate) contains requirements applicable to the business associate that accomplish the objectives of paragraph (e)(2) of this section and § 164.314(a)(2), if applicable. '}
+You may now respond.

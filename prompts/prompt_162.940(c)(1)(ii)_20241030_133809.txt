@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.940(c)(1)', 'data': '(1) Exception granted.  If the Secretary grants an exception, the notification includes the following information: '}, {'id': '162.940(c)(1)', 'data': '(1) Exception granted.  If the Secretary grants an exception, the notification includes the following information: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.940(c)(1)(ii)', 'data': '(ii) The trading partners and geographical areas the Secretary approves for testing. '}
+You may now respond.

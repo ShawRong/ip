@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.504', 'data': '§ 160.504 Hearing before an ALJ.'}, {'id': '160.526', 'data': '§ 160.526 Computation of time.'}, {'id': '160.526', 'data': '§ 160.526 Computation of time.'}, {'id': '160.504', 'data': '§ 160.504 Hearing before an ALJ.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.526(c)', 'data': '(c) Where a document has been served or issued by placing it in the mail, an additional 5 days must be added to the time permitted for any response. This paragraph does not apply to requests for hearing under § 160.504. '}
+You may now respond.

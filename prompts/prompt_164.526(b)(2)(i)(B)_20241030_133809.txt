@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.526(b)(2)(i)', 'data': '(i) The covered entity must act on the individual's request for an amendment no later than 60 days after receipt of such a request, as follows. '}, {'id': '164.526(d)(1)', 'data': '(1) Denial.  The covered entity must provide the individual with a timely, written denial, in accordance with paragraph (b)(2) of this section. The denial must use plain language and contain: '}, {'id': '164.526(b)(2)(i)', 'data': '(i) The covered entity must act on the individual's request for an amendment no later than 60 days after receipt of such a request, as follows. '}, {'id': '164.526(d)(1)', 'data': '(1) Denial.  The covered entity must provide the individual with a timely, written denial, in accordance with paragraph (b)(2) of this section. The denial must use plain language and contain: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.526(b)(2)(i)(B)', 'data': '(B) If the covered entity denies the requested amendment, in whole or in part, it must provide the individual with a written denial, in accordance with paragraph (d)(1) of this section. '}
+You may now respond.

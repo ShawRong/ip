@@ -1,0 +1,28 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160', 'data': 'PART 160—GENERAL ADMINISTRATIVE REQUIREMENTS
+'}, {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': 'Part164', 'data': 'PART 164—SECURITY AND PRIVACY
+'}, {'id': 'Part160', 'data': 'PART 160—GENERAL ADMINISTRATIVE REQUIREMENTS
+'}, {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': 'Part164', 'data': 'PART 164—SECURITY AND PRIVACY
+'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'HIPAA', 'data': 'HIPAA Privacy Rule'}
+You may now respond.

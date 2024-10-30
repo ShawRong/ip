@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.508(b)(5)', 'data': '(5) Revocation of authorizations.  An individual may revoke an authorization provided under this section at any time, provided that the revocation is in writing, except to the extent that: '}, {'id': '164.508(b)(5)', 'data': '(5) Revocation of authorizations.  An individual may revoke an authorization provided under this section at any time, provided that the revocation is in writing, except to the extent that: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.508(b)(5)(ii)', 'data': '(ii) If the authorization was obtained as a condition of obtaining insurance coverage, other law provides the insurer with the right to contest a claim under the policy or the policy itself. '}
+You may now respond.

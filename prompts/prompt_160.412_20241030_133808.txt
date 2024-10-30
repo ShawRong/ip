@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartD', 'data': 'Subpart D—Imposition of Civil Money Penalties'}, {'id': '160.404(a)', 'data': '(a) The amount of a civil money penalty will be determined in accordance with paragraph (b) of this section, and §§ 160.406, 160.408, and 160.412. These amounts were adjusted in accordance with the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990, (Pub. L. 101–140), as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, (section 701 of Pub. L. 114–74), and appear at 45 CFR part 102. These amounts will be updated annually and published at 45 CFR part 102. '}, {'id': '160.534(b)(1)(iii)', 'data': '(iii) Claim that a proposed penalty should be reduced or waived pursuant to § 160.412 of this part; and '}, {'id': 'Part160SubpartD', 'data': 'Subpart D—Imposition of Civil Money Penalties'}, {'id': '160.404(a)', 'data': '(a) The amount of a civil money penalty will be determined in accordance with paragraph (b) of this section, and §§ 160.406, 160.408, and 160.412. These amounts were adjusted in accordance with the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990, (Pub. L. 101–140), as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, (section 701 of Pub. L. 114–74), and appear at 45 CFR part 102. These amounts will be updated annually and published at 45 CFR part 102. '}, {'id': '160.534(b)(1)(iii)', 'data': '(iii) Claim that a proposed penalty should be reduced or waived pursuant to § 160.412 of this part; and '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.412', 'data': '§ 160.412 Waiver. For violations described in § 160.410(b)(2) or (c) that are not corrected within the period specified under such paragraphs, the Secretary may waive the civil money penalty, in whole or in part, to the extent that the payment of the penalty would be excessive relative to the violation. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1002(a)', 'data': '(a) For the period from October 16, 2002 through October 15, 2003: '}, {'id': '162.1002(a)(5)(i)', 'data': '(i) Physician services. '}, {'id': '162.1002(a)(5)(ii)', 'data': '(ii) Physical and occupational therapy services. '}, {'id': '162.1002(a)(5)(iii)', 'data': '(iii) Radiologic procedures. '}, {'id': '162.1002(a)(5)(iv)', 'data': '(iv) Clinical laboratory tests. '}, {'id': '162.1002(a)(5)(v)', 'data': '(v) Other medical diagnostic procedures. '}, {'id': '162.1002(a)(5)(vi)', 'data': '(vi) Hearing and vision services. '}, {'id': '162.1002(a)(5)(vii)', 'data': '(vii) Transportation services including ambulance. '}, {'id': '162.1002(b)(1)', 'data': '(1) The code sets specified in paragraphs (a)(1), (a)(2),(a)(4), and (a)(5) of this section. '}, {'id': '162.1002(c)(1)', 'data': '(1) The code sets specified in paragraphs (a)(4), (a)(5), (b)(2), and (b)(3) of this section. '}, {'id': '162.1002(a)', 'data': '(a) For the period from October 16, 2002 through October 15, 2003: '}, {'id': '162.1002(a)(5)(i)', 'data': '(i) Physician services. '}, {'id': '162.1002(a)(5)(ii)', 'data': '(ii) Physical and occupational therapy services. '}, {'id': '162.1002(a)(5)(iii)', 'data': '(iii) Radiologic procedures. '}, {'id': '162.1002(a)(5)(iv)', 'data': '(iv) Clinical laboratory tests. '}, {'id': '162.1002(a)(5)(v)', 'data': '(v) Other medical diagnostic procedures. '}, {'id': '162.1002(a)(5)(vi)', 'data': '(vi) Hearing and vision services. '}, {'id': '162.1002(a)(5)(vii)', 'data': '(vii) Transportation services including ambulance. '}, {'id': '162.1002(b)(1)', 'data': '(1) The code sets specified in paragraphs (a)(1), (a)(2),(a)(4), and (a)(5) of this section. '}, {'id': '162.1002(c)(1)', 'data': '(1) The code sets specified in paragraphs (a)(4), (a)(5), (b)(2), and (b)(3) of this section. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1002(a)(5)', 'data': '(5) The combination of Health Care Financing Administration Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, and Current Procedural Terminology, Fourth Edition (CPT–4), as maintained and distributed by the American Medical Association, for physician services and other health care services. These services include, but are not limited to, the following: '}
+You may now respond.

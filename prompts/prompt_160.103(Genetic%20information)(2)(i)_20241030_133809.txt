@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103(Genetic%20information)(2)', 'data': '(2) Any reference in this subchapter to genetic information concerning an individual or family member of an individual shall include the genetic information of: '}, {'id': '160.103(Genetic%20information)(2)', 'data': '(2) Any reference in this subchapter to genetic information concerning an individual or family member of an individual shall include the genetic information of: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Genetic%20information)(2)(i)', 'data': '(i) A fetus carried by the individual or family member who is a pregnant woman; and '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.552', 'data': '§ 160.552 Harmless error. No error in either the admission or the exclusion of evidence, and no error or defect in any ruling or order or in any act done or omitted by the ALJ or by any of the parties is ground for vacating, modifying or otherwise disturbing an otherwise appropriate ruling or order or act, unless refusal to take such action appears to the ALJ or the Board inconsistent with substantial justice. The ALJ and the Board at every stage of the proceeding must disregard any error or defect in the proceeding that does not affect the substantial rights of the parties. '}
+You may now respond.

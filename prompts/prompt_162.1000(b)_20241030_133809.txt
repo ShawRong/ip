@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1000', 'data': '§ 162.1000 General requirements. When conducting a transaction covered by this part, a covered entity must meet the following requirements: '}, {'id': '162.1000', 'data': '§ 162.1000 General requirements. When conducting a transaction covered by this part, a covered entity must meet the following requirements: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1000(b)', 'data': '(b) Nonmedical data code sets.  Use the nonmedical data code sets as described in the implementation specifications adopted under this part that are valid at the time the transaction is initiated. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartB', 'data': 'Subpart B—Preemption of State Law'}, {'id': '160.202Contrary', 'data': 'Contrary,   when used to compare a provision of State law to a standard, requirement, or implementation specification adopted under this subchapter, means: '}, {'id': '160.202Morestringent', 'data': 'More stringent   means, in the context of a comparison of a provision of State law and a standard, requirement, or implementation specification adopted under subpart E of part 164 of this subchapter, a State law that meets one or more of the following criteria: '}, {'id': '160.202Relatestotheprivacyofindividuallyidentifiablehealthinformation', 'data': 'Relates to the privacy of individually identifiable health information   means, with respect to a State law, that the State law has the specific purpose of protecting the privacy of health information or affects the privacy of health information in a direct, clear, and substantial way. '}, {'id': '160.202Statelaw', 'data': 'State law   means a constitution, statute, regulation, rule, common law, or other State action having the force and effect of law. '}, {'id': '164.520(b)(1)(ii)(C)', 'data': '(C) If a use or disclosure for any purpose described in paragraphs (b)(1)(ii)(A) or (B) of this section is prohibited or materially limited by other applicable law, the description of such use or disclosure must reflect the more stringent law as defined in § 160.202 of this subchapter. '}, {'id': 'Part160SubpartB', 'data': 'Subpart B—Preemption of State Law'}, {'id': '160.202Contrary', 'data': 'Contrary,   when used to compare a provision of State law to a standard, requirement, or implementation specification adopted under this subchapter, means: '}, {'id': '160.202Morestringent', 'data': 'More stringent   means, in the context of a comparison of a provision of State law and a standard, requirement, or implementation specification adopted under subpart E of part 164 of this subchapter, a State law that meets one or more of the following criteria: '}, {'id': '160.202Relatestotheprivacyofindividuallyidentifiablehealthinformation', 'data': 'Relates to the privacy of individually identifiable health information   means, with respect to a State law, that the State law has the specific purpose of protecting the privacy of health information or affects the privacy of health information in a direct, clear, and substantial way. '}, {'id': '160.202Statelaw', 'data': 'State law   means a constitution, statute, regulation, rule, common law, or other State action having the force and effect of law. '}, {'id': '164.520(b)(1)(ii)(C)', 'data': '(C) If a use or disclosure for any purpose described in paragraphs (b)(1)(ii)(A) or (B) of this section is prohibited or materially limited by other applicable law, the description of such use or disclosure must reflect the more stringent law as defined in § 160.202 of this subchapter. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.202', 'data': '§ 160.202 Definitions. For purposes of this subpart, the following terms have the following meanings: '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.414(b)', 'data': '(b) Burden of proof.  In the event of a use or disclosure in violation of subpart E, the covered entity or business associate, as applicable, shall have the burden of demonstrating that all notifications were made as required by this subpart or that the use or disclosure did not constitute a breach, as defined at § 164.402. '}, {'id': '164.530(j)(1)', 'data': '(1) Standard: Documentation.  A covered entity must: '}, {'id': '164.530(j)(1)', 'data': '(1) Standard: Documentation.  A covered entity must: '}, {'id': '164.414(b)', 'data': '(b) Burden of proof.  In the event of a use or disclosure in violation of subpart E, the covered entity or business associate, as applicable, shall have the burden of demonstrating that all notifications were made as required by this subpart or that the use or disclosure did not constitute a breach, as defined at § 164.402. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(j)(1)(iv)', 'data': '(iv) Maintain documentation sufficient to meet its burden of proof under § 164.414(b). '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.508', 'data': '§ 164.508 Uses and disclosures for which an authorization is required.'}, {'id': '164.514(f)', 'data': '(f) Fundraising communications —'}, {'id': '164.514(f)(1)(i)', 'data': '(i) Demographic information relating to an individual, including name, address, other contact information, age, gender, and date of birth; '}, {'id': '164.514(f)(1)(ii)', 'data': '(ii) Dates of health care provided to an individual; '}, {'id': '164.514(f)(1)(iii)', 'data': '(iii) Department of service information; '}, {'id': '164.514(f)(1)(iv)', 'data': '(iv) Treating physician; '}, {'id': '164.514(f)(1)(v)', 'data': '(v) Outcome information; and '}, {'id': '164.514(f)(1)(vi)', 'data': '(vi) Health insurance status. '}, {'id': '164.514(f)(2)', 'data': '(2) Implementation specifications: Fundraising requirements. '}, {'id': '164.514(f)(2)(i)', 'data': '(i) A covered entity may not use or disclose protected health information for fundraising purposes as otherwise permitted by paragraph (f)(1) of this section unless a statement required by § 164.520(b)(1)(iii)(A) is included in the covered entity's notice of privacy practices. '}, {'id': '164.520(b)(1)(iii)(A)', 'data': '(A) In accordance with § 164.514(f)(1), the covered entity may contact the individual to raise funds for the covered entity and the individual has a right to opt out of receiving such communications; '}, {'id': '164.514(f)', 'data': '(f) Fundraising communications —'}, {'id': '164.514(f)(1)(i)', 'data': '(i) Demographic information relating to an individual, including name, address, other contact information, age, gender, and date of birth; '}, {'id': '164.514(f)(1)(ii)', 'data': '(ii) Dates of health care provided to an individual; '}, {'id': '164.514(f)(1)(iii)', 'data': '(iii) Department of service information; '}, {'id': '164.514(f)(1)(iv)', 'data': '(iv) Treating physician; '}, {'id': '164.514(f)(1)(v)', 'data': '(v) Outcome information; and '}, {'id': '164.514(f)(1)(vi)', 'data': '(vi) Health insurance status. '}, {'id': '164.514(f)(2)', 'data': '(2) Implementation specifications: Fundraising requirements. '}, {'id': '164.508', 'data': '§ 164.508 Uses and disclosures for which an authorization is required.'}, {'id': '164.514(f)(2)(i)', 'data': '(i) A covered entity may not use or disclose protected health information for fundraising purposes as otherwise permitted by paragraph (f)(1) of this section unless a statement required by § 164.520(b)(1)(iii)(A) is included in the covered entity's notice of privacy practices. '}, {'id': '164.520(b)(1)(iii)(A)', 'data': '(A) In accordance with § 164.514(f)(1), the covered entity may contact the individual to raise funds for the covered entity and the individual has a right to opt out of receiving such communications; '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.514(f)(1)', 'data': '(1) Standard: Uses and disclosures for fundraising.  Subject to the conditions of paragraph (f)(2) of this section, a covered entity may use, or disclose to a business associate or to an institutionally related foundation, the following protected health information for the purpose of raising funds for its own benefit, without an authorization meeting the requirements of § 164.508: '}
+You may now respond.

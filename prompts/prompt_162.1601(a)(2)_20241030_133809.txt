@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1601(a)', 'data': '(a) The transmission of any of the following from a health plan to a health care provider: '}, {'id': '162.1601(a)', 'data': '(a) The transmission of any of the following from a health plan to a health care provider: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1601(a)(2)', 'data': '(2) Information about the transfer of funds. '}
+You may now respond.

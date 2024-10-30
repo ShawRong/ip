@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)(5)(ii)(B)(2)(i)', 'data': '(i) For public health purposes pursuant to § 164.512(b) or § 164.514(e); '}, {'id': '164.512', 'data': '§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required. A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given orally. '}, {'id': '164.512(b)(1)', 'data': '(1) Permitted uses and disclosures.  A covered entity may use or disclose protected health information for the public health activities and purposes described in this paragraph to: '}, {'id': '164.512(b)(2)', 'data': '(2) Permitted uses.  If the covered entity also is a public health authority, the covered entity is permitted to use protected health information in all cases in which it is permitted to disclose such information for public health activities under paragraph (b)(1) of this section. '}, {'id': '164.512(f)(3)', 'data': '(3) Permitted disclosure: Victims of a crime.  Except for disclosures required by law as permitted by paragraph (f)(1) of this section, a covered entity may disclose protected health information in response to a law enforcement official's request for such information about an individual who is or is suspected to be a victim of a crime, other than disclosures that are subject to paragraph (b) or (c) of this section, if: '}, {'id': '164.512', 'data': '§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required. A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given orally. '}, {'id': '164.512(b)(1)', 'data': '(1) Permitted uses and disclosures.  A covered entity may use or disclose protected health information for the public health activities and purposes described in this paragraph to: '}, {'id': '164.512(b)(2)', 'data': '(2) Permitted uses.  If the covered entity also is a public health authority, the covered entity is permitted to use protected health information in all cases in which it is permitted to disclose such information for public health activities under paragraph (b)(1) of this section. '}, {'id': '164.502(a)(5)(ii)(B)(2)(i)', 'data': '(i) For public health purposes pursuant to § 164.512(b) or § 164.514(e); '}, {'id': '164.512(f)(3)', 'data': '(3) Permitted disclosure: Victims of a crime.  Except for disclosures required by law as permitted by paragraph (f)(1) of this section, a covered entity may disclose protected health information in response to a law enforcement official's request for such information about an individual who is or is suspected to be a victim of a crime, other than disclosures that are subject to paragraph (b) or (c) of this section, if: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(b)', 'data': '(b) Standard: Uses and disclosures for public health activities —'}
+You may now respond.

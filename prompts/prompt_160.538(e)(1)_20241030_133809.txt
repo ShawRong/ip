@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.538(e)', 'data': '(e) The ALJ may order witnesses excluded so that they cannot hear the testimony of other witnesses, except that the ALJ may not order to be excluded— '}, {'id': '160.538(e)', 'data': '(e) The ALJ may order witnesses excluded so that they cannot hear the testimony of other witnesses, except that the ALJ may not order to be excluded— '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.538(e)(1)', 'data': '(1) A party who is a natural person; '}
+You may now respond.

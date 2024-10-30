@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.530(i)(5)', 'data': '(5) Implementation specification: Changes to other policies or procedures.  A covered entity may change, at any time, a policy or procedure that does not materially affect the content of the notice required by § 164.520, provided that: '}, {'id': '164.530(i)(5)', 'data': '(5) Implementation specification: Changes to other policies or procedures.  A covered entity may change, at any time, a policy or procedure that does not materially affect the content of the notice required by § 164.520, provided that: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(i)(5)(i)', 'data': '(i) The policy or procedure, as revised, complies with the standards, requirements, and implementation specifications of this subpart; and '}
+You may now respond.

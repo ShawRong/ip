@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1701', 'data': '§ 162.1701 Health plan premium payments transaction. The health plan premium payment transaction is the transmission of any of the following from the entity that is arranging for the provision of health care or is providing health care coverage payments for an individual to a health plan: '}, {'id': '162.1701', 'data': '§ 162.1701 Health plan premium payments transaction. The health plan premium payment transaction is the transmission of any of the following from the entity that is arranging for the provision of health care or is providing health care coverage payments for an individual to a health plan: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1701(b)', 'data': '(b) Information about the transfer of funds. '}
+You may now respond.

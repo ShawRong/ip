@@ -1,0 +1,23 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'HIPAA', 'data': 'HIPAA Privacy Rule'}, {'id': 'Part164SubpartA', 'data': 'Subpart A—General Provisions'}, {'id': 'Part164SubpartB', 'data': 'Subpart B [Reserved]'}, {'id': 'Part164SubpartC', 'data': 'Subpart C—Security Standards for the Protection of Electronic Protected Health Information'}, {'id': 'Part164SubpartD', 'data': 'Subpart D—Notification in the Case of Breach of Unsecured Protected Health Information'}, {'id': 'Part164SubpartE', 'data': 'Subpart E—Privacy of Individually Identifiable Health Information'}, {'id': 'Part164SubpartA', 'data': 'Subpart A—General Provisions'}, {'id': 'Part164SubpartB', 'data': 'Subpart B [Reserved]'}, {'id': 'Part164SubpartC', 'data': 'Subpart C—Security Standards for the Protection of Electronic Protected Health Information'}, {'id': 'Part164SubpartD', 'data': 'Subpart D—Notification in the Case of Breach of Unsecured Protected Health Information'}, {'id': 'Part164SubpartE', 'data': 'Subpart E—Privacy of Individually Identifiable Health Information'}, {'id': 'HIPAA', 'data': 'HIPAA Privacy Rule'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part164', 'data': 'PART 164—SECURITY AND PRIVACY
+'}
+You may now respond.

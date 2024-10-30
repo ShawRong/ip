@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103', 'data': '§ 160.103 Definitions. Except as otherwise provided, the following definitions apply to this subchapter: '}, {'id': '160.103(Health%20plan)(1)', 'data': '(1) Health plan  includes the following, singly or in combination: '}, {'id': '160.103(Health%20plan)(2)', 'data': '(2) Health plan  excludes: '}, {'id': '160.103', 'data': '§ 160.103 Definitions. Except as otherwise provided, the following definitions apply to this subchapter: '}, {'id': '160.103(Health%20plan)(1)', 'data': '(1) Health plan  includes the following, singly or in combination: '}, {'id': '160.103(Health%20plan)(2)', 'data': '(2) Health plan  excludes: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Health%20plan)', 'data': 'Health plan   means an individual or group plan that provides, or pays the cost of, medical care (as defined in section 2791(a)(2) of the PHS Act, 42 U.S.C. 300gg–91(a)(2)). '}
+You may now respond.

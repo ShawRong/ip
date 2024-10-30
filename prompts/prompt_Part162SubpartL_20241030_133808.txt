@@ -1,0 +1,24 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.1201', 'data': '§ 162.1201 Eligibility for a health plan transaction. The eligibility for a health plan transaction is the transmission of either of the following: '}, {'id': '162.1202', 'data': '§ 162.1202 Standards for eligibility for a health plan transaction. The Secretary adopts the following standards for the eligibility for a health plan transaction: '}, {'id': '162.1203', 'data': '§ 162.1203 Operating rules for eligibility for a health plan transaction. On and after January 1, 2013, the Secretary adopts the following: '}, {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.1201', 'data': '§ 162.1201 Eligibility for a health plan transaction. The eligibility for a health plan transaction is the transmission of either of the following: '}, {'id': '162.1202', 'data': '§ 162.1202 Standards for eligibility for a health plan transaction. The Secretary adopts the following standards for the eligibility for a health plan transaction: '}, {'id': '162.1203', 'data': '§ 162.1203 Operating rules for eligibility for a health plan transaction. On and after January 1, 2013, the Secretary adopts the following: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part162SubpartL', 'data': 'Subpart L—Eligibility for a Health Plan'}
+You may now respond.

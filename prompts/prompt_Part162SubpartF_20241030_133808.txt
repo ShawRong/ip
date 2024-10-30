@@ -1,0 +1,24 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.600', 'data': '§ 162.600 Compliance dates of the implementation of the standard unique employer identifier.'}, {'id': '162.605', 'data': '§ 162.605 Standard unique employer identifier. The Secretary adopts the EIN as the standard unique employer identifier provided for by 42 U.S.C. 1320d–2(b). '}, {'id': '162.610', 'data': '§ 162.610 Implementation specifications for covered entities.'}, {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.600', 'data': '§ 162.600 Compliance dates of the implementation of the standard unique employer identifier.'}, {'id': '162.605', 'data': '§ 162.605 Standard unique employer identifier. The Secretary adopts the EIN as the standard unique employer identifier provided for by 42 U.S.C. 1320d–2(b). '}, {'id': '162.610', 'data': '§ 162.610 Implementation specifications for covered entities.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part162SubpartF', 'data': 'Subpart F—Standard Unique Employer Identifier'}
+You may now respond.

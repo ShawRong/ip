@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.410(b)', 'data': '(b) For violations occurring prior to February 18, 2009, the Secretary may not impose a civil money penalty on a covered entity for a violation if the covered entity establishes that an affirmative defense exists with respect to the violation, including the following: '}, {'id': '160.504(c)', 'data': '(c) The request for a hearing must clearly and directly admit, deny, or explain each of the findings of fact contained in the notice of proposed determination with regard to which the respondent has any knowledge. If the respondent has no knowledge of a particular finding of fact and so states, the finding shall be deemed denied. The request for a hearing must also state the circumstances or arguments that the respondent alleges constitute the grounds for any defense and the factual and legal basis for opposing the penalty, except that a respondent may raise an affirmative defense under § 160.410(b)(1) at any time. '}, {'id': '160.410(b)', 'data': '(b) For violations occurring prior to February 18, 2009, the Secretary may not impose a civil money penalty on a covered entity for a violation if the covered entity establishes that an affirmative defense exists with respect to the violation, including the following: '}, {'id': '160.504(c)', 'data': '(c) The request for a hearing must clearly and directly admit, deny, or explain each of the findings of fact contained in the notice of proposed determination with regard to which the respondent has any knowledge. If the respondent has no knowledge of a particular finding of fact and so states, the finding shall be deemed denied. The request for a hearing must also state the circumstances or arguments that the respondent alleges constitute the grounds for any defense and the factual and legal basis for opposing the penalty, except that a respondent may raise an affirmative defense under § 160.410(b)(1) at any time. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.410(b)(1)', 'data': '(1) The covered entity establishes, to the satisfaction of the Secretary, that it did not have knowledge of the violation, determined in accordance with the Federal common law of agency, and by exercising reasonable diligence, would not have known that the violation occurred; or '}
+You may now respond.

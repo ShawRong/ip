@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.920(a)', 'data': '(a) ASC X12N specifications and the ASC X12 Standards for Electronic Data Interchange Technical Report Type 3.  The implementation specifications for the ASC X12N and the ASC X12 Standards for Electronic Data Interchange Technical Report Type 3 (and accompanying Errata or Type 1 Errata) may be obtained from the ASC X12, 7600 Leesburg Pike, Suite 430, Falls Church, VA 22043; Telephone (703) 970–4480; and FAX (703) 970–4488. They are also available through the internet at http://www.X12.org. A fee is charged for all implementation specifications, including Technical Reports Type 3. Charging for such publications is consistent with the policies of other publishers of standards. The transaction implementation specifications are as follows: '}, {'id': '162.1502', 'data': '§ 162.1502 Standards for enrollment and disenrollment in a health plan transaction. The Secretary adopts the following standards for enrollment and disenrollment in a health plan transaction. '}, {'id': '162.920(a)', 'data': '(a) ASC X12N specifications and the ASC X12 Standards for Electronic Data Interchange Technical Report Type 3.  The implementation specifications for the ASC X12N and the ASC X12 Standards for Electronic Data Interchange Technical Report Type 3 (and accompanying Errata or Type 1 Errata) may be obtained from the ASC X12, 7600 Leesburg Pike, Suite 430, Falls Church, VA 22043; Telephone (703) 970–4480; and FAX (703) 970–4488. They are also available through the internet at http://www.X12.org. A fee is charged for all implementation specifications, including Technical Reports Type 3. Charging for such publications is consistent with the policies of other publishers of standards. The transaction implementation specifications are as follows: '}, {'id': '162.1502', 'data': '§ 162.1502 Standards for enrollment and disenrollment in a health plan transaction. The Secretary adopts the following standards for enrollment and disenrollment in a health plan transaction. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.920(a)(5)', 'data': '(5) ASC X12N 834—Benefit Enrollment and Maintenance, Version 4010, May 2000, Washington Publishing Company, 004010X095 and Addenda to Benefit Enrollment and Maintenance, Version 4010, October 2002, Washington Publishing Company, 004010X095A1, as referenced in § 162.1502. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.306(d)(3)', 'data': '(3) When a standard adopted in § 164.308, § 164.310, § 164.312, § 164.314, or § 164.316 includes addressable implementation specifications, a covered entity or business associate must— '}, {'id': '164.306(d)(3)(ii)(A)', 'data': '(A) Implement the implementation specification if reasonable and appropriate; or '}, {'id': '164.306(d)(3)(ii)(B)', 'data': '(B) If implementing the implementation specification is not reasonable and appropriate—  $(1) Document why it would not be reasonable and appropriate to implement the implementation specification; and  $(2) Implement an equivalent alternative measure if reasonable and appropriate. '}, {'id': '164.306(d)(3)', 'data': '(3) When a standard adopted in § 164.308, § 164.310, § 164.312, § 164.314, or § 164.316 includes addressable implementation specifications, a covered entity or business associate must— '}, {'id': '164.306(d)(3)(ii)(A)', 'data': '(A) Implement the implementation specification if reasonable and appropriate; or '}, {'id': '164.306(d)(3)(ii)(B)', 'data': '(B) If implementing the implementation specification is not reasonable and appropriate—  $(1) Document why it would not be reasonable and appropriate to implement the implementation specification; and  $(2) Implement an equivalent alternative measure if reasonable and appropriate. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.306(d)(3)(ii)', 'data': '(ii) As applicable to the covered entity or business associate— '}
+You may now respond.

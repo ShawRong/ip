@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.404(a)', 'data': '(a) Standard —'}, {'id': '164.408', 'data': '§ 164.408 Notification to the Secretary.'}, {'id': '164.408(a)', 'data': '(a) Standard.  A covered entity shall, following the discovery of a breach of unsecured protected health information as provided in § 164.404(a)(2), notify the Secretary. '}, {'id': '164.412', 'data': '§ 164.412 Law enforcement delay. If a law enforcement official states to a covered entity or business associate that a notification, notice, or posting required under this subpart would impede a criminal investigation or cause damage to national security, a covered entity or business associate shall: '}, {'id': '164.408', 'data': '§ 164.408 Notification to the Secretary.'}, {'id': '164.412', 'data': '§ 164.412 Law enforcement delay. If a law enforcement official states to a covered entity or business associate that a notification, notice, or posting required under this subpart would impede a criminal investigation or cause damage to national security, a covered entity or business associate shall: '}, {'id': '164.408(a)', 'data': '(a) Standard.  A covered entity shall, following the discovery of a breach of unsecured protected health information as provided in § 164.404(a)(2), notify the Secretary. '}, {'id': '164.404(a)', 'data': '(a) Standard —'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.408(b)', 'data': '(b) Implementation specifications: Breaches involving 500 or more individuals.  For breaches of unsecured protected health information involving 500 or more individuals, a covered entity shall, except as provided in § 164.412, provide the notification required by paragraph (a) of this section contemporaneously with the notice required by § 164.404(a) and in the manner specified on the HHS Web site. '}
+You may now respond.

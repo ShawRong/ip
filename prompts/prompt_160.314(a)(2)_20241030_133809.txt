@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.314(a)', 'data': '(a) The Secretary may issue subpoenas in accordance with 42 U.S.C. 405(d) and (e), 1320a–7a(j), and 1320d–5 to require the attendance and testimony of witnesses and the production of any other evidence during an investigation or compliance review pursuant to this part. For purposes of this paragraph, a person other than a natural person is termed an “entity.” '}, {'id': '160.314(a)(2)(i)', 'data': '(i) Delivering a copy to the natural person named in the subpoena or to the entity named in the subpoena at its last principal place of business; or '}, {'id': '160.314(a)(2)(ii)', 'data': '(ii) Registered or certified mail addressed to the natural person at his or her last known dwelling place or to the entity at its last known principal place of business. '}, {'id': '160.314(a)', 'data': '(a) The Secretary may issue subpoenas in accordance with 42 U.S.C. 405(d) and (e), 1320a–7a(j), and 1320d–5 to require the attendance and testimony of witnesses and the production of any other evidence during an investigation or compliance review pursuant to this part. For purposes of this paragraph, a person other than a natural person is termed an “entity.” '}, {'id': '160.314(a)(2)(i)', 'data': '(i) Delivering a copy to the natural person named in the subpoena or to the entity named in the subpoena at its last principal place of business; or '}, {'id': '160.314(a)(2)(ii)', 'data': '(ii) Registered or certified mail addressed to the natural person at his or her last known dwelling place or to the entity at its last known principal place of business. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.314(a)(2)', 'data': '(2) A subpoena under this section must be served by— '}
+You may now respond.

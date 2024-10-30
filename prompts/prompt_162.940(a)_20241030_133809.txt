@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.940', 'data': '§ 162.940 Exceptions from standards to permit testing of proposed modifications.'}, {'id': '162.940(a)(1)', 'data': '(1) Comparison to a current standard.  Provide a detailed explanation, no more than 10 pages in length, of how the proposed modification would be a significant improvement to the current standard in terms of the following principles: '}, {'id': '162.940(a)(2)', 'data': '(2) Specifications for the proposed modification.  Provide specifications for the proposed modification, including any additional system requirements. '}, {'id': '162.940(a)(3)', 'data': '(3) Testing of the proposed modification.  Provide an explanation, no more than 5 pages in length, of how the organization intends to test the standard, including the number and types of health plans and health care providers expected to be involved in the test, geographical areas, and beginning and ending dates of the test. '}, {'id': '162.940(a)(4)', 'data': '(4) Trading partner concurrences.  Provide written concurrences from trading partners who would agree to participate in the test. '}, {'id': '162.940', 'data': '§ 162.940 Exceptions from standards to permit testing of proposed modifications.'}, {'id': '162.940(a)(1)', 'data': '(1) Comparison to a current standard.  Provide a detailed explanation, no more than 10 pages in length, of how the proposed modification would be a significant improvement to the current standard in terms of the following principles: '}, {'id': '162.940(a)(2)', 'data': '(2) Specifications for the proposed modification.  Provide specifications for the proposed modification, including any additional system requirements. '}, {'id': '162.940(a)(3)', 'data': '(3) Testing of the proposed modification.  Provide an explanation, no more than 5 pages in length, of how the organization intends to test the standard, including the number and types of health plans and health care providers expected to be involved in the test, geographical areas, and beginning and ending dates of the test. '}, {'id': '162.940(a)(4)', 'data': '(4) Trading partner concurrences.  Provide written concurrences from trading partners who would agree to participate in the test. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.940(a)', 'data': '(a) Requests for an exception.  An organization may request an exception from the use of a standard from the Secretary to test a proposed modification to that standard. For each proposed modification, the organization must meet the following requirements: '}
+You may now respond.

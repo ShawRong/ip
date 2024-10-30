@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1301', 'data': '§ 162.1301 Referral certification and authorization transaction. The referral certification and authorization transaction is any of the following transmissions: '}, {'id': '162.1301', 'data': '§ 162.1301 Referral certification and authorization transaction. The referral certification and authorization transaction is any of the following transmissions: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1301(a)', 'data': '(a) A request from a health care provider to a health plan for the review of health care to obtain an authorization for the health care. '}
+You may now respond.

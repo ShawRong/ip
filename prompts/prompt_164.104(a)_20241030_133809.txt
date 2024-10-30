@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.104', 'data': '§ 164.104 Applicability.'}, {'id': '164.104(a)(1)', 'data': '(1) A health plan. '}, {'id': '164.104(a)(2)', 'data': '(2) A health care clearinghouse. '}, {'id': '164.104(a)(3)', 'data': '(3) A health care provider who transmits any health information in electronic form in connection with a transaction covered by this subchapter. '}, {'id': '164.104', 'data': '§ 164.104 Applicability.'}, {'id': '164.104(a)(1)', 'data': '(1) A health plan. '}, {'id': '164.104(a)(2)', 'data': '(2) A health care clearinghouse. '}, {'id': '164.104(a)(3)', 'data': '(3) A health care provider who transmits any health information in electronic form in connection with a transaction covered by this subchapter. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.104(a)', 'data': '(a) Except as otherwise provided, the standards, requirements, and implementation specifications adopted under this part apply to the following entities: '}
+You may now respond.

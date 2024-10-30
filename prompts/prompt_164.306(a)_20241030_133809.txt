@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.306', 'data': '§ 164.306 Security standards: General rules.'}, {'id': '164.306(a)(1)', 'data': '(1) Ensure the confidentiality, integrity, and availability of all electronic protected health information the covered entity or business associate creates, receives, maintains, or transmits. '}, {'id': '164.306(a)(2)', 'data': '(2) Protect against any reasonably anticipated threats or hazards to the security or integrity of such information. '}, {'id': '164.306(a)(3)', 'data': '(3) Protect against any reasonably anticipated uses or disclosures of such information that are not permitted or required under subpart E of this part. '}, {'id': '164.306(a)(4)', 'data': '(4) Ensure compliance with this subpart by its workforce. '}, {'id': '164.308(a)(1)(ii)(B)', 'data': '(B) Risk management (Required).  Implement security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to comply with § 164.306(a). '}, {'id': '164.306', 'data': '§ 164.306 Security standards: General rules.'}, {'id': '164.306(a)(1)', 'data': '(1) Ensure the confidentiality, integrity, and availability of all electronic protected health information the covered entity or business associate creates, receives, maintains, or transmits. '}, {'id': '164.306(a)(2)', 'data': '(2) Protect against any reasonably anticipated threats or hazards to the security or integrity of such information. '}, {'id': '164.306(a)(3)', 'data': '(3) Protect against any reasonably anticipated uses or disclosures of such information that are not permitted or required under subpart E of this part. '}, {'id': '164.306(a)(4)', 'data': '(4) Ensure compliance with this subpart by its workforce. '}, {'id': '164.308(a)(1)(ii)(B)', 'data': '(B) Risk management (Required).  Implement security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to comply with § 164.306(a). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.306(a)', 'data': '(a) General requirements.  Covered entities and business associates must do the following: '}
+You may now respond.

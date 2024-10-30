@@ -1,0 +1,24 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.1701', 'data': '§ 162.1701 Health plan premium payments transaction. The health plan premium payment transaction is the transmission of any of the following from the entity that is arranging for the provision of health care or is providing health care coverage payments for an individual to a health plan: '}, {'id': '162.1702', 'data': '§ 162.1702 Standards for health plan premium payments transaction. The Secretary adopts the following standards for the health plan premium payments transaction: '}, {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.1701', 'data': '§ 162.1701 Health plan premium payments transaction. The health plan premium payment transaction is the transmission of any of the following from the entity that is arranging for the provision of health care or is providing health care coverage payments for an individual to a health plan: '}, {'id': '162.1702', 'data': '§ 162.1702 Standards for health plan premium payments transaction. The Secretary adopts the following standards for the health plan premium payments transaction: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part162SubpartQ', 'data': 'Subpart Q—Health Plan Premium Payments'}
+You may now respond.

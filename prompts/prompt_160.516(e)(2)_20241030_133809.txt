@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.516(e)', 'data': '(e) '}, {'id': '160.516(e)(2)(i)', 'data': '(i) Is irrelevant; '}, {'id': '160.516(e)(2)(ii)', 'data': '(ii) Is unduly costly or burdensome; '}, {'id': '160.516(e)(2)(iii)', 'data': '(iii) Will unduly delay the proceeding; or '}, {'id': '160.516(e)(2)(iv)', 'data': '(iv) Seeks privileged information. '}, {'id': '160.516(e)', 'data': '(e) '}, {'id': '160.516(e)(2)(i)', 'data': '(i) Is irrelevant; '}, {'id': '160.516(e)(2)(ii)', 'data': '(ii) Is unduly costly or burdensome; '}, {'id': '160.516(e)(2)(iii)', 'data': '(iii) Will unduly delay the proceeding; or '}, {'id': '160.516(e)(2)(iv)', 'data': '(iv) Seeks privileged information. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.516(e)(2)', 'data': '(2) The ALJ may grant a motion for protective order or deny a motion for an order compelling discovery if the ALJ finds that the discovery sought— '}
+You may now respond.

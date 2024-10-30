@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.524', 'data': '§ 164.524 Access of individuals to protected health information.'}, {'id': '164.524(b)(1)', 'data': '(1) Individual's request for access.  The covered entity must permit an individual to request access to inspect or to obtain a copy of the protected health information about the individual that is maintained in a designated record set. The covered entity may require individuals to make requests for access in writing, provided that it informs individuals of such a requirement. '}, {'id': '164.524(b)(2)', 'data': '(2) Timely action by the covered entity. '}, {'id': '164.524', 'data': '§ 164.524 Access of individuals to protected health information.'}, {'id': '164.524(b)(1)', 'data': '(1) Individual's request for access.  The covered entity must permit an individual to request access to inspect or to obtain a copy of the protected health information about the individual that is maintained in a designated record set. The covered entity may require individuals to make requests for access in writing, provided that it informs individuals of such a requirement. '}, {'id': '164.524(b)(2)', 'data': '(2) Timely action by the covered entity. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.524(b)', 'data': '(b) Implementation specifications: Requests for access and timely action —'}
+You may now respond.

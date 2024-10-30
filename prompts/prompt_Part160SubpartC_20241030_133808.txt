@@ -1,0 +1,24 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160', 'data': 'PART 160—GENERAL ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '160.300', 'data': '§ 160.300 Applicability. This subpart applies to actions by the Secretary, covered entities, business associates, and others with respect to ascertaining the compliance by covered entities and business associates with, and the enforcement of, the applicable provisions of this part 160 and parts 162 and 164 of this subchapter. '}, {'id': '160.302', 'data': '§ 160.302 [Reserved]'}, {'id': '160.304', 'data': '§ 160.304 Principles for achieving compliance.'}, {'id': '160.306', 'data': '§ 160.306 Complaints to the Secretary.'}, {'id': '160.308', 'data': '§ 160.308 Compliance reviews.'}, {'id': '160.310', 'data': '§ 160.310 Responsibilities of covered entities and business associates.'}, {'id': '160.312', 'data': '§ 160.312 Secretarial action regarding complaints and compliance reviews.'}, {'id': '160.314', 'data': '§ 160.314 Investigational subpoenas and inquiries.'}, {'id': '160.316', 'data': '§ 160.316 Refraining from intimidation or retaliation. A covered entity or business associate may not threaten, intimidate, coerce, harass, discriminate against, or take any other retaliatory action against any individual or other person for— '}, {'id': 'Part160', 'data': 'PART 160—GENERAL ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '160.300', 'data': '§ 160.300 Applicability. This subpart applies to actions by the Secretary, covered entities, business associates, and others with respect to ascertaining the compliance by covered entities and business associates with, and the enforcement of, the applicable provisions of this part 160 and parts 162 and 164 of this subchapter. '}, {'id': '160.302', 'data': '§ 160.302 [Reserved]'}, {'id': '160.304', 'data': '§ 160.304 Principles for achieving compliance.'}, {'id': '160.306', 'data': '§ 160.306 Complaints to the Secretary.'}, {'id': '160.308', 'data': '§ 160.308 Compliance reviews.'}, {'id': '160.310', 'data': '§ 160.310 Responsibilities of covered entities and business associates.'}, {'id': '160.312', 'data': '§ 160.312 Secretarial action regarding complaints and compliance reviews.'}, {'id': '160.314', 'data': '§ 160.314 Investigational subpoenas and inquiries.'}, {'id': '160.316', 'data': '§ 160.316 Refraining from intimidation or retaliation. A covered entity or business associate may not threaten, intimidate, coerce, harass, discriminate against, or take any other retaliatory action against any individual or other person for— '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part160SubpartC', 'data': 'Subpart C—Compliance and Investigations'}
+You may now respond.

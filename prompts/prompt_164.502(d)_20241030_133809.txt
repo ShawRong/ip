@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502', 'data': '§ 164.502 Uses and disclosures of protected health information: General rules.'}, {'id': '164.502(d)(1)', 'data': '(1) Uses and disclosures to create de-identified information.  A covered entity may use protected health information to create information that is not individually identifiable health information or disclose protected health information only to a business associate for such purpose, whether or not the de-identified information is to be used by the covered entity. '}, {'id': '164.502(d)(2)', 'data': '(2) Uses and disclosures of de-identified information.  Health information that meets the standard and implementation specifications for de-identification under § 164.514(a) and (b) is considered not to be individually identifiable health information, i.e., de-identified. The requirements of this subpart do not apply to information that has been de-identified in accordance with the applicable requirements of § 164.514, provided that: '}, {'id': '164.502', 'data': '§ 164.502 Uses and disclosures of protected health information: General rules.'}, {'id': '164.502(d)(1)', 'data': '(1) Uses and disclosures to create de-identified information.  A covered entity may use protected health information to create information that is not individually identifiable health information or disclose protected health information only to a business associate for such purpose, whether or not the de-identified information is to be used by the covered entity. '}, {'id': '164.502(d)(2)', 'data': '(2) Uses and disclosures of de-identified information.  Health information that meets the standard and implementation specifications for de-identification under § 164.514(a) and (b) is considered not to be individually identifiable health information, i.e., de-identified. The requirements of this subpart do not apply to information that has been de-identified in accordance with the applicable requirements of § 164.514, provided that: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(d)', 'data': '(d) Standard: Uses and disclosures of de-identified protected health information —'}
+You may now respond.

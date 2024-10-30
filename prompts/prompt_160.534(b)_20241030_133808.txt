@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.534', 'data': '§ 160.534 The hearing.'}, {'id': '160.534(b)(1)', 'data': '(1) The respondent has the burden of going forward and the burden of persuasion with respect to any: '}, {'id': '160.534(b)(2)', 'data': '(2) The Secretary has the burden of going forward and the burden of persuasion with respect to all other issues, including issues of liability other than with respect to subpart D of part 164, and the existence of any factors considered aggravating factors in determining the amount of the proposed penalty. '}, {'id': '160.534(b)(3)', 'data': '(3) The burden of persuasion will be judged by a preponderance of the evidence. '}, {'id': '160.534', 'data': '§ 160.534 The hearing.'}, {'id': '160.534(b)(1)', 'data': '(1) The respondent has the burden of going forward and the burden of persuasion with respect to any: '}, {'id': '160.534(b)(2)', 'data': '(2) The Secretary has the burden of going forward and the burden of persuasion with respect to all other issues, including issues of liability other than with respect to subpart D of part 164, and the existence of any factors considered aggravating factors in determining the amount of the proposed penalty. '}, {'id': '160.534(b)(3)', 'data': '(3) The burden of persuasion will be judged by a preponderance of the evidence. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.534(b)', 'data': '(b) '}
+You may now respond.

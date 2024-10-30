@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartD', 'data': 'Subpart D—Standard Unique Health Identifier for Health Care Providers'}, {'id': 'Part162SubpartD', 'data': 'Subpart D—Standard Unique Health Identifier for Health Care Providers'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.402', 'data': '§ 162.402 [Reserved]'}
+You may now respond.

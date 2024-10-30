@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartB', 'data': 'Subpart B—Preemption of State Law'}, {'id': 'Part160SubpartB', 'data': 'Subpart B—Preemption of State Law'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.201', 'data': '§ 160.201 Statutory basis. The provisions of this subpart implement section 1178 of the Act, section 262 of Public Law 104–191, section 264(c) of Public Law 104–191, and section 13421(a) of Public Law 111–5. '}
+You may now respond.

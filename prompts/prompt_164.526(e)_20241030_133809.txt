@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.526', 'data': '§ 164.526 Amendment of protected health information.'}, {'id': '164.526(c)(1)', 'data': '(1) Making the amendment.  The covered entity must make the appropriate amendment to the protected health information or record that is the subject of the request for amendment by, at a minimum, identifying the records in the designated record set that are affected by the amendment and appending or otherwise providing a link to the location of the amendment. '}, {'id': '164.526(c)(3)', 'data': '(3) Informing others.  The covered entity must make reasonable efforts to inform and provide the amendment within a reasonable time to: '}, {'id': '164.526', 'data': '§ 164.526 Amendment of protected health information.'}, {'id': '164.526(c)(3)', 'data': '(3) Informing others.  The covered entity must make reasonable efforts to inform and provide the amendment within a reasonable time to: '}, {'id': '164.526(c)(1)', 'data': '(1) Making the amendment.  The covered entity must make the appropriate amendment to the protected health information or record that is the subject of the request for amendment by, at a minimum, identifying the records in the designated record set that are affected by the amendment and appending or otherwise providing a link to the location of the amendment. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.526(e)', 'data': '(e) Implementation specification: Actions on notices of amendment.  A covered entity that is informed by another covered entity of an amendment to an individual's protected health information, in accordance with paragraph (c)(3) of this section, must amend the protected health information in designated record sets as provided by paragraph (c)(1) of this section. '}
+You may now respond.

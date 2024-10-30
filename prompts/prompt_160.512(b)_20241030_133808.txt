@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.512', 'data': '§ 160.512 Prehearing conferences.'}, {'id': '160.512(b)(1)', 'data': '(1) Simplification of the issues; '}, {'id': '160.512(b)(2)', 'data': '(2) The necessity or desirability of amendments to the pleadings, including the need for a more definite statement; '}, {'id': '160.512(b)(3)', 'data': '(3) Stipulations and admissions of fact or as to the contents and authenticity of documents; '}, {'id': '160.512(b)(4)', 'data': '(4) Whether the parties can agree to submission of the case on a stipulated record; '}, {'id': '160.512(b)(5)', 'data': '(5) Whether a party chooses to waive appearance at an oral hearing and to submit only documentary evidence (subject to the objection of the other party) and written argument; '}, {'id': '160.512(b)(6)', 'data': '(6) Limitation of the number of witnesses; '}, {'id': '160.512(b)(7)', 'data': '(7) Scheduling dates for the exchange of witness lists and of proposed exhibits; '}, {'id': '160.512(b)(8)', 'data': '(8) Discovery of documents as permitted by this subpart; '}, {'id': '160.512(b)(9)', 'data': '(9) The time and place for the hearing; '}, {'id': '160.512(b)(10)', 'data': '(10) The potential for the settlement of the case by the parties; and '}, {'id': '160.512(b)(11)', 'data': '(11) Other matters as may tend to encourage the fair, just and expeditious disposition of the proceedings, including the protection of privacy of individually identifiable health information that may be submitted into evidence or otherwise used in the proceeding, if appropriate. '}, {'id': '160.512', 'data': '§ 160.512 Prehearing conferences.'}, {'id': '160.512(b)(1)', 'data': '(1) Simplification of the issues; '}, {'id': '160.512(b)(2)', 'data': '(2) The necessity or desirability of amendments to the pleadings, including the need for a more definite statement; '}, {'id': '160.512(b)(3)', 'data': '(3) Stipulations and admissions of fact or as to the contents and authenticity of documents; '}, {'id': '160.512(b)(4)', 'data': '(4) Whether the parties can agree to submission of the case on a stipulated record; '}, {'id': '160.512(b)(5)', 'data': '(5) Whether a party chooses to waive appearance at an oral hearing and to submit only documentary evidence (subject to the objection of the other party) and written argument; '}, {'id': '160.512(b)(6)', 'data': '(6) Limitation of the number of witnesses; '}, {'id': '160.512(b)(7)', 'data': '(7) Scheduling dates for the exchange of witness lists and of proposed exhibits; '}, {'id': '160.512(b)(8)', 'data': '(8) Discovery of documents as permitted by this subpart; '}, {'id': '160.512(b)(9)', 'data': '(9) The time and place for the hearing; '}, {'id': '160.512(b)(10)', 'data': '(10) The potential for the settlement of the case by the parties; and '}, {'id': '160.512(b)(11)', 'data': '(11) Other matters as may tend to encourage the fair, just and expeditious disposition of the proceedings, including the protection of privacy of individually identifiable health information that may be submitted into evidence or otherwise used in the proceeding, if appropriate. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.512(b)', 'data': '(b) The ALJ may use prehearing conferences to discuss the following— '}
+You may now respond.

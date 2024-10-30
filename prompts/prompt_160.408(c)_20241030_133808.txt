@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.408', 'data': '§ 160.408 Factors considered in determining the amount of a civil money penalty. In determining the amount of any civil money penalty, the Secretary will consider the following factors, which may be mitigating or aggravating as appropriate: '}, {'id': '160.408(c)(1)', 'data': '(1) Whether the current violation is the same or similar to previous indications of noncompliance; '}, {'id': '160.408(c)(2)', 'data': '(2) Whether and to what extent the covered entity or business associate has attempted to correct previous indications of noncompliance; '}, {'id': '160.408(c)(3)', 'data': '(3) How the covered entity or business associate has responded to technical assistance from the Secretary provided in the context of a compliance effort; and '}, {'id': '160.408(c)(4)', 'data': '(4) How the covered entity or business associate has responded to prior complaints; '}, {'id': '160.408', 'data': '§ 160.408 Factors considered in determining the amount of a civil money penalty. In determining the amount of any civil money penalty, the Secretary will consider the following factors, which may be mitigating or aggravating as appropriate: '}, {'id': '160.408(c)(1)', 'data': '(1) Whether the current violation is the same or similar to previous indications of noncompliance; '}, {'id': '160.408(c)(2)', 'data': '(2) Whether and to what extent the covered entity or business associate has attempted to correct previous indications of noncompliance; '}, {'id': '160.408(c)(3)', 'data': '(3) How the covered entity or business associate has responded to technical assistance from the Secretary provided in the context of a compliance effort; and '}, {'id': '160.408(c)(4)', 'data': '(4) How the covered entity or business associate has responded to prior complaints; '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.408(c)', 'data': '(c) The history of prior compliance with the administrative simplification provisions, including violations, by the covered entity or business associate, consideration of which may include but is not limited to: '}
+You may now respond.

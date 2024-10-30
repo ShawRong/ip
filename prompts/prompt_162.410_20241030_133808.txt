@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartD', 'data': 'Subpart D—Standard Unique Health Identifier for Health Care Providers'}, {'id': '162.404(a)', 'data': '(a) Health care providers.  A covered health care provider must comply with the implementation specifications in § 162.410 no later than May 23, 2007. '}, {'id': '162.406(b)(1)', 'data': '(1) The NPI must be used as stated in §§ 162.410, 162.412, and 162.414. '}, {'id': '162.410(a)', 'data': '(a) A covered entity that is a covered health care provider must: '}, {'id': '162.410(b)', 'data': '(b) An organization covered health care provider that has as a member, employs, or contracts with, an individual health care provider who is not a covered entity and is a prescriber, must require such health care provider to— '}, {'id': '162.410(c)', 'data': '(c) A health care provider that is not a covered entity may obtain, by application if necessary, an NPI from the NPS. '}, {'id': 'Part162SubpartD', 'data': 'Subpart D—Standard Unique Health Identifier for Health Care Providers'}, {'id': '162.410(a)', 'data': '(a) A covered entity that is a covered health care provider must: '}, {'id': '162.410(b)', 'data': '(b) An organization covered health care provider that has as a member, employs, or contracts with, an individual health care provider who is not a covered entity and is a prescriber, must require such health care provider to— '}, {'id': '162.410(c)', 'data': '(c) A health care provider that is not a covered entity may obtain, by application if necessary, an NPI from the NPS. '}, {'id': '162.404(a)', 'data': '(a) Health care providers.  A covered health care provider must comply with the implementation specifications in § 162.410 no later than May 23, 2007. '}, {'id': '162.406(b)(1)', 'data': '(1) The NPI must be used as stated in §§ 162.410, 162.412, and 162.414. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.410', 'data': '§ 162.410 Implementation specifications: Health care providers.'}
+You may now respond.

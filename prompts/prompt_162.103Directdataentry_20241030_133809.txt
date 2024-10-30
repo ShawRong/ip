@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.103', 'data': '§ 162.103 Definitions. For purposes of this part, the following definitions apply: '}, {'id': '162.103', 'data': '§ 162.103 Definitions. For purposes of this part, the following definitions apply: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.103Directdataentry', 'data': 'Direct data entry   means the direct entry of data (for example, using dumb terminals or web browsers) that is immediately transmitted into a health plan's computer. '}
+You may now respond.

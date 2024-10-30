@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.518(a)', 'data': '(a) The parties must exchange witness lists, copies of prior written statements of proposed witnesses, and copies of proposed hearing exhibits, including copies of any written statements that the party intends to offer in lieu of live testimony in accordance with § 160.538, not more than 60, and not less than 15, days before the scheduled hearing, except that if a respondent intends to introduce the evidence of a statistical expert, the respondent must provide the Secretarial party with a copy of the statistical expert's report not less than 30 days before the scheduled hearing. '}, {'id': '160.534(d)', 'data': '(d) '}, {'id': '160.534(d)(1)(i)', 'data': '(i) By the Secretary, unless they are material and relevant to the acts or omissions with respect to which the penalty is proposed in the notice of proposed determination pursuant to § 160.420 of this part, including circumstances that may increase penalties; or '}, {'id': '160.534(d)(1)(ii)', 'data': '(ii) By the respondent, unless they are material and relevant to an admission, denial or explanation of a finding of fact in the notice of proposed determination under § 160.420 of this part, or to a specific circumstance or argument expressly stated in the request for hearing under § 160.504, including circumstances that may reduce penalties. '}, {'id': '160.540', 'data': '§ 160.540 Evidence.'}, {'id': '160.534(d)', 'data': '(d) '}, {'id': '160.534(d)(1)(i)', 'data': '(i) By the Secretary, unless they are material and relevant to the acts or omissions with respect to which the penalty is proposed in the notice of proposed determination pursuant to § 160.420 of this part, including circumstances that may increase penalties; or '}, {'id': '160.534(d)(1)(ii)', 'data': '(ii) By the respondent, unless they are material and relevant to an admission, denial or explanation of a finding of fact in the notice of proposed determination under § 160.420 of this part, or to a specific circumstance or argument expressly stated in the request for hearing under § 160.504, including circumstances that may reduce penalties. '}, {'id': '160.518(a)', 'data': '(a) The parties must exchange witness lists, copies of prior written statements of proposed witnesses, and copies of proposed hearing exhibits, including copies of any written statements that the party intends to offer in lieu of live testimony in accordance with § 160.538, not more than 60, and not less than 15, days before the scheduled hearing, except that if a respondent intends to introduce the evidence of a statistical expert, the respondent must provide the Secretarial party with a copy of the statistical expert's report not less than 30 days before the scheduled hearing. '}, {'id': '160.540', 'data': '§ 160.540 Evidence.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.534(d)(1)', 'data': '(1) Subject to the 15-day rule under § 160.518(a) and the admissibility of evidence under § 160.540, either party may introduce, during its case in chief, items or information that arose or became known after the date of the issuance of the notice of proposed determination or the request for hearing, as applicable. Such items and information may not be admitted into evidence, if introduced— '}
+You may now respond.

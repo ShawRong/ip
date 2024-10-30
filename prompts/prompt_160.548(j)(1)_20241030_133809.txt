@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.548(i)', 'data': '(i) Within 60 days after the time for submission of briefs and reply briefs, if permitted, has expired, the Board must serve on each party to the appeal a copy of the Board's decision and a statement describing the right of any respondent who is penalized to seek judicial review. '}, {'id': '160.548(j)', 'data': '(j) '}, {'id': '160.548(j)(3)', 'data': '(3) A party may file a motion for reconsideration with the Board before the date the decision becomes final under paragraph (j)(1) of this section. A motion for reconsideration must be accompanied by a written brief specifying any alleged error of fact or law and, if the party is relying on additional evidence, explaining why the evidence was not previously available. Any party may file a brief in opposition within 15 days of receiving the motion for reconsideration and the accompanying brief unless this time limit is extended by the Board for good cause shown. Reply briefs are not permitted. '}, {'id': '160.548(j)', 'data': '(j) '}, {'id': '160.548(i)', 'data': '(i) Within 60 days after the time for submission of briefs and reply briefs, if permitted, has expired, the Board must serve on each party to the appeal a copy of the Board's decision and a statement describing the right of any respondent who is penalized to seek judicial review. '}, {'id': '160.548(j)(3)', 'data': '(3) A party may file a motion for reconsideration with the Board before the date the decision becomes final under paragraph (j)(1) of this section. A motion for reconsideration must be accompanied by a written brief specifying any alleged error of fact or law and, if the party is relying on additional evidence, explaining why the evidence was not previously available. Any party may file a brief in opposition within 15 days of receiving the motion for reconsideration and the accompanying brief unless this time limit is extended by the Board for good cause shown. Reply briefs are not permitted. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.548(j)(1)', 'data': '(1) The Board's decision under paragraph (i) of this section, including a decision to decline review of the initial decision, becomes the final decision of the Secretary 60 days after the date of service of the Board's decision, except with respect to a decision to remand to the ALJ or if reconsideration is requested under this paragraph. '}
+You may now respond.

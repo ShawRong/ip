@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1102', 'data': '§ 162.1102 Standards for health care claims or equivalent encounter information transaction. The Secretary adopts the following standards for the health care claims or equivalent encounter information transaction: '}, {'id': '162.1102(b)(2)', 'data': '(2) '}, {'id': '162.1102(b)(2)(v)(A)', 'data': '(A) The Telecommunication Standard, Implementation Guide Version 5, Release 1, September 1999. (Incorporated by reference in § 162.920.) '}, {'id': '162.1102', 'data': '§ 162.1102 Standards for health care claims or equivalent encounter information transaction. The Secretary adopts the following standards for the health care claims or equivalent encounter information transaction: '}, {'id': '162.1102(b)(2)', 'data': '(2) '}, {'id': '162.1102(b)(2)(v)(A)', 'data': '(A) The Telecommunication Standard, Implementation Guide Version 5, Release 1, September 1999. (Incorporated by reference in § 162.920.) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1102(c)', 'data': '(c) For the period on and after the January 1, 2012, the standards identified in paragraph (b)(2) of this section, except the standard identified in paragraph (b)(2)(v)(A) of this section. '}
+You may now respond.

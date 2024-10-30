@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartD', 'data': 'Subpart D—Standard Unique Health Identifier for Health Care Providers'}, {'id': '162.404(a)', 'data': '(a) Health care providers.  A covered health care provider must comply with the implementation specifications in § 162.410 no later than May 23, 2007. '}, {'id': '162.404(b)', 'data': '(b) Health plans.  A health plan must comply with the implementation specifications in § 162.412 no later than one of the following dates: '}, {'id': '162.404(c)', 'data': '(c) Health care clearinghouses.  A health care clearinghouse must comply with the implementation specifications in § 162.414 no later than May 23, 2007. '}, {'id': 'Part162SubpartD', 'data': 'Subpart D—Standard Unique Health Identifier for Health Care Providers'}, {'id': '162.404(a)', 'data': '(a) Health care providers.  A covered health care provider must comply with the implementation specifications in § 162.410 no later than May 23, 2007. '}, {'id': '162.404(b)', 'data': '(b) Health plans.  A health plan must comply with the implementation specifications in § 162.412 no later than one of the following dates: '}, {'id': '162.404(c)', 'data': '(c) Health care clearinghouses.  A health care clearinghouse must comply with the implementation specifications in § 162.414 no later than May 23, 2007. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.404', 'data': '§ 162.404 Compliance dates of the implementation of the standard unique health identifier for health care providers.'}
+You may now respond.

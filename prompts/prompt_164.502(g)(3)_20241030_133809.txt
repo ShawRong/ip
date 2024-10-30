@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(g)', 'data': '(g) '}, {'id': '164.502(g)(1)', 'data': '(1) Standard: Personal representatives.  As specified in this paragraph, a covered entity must, except as provided in paragraphs (g)(3) and (g)(5) of this section, treat a personal representative as the individual for purposes of this subchapter. '}, {'id': '164.502(g)(3)(i)', 'data': '(i) Implementation specification: Unemancipated minors.  If under applicable law a parent, guardian, or other person acting in loco parentis has authority to act on behalf of an individual who is an unemancipated minor in making decisions related to health care, a covered entity must treat such person as a personal representative under this subchapter, with respect to protected health information relevant to such personal representation, except that such person may not be a personal representative of an unemancipated minor, and the minor has the authority to act as an individual, with respect to protected health information pertaining to a health care service, if: '}, {'id': '164.502(g)(3)(ii)', 'data': '(ii) Notwithstanding the provisions of paragraph (g)(3)(i) of this section: '}, {'id': '164.502(g)', 'data': '(g) '}, {'id': '164.502(g)(3)(i)', 'data': '(i) Implementation specification: Unemancipated minors.  If under applicable law a parent, guardian, or other person acting in loco parentis has authority to act on behalf of an individual who is an unemancipated minor in making decisions related to health care, a covered entity must treat such person as a personal representative under this subchapter, with respect to protected health information relevant to such personal representation, except that such person may not be a personal representative of an unemancipated minor, and the minor has the authority to act as an individual, with respect to protected health information pertaining to a health care service, if: '}, {'id': '164.502(g)(3)(ii)', 'data': '(ii) Notwithstanding the provisions of paragraph (g)(3)(i) of this section: '}, {'id': '164.502(g)(1)', 'data': '(1) Standard: Personal representatives.  As specified in this paragraph, a covered entity must, except as provided in paragraphs (g)(3) and (g)(5) of this section, treat a personal representative as the individual for purposes of this subchapter. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(g)(3)', 'data': '(3) '}
+You may now respond.

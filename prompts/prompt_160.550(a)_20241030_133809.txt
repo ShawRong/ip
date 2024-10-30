@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.550', 'data': '§ 160.550 Stay of the Secretary's decision.'}, {'id': '160.550', 'data': '§ 160.550 Stay of the Secretary's decision.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.550(a)', 'data': '(a) Pending judicial review, the respondent may file a request for stay of the effective date of any penalty with the ALJ. The request must be accompanied by a copy of the notice of appeal filed with the Federal court. The filing of the request automatically stays the effective date of the penalty until such time as the ALJ rules upon the request. '}
+You may now respond.

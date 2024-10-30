@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.506', 'data': '§ 160.506 Rights of the parties.'}, {'id': '160.506(a)(1)', 'data': '(1) Be accompanied, represented, and advised by an attorney; '}, {'id': '160.506(a)(2)', 'data': '(2) Participate in any conference held by the ALJ; '}, {'id': '160.506(a)(3)', 'data': '(3) Conduct discovery of documents as permitted by this subpart; '}, {'id': '160.506(a)(4)', 'data': '(4) Agree to stipulations of fact or law that will be made part of the record; '}, {'id': '160.506(a)(5)', 'data': '(5) Present evidence relevant to the issues at the hearing; '}, {'id': '160.506(a)(6)', 'data': '(6) Present and cross-examine witnesses; '}, {'id': '160.506(a)(7)', 'data': '(7) Present oral arguments at the hearing as permitted by the ALJ; and '}, {'id': '160.506(a)(8)', 'data': '(8) Submit written briefs and proposed findings of fact and conclusions of law after the hearing. '}, {'id': '160.506', 'data': '§ 160.506 Rights of the parties.'}, {'id': '160.506(a)(1)', 'data': '(1) Be accompanied, represented, and advised by an attorney; '}, {'id': '160.506(a)(2)', 'data': '(2) Participate in any conference held by the ALJ; '}, {'id': '160.506(a)(3)', 'data': '(3) Conduct discovery of documents as permitted by this subpart; '}, {'id': '160.506(a)(4)', 'data': '(4) Agree to stipulations of fact or law that will be made part of the record; '}, {'id': '160.506(a)(5)', 'data': '(5) Present evidence relevant to the issues at the hearing; '}, {'id': '160.506(a)(6)', 'data': '(6) Present and cross-examine witnesses; '}, {'id': '160.506(a)(7)', 'data': '(7) Present oral arguments at the hearing as permitted by the ALJ; and '}, {'id': '160.506(a)(8)', 'data': '(8) Submit written briefs and proposed findings of fact and conclusions of law after the hearing. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.506(a)', 'data': '(a) Except as otherwise limited by this subpart, each party may— '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartD', 'data': 'Subpart D—Imposition of Civil Money Penalties'}, {'id': '160.424(a)', 'data': '(a) Once a determination of the Secretary to impose a penalty has become final, the penalty will be collected by the Secretary, subject to the first sentence of 42 U.S.C. 1320a–7a(f). '}, {'id': '160.424(b)', 'data': '(b) The penalty may be recovered in a civil action brought in the United States district court for the district where the respondent resides, is found, or is located. '}, {'id': '160.424(c)', 'data': '(c) The amount of a penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sum then or later owing by the United States, or by a State agency, to the respondent. '}, {'id': '160.424(d)', 'data': '(d) Matters that were raised or that could have been raised in a hearing before an ALJ, or in an appeal under 42 U.S.C. 1320a–7a(e), may not be raised as a defense in a civil action by the United States to collect a penalty under this part. '}, {'id': 'Part160SubpartD', 'data': 'Subpart D—Imposition of Civil Money Penalties'}, {'id': '160.424(a)', 'data': '(a) Once a determination of the Secretary to impose a penalty has become final, the penalty will be collected by the Secretary, subject to the first sentence of 42 U.S.C. 1320a–7a(f). '}, {'id': '160.424(b)', 'data': '(b) The penalty may be recovered in a civil action brought in the United States district court for the district where the respondent resides, is found, or is located. '}, {'id': '160.424(c)', 'data': '(c) The amount of a penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sum then or later owing by the United States, or by a State agency, to the respondent. '}, {'id': '160.424(d)', 'data': '(d) Matters that were raised or that could have been raised in a hearing before an ALJ, or in an appeal under 42 U.S.C. 1320a–7a(e), may not be raised as a defense in a civil action by the United States to collect a penalty under this part. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.424', 'data': '§ 160.424 Collection of penalty.'}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)(5)(ii)(B)(2)', 'data': '(2) Sale of protected health information does not include a disclosure of protected health information: '}, {'id': '164.502(e)', 'data': '(e) '}, {'id': '164.504(e)', 'data': '(e) '}, {'id': '164.502(a)(5)(ii)(B)(2)', 'data': '(2) Sale of protected health information does not include a disclosure of protected health information: '}, {'id': '164.502(e)', 'data': '(e) '}, {'id': '164.504(e)', 'data': '(e) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(a)(5)(ii)(B)(2)(v)', 'data': '(v) To or by a business associate for activities that the business associate undertakes on behalf of a covered entity, or on behalf of a business associate in the case of a subcontractor, pursuant to §§ 164.502(e) and 164.504(e), and the only remuneration provided is by the covered entity to the business associate, or by the business associate to the subcontractor, if applicable, for the performance of such activities; '}
+You may now respond.

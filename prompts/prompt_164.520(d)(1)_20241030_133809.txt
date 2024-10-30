@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.520(d)', 'data': '(d) Implementation specifications: Joint notice by separate covered entities.  Covered entities that participate in organized health care arrangements may comply with this section by a joint notice, provided that: '}, {'id': '164.520(d)', 'data': '(d) Implementation specifications: Joint notice by separate covered entities.  Covered entities that participate in organized health care arrangements may comply with this section by a joint notice, provided that: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.520(d)(1)', 'data': '(1) The covered entities participating in the organized health care arrangement agree to abide by the terms of the notice with respect to protected health information created or received by the covered entity as part of its participation in the organized health care arrangement; '}
+You may now respond.

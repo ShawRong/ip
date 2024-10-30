@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.508', 'data': '§ 160.508 Authority of the ALJ.'}, {'id': '160.508(c)(1)', 'data': '(1) May not find invalid or refuse to follow Federal statutes, regulations, or Secretarial delegations of authority and must give deference to published guidance to the extent not inconsistent with statute or regulation; '}, {'id': '160.508(c)(2)', 'data': '(2) May not enter an order in the nature of a directed verdict; '}, {'id': '160.508(c)(3)', 'data': '(3) May not compel settlement negotiations; '}, {'id': '160.508(c)(4)', 'data': '(4) May not enjoin any act of the Secretary; or '}, {'id': '160.508(c)(5)', 'data': '(5) May not review the exercise of discretion by the Secretary with respect to whether to grant an extension under § 160.410(b)(2)(ii)(B) or (c)(2)(ii) of this part or to provide technical assistance under 42 U.S.C. 1320d–5(b)(2)(B). '}, {'id': '160.508', 'data': '§ 160.508 Authority of the ALJ.'}, {'id': '160.508(c)(1)', 'data': '(1) May not find invalid or refuse to follow Federal statutes, regulations, or Secretarial delegations of authority and must give deference to published guidance to the extent not inconsistent with statute or regulation; '}, {'id': '160.508(c)(2)', 'data': '(2) May not enter an order in the nature of a directed verdict; '}, {'id': '160.508(c)(3)', 'data': '(3) May not compel settlement negotiations; '}, {'id': '160.508(c)(4)', 'data': '(4) May not enjoin any act of the Secretary; or '}, {'id': '160.508(c)(5)', 'data': '(5) May not review the exercise of discretion by the Secretary with respect to whether to grant an extension under § 160.410(b)(2)(ii)(B) or (c)(2)(ii) of this part or to provide technical assistance under 42 U.S.C. 1320d–5(b)(2)(B). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.508(c)', 'data': '(c) The ALJ— '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartC', 'data': 'Subpart C—Compliance and Investigations'}, {'id': '160.316(a)', 'data': '(a) Filing of a complaint under § 160.306; '}, {'id': '160.316(b)', 'data': '(b) Testifying, assisting, or participating in an investigation, compliance review, proceeding, or hearing under this part; or '}, {'id': '160.316(c)', 'data': '(c) Opposing any act or practice made unlawful by this subchapter, provided the individual or person has a good faith belief that the practice opposed is unlawful, and the manner of opposition is reasonable and does not involve a disclosure of protected health information in violation of subpart E of part 164 of this subchapter. '}, {'id': '164.530(g)(2)', 'data': '(2) Must refrain from intimidation and retaliation as provided in § 160.316 of this subchapter. '}, {'id': 'Part160SubpartC', 'data': 'Subpart C—Compliance and Investigations'}, {'id': '160.316(a)', 'data': '(a) Filing of a complaint under § 160.306; '}, {'id': '160.316(b)', 'data': '(b) Testifying, assisting, or participating in an investigation, compliance review, proceeding, or hearing under this part; or '}, {'id': '160.316(c)', 'data': '(c) Opposing any act or practice made unlawful by this subchapter, provided the individual or person has a good faith belief that the practice opposed is unlawful, and the manner of opposition is reasonable and does not involve a disclosure of protected health information in violation of subpart E of part 164 of this subchapter. '}, {'id': '164.530(g)(2)', 'data': '(2) Must refrain from intimidation and retaliation as provided in § 160.316 of this subchapter. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.316', 'data': '§ 160.316 Refraining from intimidation or retaliation. A covered entity or business associate may not threaten, intimidate, coerce, harass, discriminate against, or take any other retaliatory action against any individual or other person for— '}
+You may now respond.

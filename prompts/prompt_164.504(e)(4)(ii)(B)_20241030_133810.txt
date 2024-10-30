@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.504(e)(4)(ii)', 'data': '(ii) The contract or other arrangement between the covered entity and the business associate may permit the business associate to disclose the protected health information received by the business associate in its capacity as a business associate for the purposes described in paragraph (e)(4)(i) of this section, if: '}, {'id': '164.504(e)(4)(ii)(B)(1)', 'data': '(1) The business associate obtains reasonable assurances from the person to whom the information is disclosed that it will be held confidentially and used or further disclosed only as required by law or for the purposes for which it was disclosed to the person; and '}, {'id': '164.504(e)(4)(ii)(B)(2)', 'data': '(2) The person notifies the business associate of any instances of which it is aware in which the confidentiality of the information has been breached. '}, {'id': '164.504(e)(4)(ii)', 'data': '(ii) The contract or other arrangement between the covered entity and the business associate may permit the business associate to disclose the protected health information received by the business associate in its capacity as a business associate for the purposes described in paragraph (e)(4)(i) of this section, if: '}, {'id': '164.504(e)(4)(ii)(B)(1)', 'data': '(1) The business associate obtains reasonable assurances from the person to whom the information is disclosed that it will be held confidentially and used or further disclosed only as required by law or for the purposes for which it was disclosed to the person; and '}, {'id': '164.504(e)(4)(ii)(B)(2)', 'data': '(2) The person notifies the business associate of any instances of which it is aware in which the confidentiality of the information has been breached. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.504(e)(4)(ii)(B)', 'data': '(B) '}
+You may now respond.

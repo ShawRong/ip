@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.308(a)', 'data': '(a) A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.308(a)(6)(i)', 'data': '(i) Standard: Security incident procedures.  Implement policies and procedures to address security incidents. '}, {'id': '164.308(a)(6)(ii)', 'data': '(ii) Implementation specification: Response and reporting (Required).  Identify and respond to suspected or known security incidents; mitigate, to the extent practicable, harmful effects of security incidents that are known to the covered entity or business associate; and document security incidents and their outcomes. '}, {'id': '164.308(a)', 'data': '(a) A covered entity or business associate must, in accordance with § 164.306: '}, {'id': '164.308(a)(6)(i)', 'data': '(i) Standard: Security incident procedures.  Implement policies and procedures to address security incidents. '}, {'id': '164.308(a)(6)(ii)', 'data': '(ii) Implementation specification: Response and reporting (Required).  Identify and respond to suspected or known security incidents; mitigate, to the extent practicable, harmful effects of security incidents that are known to the covered entity or business associate; and document security incidents and their outcomes. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.308(a)(6)', 'data': '(6) '}
+You may now respond.

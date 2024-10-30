@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103(Health%20plan)(2)(ii)', 'data': '(ii) A government-funded program (other than one listed in paragraph (1)(i)–(xvi) of this definition): '}, {'id': '160.103(Health%20plan)(2)(ii)', 'data': '(ii) A government-funded program (other than one listed in paragraph (1)(i)–(xvi) of this definition): '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Health%20plan)(2)(ii)(A)', 'data': '(A) Whose principal purpose is other than providing, or paying the cost of, health care; or '}
+You may now respond.

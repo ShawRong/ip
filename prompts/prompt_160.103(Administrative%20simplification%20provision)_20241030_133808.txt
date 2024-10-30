@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103', 'data': '§ 160.103 Definitions. Except as otherwise provided, the following definitions apply to this subchapter: '}, {'id': '160.103(Administrative%20simplification%20provision)(1)', 'data': '(1) 42 U.S.C. 1320d–1320d–4, 1320d–7, 1320d–8, and 1320d–9; '}, {'id': '160.103(Administrative%20simplification%20provision)(2)', 'data': '(2) Section 264 of Pub. L. 104–191; '}, {'id': '160.103(Administrative%20simplification%20provision)(3)', 'data': '(3) Sections 13400–13424 of Public Law 111–5; or '}, {'id': '160.103(Administrative%20simplification%20provision)(4)', 'data': '(4) This subchapter. '}, {'id': '160.103', 'data': '§ 160.103 Definitions. Except as otherwise provided, the following definitions apply to this subchapter: '}, {'id': '160.103(Administrative%20simplification%20provision)(1)', 'data': '(1) 42 U.S.C. 1320d–1320d–4, 1320d–7, 1320d–8, and 1320d–9; '}, {'id': '160.103(Administrative%20simplification%20provision)(2)', 'data': '(2) Section 264 of Pub. L. 104–191; '}, {'id': '160.103(Administrative%20simplification%20provision)(3)', 'data': '(3) Sections 13400–13424 of Public Law 111–5; or '}, {'id': '160.103(Administrative%20simplification%20provision)(4)', 'data': '(4) This subchapter. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Administrative%20simplification%20provision)', 'data': 'Administrative simplification provision   means any requirement or prohibition established by: '}
+You may now respond.

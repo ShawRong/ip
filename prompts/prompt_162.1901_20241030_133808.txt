@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartS', 'data': 'Subpart S—Medicaid Pharmacy Subrogation'}, {'id': 'Part162SubpartS', 'data': 'Subpart S—Medicaid Pharmacy Subrogation'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1901', 'data': '§ 162.1901 Medicaid pharmacy subrogation transaction. The Medicaid pharmacy subrogation transaction is the transmission of a claim from a Medicaid agency to a payer for the purpose of seeking reimbursement from the responsible health plan for a pharmacy claim the State has paid on behalf of a Medicaid recipient. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1002(a)(4)', 'data': '(4) Code on Dental Procedures and Nomenclature,  as maintained and distributed by the American Dental Association, for dental services. '}, {'id': '162.1002(a)(5)', 'data': '(5) The combination of Health Care Financing Administration Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, and Current Procedural Terminology, Fourth Edition (CPT–4), as maintained and distributed by the American Medical Association, for physician services and other health care services. These services include, but are not limited to, the following: '}, {'id': '162.1002(b)(2)', 'data': '(2) National Drug Codes (NDC),  as maintained and distributed by HHS, for reporting the following by retail pharmacies: '}, {'id': '162.1002(b)(3)', 'data': '(3) The Healthcare Common Procedure Coding System (HCPCS),  as maintained and distributed by HHS, for all other substances, equipment, supplies, or other items used in health care services, with the exception of drugs and biologics. These items include, but are not limited to, the following: '}, {'id': '162.1002(c)', 'data': '(c) For the period on and after October 1, 2015: '}, {'id': '162.1002(c)', 'data': '(c) For the period on and after October 1, 2015: '}, {'id': '162.1002(a)(4)', 'data': '(4) Code on Dental Procedures and Nomenclature,  as maintained and distributed by the American Dental Association, for dental services. '}, {'id': '162.1002(a)(5)', 'data': '(5) The combination of Health Care Financing Administration Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, and Current Procedural Terminology, Fourth Edition (CPT–4), as maintained and distributed by the American Medical Association, for physician services and other health care services. These services include, but are not limited to, the following: '}, {'id': '162.1002(b)(2)', 'data': '(2) National Drug Codes (NDC),  as maintained and distributed by HHS, for reporting the following by retail pharmacies: '}, {'id': '162.1002(b)(3)', 'data': '(3) The Healthcare Common Procedure Coding System (HCPCS),  as maintained and distributed by HHS, for all other substances, equipment, supplies, or other items used in health care services, with the exception of drugs and biologics. These items include, but are not limited to, the following: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1002(c)(1)', 'data': '(1) The code sets specified in paragraphs (a)(4), (a)(5), (b)(2), and (b)(3) of this section. '}
+You may now respond.

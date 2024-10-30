@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.205', 'data': '§ 160.205 Duration of effectiveness of exception determinations. An exception granted under this subpart remains in effect until: '}, {'id': '160.205', 'data': '§ 160.205 Duration of effectiveness of exception determinations. An exception granted under this subpart remains in effect until: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.205(b)', 'data': '(b) The Secretary revokes the exception, based on a determination that the ground supporting the need for the exception no longer exists. '}
+You may now respond.

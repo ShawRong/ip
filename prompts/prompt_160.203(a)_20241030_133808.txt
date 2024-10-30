@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.203', 'data': '§ 160.203 General rule and exceptions. A standard, requirement, or implementation specification adopted under this subchapter that is contrary to a provision of State law preempts the provision of State law. This general rule applies, except if one or more of the following conditions is met: '}, {'id': '160.203(a)(1)', 'data': '(1) Is necessary: '}, {'id': '160.203(a)(2)', 'data': '(2) Has as its principal purpose the regulation of the manufacture, registration, distribution, dispensing, or other control of any controlled substances (as defined in 21 U.S.C. 802), or that is deemed a controlled substance by State law. '}, {'id': '160.204', 'data': '§ 160.204 Process for requesting exception determinations.'}, {'id': '160.204(a)', 'data': '(a) A request to except a provision of State law from preemption under § 160.203(a) may be submitted to the Secretary. A request by a State must be submitted through its chief elected official, or his or her designee. The request must be in writing and include the following information: '}, {'id': '160.204(a)(5)', 'data': '(5) The reasons why the State law should not be preempted by the federal standard, requirement, or implementation specification, including how the State law meets one or more of the criteria at § 160.203(a); and '}, {'id': '160.204(c)', 'data': '(c) The Secretary's determination under this section will be made on the basis of the extent to which the information provided and other factors demonstrate that one or more of the criteria at § 160.203(a) has been met. '}, {'id': '160.203', 'data': '§ 160.203 General rule and exceptions. A standard, requirement, or implementation specification adopted under this subchapter that is contrary to a provision of State law preempts the provision of State law. This general rule applies, except if one or more of the following conditions is met: '}, {'id': '160.203(a)(1)', 'data': '(1) Is necessary: '}, {'id': '160.203(a)(2)', 'data': '(2) Has as its principal purpose the regulation of the manufacture, registration, distribution, dispensing, or other control of any controlled substances (as defined in 21 U.S.C. 802), or that is deemed a controlled substance by State law. '}, {'id': '160.204', 'data': '§ 160.204 Process for requesting exception determinations.'}, {'id': '160.204(a)', 'data': '(a) A request to except a provision of State law from preemption under § 160.203(a) may be submitted to the Secretary. A request by a State must be submitted through its chief elected official, or his or her designee. The request must be in writing and include the following information: '}, {'id': '160.204(a)(5)', 'data': '(5) The reasons why the State law should not be preempted by the federal standard, requirement, or implementation specification, including how the State law meets one or more of the criteria at § 160.203(a); and '}, {'id': '160.204(c)', 'data': '(c) The Secretary's determination under this section will be made on the basis of the extent to which the information provided and other factors demonstrate that one or more of the criteria at § 160.203(a) has been met. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.203(a)', 'data': '(a) A determination is made by the Secretary under § 160.204 that the provision of State law: '}
+You may now respond.

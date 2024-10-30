@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.526', 'data': '§ 160.526 Computation of time.'}, {'id': '160.526', 'data': '§ 160.526 Computation of time.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.526(b)', 'data': '(b) When the period of time allowed is less than 7 days, intermediate Saturdays, Sundays, and legal holidays observed by the Federal Government must be excluded from the computation. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.308(a)(3)(ii)', 'data': '(ii) Implementation specifications: '}, {'id': '164.308(a)(3)(ii)', 'data': '(ii) Implementation specifications: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.308(a)(3)(ii)(A)', 'data': '(A) Authorization and/or supervision (Addressable).  Implement procedures for the authorization and/or supervision of workforce members who work with electronic protected health information or in locations where it might be accessed. '}
+You may now respond.

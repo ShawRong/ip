@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.504', 'data': '§ 160.504 Hearing before an ALJ.'}, {'id': '160.504', 'data': '§ 160.504 Hearing before an ALJ.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.504(b)', 'data': '(b) The request for a hearing must be made in writing signed by the respondent or by the respondent's attorney and sent by certified mail, return receipt requested, to the address specified in the notice of proposed determination. The request for a hearing must be mailed within 90 days after notice of the proposed determination is received by the respondent. For purposes of this section, the respondent's date of receipt of the notice of proposed determination is presumed to be 5 days after the date of the notice unless the respondent makes a reasonable showing to the contrary to the ALJ. '}
+You may now respond.

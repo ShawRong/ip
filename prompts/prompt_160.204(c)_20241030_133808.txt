@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.203(a)', 'data': '(a) A determination is made by the Secretary under § 160.204 that the provision of State law: '}, {'id': '160.204', 'data': '§ 160.204 Process for requesting exception determinations.'}, {'id': '160.204', 'data': '§ 160.204 Process for requesting exception determinations.'}, {'id': '160.203(a)', 'data': '(a) A determination is made by the Secretary under § 160.204 that the provision of State law: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.204(c)', 'data': '(c) The Secretary's determination under this section will be made on the basis of the extent to which the information provided and other factors demonstrate that one or more of the criteria at § 160.203(a) has been met. '}
+You may now respond.

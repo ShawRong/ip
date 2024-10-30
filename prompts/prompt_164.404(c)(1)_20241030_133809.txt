@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.404(a)', 'data': '(a) Standard —'}, {'id': '164.404(c)', 'data': '(c) Implementation specifications: Content of notification —'}, {'id': '164.404(c)(1)(A)', 'data': '(A) A brief description of what happened, including the date of the breach and the date of the discovery of the breach, if known; '}, {'id': '164.404(c)(1)(B)', 'data': '(B) A description of the types of unsecured protected health information that were involved in the breach (such as whether full name, social security number, date of birth, home address, account number, diagnosis, disability code, or other types of information were involved); '}, {'id': '164.404(c)(1)(C)', 'data': '(C) Any steps individuals should take to protect themselves from potential harm resulting from the breach; '}, {'id': '164.404(c)(1)(D)', 'data': '(D) A brief description of what the covered entity involved is doing to investigate the breach, to mitigate harm to individuals, and to protect against any further breaches; and '}, {'id': '164.404(c)(1)(E)', 'data': '(E) Contact procedures for individuals to ask questions or learn additional information, which shall include a toll-free telephone number, an e-mail address, Web site, or postal address. '}, {'id': '164.404(c)', 'data': '(c) Implementation specifications: Content of notification —'}, {'id': '164.404(c)(1)(A)', 'data': '(A) A brief description of what happened, including the date of the breach and the date of the discovery of the breach, if known; '}, {'id': '164.404(c)(1)(B)', 'data': '(B) A description of the types of unsecured protected health information that were involved in the breach (such as whether full name, social security number, date of birth, home address, account number, diagnosis, disability code, or other types of information were involved); '}, {'id': '164.404(c)(1)(C)', 'data': '(C) Any steps individuals should take to protect themselves from potential harm resulting from the breach; '}, {'id': '164.404(c)(1)(D)', 'data': '(D) A brief description of what the covered entity involved is doing to investigate the breach, to mitigate harm to individuals, and to protect against any further breaches; and '}, {'id': '164.404(c)(1)(E)', 'data': '(E) Contact procedures for individuals to ask questions or learn additional information, which shall include a toll-free telephone number, an e-mail address, Web site, or postal address. '}, {'id': '164.404(a)', 'data': '(a) Standard —'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.404(c)(1)', 'data': '(1) Elements.  The notification required by paragraph (a) of this section shall include, to the extent possible: '}
+You may now respond.

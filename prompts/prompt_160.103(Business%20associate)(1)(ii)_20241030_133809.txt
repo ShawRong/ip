@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103(ANSI)(1)', 'data': '(1) Except as provided in paragraph (4) of this definition, business associate means, with respect to a covered entity, a person who: '}, {'id': '164.501', 'data': '§ 164.501 Definitions. As used in this subpart, the following terms have the following meanings: '}, {'id': '160.103(ANSI)(1)', 'data': '(1) Except as provided in paragraph (4) of this definition, business associate means, with respect to a covered entity, a person who: '}, {'id': '164.501', 'data': '§ 164.501 Definitions. As used in this subpart, the following terms have the following meanings: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Business%20associate)(1)(ii)', 'data': '(ii) Provides, other than in the capacity of a member of the workforce of such covered entity, legal, actuarial, accounting, consulting, data aggregation (as defined in § 164.501 of this subchapter), management, administrative, accreditation, or financial services to or for such covered entity, or to or for an organized health care arrangement in which the covered entity participates, where the provision of the service involves the disclosure of protected health information from such covered entity or arrangement, or from another business associate of such covered entity or arrangement, to the person. '}
+You may now respond.

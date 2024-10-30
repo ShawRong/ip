@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103(Organized%20health%20care%20arrangement)(2)', 'data': '(2) An organized system of health care in which more than one covered entity participates and in which the participating covered entities: '}, {'id': '160.103(Organized%20health%20care%20arrangement)(2)', 'data': '(2) An organized system of health care in which more than one covered entity participates and in which the participating covered entities: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Organized%20health%20care%20arrangement)(2)(i)', 'data': '(i) Hold themselves out to the public as participating in a joint arrangement; and '}
+You may now respond.

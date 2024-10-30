@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.524(b)(2)(i)', 'data': '(i) Except as provided in paragraph (b)(2)(ii) of this section, the covered entity must act on a request for access no later than 30 days after receipt of the request as follows. '}, {'id': '164.524(b)(2)(ii)', 'data': '(ii) If the covered entity is unable to take an action required by paragraph (b)(2)(i)(A) or (B) of this section within the time required by paragraph (b)(2)(i) of this section, as applicable, the covered entity may extend the time for such actions by no more than 30 days, provided that: '}, {'id': '164.524(c)', 'data': '(c) Implementation specifications: Provision of access.  If the covered entity provides an individual with access, in whole or in part, to protected health information, the covered entity must comply with the following requirements. '}, {'id': '164.524(b)(2)(i)', 'data': '(i) Except as provided in paragraph (b)(2)(ii) of this section, the covered entity must act on a request for access no later than 30 days after receipt of the request as follows. '}, {'id': '164.524(c)', 'data': '(c) Implementation specifications: Provision of access.  If the covered entity provides an individual with access, in whole or in part, to protected health information, the covered entity must comply with the following requirements. '}, {'id': '164.524(b)(2)(ii)', 'data': '(ii) If the covered entity is unable to take an action required by paragraph (b)(2)(i)(A) or (B) of this section within the time required by paragraph (b)(2)(i) of this section, as applicable, the covered entity may extend the time for such actions by no more than 30 days, provided that: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.524(b)(2)(i)(A)', 'data': '(A) If the covered entity grants the request, in whole or in part, it must inform the individual of the acceptance of the request and provide the access requested, in accordance with paragraph (c) of this section. '}
+You may now respond.

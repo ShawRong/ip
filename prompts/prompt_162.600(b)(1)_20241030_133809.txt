@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.600(b)', 'data': '(b) Health plans.  A health plan must comply with the requirements of this subpart no later than one of the following dates: '}, {'id': '162.600(b)', 'data': '(b) Health plans.  A health plan must comply with the requirements of this subpart no later than one of the following dates: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.600(b)(1)', 'data': '(1) Health plans other than small health plans —July 30, 2004. '}
+You may now respond.

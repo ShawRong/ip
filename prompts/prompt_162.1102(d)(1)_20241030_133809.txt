@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1102(d)', 'data': '(d) For the period on and after September 21, 2020, the Quantity Prescribed (460–ET) field, as set forth in the Telecommunication Standard Implementation Guide, Version D, Release 0 (Version D.0), August 2007 and equivalent Batch Standard Implementation Guide, Version 1, Release 2 (Version 1.2), National Council for Prescription Drug Programs, must be treated as required where the transmission meets both of the following: '}, {'id': '162.1102(d)', 'data': '(d) For the period on and after September 21, 2020, the Quantity Prescribed (460–ET) field, as set forth in the Telecommunication Standard Implementation Guide, Version D, Release 0 (Version D.0), August 2007 and equivalent Batch Standard Implementation Guide, Version 1, Release 2 (Version 1.2), National Council for Prescription Drug Programs, must be treated as required where the transmission meets both of the following: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1102(d)(1)', 'data': '(1) Is for a Schedule II drug, as defined in 21 CFR 1308.12. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.526(b)(2)', 'data': '(2) Timely action by the covered entity. '}, {'id': '164.526(b)(2)(i)(A)', 'data': '(A) If the covered entity grants the requested amendment, in whole or in part, it must take the actions required by paragraphs (c)(1) and (2) of this section. '}, {'id': '164.526(b)(2)(i)(B)', 'data': '(B) If the covered entity denies the requested amendment, in whole or in part, it must provide the individual with a written denial, in accordance with paragraph (d)(1) of this section. '}, {'id': '164.526(b)(2)(ii)', 'data': '(ii) If the covered entity is unable to act on the amendment within the time required by paragraph (b)(2)(i) of this section, the covered entity may extend the time for such action by no more than 30 days, provided that: '}, {'id': '164.526(b)(2)(ii)(A)', 'data': '(A) The covered entity, within the time limit set by paragraph (b)(2)(i) of this section, provides the individual with a written statement of the reasons for the delay and the date by which the covered entity will complete its action on the request; and '}, {'id': '164.526(b)(2)', 'data': '(2) Timely action by the covered entity. '}, {'id': '164.526(b)(2)(i)(A)', 'data': '(A) If the covered entity grants the requested amendment, in whole or in part, it must take the actions required by paragraphs (c)(1) and (2) of this section. '}, {'id': '164.526(b)(2)(i)(B)', 'data': '(B) If the covered entity denies the requested amendment, in whole or in part, it must provide the individual with a written denial, in accordance with paragraph (d)(1) of this section. '}, {'id': '164.526(b)(2)(ii)', 'data': '(ii) If the covered entity is unable to act on the amendment within the time required by paragraph (b)(2)(i) of this section, the covered entity may extend the time for such action by no more than 30 days, provided that: '}, {'id': '164.526(b)(2)(ii)(A)', 'data': '(A) The covered entity, within the time limit set by paragraph (b)(2)(i) of this section, provides the individual with a written statement of the reasons for the delay and the date by which the covered entity will complete its action on the request; and '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.526(b)(2)(i)', 'data': '(i) The covered entity must act on the individual's request for an amendment no later than 60 days after receipt of such a request, as follows. '}
+You may now respond.

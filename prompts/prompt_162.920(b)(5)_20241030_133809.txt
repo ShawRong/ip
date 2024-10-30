@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.920(b)', 'data': '(b) Retail pharmacy specifications and Medicaid subrogation implementation guides.  The implementation specifications for the retail pharmacy standards and the implementation specifications for the batch standard for the Medicaid pharmacy subrogation transaction may be obtained from the National Council for Prescription Drug Programs, 9240 East Raintree Drive, Scottsdale, AZ 85260. Telephone (480) 477–1000; FAX (480) 767–1042. They are also available through the Internet at http://www.ncpdp.org. A fee is charged for all NCPDP Implementation Guides. Charging for such publications is consistent with the policies of other publishers of standards. The transaction implementation specifications are as follows: '}, {'id': '162.1102', 'data': '§ 162.1102 Standards for health care claims or equivalent encounter information transaction. The Secretary adopts the following standards for the health care claims or equivalent encounter information transaction: '}, {'id': '162.1202', 'data': '§ 162.1202 Standards for eligibility for a health plan transaction. The Secretary adopts the following standards for the eligibility for a health plan transaction: '}, {'id': '162.1302', 'data': '§ 162.1302 Standards for referral certification and authorization transaction. The Secretary adopts the following standards for the referral certification and authorization transaction: '}, {'id': '162.1802', 'data': '§ 162.1802 Standards for coordination of benefits information transaction. The Secretary adopts the following standards for the coordination of benefits information transaction. '}, {'id': '162.920(b)', 'data': '(b) Retail pharmacy specifications and Medicaid subrogation implementation guides.  The implementation specifications for the retail pharmacy standards and the implementation specifications for the batch standard for the Medicaid pharmacy subrogation transaction may be obtained from the National Council for Prescription Drug Programs, 9240 East Raintree Drive, Scottsdale, AZ 85260. Telephone (480) 477–1000; FAX (480) 767–1042. They are also available through the Internet at http://www.ncpdp.org. A fee is charged for all NCPDP Implementation Guides. Charging for such publications is consistent with the policies of other publishers of standards. The transaction implementation specifications are as follows: '}, {'id': '162.1102', 'data': '§ 162.1102 Standards for health care claims or equivalent encounter information transaction. The Secretary adopts the following standards for the health care claims or equivalent encounter information transaction: '}, {'id': '162.1202', 'data': '§ 162.1202 Standards for eligibility for a health plan transaction. The Secretary adopts the following standards for the eligibility for a health plan transaction: '}, {'id': '162.1302', 'data': '§ 162.1302 Standards for referral certification and authorization transaction. The Secretary adopts the following standards for the referral certification and authorization transaction: '}, {'id': '162.1802', 'data': '§ 162.1802 Standards for coordination of benefits information transaction. The Secretary adopts the following standards for the coordination of benefits information transaction. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.920(b)(5)', 'data': '(5) The Batch Standard Implementation Guide, Version 1, Release 2 (Version 1.2), January 2006, National Council for Prescription Drug Programs, as referenced in §§ 162.1102, 162.1202, 162.1302, and 162.1802. '}
+You may now respond.

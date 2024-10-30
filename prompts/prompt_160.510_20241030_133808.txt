@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.510', 'data': '§ 160.510 Ex parte contacts. No party or person (except employees of the ALJ's office) may communicate in any way with the ALJ on any matter at issue in a case, unless on notice and opportunity for both parties to participate. This provision does not prohibit a party or person from inquiring about the status of a case or asking routine questions concerning administrative functions or procedures. '}
+You may now respond.

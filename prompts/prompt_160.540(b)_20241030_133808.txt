@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.540', 'data': '§ 160.540 Evidence.'}, {'id': '160.540', 'data': '§ 160.540 Evidence.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.540(b)', 'data': '(b) Except as provided in this subpart, the ALJ is not bound by the Federal Rules of Evidence. However, the ALJ may apply the Federal Rules of Evidence where appropriate, for example, to exclude unreliable evidence. '}
+You may now respond.

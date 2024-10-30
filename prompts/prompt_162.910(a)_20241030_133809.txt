@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.910', 'data': '§ 162.910 Maintenance of standards and adoption of modifications and new standards.'}, {'id': '162.910(a)(1)', 'data': '(1) The Secretary may designate as a DSMO an organization that agrees to conduct, to the satisfaction of the Secretary, the following functions: '}, {'id': '162.910(a)(2)', 'data': '(2) The Secretary designates a DSMO by notice in the Federal Register. '}, {'id': '162.103 “Designated standard maintenance organization (DSMO)”', 'data': 'None'}, {'id': '162.910', 'data': '§ 162.910 Maintenance of standards and adoption of modifications and new standards.'}, {'id': '162.910(a)(1)', 'data': '(1) The Secretary may designate as a DSMO an organization that agrees to conduct, to the satisfaction of the Secretary, the following functions: '}, {'id': '162.910(a)(2)', 'data': '(2) The Secretary designates a DSMO by notice in the Federal Register. '}, {'id': '162.103 “Designated standard maintenance organization (DSMO)”', 'data': 'None'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.910(a)', 'data': '(a) Designation of DSMOs. '}
+You may now respond.

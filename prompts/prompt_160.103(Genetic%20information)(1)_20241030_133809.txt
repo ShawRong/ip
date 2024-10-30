@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.103(Genetic%20information)', 'data': 'Genetic information   means: '}, {'id': '160.103(Genetic%20information)(1)(i)', 'data': '(i) The individual's genetic tests; '}, {'id': '160.103(Genetic%20information)(1)(ii)', 'data': '(ii) The genetic tests of family members of the individual; '}, {'id': '160.103(Genetic%20information)(1)(iii)', 'data': '(iii) The manifestation of a disease or disorder in family members of such individual; or '}, {'id': '160.103(Genetic%20information)(1)(iv)', 'data': '(iv) Any request for, or receipt of, genetic services, or participation in clinical research which includes genetic services, by the individual or any family member of the individual. '}, {'id': '160.103(Genetic%20information)', 'data': 'Genetic information   means: '}, {'id': '160.103(Genetic%20information)(1)(i)', 'data': '(i) The individual's genetic tests; '}, {'id': '160.103(Genetic%20information)(1)(ii)', 'data': '(ii) The genetic tests of family members of the individual; '}, {'id': '160.103(Genetic%20information)(1)(iii)', 'data': '(iii) The manifestation of a disease or disorder in family members of such individual; or '}, {'id': '160.103(Genetic%20information)(1)(iv)', 'data': '(iv) Any request for, or receipt of, genetic services, or participation in clinical research which includes genetic services, by the individual or any family member of the individual. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.103(Genetic%20information)(1)', 'data': '(1) Subject to paragraphs (2) and (3) of this definition, with respect to an individual, information about: '}
+You may now respond.

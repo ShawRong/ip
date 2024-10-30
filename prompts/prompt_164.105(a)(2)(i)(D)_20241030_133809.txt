@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.105(a)(2)(i)', 'data': '(i) Application of other provisions.  In applying a provision of this part, other than the requirements of this section, §§ 164.314, and 164.504, to a hybrid entity: '}, {'id': '164.105(a)(2)(i)', 'data': '(i) Application of other provisions.  In applying a provision of this part, other than the requirements of this section, §§ 164.314, and 164.504, to a hybrid entity: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.105(a)(2)(i)(D)', 'data': '(D) A reference in such provision to “electronic protected health information” refers to electronic protected health information that is created, received, maintained, or transmitted by or on behalf of the health care component of the covered entity. '}
+You may now respond.

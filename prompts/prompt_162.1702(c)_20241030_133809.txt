@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1702', 'data': '§ 162.1702 Standards for health plan premium payments transaction. The Secretary adopts the following standards for the health plan premium payments transaction: '}, {'id': '162.1702(b)(2)', 'data': '(2) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Payroll Deducted and Other Group Premium Payment for Insurance Products (820), February 2007, ASC X12N/005010X218. (Incorporated by reference in § 162.920.) '}, {'id': '162.1702', 'data': '§ 162.1702 Standards for health plan premium payments transaction. The Secretary adopts the following standards for the health plan premium payments transaction: '}, {'id': '162.1702(b)(2)', 'data': '(2) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Payroll Deducted and Other Group Premium Payment for Insurance Products (820), February 2007, ASC X12N/005010X218. (Incorporated by reference in § 162.920.) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1702(c)', 'data': '(c) For the period on and after January 1, 2012, the standard identified in paragraph (b)(2) of this section. '}
+You may now respond.

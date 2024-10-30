@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': '160.528(a)', 'data': '(a) An application to the ALJ for an order or ruling must be by motion. Motions must state the relief sought, the authority relied upon and the facts alleged, and must be filed with the ALJ and served on all other parties. '}, {'id': '160.528(b)', 'data': '(b) Except for motions made during a prehearing conference or at the hearing, all motions must be in writing. The ALJ may require that oral motions be reduced to writing. '}, {'id': '160.528(c)', 'data': '(c) Within 10 days after a written motion is served, or such other time as may be fixed by the ALJ, any party may file a response to the motion. '}, {'id': '160.528(d)', 'data': '(d) The ALJ may not grant a written motion before the time for filing responses has expired, except upon consent of the parties or following a hearing on the motion, but may overrule or deny the motion without awaiting a response. '}, {'id': '160.528(e)', 'data': '(e) The ALJ must make a reasonable effort to dispose of all outstanding motions before the beginning of the hearing. '}, {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': '160.528(a)', 'data': '(a) An application to the ALJ for an order or ruling must be by motion. Motions must state the relief sought, the authority relied upon and the facts alleged, and must be filed with the ALJ and served on all other parties. '}, {'id': '160.528(b)', 'data': '(b) Except for motions made during a prehearing conference or at the hearing, all motions must be in writing. The ALJ may require that oral motions be reduced to writing. '}, {'id': '160.528(c)', 'data': '(c) Within 10 days after a written motion is served, or such other time as may be fixed by the ALJ, any party may file a response to the motion. '}, {'id': '160.528(d)', 'data': '(d) The ALJ may not grant a written motion before the time for filing responses has expired, except upon consent of the parties or following a hearing on the motion, but may overrule or deny the motion without awaiting a response. '}, {'id': '160.528(e)', 'data': '(e) The ALJ must make a reasonable effort to dispose of all outstanding motions before the beginning of the hearing. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.528', 'data': '§ 160.528 Motions.'}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartF', 'data': 'Subpart F—Standard Unique Employer Identifier'}, {'id': '162.610(a)', 'data': '(a) The standard unique employer identifier of an employer of a particular employee is the EIN that appears on that employee's IRS Form W–2, Wage and Tax Statement, from the employer. '}, {'id': '162.610(b)', 'data': '(b) A covered entity must use the standard unique employer identifier (EIN) of the appropriate employer in standard transactions that require an employer identifier to identify a person or entity as an employer, including where situationally required. '}, {'id': '162.610(c)', 'data': '(c) Required and permitted uses for the Employer Identifier. '}, {'id': 'Part162SubpartF', 'data': 'Subpart F—Standard Unique Employer Identifier'}, {'id': '162.610(a)', 'data': '(a) The standard unique employer identifier of an employer of a particular employee is the EIN that appears on that employee's IRS Form W–2, Wage and Tax Statement, from the employer. '}, {'id': '162.610(b)', 'data': '(b) A covered entity must use the standard unique employer identifier (EIN) of the appropriate employer in standard transactions that require an employer identifier to identify a person or entity as an employer, including where situationally required. '}, {'id': '162.610(c)', 'data': '(c) Required and permitted uses for the Employer Identifier. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.610', 'data': '§ 162.610 Implementation specifications for covered entities.'}
+You may now respond.

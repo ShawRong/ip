@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.404', 'data': '§ 160.404 Amount of a civil money penalty.'}, {'id': '160.420(a)', 'data': '(a) If a penalty is proposed in accordance with this part, the Secretary must deliver, or send by certified mail with return receipt requested, to the respondent, written notice of the Secretary's intent to impose a penalty. This notice of proposed determination must include— '}, {'id': '160.420(a)', 'data': '(a) If a penalty is proposed in accordance with this part, the Secretary must deliver, or send by certified mail with return receipt requested, to the respondent, written notice of the Secretary's intent to impose a penalty. This notice of proposed determination must include— '}, {'id': '160.404', 'data': '§ 160.404 Amount of a civil money penalty.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.420(a)(4)', 'data': '(4) The amount of the proposed penalty and a reference to the subparagraph of § 160.404 upon which it is based. '}
+You may now respond.

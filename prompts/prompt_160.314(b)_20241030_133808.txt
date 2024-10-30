@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.314', 'data': '§ 160.314 Investigational subpoenas and inquiries.'}, {'id': '160.314(b)(1)', 'data': '(1) Testimony at investigational inquiries will be taken under oath or affirmation. '}, {'id': '160.314(b)(2)', 'data': '(2) Attendance of non-witnesses is discretionary with the Secretary, except that a witness is entitled to be accompanied, represented, and advised by an attorney. '}, {'id': '160.314(b)(3)', 'data': '(3) Representatives of the Secretary are entitled to attend and ask questions. '}, {'id': '160.314(b)(4)', 'data': '(4) A witness will have the opportunity to clarify his or her answers on the record following questioning by the Secretary. '}, {'id': '160.314(b)(5)', 'data': '(5) Any claim of privilege must be asserted by the witness on the record. '}, {'id': '160.314(b)(6)', 'data': '(6) Objections must be asserted on the record. Errors of any kind that might be corrected if promptly presented will be deemed to be waived unless reasonable objection is made at the investigational inquiry. Except where the objection is on the grounds of privilege, the question will be answered on the record, subject to objection. '}, {'id': '160.314(b)(7)', 'data': '(7) If a witness refuses to answer any question not privileged or to produce requested documents or items, or engages in conduct likely to delay or obstruct the investigational inquiry, the Secretary may seek enforcement of the subpoena under paragraph (a)(5) of this section. '}, {'id': '160.314(b)(8)', 'data': '(8) The proceedings will be recorded and transcribed. The witness is entitled to a copy of the transcript, upon payment of prescribed costs, except that, for good cause, the witness may be limited to inspection of the official transcript of his or her testimony. '}, {'id': '160.314(b)(9)', 'data': '(9) '}, {'id': '160.314', 'data': '§ 160.314 Investigational subpoenas and inquiries.'}, {'id': '160.314(b)(1)', 'data': '(1) Testimony at investigational inquiries will be taken under oath or affirmation. '}, {'id': '160.314(b)(2)', 'data': '(2) Attendance of non-witnesses is discretionary with the Secretary, except that a witness is entitled to be accompanied, represented, and advised by an attorney. '}, {'id': '160.314(b)(3)', 'data': '(3) Representatives of the Secretary are entitled to attend and ask questions. '}, {'id': '160.314(b)(4)', 'data': '(4) A witness will have the opportunity to clarify his or her answers on the record following questioning by the Secretary. '}, {'id': '160.314(b)(5)', 'data': '(5) Any claim of privilege must be asserted by the witness on the record. '}, {'id': '160.314(b)(6)', 'data': '(6) Objections must be asserted on the record. Errors of any kind that might be corrected if promptly presented will be deemed to be waived unless reasonable objection is made at the investigational inquiry. Except where the objection is on the grounds of privilege, the question will be answered on the record, subject to objection. '}, {'id': '160.314(b)(7)', 'data': '(7) If a witness refuses to answer any question not privileged or to produce requested documents or items, or engages in conduct likely to delay or obstruct the investigational inquiry, the Secretary may seek enforcement of the subpoena under paragraph (a)(5) of this section. '}, {'id': '160.314(b)(8)', 'data': '(8) The proceedings will be recorded and transcribed. The witness is entitled to a copy of the transcript, upon payment of prescribed costs, except that, for good cause, the witness may be limited to inspection of the official transcript of his or her testimony. '}, {'id': '160.314(b)(9)', 'data': '(9) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.314(b)', 'data': '(b) Investigational inquiries are non-public investigational proceedings conducted by the Secretary. '}
+You may now respond.

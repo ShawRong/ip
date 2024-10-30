@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.920(c)(3)', 'data': '(3) CAQH, Committee on Operating Rules for Information Exchange, CORE Phase II Policies and Operating Rules, Approved July 2008, v5010 Update March 2011. '}, {'id': '162.1403', 'data': '§ 162.1403 Operating rules for health care claim status transaction. On and after January 1, 2013, the Secretary adopts the following: '}, {'id': '162.920(c)(3)', 'data': '(3) CAQH, Committee on Operating Rules for Information Exchange, CORE Phase II Policies and Operating Rules, Approved July 2008, v5010 Update March 2011. '}, {'id': '162.1403', 'data': '§ 162.1403 Operating rules for health care claim status transaction. On and after January 1, 2013, the Secretary adopts the following: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.920(c)(3)(i)', 'data': '(i) Phase II CORE 250: Claim Status Rule, version 2.1.0, March 2011, as referenced in § 162.1403. '}
+You may now respond.

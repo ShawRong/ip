@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.940(b)', 'data': '(b) Basis for granting an exception.  The Secretary may grant an initial exception, for a period not to exceed 3 years, based on, but not limited to, the following criteria: '}, {'id': '162.940(b)', 'data': '(b) Basis for granting an exception.  The Secretary may grant an initial exception, for a period not to exceed 3 years, based on, but not limited to, the following criteria: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.940(b)(2)', 'data': '(2) The extent and length of time of the exception. '}
+You may now respond.

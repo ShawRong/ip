@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': '160.512(a)', 'data': '(a) The ALJ must schedule at least one prehearing conference, and may schedule additional prehearing conferences as appropriate, upon reasonable notice, which may not be less than 14 business days, to the parties. '}, {'id': '160.512(b)', 'data': '(b) The ALJ may use prehearing conferences to discuss the following— '}, {'id': '160.512(c)', 'data': '(c) The ALJ must issue an order containing the matters agreed upon by the parties or ordered by the ALJ at a prehearing conference. '}, {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': '160.512(a)', 'data': '(a) The ALJ must schedule at least one prehearing conference, and may schedule additional prehearing conferences as appropriate, upon reasonable notice, which may not be less than 14 business days, to the parties. '}, {'id': '160.512(b)', 'data': '(b) The ALJ may use prehearing conferences to discuss the following— '}, {'id': '160.512(c)', 'data': '(c) The ALJ must issue an order containing the matters agreed upon by the parties or ordered by the ALJ at a prehearing conference. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.512', 'data': '§ 160.512 Prehearing conferences.'}
+You may now respond.

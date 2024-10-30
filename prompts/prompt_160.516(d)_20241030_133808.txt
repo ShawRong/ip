@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.516', 'data': '§ 160.516 Discovery.'}, {'id': '160.516', 'data': '§ 160.516 Discovery.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.516(d)', 'data': '(d) This section may not be construed to require the disclosure of interview reports or statements obtained by any party, or on behalf of any party, of persons who will not be called as witnesses by that party, or analyses and summaries prepared in conjunction with the investigation or litigation of the case, or any otherwise privileged documents. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.314(a)(2)', 'data': '(2) A subpoena under this section must be served by— '}, {'id': '160.314(a)(2)', 'data': '(2) A subpoena under this section must be served by— '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.314(a)(2)(i)', 'data': '(i) Delivering a copy to the natural person named in the subpoena or to the entity named in the subpoena at its last principal place of business; or '}
+You may now respond.

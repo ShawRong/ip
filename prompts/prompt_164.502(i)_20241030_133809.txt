@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502', 'data': '§ 164.502 Uses and disclosures of protected health information: General rules.'}, {'id': '164.520', 'data': '§ 164.520 Notice of privacy practices for protected health information.'}, {'id': '164.520(b)(1)(iii)', 'data': '(iii) Separate statements for certain uses or disclosures.  If the covered entity intends to engage in any of the following activities, the description required by paragraph (b)(1)(ii)(A) of this section must include a separate statement informing the individual of such activities, as applicable: '}, {'id': '164.520(b)(1)(iii)(A)', 'data': '(A) In accordance with § 164.514(f)(1), the covered entity may contact the individual to raise funds for the covered entity and the individual has a right to opt out of receiving such communications; '}, {'id': '164.502', 'data': '§ 164.502 Uses and disclosures of protected health information: General rules.'}, {'id': '164.520', 'data': '§ 164.520 Notice of privacy practices for protected health information.'}, {'id': '164.520(b)(1)(iii)', 'data': '(iii) Separate statements for certain uses or disclosures.  If the covered entity intends to engage in any of the following activities, the description required by paragraph (b)(1)(ii)(A) of this section must include a separate statement informing the individual of such activities, as applicable: '}, {'id': '164.520(b)(1)(iii)(A)', 'data': '(A) In accordance with § 164.514(f)(1), the covered entity may contact the individual to raise funds for the covered entity and the individual has a right to opt out of receiving such communications; '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(i)', 'data': '(i) Standard: Uses and disclosures consistent with notice.  A covered entity that is required by § 164.520 to have a notice may not use or disclose protected health information in a manner inconsistent with such notice. A covered entity that is required by § 164.520(b)(1)(iii) to include a specific statement in its notice if it intends to engage in an activity listed in § 164.520(b)(1)(iii)(A)–(C), may not use or disclose protected health information for such activities, unless the required statement is included in the notice. '}
+You may now respond.

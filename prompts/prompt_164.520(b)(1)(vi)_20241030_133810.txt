@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.520(b)(1)', 'data': '(1) Required elements.  The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph. '}, {'id': '164.520(b)(1)', 'data': '(1) Required elements.  The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.520(b)(1)(vi)', 'data': '(vi) Complaints.  The notice must contain a statement that individuals may complain to the covered entity and to the Secretary if they believe their privacy rights have been violated, a brief description of how the individual may file a complaint with the covered entity, and a statement that the individual will not be retaliated against for filing a complaint. '}
+You may now respond.

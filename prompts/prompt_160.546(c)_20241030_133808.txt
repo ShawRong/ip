@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.546', 'data': '§ 160.546 ALJ's decision.'}, {'id': '160.546', 'data': '§ 160.546 ALJ's decision.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.546(c)', 'data': '(c) The ALJ must issue the decision to both parties within 60 days after the time for submission of post-hearing briefs and reply briefs, if permitted, has expired. If the ALJ fails to meet the deadline contained in this paragraph, he or she must notify the parties of the reason for the delay and set a new deadline. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.520', 'data': '§ 160.520 Subpoenas for attendance at hearing.'}, {'id': '160.520(b)', 'data': '(b) A subpoena requiring the attendance of a person in accordance with paragraph (a) of this section may also require the person (whether or not the person is a party) to produce relevant and material evidence at or before the hearing. '}, {'id': '160.520', 'data': '§ 160.520 Subpoenas for attendance at hearing.'}, {'id': '160.520(b)', 'data': '(b) A subpoena requiring the attendance of a person in accordance with paragraph (a) of this section may also require the person (whether or not the person is a party) to produce relevant and material evidence at or before the hearing. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.520(a)', 'data': '(a) A party wishing to procure the appearance and testimony of any person at the hearing may make a motion requesting the ALJ to issue a subpoena if the appearance and testimony are reasonably necessary for the presentation of a party's case. '}
+You may now respond.

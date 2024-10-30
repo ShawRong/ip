@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1002', 'data': '§ 162.1002 Medical data code sets. The Secretary adopts the following maintaining organization's code sets as the standard medical data code sets: '}, {'id': '162.1002(b)(1)', 'data': '(1) The code sets specified in paragraphs (a)(1), (a)(2),(a)(4), and (a)(5) of this section. '}, {'id': '162.1002(b)(2)', 'data': '(2) National Drug Codes (NDC),  as maintained and distributed by HHS, for reporting the following by retail pharmacies: '}, {'id': '162.1002(b)(3)', 'data': '(3) The Healthcare Common Procedure Coding System (HCPCS),  as maintained and distributed by HHS, for all other substances, equipment, supplies, or other items used in health care services, with the exception of drugs and biologics. These items include, but are not limited to, the following: '}, {'id': '162.1002', 'data': '§ 162.1002 Medical data code sets. The Secretary adopts the following maintaining organization's code sets as the standard medical data code sets: '}, {'id': '162.1002(b)(1)', 'data': '(1) The code sets specified in paragraphs (a)(1), (a)(2),(a)(4), and (a)(5) of this section. '}, {'id': '162.1002(b)(2)', 'data': '(2) National Drug Codes (NDC),  as maintained and distributed by HHS, for reporting the following by retail pharmacies: '}, {'id': '162.1002(b)(3)', 'data': '(3) The Healthcare Common Procedure Coding System (HCPCS),  as maintained and distributed by HHS, for all other substances, equipment, supplies, or other items used in health care services, with the exception of drugs and biologics. These items include, but are not limited to, the following: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1002(b)', 'data': '(b) For the period on and after October 16, 2003 through September 30, 2015: '}
+You may now respond.

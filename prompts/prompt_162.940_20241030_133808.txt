@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartI', 'data': 'Subpart I—General Provisions for Transactions'}, {'id': '162.940(a)', 'data': '(a) Requests for an exception.  An organization may request an exception from the use of a standard from the Secretary to test a proposed modification to that standard. For each proposed modification, the organization must meet the following requirements: '}, {'id': '162.940(b)', 'data': '(b) Basis for granting an exception.  The Secretary may grant an initial exception, for a period not to exceed 3 years, based on, but not limited to, the following criteria: '}, {'id': '162.940(c)', 'data': '(c) Secretary's decision on exception.  The Secretary makes a decision and notifies the organization requesting the exception whether the request is granted or denied. '}, {'id': '162.940(d)', 'data': '(d) Organization's report on test results.  Within 90 days after the test is completed, an organization that receives an exception must submit a report on the results of the test, including a cost-benefit analysis, to a location specified by the Secretary by notice in the Federal Register. '}, {'id': '162.940(e)', 'data': '(e) Extension allowed.  If the report submitted in accordance with paragraph (d) of this section recommends a modification to the standard, the Secretary, on request, may grant an extension to the period granted for the exception. '}, {'id': 'Part162SubpartI', 'data': 'Subpart I—General Provisions for Transactions'}, {'id': '162.940(a)', 'data': '(a) Requests for an exception.  An organization may request an exception from the use of a standard from the Secretary to test a proposed modification to that standard. For each proposed modification, the organization must meet the following requirements: '}, {'id': '162.940(b)', 'data': '(b) Basis for granting an exception.  The Secretary may grant an initial exception, for a period not to exceed 3 years, based on, but not limited to, the following criteria: '}, {'id': '162.940(c)', 'data': '(c) Secretary's decision on exception.  The Secretary makes a decision and notifies the organization requesting the exception whether the request is granted or denied. '}, {'id': '162.940(d)', 'data': '(d) Organization's report on test results.  Within 90 days after the test is completed, an organization that receives an exception must submit a report on the results of the test, including a cost-benefit analysis, to a location specified by the Secretary by notice in the Federal Register. '}, {'id': '162.940(e)', 'data': '(e) Extension allowed.  If the report submitted in accordance with paragraph (d) of this section recommends a modification to the standard, the Secretary, on request, may grant an extension to the period granted for the exception. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.940', 'data': '§ 162.940 Exceptions from standards to permit testing of proposed modifications.'}
+You may now respond.

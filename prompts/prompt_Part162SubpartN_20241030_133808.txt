@@ -1,0 +1,24 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.1401', 'data': '§ 162.1401 Health care claim status transaction. The health care claim status transaction is the transmission of either of the following: '}, {'id': '162.1402', 'data': '§ 162.1402 Standards for health care claim status transaction. The Secretary adopts the following standards for the health care claim status transaction: '}, {'id': '162.1403', 'data': '§ 162.1403 Operating rules for health care claim status transaction. On and after January 1, 2013, the Secretary adopts the following: '}, {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.1401', 'data': '§ 162.1401 Health care claim status transaction. The health care claim status transaction is the transmission of either of the following: '}, {'id': '162.1402', 'data': '§ 162.1402 Standards for health care claim status transaction. The Secretary adopts the following standards for the health care claim status transaction: '}, {'id': '162.1403', 'data': '§ 162.1403 Operating rules for health care claim status transaction. On and after January 1, 2013, the Secretary adopts the following: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part162SubpartN', 'data': 'Subpart N—Health Care Claim Status'}
+You may now respond.

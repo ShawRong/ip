@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.508(c)(2)(i)', 'data': '(i) The individual's right to revoke the authorization in writing, and either: '}, {'id': '164.508(c)(2)(i)(B)', 'data': '(B) To the extent that the information in paragraph (c)(2)(i)(A) of this section is included in the notice required by § 164.520, a reference to the covered entity's notice. '}, {'id': '164.508(c)(2)(i)', 'data': '(i) The individual's right to revoke the authorization in writing, and either: '}, {'id': '164.508(c)(2)(i)(B)', 'data': '(B) To the extent that the information in paragraph (c)(2)(i)(A) of this section is included in the notice required by § 164.520, a reference to the covered entity's notice. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.508(c)(2)(i)(A)', 'data': '(A) The exceptions to the right to revoke and a description of how the individual may revoke the authorization; or '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartF', 'data': 'Subpart F—Standard Unique Employer Identifier'}, {'id': '162.600(a)', 'data': '(a) Health care providers.  Health care providers must comply with the requirements of this subpart no later than July 30, 2004. '}, {'id': '162.600(b)', 'data': '(b) Health plans.  A health plan must comply with the requirements of this subpart no later than one of the following dates: '}, {'id': '162.600(c)', 'data': '(c) Health care clearinghouses.  Health care clearinghouses must comply with the requirements of this subpart no later than July 30, 2004. '}, {'id': 'Part162SubpartF', 'data': 'Subpart F—Standard Unique Employer Identifier'}, {'id': '162.600(a)', 'data': '(a) Health care providers.  Health care providers must comply with the requirements of this subpart no later than July 30, 2004. '}, {'id': '162.600(b)', 'data': '(b) Health plans.  A health plan must comply with the requirements of this subpart no later than one of the following dates: '}, {'id': '162.600(c)', 'data': '(c) Health care clearinghouses.  Health care clearinghouses must comply with the requirements of this subpart no later than July 30, 2004. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.600', 'data': '§ 162.600 Compliance dates of the implementation of the standard unique employer identifier.'}
+You may now respond.

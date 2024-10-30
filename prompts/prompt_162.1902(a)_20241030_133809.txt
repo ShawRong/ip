@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1902', 'data': '§ 162.1902 Standard for Medicaid pharmacy subrogation transaction. The Secretary adopts the Batch Standard Medicaid Subrogation Implementation Guide, Version 3, Release 0 (Version 3.0), July 2007, National Council for Prescription Drug Programs, as referenced in § 162.1902 (Incorporated by reference at § 162.920): '}, {'id': '162.1902', 'data': '§ 162.1902 Standard for Medicaid pharmacy subrogation transaction. The Secretary adopts the Batch Standard Medicaid Subrogation Implementation Guide, Version 3, Release 0 (Version 3.0), July 2007, National Council for Prescription Drug Programs, as referenced in § 162.1902 (Incorporated by reference at § 162.920): '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1902(a)', 'data': '(a) For the period on and after January 1, 2012, for covered entities that are not small health plans; '}
+You may now respond.

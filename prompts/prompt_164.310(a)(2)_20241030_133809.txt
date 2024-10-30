@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.310(a)', 'data': '(a) '}, {'id': '164.310(a)(2)(i)', 'data': '(i) Contingency operations (Addressable).  Establish (and implement as needed) procedures that allow facility access in support of restoration of lost data under the disaster recovery plan and emergency mode operations plan in the event of an emergency. '}, {'id': '164.310(a)(2)(ii)', 'data': '(ii) Facility security plan (Addressable).  Implement policies and procedures to safeguard the facility and the equipment therein from unauthorized physical access, tampering, and theft. '}, {'id': '164.310(a)(2)(iii)', 'data': '(iii) Access control and validation procedures (Addressable).  Implement procedures to control and validate a person's access to facilities based on their role or function, including visitor control, and control of access to software programs for testing and revision. '}, {'id': '164.310(a)(2)(iv)', 'data': '(iv) Maintenance records (Addressable).  Implement policies and procedures to document repairs and modifications to the physical components of a facility which are related to security (for example, hardware, walls, doors, and locks). '}, {'id': '164.310(a)', 'data': '(a) '}, {'id': '164.310(a)(2)(i)', 'data': '(i) Contingency operations (Addressable).  Establish (and implement as needed) procedures that allow facility access in support of restoration of lost data under the disaster recovery plan and emergency mode operations plan in the event of an emergency. '}, {'id': '164.310(a)(2)(ii)', 'data': '(ii) Facility security plan (Addressable).  Implement policies and procedures to safeguard the facility and the equipment therein from unauthorized physical access, tampering, and theft. '}, {'id': '164.310(a)(2)(iii)', 'data': '(iii) Access control and validation procedures (Addressable).  Implement procedures to control and validate a person's access to facilities based on their role or function, including visitor control, and control of access to software programs for testing and revision. '}, {'id': '164.310(a)(2)(iv)', 'data': '(iv) Maintenance records (Addressable).  Implement policies and procedures to document repairs and modifications to the physical components of a facility which are related to security (for example, hardware, walls, doors, and locks). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.310(a)(2)', 'data': '(2) Implementation specifications: '}
+You may now respond.

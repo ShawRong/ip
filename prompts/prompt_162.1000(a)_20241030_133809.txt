@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1000', 'data': '§ 162.1000 General requirements. When conducting a transaction covered by this part, a covered entity must meet the following requirements: '}, {'id': '162.1002', 'data': '§ 162.1002 Medical data code sets. The Secretary adopts the following maintaining organization's code sets as the standard medical data code sets: '}, {'id': '162.1000', 'data': '§ 162.1000 General requirements. When conducting a transaction covered by this part, a covered entity must meet the following requirements: '}, {'id': '162.1002', 'data': '§ 162.1002 Medical data code sets. The Secretary adopts the following maintaining organization's code sets as the standard medical data code sets: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1000(a)', 'data': '(a) Medical data code sets.  Use the applicable medical data code sets described in § 162.1002 as specified in the implementation specification adopted under this part that are valid at the time the health care is furnished. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.314(a)(1)', 'data': '(1) Standard: Business associate contracts or other arrangements.  The contract or other arrangement required by § 164.308(b)(3) must meet the requirements of paragraph (a)(2)(i), (a)(2)(ii), or (a)(2)(iii) of this section, as applicable. '}, {'id': '164.314(a)(2)', 'data': '(2) Implementation specifications (Required) —'}, {'id': '164.314(a)(2)(i)', 'data': '(i) Business associate contracts.  The contract must provide that the business associate will— '}, {'id': '164.314(a)(2)(ii)', 'data': '(ii) Other arrangements.  The covered entity is in compliance with paragraph (a)(1) of this section if it has another arrangement in place that meets the requirements of § 164.504(e)(3). '}, {'id': '164.314(a)(2)', 'data': '(2) Implementation specifications (Required) —'}, {'id': '164.314(a)(1)', 'data': '(1) Standard: Business associate contracts or other arrangements.  The contract or other arrangement required by § 164.308(b)(3) must meet the requirements of paragraph (a)(2)(i), (a)(2)(ii), or (a)(2)(iii) of this section, as applicable. '}, {'id': '164.314(a)(2)(i)', 'data': '(i) Business associate contracts.  The contract must provide that the business associate will— '}, {'id': '164.314(a)(2)(ii)', 'data': '(ii) Other arrangements.  The covered entity is in compliance with paragraph (a)(1) of this section if it has another arrangement in place that meets the requirements of § 164.504(e)(3). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.314(a)(2)(iii)', 'data': '(iii) Business associate contracts with subcontractors.  The requirements of paragraphs (a)(2)(i) and (a)(2)(ii) of this section apply to the contract or other arrangement between a business associate and a subcontractor required by § 164.308(b)(4) in the same manner as such requirements apply to contracts or other arrangements between a covered entity and business associate. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.314', 'data': '§ 160.314 Investigational subpoenas and inquiries.'}, {'id': '160.314(a)(1)', 'data': '(1) A subpoena issued under this paragraph must— '}, {'id': '160.314(a)(2)', 'data': '(2) A subpoena under this section must be served by— '}, {'id': '160.314(a)(3)', 'data': '(3) A verified return by the natural person serving the subpoena setting forth the manner of service or, in the case of service by registered or certified mail, the signed return post office receipt, constitutes proof of service. '}, {'id': '160.314(a)(4)', 'data': '(4) Witnesses are entitled to the same fees and mileage as witnesses in the district courts of the United States (28 U.S.C. 1821 and 1825). Fees need not be paid at the time the subpoena is served. '}, {'id': '160.314(a)(5)', 'data': '(5) A subpoena under this section is enforceable through the district court of the United States for the district where the subpoenaed natural person resides or is found or where the entity transacts business. '}, {'id': '160.314', 'data': '§ 160.314 Investigational subpoenas and inquiries.'}, {'id': '160.314(a)(1)', 'data': '(1) A subpoena issued under this paragraph must— '}, {'id': '160.314(a)(2)', 'data': '(2) A subpoena under this section must be served by— '}, {'id': '160.314(a)(3)', 'data': '(3) A verified return by the natural person serving the subpoena setting forth the manner of service or, in the case of service by registered or certified mail, the signed return post office receipt, constitutes proof of service. '}, {'id': '160.314(a)(4)', 'data': '(4) Witnesses are entitled to the same fees and mileage as witnesses in the district courts of the United States (28 U.S.C. 1821 and 1825). Fees need not be paid at the time the subpoena is served. '}, {'id': '160.314(a)(5)', 'data': '(5) A subpoena under this section is enforceable through the district court of the United States for the district where the subpoenaed natural person resides or is found or where the entity transacts business. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.314(a)', 'data': '(a) The Secretary may issue subpoenas in accordance with 42 U.S.C. 405(d) and (e), 1320a–7a(j), and 1320d–5 to require the attendance and testimony of witnesses and the production of any other evidence during an investigation or compliance review pursuant to this part. For purposes of this paragraph, a person other than a natural person is termed an “entity.” '}
+You may now respond.

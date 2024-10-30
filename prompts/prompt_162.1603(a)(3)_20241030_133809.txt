@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1603(a)', 'data': '(a) The Phase III CORE EFT & ERA Operating Rule Set, Approved June 2012 (Incorporated by reference in § 162.920) which includes the following rules: '}, {'id': '162.1603(a)', 'data': '(a) The Phase III CORE EFT & ERA Operating Rule Set, Approved June 2012 (Incorporated by reference in § 162.920) which includes the following rules: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1603(a)(3)', 'data': '(3) Phase III 360 CORE Uniform Use of CARCs and RARCs (835) Rule, version 3.0.0, June 2012. '}
+You may now respond.

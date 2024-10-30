@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.506', 'data': '§ 160.506 Rights of the parties.'}, {'id': '160.506', 'data': '§ 160.506 Rights of the parties.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.506(c)', 'data': '(c) Fees for any services performed on behalf of a party by an attorney are not subject to the provisions of 42 U.S.C. 406, which authorizes the Secretary to specify or limit their fees. '}
+You may now respond.

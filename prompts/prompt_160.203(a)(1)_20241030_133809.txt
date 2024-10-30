@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.203(a)', 'data': '(a) A determination is made by the Secretary under § 160.204 that the provision of State law: '}, {'id': '160.203(a)(1)(i)', 'data': '(i) To prevent fraud and abuse related to the provision of or payment for health care; '}, {'id': '160.203(a)(1)(ii)', 'data': '(ii) To ensure appropriate State regulation of insurance and health plans to the extent expressly authorized by statute or regulation; '}, {'id': '160.203(a)(1)(iii)', 'data': '(iii) For State reporting on health care delivery or costs; or '}, {'id': '160.203(a)(1)(iv)', 'data': '(iv) For purposes of serving a compelling need related to public health, safety, or welfare, and, if a standard, requirement, or implementation specification under part 164 of this subchapter is at issue, if the Secretary determines that the intrusion into privacy is warranted when balanced against the need to be served; or '}, {'id': '160.203(a)', 'data': '(a) A determination is made by the Secretary under § 160.204 that the provision of State law: '}, {'id': '160.203(a)(1)(i)', 'data': '(i) To prevent fraud and abuse related to the provision of or payment for health care; '}, {'id': '160.203(a)(1)(ii)', 'data': '(ii) To ensure appropriate State regulation of insurance and health plans to the extent expressly authorized by statute or regulation; '}, {'id': '160.203(a)(1)(iii)', 'data': '(iii) For State reporting on health care delivery or costs; or '}, {'id': '160.203(a)(1)(iv)', 'data': '(iv) For purposes of serving a compelling need related to public health, safety, or welfare, and, if a standard, requirement, or implementation specification under part 164 of this subchapter is at issue, if the Secretary determines that the intrusion into privacy is warranted when balanced against the need to be served; or '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.203(a)(1)', 'data': '(1) Is necessary: '}
+You may now respond.

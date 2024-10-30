@@ -1,0 +1,24 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.1301', 'data': '§ 162.1301 Referral certification and authorization transaction. The referral certification and authorization transaction is any of the following transmissions: '}, {'id': '162.1302', 'data': '§ 162.1302 Standards for referral certification and authorization transaction. The Secretary adopts the following standards for the referral certification and authorization transaction: '}, {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.1301', 'data': '§ 162.1301 Referral certification and authorization transaction. The referral certification and authorization transaction is any of the following transmissions: '}, {'id': '162.1302', 'data': '§ 162.1302 Standards for referral certification and authorization transaction. The Secretary adopts the following standards for the referral certification and authorization transaction: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part162SubpartM', 'data': 'Subpart M—Referral Certification and Authorization'}
+You may now respond.

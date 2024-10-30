@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162SubpartP', 'data': 'Subpart P—Health Care Electronic Funds Transfers (EFT) and Remittance Advice'}, {'id': '162.1601(a)', 'data': '(a) The transmission of any of the following from a health plan to a health care provider: '}, {'id': '162.1601(b)', 'data': '(b) The transmission of either of the following from a health plan to a health care provider: '}, {'id': 'Part162SubpartP', 'data': 'Subpart P—Health Care Electronic Funds Transfers (EFT) and Remittance Advice'}, {'id': '162.1601(a)', 'data': '(a) The transmission of any of the following from a health plan to a health care provider: '}, {'id': '162.1601(b)', 'data': '(b) The transmission of either of the following from a health plan to a health care provider: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1601', 'data': '§ 162.1601 Health care electronic funds transfers (EFT) and remittance advice transaction. The health care electronic funds transfers (EFT) and remittance advice transaction is the transmission of either of the following for health care: '}
+You may now respond.

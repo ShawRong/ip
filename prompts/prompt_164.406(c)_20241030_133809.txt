@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.404(c)', 'data': '(c) Implementation specifications: Content of notification —'}, {'id': '164.406', 'data': '§ 164.406 Notification to the media.'}, {'id': '164.406(a)', 'data': '(a) Standard.  For a breach of unsecured protected health information involving more than 500 residents of a State or jurisdiction, a covered entity shall, following the discovery of the breach as provided in § 164.404(a)(2), notify prominent media outlets serving the State or jurisdiction. '}, {'id': '164.406', 'data': '§ 164.406 Notification to the media.'}, {'id': '164.406(a)', 'data': '(a) Standard.  For a breach of unsecured protected health information involving more than 500 residents of a State or jurisdiction, a covered entity shall, following the discovery of the breach as provided in § 164.404(a)(2), notify prominent media outlets serving the State or jurisdiction. '}, {'id': '164.404(c)', 'data': '(c) Implementation specifications: Content of notification —'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.406(c)', 'data': '(c) Implementation specifications: Content of notification.  The notification required by paragraph (a) of this section shall meet the requirements of § 164.404(c). '}
+You may now respond.

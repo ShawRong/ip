@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part160SubpartD', 'data': 'Subpart D—Imposition of Civil Money Penalties'}, {'id': 'Part160SubpartD', 'data': 'Subpart D—Imposition of Civil Money Penalties'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.426', 'data': '§ 160.426 Notification of the public and other agencies. Whenever a proposed penalty becomes final, the Secretary will notify, in such manner as the Secretary deems appropriate, the public and the following organizations and entities thereof and the reason it was imposed: the appropriate State or local medical or professional organization, the appropriate State agency or agencies administering or supervising the administration of State health care programs (as defined in 42 U.S.C. 1320a–7(h)), the appropriate utilization and quality control peer review organization, and the appropriate State or local licensing agency or organization (including the agency specified in 42 U.S.C. 1395aa(a), 1396a(a)(33)). '}
+You may now respond.

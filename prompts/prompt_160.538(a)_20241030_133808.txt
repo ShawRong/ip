@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.538', 'data': '§ 160.538 Witnesses.'}, {'id': '160.538(b)', 'data': '(b) At the discretion of the ALJ, testimony of witnesses other than the testimony of expert witnesses may be admitted in the form of a written statement. The ALJ may, at his or her discretion, admit prior sworn testimony of experts that has been subject to adverse examination, such as a deposition or trial testimony. Any such written statement must be provided to the other party, along with the last known address of the witness, in a manner that allows sufficient time for the other party to subpoena the witness for cross-examination at the hearing. Prior written statements of witnesses proposed to testify at the hearing must be exchanged as provided in § 160.518. '}, {'id': '160.538', 'data': '§ 160.538 Witnesses.'}, {'id': '160.538(b)', 'data': '(b) At the discretion of the ALJ, testimony of witnesses other than the testimony of expert witnesses may be admitted in the form of a written statement. The ALJ may, at his or her discretion, admit prior sworn testimony of experts that has been subject to adverse examination, such as a deposition or trial testimony. Any such written statement must be provided to the other party, along with the last known address of the witness, in a manner that allows sufficient time for the other party to subpoena the witness for cross-examination at the hearing. Prior written statements of witnesses proposed to testify at the hearing must be exchanged as provided in § 160.518. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.538(a)', 'data': '(a) Except as provided in paragraph (b) of this section, testimony at the hearing must be given orally by witnesses under oath or affirmation. '}
+You may now respond.

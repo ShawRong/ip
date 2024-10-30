@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.306', 'data': '§ 160.306 Complaints to the Secretary.'}, {'id': '164.524(d)(2)', 'data': '(2) Denial.  The covered entity must provide a timely, written denial to the individual, in accordance with paragraph (b)(2) of this section. The denial must be in plain language and contain: '}, {'id': '164.530(a)(1)(ii)', 'data': '(ii) A covered entity must designate a contact person or office who is responsible for receiving complaints under this section and who is able to provide further information about matters covered by the notice required by § 164.520. '}, {'id': '164.530(d)', 'data': '(d) '}, {'id': '164.524(d)(2)', 'data': '(2) Denial.  The covered entity must provide a timely, written denial to the individual, in accordance with paragraph (b)(2) of this section. The denial must be in plain language and contain: '}, {'id': '164.530(d)', 'data': '(d) '}, {'id': '160.306', 'data': '§ 160.306 Complaints to the Secretary.'}, {'id': '164.530(a)(1)(ii)', 'data': '(ii) A covered entity must designate a contact person or office who is responsible for receiving complaints under this section and who is able to provide further information about matters covered by the notice required by § 164.520. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.524(d)(2)(iii)', 'data': '(iii) A description of how the individual may complain to the covered entity pursuant to the complaint procedures in § 164.530(d) or to the Secretary pursuant to the procedures in § 160.306. The description must include the name, or title, and telephone number of the contact person or office designated in § 164.530(a)(1)(ii). '}
+You may now respond.

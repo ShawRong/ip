@@ -1,0 +1,24 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.100', 'data': '§ 162.100 Applicability. Covered entities (as defined in § 160.103 of this subchapter) must comply with the applicable requirements of this part. '}, {'id': '162.103', 'data': '§ 162.103 Definitions. For purposes of this part, the following definitions apply: '}, {'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}, {'id': '162.100', 'data': '§ 162.100 Applicability. Covered entities (as defined in § 160.103 of this subchapter) must comply with the applicable requirements of this part. '}, {'id': '162.103', 'data': '§ 162.103 Definitions. For purposes of this part, the following definitions apply: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part162SubpartA', 'data': 'Subpart A—General Provisions'}
+You may now respond.

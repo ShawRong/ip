@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.306', 'data': '§ 164.306 Security standards: General rules.'}, {'id': '164.316(b)(2)(iii)', 'data': '(iii) Updates (Required).  Review documentation periodically, and update as needed, in response to environmental or operational changes affecting the security of the electronic protected health information. '}, {'id': '164.306', 'data': '§ 164.306 Security standards: General rules.'}, {'id': '164.316(b)(2)(iii)', 'data': '(iii) Updates (Required).  Review documentation periodically, and update as needed, in response to environmental or operational changes affecting the security of the electronic protected health information. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.306(e)', 'data': '(e) Maintenance.  A covered entity or business associate must review and modify the security measures implemented under this subpart as needed to continue provision of reasonable and appropriate protection of electronic protected health information, and update documentation of such security measures in accordance with § 164.316(b)(2)(iii). '}
+You may now respond.

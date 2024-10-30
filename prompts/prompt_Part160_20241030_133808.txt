@@ -1,0 +1,23 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'HIPAA', 'data': 'HIPAA Privacy Rule'}, {'id': 'Part160SubpartA', 'data': 'Subpart A—General Provisions'}, {'id': 'Part160SubpartB', 'data': 'Subpart B—Preemption of State Law'}, {'id': 'Part160SubpartC', 'data': 'Subpart C—Compliance and Investigations'}, {'id': 'Part160SubpartD', 'data': 'Subpart D—Imposition of Civil Money Penalties'}, {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': 'Part160SubpartA', 'data': 'Subpart A—General Provisions'}, {'id': 'Part160SubpartB', 'data': 'Subpart B—Preemption of State Law'}, {'id': 'Part160SubpartC', 'data': 'Subpart C—Compliance and Investigations'}, {'id': 'Part160SubpartD', 'data': 'Subpart D—Imposition of Civil Money Penalties'}, {'id': 'Part160SubpartE', 'data': 'Subpart E—Procedures for Hearings'}, {'id': 'HIPAA', 'data': 'HIPAA Privacy Rule'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part160', 'data': 'PART 160—GENERAL ADMINISTRATIVE REQUIREMENTS
+'}
+You may now respond.

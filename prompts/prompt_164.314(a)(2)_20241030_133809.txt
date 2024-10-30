@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.314(a)', 'data': '(a) '}, {'id': '164.314(a)(2)(i)', 'data': '(i) Business associate contracts.  The contract must provide that the business associate will— '}, {'id': '164.314(a)(2)(ii)', 'data': '(ii) Other arrangements.  The covered entity is in compliance with paragraph (a)(1) of this section if it has another arrangement in place that meets the requirements of § 164.504(e)(3). '}, {'id': '164.314(a)(2)(iii)', 'data': '(iii) Business associate contracts with subcontractors.  The requirements of paragraphs (a)(2)(i) and (a)(2)(ii) of this section apply to the contract or other arrangement between a business associate and a subcontractor required by § 164.308(b)(4) in the same manner as such requirements apply to contracts or other arrangements between a covered entity and business associate. '}, {'id': '164.504(e)(3)(i)(A)', 'data': '(A) The covered entity may comply with this paragraph and § 164.314(a)(1), if applicable, by entering into a memorandum of understanding with the business associate that contains terms that accomplish the objectives of paragraph (e)(2) of this section and § 164.314(a)(2), if applicable. '}, {'id': '164.504(e)(3)(i)(B)', 'data': '(B) The covered entity may comply with this paragraph and § 164.314(a)(1), if applicable, if other law (including regulations adopted by the covered entity or its business associate) contains requirements applicable to the business associate that accomplish the objectives of paragraph (e)(2) of this section and § 164.314(a)(2), if applicable. '}, {'id': '164.314(a)', 'data': '(a) '}, {'id': '164.314(a)(2)(i)', 'data': '(i) Business associate contracts.  The contract must provide that the business associate will— '}, {'id': '164.314(a)(2)(ii)', 'data': '(ii) Other arrangements.  The covered entity is in compliance with paragraph (a)(1) of this section if it has another arrangement in place that meets the requirements of § 164.504(e)(3). '}, {'id': '164.314(a)(2)(iii)', 'data': '(iii) Business associate contracts with subcontractors.  The requirements of paragraphs (a)(2)(i) and (a)(2)(ii) of this section apply to the contract or other arrangement between a business associate and a subcontractor required by § 164.308(b)(4) in the same manner as such requirements apply to contracts or other arrangements between a covered entity and business associate. '}, {'id': '164.504(e)(3)(i)(A)', 'data': '(A) The covered entity may comply with this paragraph and § 164.314(a)(1), if applicable, by entering into a memorandum of understanding with the business associate that contains terms that accomplish the objectives of paragraph (e)(2) of this section and § 164.314(a)(2), if applicable. '}, {'id': '164.504(e)(3)(i)(B)', 'data': '(B) The covered entity may comply with this paragraph and § 164.314(a)(1), if applicable, if other law (including regulations adopted by the covered entity or its business associate) contains requirements applicable to the business associate that accomplish the objectives of paragraph (e)(2) of this section and § 164.314(a)(2), if applicable. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.314(a)(2)', 'data': '(2) Implementation specifications (Required) —'}
+You may now respond.

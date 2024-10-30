@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.920(b)', 'data': '(b) Retail pharmacy specifications and Medicaid subrogation implementation guides.  The implementation specifications for the retail pharmacy standards and the implementation specifications for the batch standard for the Medicaid pharmacy subrogation transaction may be obtained from the National Council for Prescription Drug Programs, 9240 East Raintree Drive, Scottsdale, AZ 85260. Telephone (480) 477–1000; FAX (480) 767–1042. They are also available through the Internet at http://www.ncpdp.org. A fee is charged for all NCPDP Implementation Guides. Charging for such publications is consistent with the policies of other publishers of standards. The transaction implementation specifications are as follows: '}, {'id': '162.1902', 'data': '§ 162.1902 Standard for Medicaid pharmacy subrogation transaction. The Secretary adopts the Batch Standard Medicaid Subrogation Implementation Guide, Version 3, Release 0 (Version 3.0), July 2007, National Council for Prescription Drug Programs, as referenced in § 162.1902 (Incorporated by reference at § 162.920): '}, {'id': '162.920(b)', 'data': '(b) Retail pharmacy specifications and Medicaid subrogation implementation guides.  The implementation specifications for the retail pharmacy standards and the implementation specifications for the batch standard for the Medicaid pharmacy subrogation transaction may be obtained from the National Council for Prescription Drug Programs, 9240 East Raintree Drive, Scottsdale, AZ 85260. Telephone (480) 477–1000; FAX (480) 767–1042. They are also available through the Internet at http://www.ncpdp.org. A fee is charged for all NCPDP Implementation Guides. Charging for such publications is consistent with the policies of other publishers of standards. The transaction implementation specifications are as follows: '}, {'id': '162.1902', 'data': '§ 162.1902 Standard for Medicaid pharmacy subrogation transaction. The Secretary adopts the Batch Standard Medicaid Subrogation Implementation Guide, Version 3, Release 0 (Version 3.0), July 2007, National Council for Prescription Drug Programs, as referenced in § 162.1902 (Incorporated by reference at § 162.920): '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.920(b)(6)', 'data': '(6) The Batch Standard Medicaid Subrogation Implementation Guide, Version 3, Release 0 (Version 3.0), July 2007, National Council for Prescription Drug Programs, as referenced in § 162.1902. '}
+You may now respond.

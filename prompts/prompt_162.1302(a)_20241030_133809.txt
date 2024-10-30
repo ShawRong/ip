@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1302', 'data': '§ 162.1302 Standards for referral certification and authorization transaction. The Secretary adopts the following standards for the referral certification and authorization transaction: '}, {'id': '162.1302(a)(1)', 'data': '(1) Retail pharmacy drug referral certification and authorization.  The NCPDP Telecommunication Standard Implementation Guide, Version 5, Release 1 (Version 5.1), September 1999, and equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1, Release 1 (Version 1.1), January 2000, supporting Telecommunications Standard Implementation Guide, Version 5, Release 1 (Version 5.1) for the NCPDP Data Record in the Detail Data Record. (Incorporated by reference in § 162.920). '}, {'id': '162.1302(a)(2)', 'data': '(2) Dental, professional, and institutional referral certification and authorization.  The ASC X12N 278—Health Care Services Review—Request for Review and Response, Version 4010, May 2000, Washington Publishing Company, 004010X094 and Addenda to Health Care Services Review—Request for Review and Response, Version 4010, October 2002, Washington Publishing Company, 004010X094A1. (Incorporated by reference in § 162.920). '}, {'id': '162.1302(b)(1)', 'data': '(1) The standards identified in paragraph (a) of this section; and '}, {'id': '162.1302', 'data': '§ 162.1302 Standards for referral certification and authorization transaction. The Secretary adopts the following standards for the referral certification and authorization transaction: '}, {'id': '162.1302(a)(1)', 'data': '(1) Retail pharmacy drug referral certification and authorization.  The NCPDP Telecommunication Standard Implementation Guide, Version 5, Release 1 (Version 5.1), September 1999, and equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1, Release 1 (Version 1.1), January 2000, supporting Telecommunications Standard Implementation Guide, Version 5, Release 1 (Version 5.1) for the NCPDP Data Record in the Detail Data Record. (Incorporated by reference in § 162.920). '}, {'id': '162.1302(a)(2)', 'data': '(2) Dental, professional, and institutional referral certification and authorization.  The ASC X12N 278—Health Care Services Review—Request for Review and Response, Version 4010, May 2000, Washington Publishing Company, 004010X094 and Addenda to Health Care Services Review—Request for Review and Response, Version 4010, October 2002, Washington Publishing Company, 004010X094A1. (Incorporated by reference in § 162.920). '}, {'id': '162.1302(b)(1)', 'data': '(1) The standards identified in paragraph (a) of this section; and '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1302(a)', 'data': '(a) For the period from October 16, 2003 through March 16, 2009: '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.410', 'data': '§ 162.410 Implementation specifications: Health care providers.'}, {'id': '162.410', 'data': '§ 162.410 Implementation specifications: Health care providers.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.410(c)', 'data': '(c) A health care provider that is not a covered entity may obtain, by application if necessary, an NPI from the NPS. '}
+You may now respond.

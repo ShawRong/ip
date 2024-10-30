@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.314(a)(2)(i)(C)', 'data': '(C) Report to the covered entity any security incident of which it becomes aware, including breaches of unsecured protected health information as required by § 164.410. '}, {'id': 'Part164SubpartD', 'data': 'Subpart D—Notification in the Case of Breach of Unsecured Protected Health Information'}, {'id': '164.410(a)', 'data': '(a) Standard —'}, {'id': '164.410(b)', 'data': '(b) Implementation specifications: Timeliness of notification.  Except as provided in § 164.412, a business associate shall provide the notification required by paragraph (a) of this section without unreasonable delay and in no case later than 60 calendar days after discovery of a breach. '}, {'id': '164.410(c)', 'data': '(c) Implementation specifications: Content of notification. '}, {'id': '164.504(e)(2)(ii)(C)', 'data': '(C) Report to the covered entity any use or disclosure of the information not provided for by its contract of which it becomes aware, including breaches of unsecured protected health information as required by § 164.410; '}, {'id': 'Part164SubpartD', 'data': 'Subpart D—Notification in the Case of Breach of Unsecured Protected Health Information'}, {'id': '164.410(a)', 'data': '(a) Standard —'}, {'id': '164.410(b)', 'data': '(b) Implementation specifications: Timeliness of notification.  Except as provided in § 164.412, a business associate shall provide the notification required by paragraph (a) of this section without unreasonable delay and in no case later than 60 calendar days after discovery of a breach. '}, {'id': '164.410(c)', 'data': '(c) Implementation specifications: Content of notification. '}, {'id': '164.314(a)(2)(i)(C)', 'data': '(C) Report to the covered entity any security incident of which it becomes aware, including breaches of unsecured protected health information as required by § 164.410. '}, {'id': '164.504(e)(2)(ii)(C)', 'data': '(C) Report to the covered entity any use or disclosure of the information not provided for by its contract of which it becomes aware, including breaches of unsecured protected health information as required by § 164.410; '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.410', 'data': '§ 164.410 Notification by a business associate.'}
+You may now respond.

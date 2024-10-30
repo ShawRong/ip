@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.548', 'data': '§ 160.548 Appeal of the ALJ's decision.'}, {'id': '160.548', 'data': '§ 160.548 Appeal of the ALJ's decision.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.548(f)', 'data': '(f) If any party demonstrates to the satisfaction of the Board that additional evidence not presented at such hearing is relevant and material and that there were reasonable grounds for the failure to adduce such evidence at the hearing, the Board may remand the matter to the ALJ for consideration of such additional evidence. '}
+You may now respond.

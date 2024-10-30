@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1002', 'data': '§ 162.1002 Medical data code sets. The Secretary adopts the following maintaining organization's code sets as the standard medical data code sets: '}, {'id': '162.1002(a)(1)', 'data': '(1) International Classification of Diseases, 9th Edition, Clinical Modification, (ICD–9–CM), Volumes 1 and 2  (including The Official ICD–9–CM Guidelines for Coding and Reporting), as maintained and distributed by HHS, for the following conditions: '}, {'id': '162.1002(a)(2)', 'data': '(2) International Classification of Diseases, 9th Edition, Clinical Modification, Volume 3 Procedures  (including The Official ICD–9–CM Guidelines for Coding and Reporting), as maintained and distributed by HHS, for the following procedures or other actions taken for diseases, injuries, and impairments on hospital inpatients reported by hospitals: '}, {'id': '162.1002(a)(3)', 'data': '(3) National Drug Codes  (NDC), as maintained and distributed by HHS, in collaboration with drug manufacturers, for the following: '}, {'id': '162.1002(a)(4)', 'data': '(4) Code on Dental Procedures and Nomenclature,  as maintained and distributed by the American Dental Association, for dental services. '}, {'id': '162.1002(a)(5)', 'data': '(5) The combination of Health Care Financing Administration Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, and Current Procedural Terminology, Fourth Edition (CPT–4), as maintained and distributed by the American Medical Association, for physician services and other health care services. These services include, but are not limited to, the following: '}, {'id': '162.1002(a)(6)', 'data': '(6) The Health Care Financing Administration Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, for all other substances, equipment, supplies, or other items used in health care services. These items include, but are not limited to, the following: '}, {'id': '162.1002', 'data': '§ 162.1002 Medical data code sets. The Secretary adopts the following maintaining organization's code sets as the standard medical data code sets: '}, {'id': '162.1002(a)(1)', 'data': '(1) International Classification of Diseases, 9th Edition, Clinical Modification, (ICD–9–CM), Volumes 1 and 2  (including The Official ICD–9–CM Guidelines for Coding and Reporting), as maintained and distributed by HHS, for the following conditions: '}, {'id': '162.1002(a)(2)', 'data': '(2) International Classification of Diseases, 9th Edition, Clinical Modification, Volume 3 Procedures  (including The Official ICD–9–CM Guidelines for Coding and Reporting), as maintained and distributed by HHS, for the following procedures or other actions taken for diseases, injuries, and impairments on hospital inpatients reported by hospitals: '}, {'id': '162.1002(a)(3)', 'data': '(3) National Drug Codes  (NDC), as maintained and distributed by HHS, in collaboration with drug manufacturers, for the following: '}, {'id': '162.1002(a)(4)', 'data': '(4) Code on Dental Procedures and Nomenclature,  as maintained and distributed by the American Dental Association, for dental services. '}, {'id': '162.1002(a)(5)', 'data': '(5) The combination of Health Care Financing Administration Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, and Current Procedural Terminology, Fourth Edition (CPT–4), as maintained and distributed by the American Medical Association, for physician services and other health care services. These services include, but are not limited to, the following: '}, {'id': '162.1002(a)(6)', 'data': '(6) The Health Care Financing Administration Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, for all other substances, equipment, supplies, or other items used in health care services. These items include, but are not limited to, the following: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1002(a)', 'data': '(a) For the period from October 16, 2002 through October 15, 2003: '}
+You may now respond.

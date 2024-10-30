@@ -1,0 +1,23 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'HIPAA', 'data': 'HIPAA Privacy Rule'}, {'id': 'Part162SubpartA', 'data': 'Subpart A—General Provisions'}, {'id': 'Part162SubpartB-C', 'data': 'Subparts B–C [Reserved]'}, {'id': 'Part162SubpartD', 'data': 'Subpart D—Standard Unique Health Identifier for Health Care Providers'}, {'id': 'Part162SubpartE', 'data': 'Subpart E [Reserved]'}, {'id': 'Part162SubpartF', 'data': 'Subpart F—Standard Unique Employer Identifier'}, {'id': 'Part162SubpartG-H', 'data': 'Subparts G–H [Reserved]'}, {'id': 'Part162SubpartI', 'data': 'Subpart I—General Provisions for Transactions'}, {'id': 'Part162SubpartJ', 'data': 'Subpart J—Code Sets'}, {'id': 'Part162SubpartK', 'data': 'Subpart K—Health Care Claims or Equivalent Encounter Information'}, {'id': 'Part162SubpartL', 'data': 'Subpart L—Eligibility for a Health Plan'}, {'id': 'Part162SubpartM', 'data': 'Subpart M—Referral Certification and Authorization'}, {'id': 'Part162SubpartN', 'data': 'Subpart N—Health Care Claim Status'}, {'id': 'Part162SubpartO', 'data': 'Subpart O—Enrollment and Disenrollment in a Health Plan'}, {'id': 'Part162SubpartP', 'data': 'Subpart P—Health Care Electronic Funds Transfers (EFT) and Remittance Advice'}, {'id': 'Part162SubpartQ', 'data': 'Subpart Q—Health Plan Premium Payments'}, {'id': 'Part162SubpartR', 'data': 'Subpart R—Coordination of Benefits'}, {'id': 'Part162SubpartS', 'data': 'Subpart S—Medicaid Pharmacy Subrogation'}, {'id': 'Part162SubpartA', 'data': 'Subpart A—General Provisions'}, {'id': 'Part162SubpartB-C', 'data': 'Subparts B–C [Reserved]'}, {'id': 'Part162SubpartD', 'data': 'Subpart D—Standard Unique Health Identifier for Health Care Providers'}, {'id': 'Part162SubpartE', 'data': 'Subpart E [Reserved]'}, {'id': 'Part162SubpartF', 'data': 'Subpart F—Standard Unique Employer Identifier'}, {'id': 'Part162SubpartG-H', 'data': 'Subparts G–H [Reserved]'}, {'id': 'Part162SubpartI', 'data': 'Subpart I—General Provisions for Transactions'}, {'id': 'Part162SubpartJ', 'data': 'Subpart J—Code Sets'}, {'id': 'Part162SubpartK', 'data': 'Subpart K—Health Care Claims or Equivalent Encounter Information'}, {'id': 'Part162SubpartL', 'data': 'Subpart L—Eligibility for a Health Plan'}, {'id': 'Part162SubpartM', 'data': 'Subpart M—Referral Certification and Authorization'}, {'id': 'Part162SubpartN', 'data': 'Subpart N—Health Care Claim Status'}, {'id': 'Part162SubpartO', 'data': 'Subpart O—Enrollment and Disenrollment in a Health Plan'}, {'id': 'Part162SubpartP', 'data': 'Subpart P—Health Care Electronic Funds Transfers (EFT) and Remittance Advice'}, {'id': 'Part162SubpartQ', 'data': 'Subpart Q—Health Plan Premium Payments'}, {'id': 'Part162SubpartR', 'data': 'Subpart R—Coordination of Benefits'}, {'id': 'Part162SubpartS', 'data': 'Subpart S—Medicaid Pharmacy Subrogation'}, {'id': 'HIPAA', 'data': 'HIPAA Privacy Rule'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': 'Part162', 'data': 'PART 162—ADMINISTRATIVE REQUIREMENTS
+'}
+You may now respond.

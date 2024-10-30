@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '162.1002(a)', 'data': '(a) For the period from October 16, 2002 through October 15, 2003: '}, {'id': '162.1002(a)(3)(i)', 'data': '(i) Drugs '}, {'id': '162.1002(a)(3)(ii)', 'data': '(ii) Biologics. '}, {'id': '162.1002(a)', 'data': '(a) For the period from October 16, 2002 through October 15, 2003: '}, {'id': '162.1002(a)(3)(i)', 'data': '(i) Drugs '}, {'id': '162.1002(a)(3)(ii)', 'data': '(ii) Biologics. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '162.1002(a)(3)', 'data': '(3) National Drug Codes  (NDC), as maintained and distributed by HHS, in collaboration with drug manufacturers, for the following: '}
+You may now respond.

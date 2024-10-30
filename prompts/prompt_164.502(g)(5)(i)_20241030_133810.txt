@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(g)(5)', 'data': '(5) Implementation specification: Abuse, neglect, endangerment situations.  Notwithstanding a State law or any requirement of this paragraph to the contrary, a covered entity may elect not to treat a person as the personal representative of an individual if: '}, {'id': '164.502(g)(5)(i)(A)', 'data': '(A) The individual has been or may be subjected to domestic violence, abuse, or neglect by such person; or '}, {'id': '164.502(g)(5)(i)(B)', 'data': '(B) Treating such person as the personal representative could endanger the individual; and '}, {'id': '164.502(g)(5)', 'data': '(5) Implementation specification: Abuse, neglect, endangerment situations.  Notwithstanding a State law or any requirement of this paragraph to the contrary, a covered entity may elect not to treat a person as the personal representative of an individual if: '}, {'id': '164.502(g)(5)(i)(A)', 'data': '(A) The individual has been or may be subjected to domestic violence, abuse, or neglect by such person; or '}, {'id': '164.502(g)(5)(i)(B)', 'data': '(B) Treating such person as the personal representative could endanger the individual; and '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(g)(5)(i)', 'data': '(i) The covered entity has a reasonable belief that: '}
+You may now respond.

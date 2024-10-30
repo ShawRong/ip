@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.548', 'data': '§ 160.548 Appeal of the ALJ's decision.'}, {'id': '160.548', 'data': '§ 160.548 Appeal of the ALJ's decision.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.548(c)', 'data': '(c) A notice of appeal must be accompanied by a written brief specifying exceptions to the initial decision and reasons supporting the exceptions. Any party may file a brief in opposition to the exceptions, which may raise any relevant issue not addressed in the exceptions, within 30 days of receiving the notice of appeal and the accompanying brief. The Board may permit the parties to file reply briefs. '}
+You may now respond.

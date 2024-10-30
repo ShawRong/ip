@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.404', 'data': '§ 164.404 Notification to individuals.'}, {'id': '164.404(a)', 'data': '(a) Standard —'}, {'id': '164.412', 'data': '§ 164.412 Law enforcement delay. If a law enforcement official states to a covered entity or business associate that a notification, notice, or posting required under this subpart would impede a criminal investigation or cause damage to national security, a covered entity or business associate shall: '}, {'id': '164.404', 'data': '§ 164.404 Notification to individuals.'}, {'id': '164.412', 'data': '§ 164.412 Law enforcement delay. If a law enforcement official states to a covered entity or business associate that a notification, notice, or posting required under this subpart would impede a criminal investigation or cause damage to national security, a covered entity or business associate shall: '}, {'id': '164.404(a)', 'data': '(a) Standard —'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.404(b)', 'data': '(b) Implementation specification: Timeliness of notification.  Except as provided in § 164.412, a covered entity shall provide the notification required by paragraph (a) of this section without unreasonable delay and in no case later than 60 calendar days after discovery of a breach. '}
+You may now respond.

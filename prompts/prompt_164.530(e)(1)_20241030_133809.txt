@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(j)', 'data': '(j) Standard: Disclosures by whistleblowers and workforce member crime victims —'}, {'id': '164.530(e)', 'data': '(e) '}, {'id': '164.530(g)(2)', 'data': '(2) Must refrain from intimidation and retaliation as provided in § 160.316 of this subchapter. '}, {'id': '164.530(e)', 'data': '(e) '}, {'id': '164.502(j)', 'data': '(j) Standard: Disclosures by whistleblowers and workforce member crime victims —'}, {'id': '164.530(g)(2)', 'data': '(2) Must refrain from intimidation and retaliation as provided in § 160.316 of this subchapter. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(e)(1)', 'data': '(1) Standard: Sanctions.  A covered entity must have and apply appropriate sanctions against members of its workforce who fail to comply with the privacy policies and procedures of the covered entity or the requirements of this subpart or subpart D of this part. This standard does not apply to a member of the covered entity's workforce with respect to actions that are covered by and that meet the conditions of § 164.502(j) or paragraph (g)(2) of this section. '}
+You may now respond.

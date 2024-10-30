@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.548', 'data': '§ 160.548 Appeal of the ALJ's decision.'}, {'id': '160.548', 'data': '§ 160.548 Appeal of the ALJ's decision.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '160.548(a)', 'data': '(a) Any party may appeal the decision of the ALJ to the Board by filing a notice of appeal with the Board within 30 days of the date of service of the ALJ decision. The Board may extend the initial 30 day period for a period of time not to exceed 30 days if a party files with the Board a request for an extension within the initial 30 day period and shows good cause. '}
+You may now respond.

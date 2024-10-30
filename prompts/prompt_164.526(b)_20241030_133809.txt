@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.526', 'data': '§ 164.526 Amendment of protected health information.'}, {'id': '164.526(b)(1)', 'data': '(1) Individual's request for amendment.  The covered entity must permit an individual to request that the covered entity amend the protected health information maintained in the designated record set. The covered entity may require individuals to make requests for amendment in writing and to provide a reason to support a requested amendment, provided that it informs individuals in advance of such requirements. '}, {'id': '164.526(b)(2)', 'data': '(2) Timely action by the covered entity. '}, {'id': '164.526(c)(2)', 'data': '(2) Informing the individual.  In accordance with paragraph (b) of this section, the covered entity must timely inform the individual that the amendment is accepted and obtain the individual's identification of and agreement to have the covered entity notify the relevant persons with which the amendment needs to be shared in accordance with paragraph (c)(3) of this section. '}, {'id': '164.526', 'data': '§ 164.526 Amendment of protected health information.'}, {'id': '164.526(b)(1)', 'data': '(1) Individual's request for amendment.  The covered entity must permit an individual to request that the covered entity amend the protected health information maintained in the designated record set. The covered entity may require individuals to make requests for amendment in writing and to provide a reason to support a requested amendment, provided that it informs individuals in advance of such requirements. '}, {'id': '164.526(b)(2)', 'data': '(2) Timely action by the covered entity. '}, {'id': '164.526(c)(2)', 'data': '(2) Informing the individual.  In accordance with paragraph (b) of this section, the covered entity must timely inform the individual that the amendment is accepted and obtain the individual's identification of and agreement to have the covered entity notify the relevant persons with which the amendment needs to be shared in accordance with paragraph (c)(3) of this section. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.526(b)', 'data': '(b) Implementation specifications: Requests for amendment and timely action —'}
+You may now respond.
