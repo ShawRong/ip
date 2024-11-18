@@ -55,6 +55,22 @@ def save_response_to_mongodb(response, prompt_filename):
     except Exception as e:
         print(f"An error occurred while saving the response to MongoDB: {e}")
 
+def check_response_exists(prompt_filename, output_file_path):
+    """Check if the response for the given prompt_filename already exists in the output JSON file."""
+    try:
+        if os.path.isfile(output_file_path):
+            with open(output_file_path, 'r', encoding='utf-8') as json_file:
+                # Load the existing responses
+                existing_responses = json.load(json_file)
+                # Check if the prompt_filename already exists
+                for response in existing_responses:
+                    if response.get("prompt_file") == prompt_filename:
+                        return True  # Found a matching prompt_file
+    except Exception as e:
+        print(f"An error occurred while checking existing responses: {e}")
+    
+    return False  # No matching prompt_file found
+
 async def main():
     prompts_dir = 'prompts'  # Replace with your prompts folder path
     
@@ -74,6 +90,11 @@ async def main():
             
             with open(file_path, 'r', encoding='utf-8') as file:
                 prompt = file.read().strip()  # Read file content and remove whitespace
+            
+            # Check if the response for this prompt already exists
+            if check_response_exists(filename, output_file_path):
+                print(f"Response for {filename} already exists. Skipping...")
+                continue  # Skip to the next file
             
             print(f"Sending prompt to Poe API: {prompt}")
             response = await send_prompt_to_poe(prompt)
