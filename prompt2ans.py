@@ -77,9 +77,10 @@ async def main():
     # Generate a timestamp for the output file name
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     output_file_path = f'response_content_{timestamp}.json'  # Output file path with timestamp
+    previous_file_path = "response_content_18.json"
 
     # Create JSON file and write the start of the array
-    with open(output_file_path, 'w', encoding='utf-8') as json_file:
+    with open(output_file_path, 'a', encoding='utf-8') as json_file:
         json_file.write('[\n')  # Start JSON array
 
     # Iterate through all files in the prompts folder
@@ -92,7 +93,7 @@ async def main():
                 prompt = file.read().strip()  # Read file content and remove whitespace
             
             # Check if the response for this prompt already exists
-            if check_response_exists(filename, output_file_path):
+            if check_response_exists(filename, previous_file_path):
                 print(f"Response for {filename} already exists. Skipping...")
                 continue  # Skip to the next file
             
