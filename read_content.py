@@ -30,15 +30,16 @@ def process_filename(filename):
     
     return filename
 
+document_name = 'document_18'
 def write_to_file(filename, content):
     # 将内容写入文件，确保在'document'子文件夹中
-    os.makedirs('document', exist_ok=True)  # 创建'document'文件夹（如果不存在）
-    file_path = os.path.join('document', filename)  # 生成完整的文件路径
+    os.makedirs(document_name, exist_ok=True)  # 创建'document'文件夹（如果不存在）
+    file_path = os.path.join(document_name, filename)  # 生成完整的文件路径
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(content)
 
 def main():
-    file_path = './response_content_20241118_013216.json'  # 更新为您的文件路径
+    file_path = './response_content_18.json'  # 更新为您的文件路径
     json_data = load_json(file_path)
 
     # 打印解析后的数据

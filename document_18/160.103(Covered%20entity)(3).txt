@@ -1,0 +1,10 @@
+# Law
+160.103(Covered%20entity)(3)
+# Key Legal Concepts
+A 'covered entity' refers to organizations or individuals that perform functions involving health information and are subject to specific regulations under health privacy laws. The definition includes health care providers who engage in electronic transactions, emphasizing the importance of electronic data handling in health care.
+# Key Legal Principles
+Confidentiality: Covered entities must ensure that health information is transmitted securely to protect patient privacy. Compliance: Covered entities are required to adhere to regulations governing health information technology and electronic transactions.
+# Application Scenarios
+A hospital that transmits patient records electronically to an insurance company for reimbursement. A physician's office that uses electronic health records to communicate patient information with specialists.
+# Relationship to Overall Document Argument
+This law establishes the framework for identifying entities responsible for safeguarding health information, critical for ensuring compliance with privacy regulations. By defining who qualifies as a covered entity, the law supports the broader objective of protecting patient data in an increasingly digital health care landscape.

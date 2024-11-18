@@ -1,0 +1,10 @@
+# Law
+160.103(Health%20plan)(1)(i)
+# Key Legal Concepts
+A group health plan refers to the collective health insurance coverage provided to a group of individuals, often through an employer or organization, which helps to pool risk and lower costs. The definition of a health plan encompasses various types of coverage and arrangements that contribute to individuals' healthcare needs, whether provided by employers, government programs, or other entities.
+# Key Legal Principles
+The principle of risk pooling in group health plans allows for the sharing of healthcare costs among members, which can lead to more affordable premiums and benefits. The principle of compliance with regulatory standards ensures that group health plans adhere to laws governing coverage, benefits, and consumer protections, which is essential for protecting enrollees.
+# Application Scenarios
+In a workplace setting, an employer establishes a group health plan for employees, which provides access to a range of medical services and benefits. A labor union negotiates a group health plan for its members, ensuring that various healthcare services are covered and accessible.
+# Relationship to Overall Document Argument
+Understanding the definition of a group health plan is crucial for interpreting the broader implications of health coverage laws and regulations. The specification of group health plans lays the groundwork for discussions about eligibility, benefits, and the responsibilities of plan sponsors and enrollees.

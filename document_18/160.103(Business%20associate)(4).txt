@@ -1,0 +1,10 @@
+# Law
+160.103(Business%20associate)(4)
+# Key Legal Concepts
+A 'business associate' refers to an individual or entity that performs functions or activities on behalf of a covered entity that involves the use or disclosure of protected health information (PHI). Certain entities are explicitly excluded from the definition of a business associate under specific circumstances outlined in the law.
+# Key Legal Principles
+The principle of confidentiality mandates that any use or disclosure of PHI by a business associate must be authorized and compliant with applicable laws. The principle of accountability requires business associates to adhere to agreements that specify how they handle PHI and to comply with legal obligations.
+# Application Scenarios
+A health care provider sharing patient information with another provider for treatment purposes is typically not considered a business associate. A government agency assessing eligibility for public health benefits may collect PHI without being classified as a business associate, provided the activities are authorized by law.
+# Relationship to Overall Document Argument
+Understanding the definition and exclusions of a business associate is crucial for determining liability and compliance in handling PHI. Clarifying the boundaries of what constitutes a business associate helps ensure that covered entities can effectively manage their relationships with third parties while complying with privacy regulations.

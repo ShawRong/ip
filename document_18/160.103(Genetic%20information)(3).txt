@@ -1,0 +1,10 @@
+# Law
+160.103(Genetic%20information)(3)
+# Key Legal Concepts
+Genetic information refers specifically to data related to an individual's genetic makeup, including hereditary traits and predispositions to certain health conditions. The exclusion of sex and age from the definition of genetic information emphasizes that these characteristics are not considered genetic data under this law.
+# Key Legal Principles
+The principle of specificity in legal definitions, which ensures that terms are clearly defined to avoid ambiguity in their application. The principle of non-discrimination, which supports the idea that genetic information should not be used to unfairly categorize or discriminate against individuals based on their genetic traits.
+# Application Scenarios
+In employment settings, employers must avoid using genetic information, except for what is explicitly classified as genetic data, to prevent discrimination based on hereditary conditions. In healthcare, medical professionals must ensure that patient records do not include age or sex as part of genetic information assessments.
+# Relationship to Overall Document Argument
+This law aims to protect individuals from discrimination based on their genetic information, reinforcing the importance of privacy and ethical considerations in the use of genetic data. By explicitly excluding sex and age, the law clarifies the boundaries of genetic information, thereby supporting a more focused and equitable approach to genetic data handling.

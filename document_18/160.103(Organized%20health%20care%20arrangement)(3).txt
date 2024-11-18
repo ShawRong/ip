@@ -1,0 +1,10 @@
+# Law
+160.103(Organized%20health%20care%20arrangement)(3)
+# Key Legal Concepts
+Organized health care arrangement: This refers to a structured collaboration among health care providers or entities to deliver coordinated care, often involving shared resources or data management. Protected health information (PHI): This encompasses any health information that can identify an individual and is held by a covered entity, including data created or received by health insurance issuers or HMOs.
+# Key Legal Principles
+Confidentiality of health information: Legal requirements ensure that PHI is kept confidential and only shared under specific circumstances, particularly among entities involved in organized health care arrangements. Accountability in data sharing: Health insurance issuers and HMOs are held accountable for the handling of PHI related to group health plans, ensuring that any data sharing complies with applicable laws and regulations.
+# Application Scenarios
+A health insurance issuer collaborates with a group health plan to provide coordinated care for beneficiaries, sharing PHI to improve patient outcomes while adhering to confidentiality rules. An HMO participates in an organized health care arrangement, ensuring that all shared health information about participants in the group plan is managed in compliance with legal standards for privacy.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of protecting PHI while facilitating collaboration among health care entities, balancing the need for data sharing with privacy rights. This provision supports the broader objective of improving health care delivery through organized arrangements while enforcing legal safeguards for patient information.

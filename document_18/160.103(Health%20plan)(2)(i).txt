@@ -1,0 +1,10 @@
+# Law
+160.103(Health%20plan)(2)(i)
+# Key Legal Concepts
+Health plan: A health plan is a policy or program that provides health care coverage or pays for health care costs. Excepted benefits: These are specific types of health benefits that are exempt from certain health care regulations. They are defined in section 2791(c)(1) of the PHS Act.
+# Key Legal Principles
+Exclusion of excepted benefits: The law explicitly states that health plans do not cover certain excepted benefits, meaning that these benefits are not subject to the same regulatory framework as standard health coverage. Compliance with federal law: The provision links state or local health plans to federal definitions and regulations, ensuring that they align with the established standards of the PHS Act.
+# Application Scenarios
+A health insurance policy that includes limited-scope dental or vision benefits may qualify as providing excepted benefits under this law. A health plan that offers wellness programs or certain types of accident insurance may also be excluded from standard health plan requirements.
+# Relationship to Overall Document Argument
+This law clarifies the boundaries of what constitutes a health plan and delineates the types of coverage that fall outside standard regulations, thus shaping the regulatory landscape for health insurance. It establishes the framework for understanding which benefits are mandatory under health plans and which are excluded, thereby influencing consumer expectations and provider obligations.

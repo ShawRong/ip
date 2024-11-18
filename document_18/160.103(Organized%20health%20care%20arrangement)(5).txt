@@ -1,0 +1,10 @@
+# Law
+160.103(Organized%20health%20care%20arrangement)(5)
+# Key Legal Concepts
+Organized health care arrangement (OHCA): A legal framework that defines how multiple health care entities work together to provide coordinated care to patients, ensuring compliance with regulations related to patient information and care delivery. Protected health information (PHI): Any health information that can be used to identify an individual and is maintained by covered entities. This includes medical records, payment information, and other data that relates to the health status of individuals.
+# Key Legal Principles
+Confidentiality: The principle that health care providers must protect the privacy of patients' health information, particularly PHI, in all communications and records. Data sharing and consent: The requirement that health care entities involved in an OHCA must obtain appropriate consent from patients before sharing their PHI, ensuring that patients are aware of how their information will be used.
+# Application Scenarios
+Health insurance issuers collaborating with multiple group health plans to provide a seamless experience for patients, while ensuring that their PHI is handled in accordance with legal standards. HMOs managing the health information of their members across various health services, ensuring that data sharing complies with privacy regulations.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of protecting PHI within organized health care arrangements, reinforcing the need for compliance with privacy regulations among health insurance issuers and HMOs. It supports the broader goal of enhancing patient care through coordinated services, while ensuring that legal protections for patient information are maintained.

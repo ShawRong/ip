@@ -1,0 +1,10 @@
+# Law
+160.306(b)(3)
+# Key Legal Concepts
+Complaint Filing Requirement: This concept emphasizes the necessity for individuals to formally submit their grievances related to specified acts or omissions within a designated timeframe. Time Limit for Filing: This principle establishes a 180-day period within which a complainant must file their complaint, starting from the moment they became aware of the issue.
+# Key Legal Principles
+Timeliness: The principle of timeliness is crucial in legal proceedings, ensuring that complaints are filed promptly to maintain the integrity of the process and facilitate timely resolutions. Discretionary Waiver: The provision for the Secretary to waive the filing deadline for good cause introduces a level of discretion, allowing for flexibility in exceptional circumstances.
+# Application Scenarios
+A person discovers a discriminatory act or policy after attending a workplace event and has 180 days from that date to file a complaint. A complainant learns of a potential violation but may not have all necessary information immediately; they still have a 180-day window to file once they have sufficient knowledge.
+# Relationship to Overall Document Argument
+The requirement for timely filing supports the overall goal of ensuring that legal complaints are addressed while evidence and witness recollections are fresh. The ability for the Secretary to waive the time limit underscores the document's recognition of the complexities involved in some cases, allowing for a fairer adjudication process.

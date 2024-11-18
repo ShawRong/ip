@@ -1,0 +1,10 @@
+# Law
+160.103(Protected%20health%20information)(1)(i)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any health information that can be linked to an individual and is maintained or transmitted in any form, including electronic formats. Electronic Media: This includes any digital form of communication or storage that can transmit or store health information, such as emails, electronic health records, and cloud storage.
+# Key Legal Principles
+Confidentiality: The principle that individuals' health information must be kept private and only shared with authorized parties. Security: The obligation to implement safeguards to protect PHI from unauthorized access and breaches, especially when transmitted electronically.
+# Application Scenarios
+A healthcare provider sends patient records via secure email to a specialist for consultation. A hospital uses a cloud-based system to store patient health data, ensuring that it is encrypted and only accessible to authorized personnel.
+# Relationship to Overall Document Argument
+Understanding the definition of PHI as it relates to electronic transmission is crucial for compliance with privacy laws, such as HIPAA. Clarifying the scope of what constitutes electronic transmission helps organizations implement necessary security measures to protect patient information.

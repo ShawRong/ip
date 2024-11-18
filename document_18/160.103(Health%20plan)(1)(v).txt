@@ -1,0 +1,10 @@
+# Law
+160.103(Health%20plan)(1)(v)
+# Key Legal Concepts
+The term 'health plan' encompasses various types of health insurance, including government programs like Medicaid, which provide healthcare coverage to eligible individuals. The Medicaid program is a federal-state partnership program that assists in providing healthcare to low-income individuals, and it operates under Title XIX of the Social Security Act.
+# Key Legal Principles
+Universality of Coverage: Medicaid aims to provide comprehensive health coverage to eligible populations, ensuring access to necessary medical services. Federalism: The Medicaid program exemplifies the division of responsibilities between federal and state governments, with both levels having roles in administration and funding.
+# Application Scenarios
+Eligibility determination for Medicaid can impact access to healthcare services for low-income families seeking coverage. Health plans must comply with Medicaid regulations when providing services to beneficiaries to ensure they meet legal standards.
+# Relationship to Overall Document Argument
+The inclusion of Medicaid under the definition of 'health plan' emphasizes the legal recognition of government programs in the broader healthcare system. Understanding Medicaid's role is crucial for interpreting how health plans operate within the legal framework governing public assistance programs.

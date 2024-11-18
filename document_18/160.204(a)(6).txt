@@ -1,0 +1,10 @@
+# Law
+160.204(a)(6)
+# Key Legal Concepts
+Preemption: This refers to the principle where federal law overrides state law when there is a conflict, unless a state law is specifically exempted. Request for Exception: A formal process by which a state can seek permission to exclude specific provisions of its law from being preempted by federal regulations.
+# Key Legal Principles
+Administrative Discretion: The Secretary has the authority to request additional information beyond what is initially provided to make a determination about the exception. Written Submission Requirement: The law mandates that requests must be in writing, ensuring a formal record of the state's request.
+# Application Scenarios
+A state may seek an exception for a specific environmental regulation that it believes should remain in effect despite federal preemption. A state may submit a request to maintain a public health law that it argues is more stringent than federal standards.
+# Relationship to Overall Document Argument
+This provision emphasizes the process by which states can retain autonomy over certain laws, highlighting the balance between state and federal authority. The ability to request additional information underscores the thoroughness required in administrative decision-making, ensuring that all relevant factors are considered.

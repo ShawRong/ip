@@ -1,0 +1,10 @@
+# Law
+160.203(a)(2)
+# Key Legal Concepts
+Controlled substances: These are drugs or chemicals whose manufacture, distribution, and use are regulated by law due to their potential for abuse and dependency. State law provisions: Refers to local laws that may classify certain substances as controlled, impacting their regulation at both state and federal levels.
+# Key Legal Principles
+Federal preemption: Federal law may override state law in matters concerning controlled substances, especially when state law is less strict than federal regulations. Regulatory authority: The Secretary has the authority to determine the applicability of state laws concerning controlled substances, ensuring compliance with federal standards.
+# Application Scenarios
+A state implements a new law regulating certain substances that are also classified as controlled under federal law, requiring a review by the Secretary. A manufacturer seeks to comply with both state and federal regulations regarding the distribution of a substance deemed controlled by state law.
+# Relationship to Overall Document Argument
+This law aims to ensure that state regulations align with federal standards for controlled substances, maintaining consistency in legal enforcement. It underscores the importance of regulatory oversight by the Secretary to safeguard public health and safety concerning controlled substances.

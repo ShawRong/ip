@@ -1,0 +1,10 @@
+# Law
+160.308
+# Key Legal Concepts
+**Compliance Review**: A systematic evaluation conducted by the Secretary to assess whether covered entities or business associates adhere to administrative simplification provisions, particularly in cases indicating possible violations. **Willful Neglect**: A significant factor triggering mandatory compliance reviews, reflecting a serious disregard for compliance obligations, which may lead to enforcement actions. **Covered Entity and Business Associate**: Entities that are subject to compliance under administrative simplification provisions, including health care providers, health plans, and their associates handling protected health information.
+# Key Legal Principles
+**Proactive Compliance Monitoring**: The Secretary has the authority to initiate compliance reviews not only in response to complaints but also based on preliminary findings, indicating a commitment to proactive oversight. **Informal Resolution Mechanisms**: The law promotes the use of informal means to resolve noncompliance issues, emphasizing the importance of corrective actions and compliance rather than punitive measures. **Written Communication of Findings**: The requirement for the Secretary to inform entities and complainants in writing about the outcomes of investigations or compliance reviews underscores transparency and due process.
+# Application Scenarios
+A health care provider suspected of mishandling patient data may trigger a compliance review due to preliminary indications of willful neglect. A business associate receiving a complaint regarding data breaches may be subject to a compliance review to ascertain adherence to regulatory provisions.
+# Relationship to Overall Document Argument
+§ 160.308 serves as a foundational element in ensuring compliance within the healthcare sector, reinforcing accountability among entities handling sensitive information. The provisions outlined in § 160.308 are integral to the broader framework of administrative simplification, aimed at protecting patient privacy and ensuring the integrity of health information management.
