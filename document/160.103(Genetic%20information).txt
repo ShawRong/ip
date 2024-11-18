@@ -1,0 +1,10 @@
+# Law
+160.103(Genetic%20information)
+# Key Legal Concepts
+Genetic information refers to the data regarding an individual's genes, genetic tests, and family genetic history, which can be used to assess health risks and predispositions. Definitions in legal texts are crucial for ensuring clarity and precision in interpretation, particularly when dealing with sensitive information such as genetic data.
+# Key Legal Principles
+The principle of specificity is evident, as the law defines genetic information explicitly, which helps to delineate what is included and excluded under this legal framework. The principle of confidentiality and privacy is implied, as genetic information is sensitive and subject to regulations that protect individuals from discrimination based on their genetic makeup.
+# Application Scenarios
+Employers must ensure that genetic information is not used in hiring or employment decisions to prevent discrimination. Healthcare providers must handle genetic information with care to maintain patient confidentiality and comply with relevant laws.
+# Relationship to Overall Document Argument
+Understanding the definition of genetic information is fundamental to interpreting the rights and protections afforded to individuals under this subchapter. The emphasis on specific exclusions (e.g., sex or age) highlights the law's focus on protecting more sensitive aspects of personal information, which is essential for the integrity of genetic data management.

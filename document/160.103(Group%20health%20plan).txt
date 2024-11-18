@@ -1,0 +1,10 @@
+# Law
+160.103(Group%20health%20plan)
+# Key Legal Concepts
+A group health plan is defined as an employee welfare benefit plan that provides medical care to employees or their dependents. The definition of a group health plan encompasses both insured and self-insured plans, indicating the range of arrangements available to employers.
+# Key Legal Principles
+ERISA governs employee welfare benefit plans, ensuring that group health plans meet specific regulatory standards. The Public Health Service Act provides further definitions and regulations concerning medical care, linking it to employee benefits.
+# Application Scenarios
+An employer offers a group health plan to employees that includes both medical insurance and self-insured components. A company outsources the administration of its health plan to a third-party entity, qualifying it under the definitions provided.
+# Relationship to Overall Document Argument
+The definitions clarify which plans fall under the regulatory umbrella of ERISA, emphasizing the importance of compliance for employers. Understanding these definitions helps delineate the responsibilities and rights of both employers and employees regarding health benefits.

@@ -1,0 +1,10 @@
+# Law
+160.103(Covered%20entity)(1)
+# Key Legal Concepts
+A covered entity refers to an organization or individual that is subject to specific regulations under health privacy laws, such as HIPAA. A health plan is defined as an entity that provides or pays for the cost of medical care, including insurance companies, health maintenance organizations, and government programs.
+# Key Legal Principles
+Confidentiality: Covered entities must protect the privacy of individuals' health information and ensure that it is not disclosed without consent. Compliance: Covered entities are required to adhere to regulations that govern the handling of protected health information (PHI), including security measures and reporting breaches.
+# Application Scenarios
+A health insurance company implementing policies to safeguard patient data when processing claims. A government health program ensuring that personal health information is accessed only by authorized personnel.
+# Relationship to Overall Document Argument
+The definition of a covered entity establishes the scope of who is responsible for compliance with health privacy laws, thereby framing the legal environment for health data protection. Understanding what constitutes a health plan helps delineate the obligations and rights under health privacy regulations, reinforcing the importance of protecting patient information.

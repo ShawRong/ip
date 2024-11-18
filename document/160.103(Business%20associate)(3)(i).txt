@@ -1,0 +1,10 @@
+# Law
+160.103(Business%20associate)(3)(i)
+# Key Legal Concepts
+Business Associate: Refers to an entity or person that performs functions or activities on behalf of a covered entity, which involve the use or disclosure of protected health information (PHI). Protected Health Information (PHI): Any information held by a covered entity that pertains to an individual's health status, provision of healthcare, or payment for healthcare that can be linked to a specific individual.
+# Key Legal Principles
+Access and Control: Business associates must have appropriate access to PHI as necessary to perform their duties, but they must also adhere to strict regulations governing the use and disclosure of that information. Compliance with HIPAA: Business associates are required to comply with the Health Insurance Portability and Accountability Act (HIPAA) regulations, ensuring that PHI is protected through administrative, physical, and technical safeguards.
+# Application Scenarios
+A Health Information Organization providing data transmission services between healthcare providers and insurance companies, requiring access to patient data to facilitate claims processing. An E-prescribing Gateway that allows healthcare providers to send prescriptions electronically to pharmacies, necessitating access to patient medication histories.
+# Relationship to Overall Document Argument
+This law emphasizes the responsibilities of business associates in handling PHI, establishing a framework for ensuring compliance and protection of sensitive health information. By defining the role of business associates, the law supports the broader goals of the HIPAA framework, which seeks to improve the efficiency of healthcare delivery while safeguarding patient privacy.
