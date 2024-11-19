@@ -1,0 +1,10 @@
+# Law
+160.538(a)
+# Key Legal Concepts
+Oral Testimony: This concept emphasizes the requirement that testimony at hearings must be delivered orally, under oath or affirmation, ensuring that witnesses are accountable for their statements. Verification of Witnesses: The use of oaths or affirmations serves to verify the credibility of witnesses, reinforcing the seriousness of their testimony.
+# Key Legal Principles
+Right to Cross-Examination: The requirement for oral testimony allows for cross-examination of witnesses, which is a fundamental principle in ensuring a fair hearing. Discretion of the ALJ: The Administrative Law Judge (ALJ) holds discretion in determining the admissibility of testimony, balancing the need for oral testimony against other forms of evidence.
+# Application Scenarios
+Hearings involving administrative disputes where witness credibility is paramount, necessitating oral testimony to facilitate cross-examination. Cases where the ALJ must decide whether to allow written statements or previous sworn testimony instead of live oral testimony, assessing the circumstances of each case.
+# Relationship to Overall Document Argument
+The requirement for oral testimony underscores the document's emphasis on procedural fairness and the integrity of the evidentiary process. It establishes a foundation for the subsequent provisions regarding witness testimony and the ALJ's discretion, highlighting the importance of direct accountability in legal proceedings.

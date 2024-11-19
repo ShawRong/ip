@@ -1,0 +1,10 @@
+# Law
+160.534(d)(1)
+# Key Legal Concepts
+Admissibility of Evidence: This concept pertains to the rules governing what materials can be accepted by a court or hearing officer as valid evidence during proceedings. Case in Chief: This refers to the phase in a legal proceeding where a party presents its primary evidence supporting its claims or defenses.
+# Key Legal Principles
+15-Day Rule: This principle mandates that specific disclosures, such as witness lists and evidence, must be exchanged between parties within a defined time frame before a hearing, promoting transparency and fairness. Materiality and Relevance: Evidence must be both material (significant to the case) and relevant (directly related to the legal issues at hand) to be admissible.
+# Application Scenarios
+During a hearing, if a party discovers new evidence that could support its argument after the issuance of a notice, it might seek to introduce this evidence, provided it adheres to the guidelines outlined in § 160.534(d)(1). If a respondent learns of a new witness who can provide critical testimony after the notice of determination, they may wish to include this witness's information, adhering to the rules of evidence and disclosure.
+# Relationship to Overall Document Argument
+The provision under § 160.534(d)(1) emphasizes the flexibility in presenting new evidence, which is crucial for ensuring that all relevant information is considered during hearings. This rule interacts with other sections, like the 15-day rule and the admissibility criteria outlined in § 160.540, to create a structured yet adaptable framework for evidence presentation in administrative proceedings.

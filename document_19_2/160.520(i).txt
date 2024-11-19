@@ -1,0 +1,10 @@
+# Law
+160.520(i)
+# Key Legal Concepts
+**Contumacy**: This refers to the willful refusal to obey a court order or subpoena. In the context of § 160.520(i), it highlights the importance of compliance with legal requests for attendance at a hearing. **Subpoena**: A legal document requiring a person to appear in court or produce evidence. The concept of a subpoena is crucial in ensuring that witnesses can be compelled to testify or provide information pertinent to a legal proceeding.
+# Key Legal Principles
+**Exclusive Remedy**: The principle that 42 U.S.C. 405(e) provides the sole means of addressing situations where an individual does not comply with a subpoena. This restricts the options available for legal recourse in such circumstances. **Due Process**: The legal principle ensuring that individuals are afforded fair treatment through the judicial system, including proper notification and the opportunity to contest the validity of a subpoena.
+# Application Scenarios
+A witness who receives a subpoena to testify at a hearing but refuses to appear can be subject to the exclusive remedy outlined in 42 U.S.C. 405(e), which may involve sanctions or enforcement actions. An individual summoned to provide documents under a subpoena who fails to comply may face legal repercussions as defined by the exclusive remedy, reinforcing the importance of adherence to judicial processes.
+# Relationship to Overall Document Argument
+The inclusion of § 160.520(i) emphasizes the legal framework surrounding subpoenas and the enforcement mechanisms in place, reinforcing the necessity of compliance in legal hearings. It highlights the limitations of remedies available for non-compliance, thus shaping the expectations and responsibilities of individuals summoned in legal proceedings.

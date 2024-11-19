@@ -1,0 +1,10 @@
+# Law
+160.103(Business%20associate)
+# Key Legal Concepts
+A 'business associate' refers to a person or entity that performs certain functions or activities on behalf of a covered entity involving the use or disclosure of protected health information (PHI). A 'covered entity' is typically a health care provider, health plan, or health care clearinghouse that transmits any health information in electronic form in connection with a HIPAA transaction.
+# Key Legal Principles
+The relationship between a covered entity and a business associate is defined by contractual agreements that outline the permissible uses and disclosures of PHI. Business associates are subject to specific requirements under HIPAA to protect the confidentiality and security of PHI.
+# Application Scenarios
+A health care provider may hire a billing company as a business associate to handle patient billing, which involves access to PHI. A health insurance company may share PHI with a data analysis firm for processing claims while ensuring that the firm acts as a business associate.
+# Relationship to Overall Document Argument
+The definitions provided in § 160.103 clarify the roles and responsibilities of business associates, which is crucial for understanding compliance obligations under HIPAA. By establishing what constitutes a business associate, the law emphasizes the importance of safeguarding PHI and outlines the legal framework for accountability in handling sensitive health information.

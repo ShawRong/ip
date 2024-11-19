@@ -1,0 +1,10 @@
+# Law
+160.103(Genetic%20information)(1)(i)
+# Key Legal Concepts
+Genetic information: Refers to data about an individual's genetic tests, which can indicate predispositions to certain health conditions. Privacy rights: The need to protect an individual's genetic information from unauthorized access and use.
+# Key Legal Principles
+Confidentiality: Ensures that genetic test results are kept private and shared only with authorized individuals or entities. Informed consent: Requires individuals to be fully informed and agree to the use of their genetic information before it is collected or shared.
+# Application Scenarios
+Employers seeking access to genetic tests for hiring decisions may need to ensure compliance with privacy laws. Healthcare providers may need to obtain informed consent from patients before conducting genetic tests or sharing results with insurance companies.
+# Relationship to Overall Document Argument
+The emphasis on genetic tests underscores the importance of safeguarding sensitive health information in legal frameworks. This law supports broader initiatives to protect individual rights and privacy in the context of genetic data usage.

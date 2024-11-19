@@ -1,0 +1,10 @@
+# Law
+160.314(c)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: Refers to any information that can be used to identify an individual and is related to their health status, provision of health care, or payment for health care services. **Investigational Inquiries**: Processes initiated by the Department of Health and Human Services (HHS) to gather information or evidence related to compliance with health regulations.
+# Key Legal Principles
+**Confidentiality of PHI**: The law emphasizes the importance of protecting PHI obtained during investigations, limiting disclosures to only those necessary for compliance or as required by law. **Use of Evidence in Proceedings**: The law allows testimony and evidence obtained during investigational inquiries to be utilized in administrative or judicial proceedings, ensuring that HHS can enforce compliance effectively.
+# Application Scenarios
+A healthcare provider is investigated for potential violations of health regulations, and PHI is collected during the inquiry. This information can be used in subsequent enforcement actions. A patient’s health records are subpoenaed during an investigation, and while the records are generally confidential, they can be disclosed for compliance assessments or legal requirements.
+# Relationship to Overall Document Argument
+This law reinforces the balance between protecting patient privacy and ensuring that HHS can effectively enforce health regulations by using evidence obtained in investigations. It establishes a framework for how PHI can be handled during inquiries, promoting accountability while adhering to legal standards for confidentiality.

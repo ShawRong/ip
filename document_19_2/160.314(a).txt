@@ -1,0 +1,10 @@
+# Law
+160.314(a)
+# Key Legal Concepts
+Subpoena: A legal document that commands an individual or entity to appear and testify or produce evidence in a legal proceeding. Investigational Authority: The Secretary has the power to issue subpoenas for investigations or compliance reviews, indicating the enforcement of regulatory oversight.
+# Key Legal Principles
+Due Process: The issuance of subpoenas must adhere to legal standards, ensuring that individuals are provided fair notice and an opportunity to respond. Enforceability: Subpoenas issued under this law are enforceable in district courts, establishing the legal framework for compliance.
+# Application Scenarios
+During a healthcare compliance review, a subpoena may be issued to gather evidence from a medical facility regarding billing practices. In an investigation of potential fraud, the Secretary might issue subpoenas for testimony from employees of an entity suspected of wrongdoing.
+# Relationship to Overall Document Argument
+This section establishes the authority of the Secretary to gather necessary information, reinforcing the investigative powers of regulatory bodies. It supports the broader legal framework for compliance and enforcement, ensuring entities are held accountable for adherence to laws and regulations.

@@ -1,0 +1,10 @@
+# Law
+160.526(c)
+# Key Legal Concepts
+Service of documents refers to the formal process of delivering legal documents to parties involved in a legal proceeding, ensuring that they are aware of actions taken against them. Computation of time outlines how deadlines are calculated in legal contexts, which is crucial for ensuring that parties have adequate time to respond to legal documents.
+# Key Legal Principles
+The principle of fair notice ensures that parties are adequately informed of legal actions, which is fundamental to due process. The rule of adding 5 days when documents are served by mail reflects the understanding that mail delivery can introduce delays, thereby protecting parties' rights to respond.
+# Application Scenarios
+A respondent receiving a legal notice by mail will have 5 extra days to file a response, which can impact the timing of their legal strategy. In a case where a hearing is requested under § 160.504, the additional 5 days for mail service do not apply, emphasizing the urgency of the hearing process.
+# Relationship to Overall Document Argument
+The inclusion of the 5-day extension for mail service reinforces the importance of procedural fairness in legal proceedings. By excluding requests for hearings under § 160.504 from this extension, the law prioritizes timely responses in critical hearings, balancing the need for promptness with the right to respond.

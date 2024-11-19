@@ -12,8 +12,10 @@ collection = db['responses']  # Collection name
 
 # Define your tokens for the Poe API
 tokens = {
+    #'p-b': 'Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D',  # Replace with your actual token
+    #'p-lat': 'KSLevugTCDkdeNdxTHzWMSU5XGjl9PFr%2BLkp%2BhFGng%3D%3D',  # Replace with your actual token
     'p-b': 'Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D',  # Replace with your actual token
-    'p-lat': 'KSLevugTCDkdeNdxTHzWMSU5XGjl9PFr%2BLkp%2BhFGng%3D%3D',  # Replace with your actual token
+    'p-lat': 'z1CIIXXmuEyntM4RMVrNe3puY2Us433OUME1hanapg%3D%3D',  # Replace with your actual token
 }
 
 async def send_prompt_to_poe(prompt):
@@ -77,7 +79,7 @@ async def main():
     # Generate a timestamp for the output file name
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     output_file_path = f'response_content_{timestamp}.json'  # Output file path with timestamp
-    previous_file_path = "response_content_19.json"
+    previous_file_path = "response_content_19_2.json"
 
     # Create JSON file and write the start of the array
     with open(output_file_path, 'a', encoding='utf-8') as json_file:

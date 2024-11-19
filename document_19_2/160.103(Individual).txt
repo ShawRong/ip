@@ -1,0 +1,10 @@
+# Law
+160.103(Individual)
+# Key Legal Concepts
+Individual: This term refers to the person whose protected health information (PHI) is being discussed, emphasizing the importance of personal privacy regarding health data. Protected Health Information (PHI): This refers to any information that relates to an individual's health status, provision of healthcare, or payment for healthcare that can identify the individual.
+# Key Legal Principles
+Confidentiality: The principle that an individual's health information should be kept private and disclosed only with consent or as legally required. Right to Access: Individuals have the right to access their own health information, ensuring transparency and control over personal data.
+# Application Scenarios
+A healthcare provider must ensure that any information shared with third parties is done with the consent of the individual to protect their PHI. A patient requests access to their medical records, invoking their rights under the law to review the protected health information held by their provider.
+# Relationship to Overall Document Argument
+The definition of 'Individual' is central to understanding who is afforded protections under the health information privacy laws, thereby shaping the legal framework surrounding PHI. The emphasis on individual rights supports broader arguments about the importance of patient autonomy and confidentiality in healthcare.

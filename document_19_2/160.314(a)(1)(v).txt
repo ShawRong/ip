@@ -1,0 +1,10 @@
+# Law
+160.314(a)(1)(v)
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual or entity to appear and testify or produce evidence in a legal proceeding. Designation of Representatives: The requirement for an entity to designate natural persons who will testify on its behalf, ensuring that the testimony is relevant to the entity's knowledge and responsibilities.
+# Key Legal Principles
+Particularity Requirement: The subpoena must describe the subject matter with reasonable particularity, ensuring clarity about what information is being sought. Responsibility of Entities: Entities are obligated to identify individuals who can represent them in legal matters, ensuring that the testimony is provided by knowledgeable representatives.
+# Application Scenarios
+A corporation receiving a subpoena must identify employees who have relevant knowledge about a specific transaction or event. A non-profit organization might receive a subpoena related to its funding sources and must designate staff who can discuss its financial practices.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of clarity and accountability in legal proceedings involving entities, ensuring that testimony is both relevant and reliable. By requiring entities to designate knowledgeable individuals, the law aims to facilitate effective legal processes and uphold the integrity of the information presented in court.

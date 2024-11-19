@@ -1,0 +1,10 @@
+# Law
+160.410(b)
+# Key Legal Concepts
+**Affirmative Defense**: A legal defense that, if proven, negates criminal or civil liability, even if the facts presented by the opposing party are true. **Knowledge Requirement**: The concept that a covered entity must demonstrate a lack of knowledge regarding the violation, assessed according to federal common law principles.
+# Key Legal Principles
+**Reasonable Diligence**: The obligation of a covered entity to take all necessary steps to prevent violations, which includes being proactive in compliance efforts. **Federal Common Law of Agency**: A legal framework that determines how knowledge is attributed within organizations, particularly regarding the actions of agents and employees.
+# Application Scenarios
+A healthcare provider may use the affirmative defense if they can show that they implemented compliance measures but still were unaware of a data breach that occurred due to unforeseen circumstances. A business may argue that it was exercising reasonable diligence in training employees on compliance, thus establishing that it did not know about a regulatory violation.
+# Relationship to Overall Document Argument
+The law provides a pathway for covered entities to protect themselves from penalties by demonstrating that they took appropriate actions to prevent violations. It highlights the importance of proactive compliance measures, encouraging entities to maintain diligent practices to avoid liability.

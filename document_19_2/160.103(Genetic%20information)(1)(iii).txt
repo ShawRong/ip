@@ -1,0 +1,10 @@
+# Law
+160.103(Genetic%20information)(1)(iii)
+# Key Legal Concepts
+Genetic information: This refers to data regarding an individual's genetic makeup, including information about inherited conditions or predispositions. Family medical history: This concept encompasses the health conditions and diseases that manifest in an individual's family, which can influence an individual's health assessments.
+# Key Legal Principles
+Confidentiality: Protecting genetic information is crucial to prevent discrimination and maintain individual privacy. Non-discrimination: Laws often prohibit discrimination based on genetic information in employment and insurance contexts.
+# Application Scenarios
+Assessing risk factors for hereditary diseases when evaluating eligibility for health insurance coverage. Employers considering family medical history to make decisions about employee health benefits.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of considering familial health patterns in understanding an individual's genetic risks. It supports the broader argument for the protection of genetic information by highlighting how family history can impact health outcomes and insurance practices.

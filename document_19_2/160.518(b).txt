@@ -1,0 +1,10 @@
+# Law
+160.518(b)
+# Key Legal Concepts
+**Exchange of Evidence**: This concept mandates that parties in a legal proceeding must share witness lists, statements, and exhibits ahead of time to ensure transparency and fairness in the process. **Objection to Evidence**: A party can challenge the admission of evidence that was not properly disclosed, which is a fundamental right in legal proceedings to prevent surprise evidence. **Administrative Law Judge (ALJ) Authority**: The ALJ has the discretion to determine the admissibility of evidence, balancing procedural compliance with fairness to both parties.
+# Key Legal Principles
+**Exclusionary Rule**: If a party fails to exchange evidence as required, the ALJ is compelled to exclude that evidence unless extraordinary circumstances exist. **Extraordinary Circumstances**: This principle allows for exceptions to the exclusionary rule if the party can demonstrate that unforeseen and significant reasons prevented timely disclosure. **Substantial Prejudice**: The ALJ must consider whether admitting late evidence would unfairly disadvantage the objecting party, ensuring that the integrity of the proceedings is upheld.
+# Application Scenarios
+A party discovers that the opposing side plans to introduce a witness not previously disclosed; they raise an objection, triggering the ALJ's review of the situation. A party fails to provide an exhibit in accordance with the exchange requirements, leading to a potential exclusion unless they can prove extraordinary circumstances.
+# Relationship to Overall Document Argument
+This law emphasizes procedural fairness in legal proceedings, aiming to prevent surprises that could undermine the integrity of the adjudication process. It establishes a framework for how evidence is to be managed, reinforcing the importance of timely and transparent communication between parties in administrative hearings.

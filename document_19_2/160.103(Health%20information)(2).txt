@@ -1,0 +1,10 @@
+# Law
+160.103(Health%20information)(2)
+# Key Legal Concepts
+Health information encompasses a wide range of data related to an individual's health status, including physical and mental conditions, healthcare provisions, and financial transactions related to healthcare. Genetic information is included as part of health information, recognizing its significance in assessing health risks and conditions.
+# Key Legal Principles
+The principle of confidentiality mandates that health information must be protected and disclosed only under specific circumstances, ensuring individuals' privacy. The principle of informed consent requires that individuals be informed about how their health information will be used and shared, allowing them to make knowledgeable decisions.
+# Application Scenarios
+A healthcare provider collects a patient's medical history, which includes past diagnoses and treatments, to inform future care decisions. An insurance company processes claims that involve payments for healthcare services rendered to an individual, based on their health information.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of safeguarding health information as it directly relates to individual rights and privacy in healthcare contexts. It supports the broader legal framework that governs health data management, ensuring that personal health information is handled with care and respect.

@@ -1,0 +1,10 @@
+# Law
+160.408(c)(2)
+# Key Legal Concepts
+The history of compliance refers to the past actions of a covered entity or business associate regarding adherence to administrative simplification provisions, which are designed to protect sensitive health information. Noncompliance indicates failure to meet regulatory standards, which can lead to penalties, sanctions, or corrective actions mandated by authorities.
+# Key Legal Principles
+The principle of accountability emphasizes that covered entities and business associates must be responsible for their compliance history and take corrective measures when violations occur. The principle of remediation highlights the importance of actively addressing and rectifying past noncompliance to prevent future violations and demonstrate a commitment to regulatory standards.
+# Application Scenarios
+A healthcare provider discovers a data breach and must assess its compliance history to determine whether it has effectively addressed past violations before seeking to rectify the current situation. A business associate faces an audit that reviews its past compliance efforts and whether it has taken steps to correct any previous instances of noncompliance identified during prior evaluations.
+# Relationship to Overall Document Argument
+This law underscores the necessity for covered entities and business associates to not only acknowledge their past compliance issues but also actively engage in correcting them to maintain trust and integrity in handling sensitive health data. It reinforces the broader regulatory framework that seeks to ensure ongoing adherence to established standards through continuous improvement and accountability.

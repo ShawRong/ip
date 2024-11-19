@@ -1,0 +1,10 @@
+# Law
+160.103(Protected%20health%20information)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any health information that can identify an individual, including details like medical history, test results, and treatment information. Individually Identifiable Health Information: This is a subset of PHI that specifically pertains to data that can be linked to a specific individual, making it particularly sensitive.
+# Key Legal Principles
+Confidentiality: The principle that PHI must be kept private and secure, ensuring that only authorized individuals have access to it. Exclusion of Non-Identifiable Data: Health information that cannot be linked to a specific individual is not considered PHI, thus not subject to the same level of regulatory protection.
+# Application Scenarios
+Healthcare providers must implement safeguards to protect PHI when sharing patient records with insurance companies. Researchers using health data must ensure that the data is de-identified to avoid violations of privacy laws.
+# Relationship to Overall Document Argument
+The definitions provided in this law establish the framework for understanding what constitutes PHI, which is crucial for enforcing privacy regulations. Clarifying the distinction between identifiable and non-identifiable health information serves to guide compliance efforts and protect individual privacy.

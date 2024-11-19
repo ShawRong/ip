@@ -1,0 +1,10 @@
+# Law
+160.518
+# Key Legal Concepts
+Exchange of witness lists: Parties must provide each other with a list of witnesses they intend to call at the hearing, ensuring transparency and fairness. Prior written statements: The requirement to exchange copies of prior written statements of proposed witnesses allows both parties to prepare adequately for cross-examination. Proposed hearing exhibits: Parties must share copies of any exhibits they plan to introduce, which supports the principle of fair notice. Statistical expert reports: Special provisions for the timely disclosure of statistical expert reports emphasize the need for advance preparation and the complexities involved in expert testimony.
+# Key Legal Principles
+Authenticity of documents: Documents exchanged under § 160.518 are considered authentic unless timely objections are made, promoting efficiency in evidentiary proceedings. Rebuttal evidence: The allowance of rebuttal evidence not previously exchanged underscores the importance of a comprehensive examination of all relevant evidence. Discretion of the Administrative Law Judge (ALJ): The ALJ has the authority to admit written statements and prior sworn testimony, which adds flexibility to the hearing process.
+# Application Scenarios
+During a hearing, if one party fails to submit their witness list on time, they may be at a disadvantage if the other party has adequately prepared based on the exchanged materials. If a party intends to use a statistical expert, they must adhere to the 30-day disclosure rule to ensure the opposing party can prepare a response or cross-examine the expert.
+# Relationship to Overall Document Argument
+The provisions in § 160.518 aim to establish a structured approach to evidence exchange, which is crucial for ensuring a fair hearing process. By mandating the exchange of witness lists and statements, the law seeks to minimize surprises during hearings, thereby upholding the integrity of the legal proceedings.

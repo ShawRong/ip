@@ -1,0 +1,10 @@
+# Law
+160.530(a)
+# Key Legal Concepts
+Sanctions: Measures imposed by the ALJ to ensure compliance with orders and procedures, maintaining the integrity of the legal process. Discovery: The pre-trial phase in a lawsuit where parties can obtain evidence from each other, which is essential for fair proceedings.
+# Key Legal Principles
+Due Process: Ensures that all parties in a hearing are treated fairly and have the opportunity to present their case. Proportionality: The nature and severity of sanctions must correspond to the misconduct or failure to comply.
+# Application Scenarios
+A party fails to provide requested documents during discovery, leading the ALJ to draw negative inferences about the party's case. An attorney neglects to comply with procedural orders, resulting in sanctions that may include fines or dismissal of claims.
+# Relationship to Overall Document Argument
+The law reinforces the importance of compliance with discovery rules to uphold the fairness and efficiency of hearings. It establishes a framework for the ALJ to enforce discipline within the proceedings, ensuring that all parties adhere to established legal standards.

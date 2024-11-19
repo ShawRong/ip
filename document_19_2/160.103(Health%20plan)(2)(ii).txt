@@ -1,0 +1,10 @@
+# Law
+160.103(Health%20plan)(2)(ii)
+# Key Legal Concepts
+**Health Plan Definition**: A health plan refers to any program that provides or pays for the cost of health care. However, certain exclusions apply, particularly for programs whose main purpose is not health care. **Exclusions**: The law specifies exclusions for health plans that primarily serve non-health care purposes, emphasizing the distinction between health care-related programs and other types of programs.
+# Key Legal Principles
+**Principal Purpose Principle**: This principle asserts that a program must have the primary purpose of providing or financing health care to qualify as a health plan. **Activity-Based Exclusion**: Programs whose principal activities do not relate to health care are excluded from being classified as health plans, reflecting a regulatory intent to delineate health care financing from other types of funding.
+# Application Scenarios
+A government-funded program aimed at social services that does not provide health care would be excluded from the definition of a health plan. A program designed primarily for educational purposes, even if it has a health component, may not qualify as a health plan under this definition.
+# Relationship to Overall Document Argument
+The law clarifies what constitutes a health plan, which is crucial for regulatory compliance and the allocation of funding for health care programs. Understanding these distinctions helps in interpreting the broader implications of health policy and funding, ensuring that resources are directed toward legitimate health care initiatives.

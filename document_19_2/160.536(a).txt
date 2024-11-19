@@ -1,0 +1,10 @@
+# Law
+160.536(a)
+# Key Legal Concepts
+Statistical Sampling: A method used to estimate the number of violations by examining a representative subset of data, which can provide evidence in legal proceedings. Prima Facie Evidence: Evidence that, unless rebutted, is sufficient to prove a particular proposition or fact. In this context, the results of statistical sampling serve as initial proof of violations.
+# Key Legal Principles
+Burden of Proof: The responsibility to prove the allegations in a legal dispute. Here, the Secretary introduces statistical evidence to meet this burden. Continuing Violations: Each day a violation persists constitutes a separate violation, affecting the overall assessment of penalties.
+# Application Scenarios
+In cases where a covered entity is suspected of multiple violations over time, statistical sampling can be used to assess the extent of these violations efficiently. When determining civil money penalties, the Secretary can rely on statistical findings to justify the severity of penalties based on the nature and number of violations.
+# Relationship to Overall Document Argument
+This law supports the enforcement framework by allowing the Secretary to utilize statistical methods to substantiate claims of violations, thereby streamlining the legal process. It ensures that civil penalties are determined based on solid evidence, which can enhance the fairness and accountability of regulatory enforcement.

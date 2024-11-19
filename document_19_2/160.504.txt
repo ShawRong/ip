@@ -1,0 +1,10 @@
+# Law
+160.504
+# Key Legal Concepts
+Administrative Law Judge (ALJ): An official who conducts hearings and makes decisions on disputes involving administrative law, specifically regarding the proposed penalties outlined in the regulations. Hearing Request Procedure: The formal process by which a respondent can contest a proposed penalty by submitting a written request for a hearing within a specified timeframe. Findings of Fact: Assertions made in the notice of proposed determination that the respondent must address in their hearing request, either by admitting, denying, or explaining them.
+# Key Legal Principles
+Right to a Hearing: Respondents have the legal right to request a hearing to challenge proposed penalties, emphasizing the importance of due process in administrative procedures. Timeliness: The requirement for requests to be made within 90 days ensures that hearings are conducted in a timely manner, promoting efficient resolution of disputes. Burden of Proof: The respondent bears the responsibility to clearly admit, deny, or explain the findings of fact, which places the onus on them to present their case adequately.
+# Application Scenarios
+A respondent receives a notice of proposed penalty and wishes to contest it by filing a hearing request with an ALJ. A respondent fails to submit their hearing request within the 90-day timeframe, leading to automatic imposition of the penalty.
+# Relationship to Overall Document Argument
+The provisions under § 160.504 outline the procedural safeguards and rights available to respondents, reinforcing the principles of fair administrative process. These regulations ensure that respondents have a clear understanding of their rights and obligations, facilitating an informed and equitable hearing process.

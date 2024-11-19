@@ -1,0 +1,10 @@
+# Law
+160.530(b)
+# Key Legal Concepts
+**Sanctions**: Measures imposed by the ALJ to enforce compliance with procedural rules or orders, ensuring fair and orderly hearings. **Compliance**: The obligation of parties and attorneys to adhere to legal orders and procedures to facilitate a just legal process.
+# Key Legal Principles
+**Proportionality**: Sanctions must be proportionate to the severity of the misconduct or failure to comply, ensuring that penalties are fair and just. **Fairness**: The principle that parties should have a fair opportunity to present their case without undue interference from misconduct.
+# Application Scenarios
+A party fails to submit required documentation by a specified deadline, prompting the ALJ to prohibit the introduction of evidence related to that claim. An attorney engages in disruptive behavior during a hearing, leading to sanctions that restrict their ability to support certain defenses.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of maintaining order and fairness in hearings, directly linking to the ALJ's authority to impose sanctions. It reinforces the concept that procedural integrity is essential for the effective administration of justice, highlighting the consequences of non-compliance.

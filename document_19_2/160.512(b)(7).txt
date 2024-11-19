@@ -1,0 +1,10 @@
+# Law
+160.512(b)(7)
+# Key Legal Concepts
+Prehearing conferences: These are meetings held prior to a formal hearing where parties can discuss procedural and substantive issues to streamline the hearing process. Exchange of witness lists: A legal requirement for parties to disclose the witnesses they intend to call during the hearing, promoting transparency and preparation. Proposed exhibits: The documents or evidence that parties plan to introduce at the hearing, which must also be shared in advance to ensure all parties are prepared.
+# Key Legal Principles
+Fairness in legal proceedings: The principle that all parties should have equal access to information about witness and exhibit lists to prepare their cases adequately. Efficiency in legal processes: Scheduling exchanges in a timely manner helps to avoid delays and promotes a smoother hearing process. Transparency: Ensures parties are aware of the evidence and testimonies that will be presented, fostering an environment of trust and cooperation.
+# Application Scenarios
+During the prehearing conference, an ALJ sets specific dates for parties to submit their witness lists, ensuring all sides have ample time to prepare. Parties may negotiate and agree on timelines for exchanging proposed exhibits to facilitate a clear understanding of the evidence to be presented.
+# Relationship to Overall Document Argument
+By regulating the scheduling of witness and exhibit exchanges, the law aims to uphold procedural integrity and fairness in the adjudication process. This provision supports the broader goals of the hearing process by minimizing surprises and ensuring all parties are adequately informed ahead of the hearing.

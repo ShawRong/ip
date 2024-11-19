@@ -1,0 +1,10 @@
+# Law
+160.520(d)(3)
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual to appear in court or produce evidence. Motion: A formal request made to a court for an order or ruling.
+# Key Legal Principles
+Timeliness: The requirement to file the motion for a subpoena at least 30 days before the hearing ensures adequate time for compliance and preparation. Particularity: The necessity to provide specific details about the address and location of witnesses ensures that they can be located and compelled to testify.
+# Application Scenarios
+A lawyer preparing for a trial who needs to subpoena witnesses to provide testimony. A party in a hearing who requires documents from a third party and must notify them through a subpoena.
+# Relationship to Overall Document Argument
+Ensures procedural fairness by allowing sufficient time for parties to prepare and comply with subpoenas. Facilitates the administration of justice by requiring detailed information to locate witnesses, thereby supporting the integrity of the hearing process.

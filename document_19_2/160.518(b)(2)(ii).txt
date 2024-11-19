@@ -1,0 +1,10 @@
+# Law
+160.518(b)(2)(ii)
+# Key Legal Concepts
+Exhibit Exchange: This concept requires parties involved in legal proceedings to share relevant exhibits prior to a hearing, ensuring that both sides have access to the same information. Exclusionary Rule: If a party fails to provide required evidence or exhibits within the specified time frame, those items may be excluded from consideration during the hearing.
+# Key Legal Principles
+Timeliness: The law emphasizes the importance of timely exchanges of information, requiring that all relevant documents are shared within a designated period to promote fairness in the hearing process. Extraordinary Circumstances: The Administrative Law Judge (ALJ) has discretion to consider 'extraordinary circumstances' that may justify a party's failure to comply with the exchange requirements, potentially allowing for the inclusion of late evidence.
+# Application Scenarios
+A party fails to provide a witness list or exhibit within the 15 to 60-day window, leading the ALJ to exclude that evidence from the hearing. A party claims extraordinary circumstances for missing the deadline, and the ALJ must evaluate the validity of that claim to determine if the late evidence can still be admitted.
+# Relationship to Overall Document Argument
+The law reinforces procedural fairness by mandating that both parties are equally informed, thus allowing for a more equitable hearing process. It supports the objective of avoiding surprises in legal proceedings, which can undermine the integrity of the hearing and the decision-making process.

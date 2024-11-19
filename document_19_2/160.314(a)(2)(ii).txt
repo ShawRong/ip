@@ -1,0 +1,10 @@
+# Law
+160.314(a)(2)(ii)
+# Key Legal Concepts
+**Subpoena**: A legal document that orders an individual or entity to appear in court or produce evidence. It is a crucial tool in the legal process, enabling the gathering of necessary information. **Service of Process**: The procedure by which a party delivers legal documents to another party. Proper service is essential for ensuring that the recipient is aware of legal actions being taken against them.
+# Key Legal Principles
+**Due Process**: This principle ensures that individuals are given proper notice and an opportunity to respond to legal actions. Serving a subpoena via registered or certified mail respects this principle by providing a verifiable method of delivery. **Personal Jurisdiction**: The legal authority of a court over a party. Proper service of a subpoena is necessary to establish jurisdiction, ensuring that the court can compel the individual or entity to comply.
+# Application Scenarios
+When a party needs to obtain testimony or documents from a witness who may be difficult to reach, serving a subpoena by registered or certified mail ensures that the witness receives the notice reliably. In cases where the entity's principal place of business is known but the individual cannot be served in person, this method provides a legal avenue for notification.
+# Relationship to Overall Document Argument
+This provision emphasizes the importance of reliable, documented communication in legal proceedings, reinforcing the integrity of the judicial process. It illustrates the balance between the need for effective legal procedures and the protection of individual rights, ensuring that parties are adequately informed of their legal obligations.
