@@ -206,12 +206,16 @@ def load_documents(directory):
                 documents.append(filtered_words)  # 将处理后的单词列表添加到文档中
     return documents
 
+def process_query(query):
+    return query.lower().split()
+
 if __name__ == "__main__":
     directory = './document'  # 更新为您的文档目录
     corpus = load_documents(directory)  # 加载并处理文档
     
     bm25 = BM25(corpus)  # 创建BM25实例
-    document = ["genetic", "genetic"]  # 要评分的文档
+    to_eval = "In the City of Plainfield, William H. Michelson, a concerned citizen, submitted a detailed request for access to government records. His request targeted the health insurance benefits available to city employees, officials, and their dependents over recent years. Michelson sought comprehensive details, including descriptions of health plans, costs, participant names, and claims experience, to scrutinize the city's handling of health insurance and possibly uncover inefficiencies or fraud.The City, tasked with managing employee health benefits and ensuring privacy, faced a dilemma. Sharing detailed health plan information, especially about individual claims experience and the identities of covered dependents, could infringe on the privacy of city employees and their families. Such disclosure risked violating the expectations of privacy guaranteed under state laws and potentially breaching federal  regulations, which protect personal health information from unauthorized access.Despite Michelson's intention to promote transparency and accountability, the City had to navigate the complex interplay of public right to information and individual privacy rights. The City's response to Michelson, limiting the scope of disclosed information due to privacy concerns, sparked a legal challenge. Michelson argued for broader access under public records laws, while the City defended its stance by invoking privacy protections, setting the stage for a legal examination of the balance between public transparency and the safeguarding of personal health information."
+    document = process_query(to_eval)  # 要评分的文档
     scores = bm25.get_scores(document)  # 计算分数
     print("BM25 Scores:", scores)  # 打印分数
     
