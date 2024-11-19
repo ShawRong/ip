@@ -1,0 +1,10 @@
+# Law
+160.406
+# Key Legal Concepts
+The concept of 'violations' pertains to the failure to comply with specific administrative simplification provisions outlined in the law. This includes obligations to act, refrain from acting, or act within designated timeframes. The notion of 'continuing violations' indicates that if a covered entity or business associate fails to comply with a provision, each day of non-compliance is treated as a separate violation.
+# Key Legal Principles
+The principle of obligation requires that covered entities and business associates understand their responsibilities under the law, ensuring compliance with specific actions or prohibitions. The principle of daily assessment implies that ongoing non-compliance can lead to cumulative penalties, emphasizing the importance of timely adherence to legal requirements.
+# Application Scenarios
+A healthcare provider that fails to submit required documentation by a deadline incurs separate violations for each day the submission is delayed. A business associate that improperly shares protected health information without authorization commits a new violation for each day the information remains exposed.
+# Relationship to Overall Document Argument
+This law establishes the framework for determining the number of violations, which directly influences the calculation of civil money penalties as detailed in other sections, such as § 160.404. The identification of violations and the criteria for assessing them support the enforcement mechanisms outlined in the broader context of civil monetary penalties, ensuring accountability for non-compliance.

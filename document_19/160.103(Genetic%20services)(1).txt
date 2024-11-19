@@ -1,0 +1,10 @@
+# Law
+160.103(Genetic%20services)(1)
+# Key Legal Concepts
+Genetic services encompass a range of activities related to genetic testing, counseling, and the interpretation of genetic information. A genetic test is a medical test that identifies changes in chromosomes, genes, or proteins to diagnose or assess the risk of genetic disorders.
+# Key Legal Principles
+Consent: Individuals must provide informed consent before undergoing genetic testing, understanding the implications of the tests. Confidentiality: The results of genetic tests must be kept confidential to protect individuals' privacy and prevent discrimination.
+# Application Scenarios
+Utilizing genetic testing to identify predispositions to hereditary diseases in patients seeking personalized medicine options. Employing genetic counseling services to help individuals understand their test results and make informed health decisions.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of genetic testing as a critical component of genetic services, highlighting the need for regulation in this evolving field. It supports the broader argument for protecting individuals' rights and privacy in the context of genetic information and testing.

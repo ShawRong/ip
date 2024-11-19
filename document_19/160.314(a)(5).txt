@@ -1,0 +1,10 @@
+# Law
+160.314(a)(5)
+# Key Legal Concepts
+**Subpoena**: A legal document that orders an individual or entity to appear in court or produce evidence for an investigation. **Enforcement of Subpoenas**: The ability to compel compliance with a subpoena through legal action, particularly in a federal district court.
+# Key Legal Principles
+**Jurisdiction**: The district court has jurisdiction over the enforcement of subpoenas based on the location of the individual or entity subpoenaed. **Obstruction of Justice**: Engaging in conduct that delays or obstructs an investigation can lead to legal consequences, including enforcement actions.
+# Application Scenarios
+A witness fails to appear for a subpoenaed testimony, prompting the Secretary to seek enforcement in the appropriate district court. A business entity does not produce requested documents, leading to a legal action to enforce the subpoena.
+# Relationship to Overall Document Argument
+The ability to enforce subpoenas underscores the authority of the Secretary in conducting thorough investigations. Ensuring compliance with subpoenas is crucial for the integrity of the investigative process and helps prevent obstruction.

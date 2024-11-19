@@ -1,0 +1,10 @@
+# Law
+160.103(Genetic%20information)(1)(iv)
+# Key Legal Concepts
+Genetic services: This refers to medical services that involve genetic testing, counseling, or treatment, aimed at understanding or managing genetic conditions. Clinical research: This involves systematic investigation, including research development, testing, and evaluation, to develop or contribute to generalizable knowledge about genetic services.
+# Key Legal Principles
+Consent: Individuals must provide informed consent before their genetic information can be used in research or services, ensuring autonomy and respect for personal choices. Confidentiality: The law emphasizes the protection of genetic information, which is sensitive and personal, requiring stringent measures to safeguard it from unauthorized access.
+# Application Scenarios
+A patient seeking genetic testing for hereditary conditions must be informed about how their genetic information will be used, ensuring they consent to the process. A researcher conducting a study on genetic markers must obtain consent from participants and ensure their genetic data is kept confidential.
+# Relationship to Overall Document Argument
+This law reinforces the importance of individual autonomy in the context of sensitive genetic information, emphasizing informed consent as a cornerstone of ethical practice. It highlights the necessity of protecting genetic information, which is crucial in maintaining trust between individuals and healthcare providers or researchers.

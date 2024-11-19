@@ -1,0 +1,10 @@
+# Law
+160.314
+# Key Legal Concepts
+**Subpoenas**: The authority of the Secretary to issue subpoenas is a key legal mechanism for compelling witness testimony and evidence production during investigations. **Investigational Inquiries**: These are non-public proceedings that enable the Secretary to conduct investigations without public scrutiny, ensuring confidentiality in sensitive matters. **Entities**: The definition of a person to include entities (organizations, corporations, etc.) expands the scope of who can be compelled to provide testimony or evidence.
+# Key Legal Principles
+**Due Process**: The issuance of subpoenas and the conduct of inquiries must adhere to due process, ensuring that rights are respected during investigations. **Confidentiality**: The non-public nature of investigational inquiries underscores the principle of confidentiality, protecting sensitive information from public disclosure. **Admissibility of Evidence**: Testimony and evidence obtained during inquiries can be utilized in administrative or judicial proceedings, highlighting the principle of admissibility and the importance of thorough investigations.
+# Application Scenarios
+**Compliance Reviews**: The Secretary may use subpoenas during compliance reviews to ensure entities adhere to applicable regulations. **Investigating Violations**: In cases where potential violations of health and human services regulations are suspected, subpoenas can be issued to gather necessary evidence.
+# Relationship to Overall Document Argument
+**Enforcement Mechanism**: This law serves as a crucial enforcement mechanism within the broader regulatory framework, allowing the Secretary to ensure compliance with health-related statutes. **Support for Regulatory Oversight**: By enabling the Secretary to conduct investigations effectively, it supports the overall goal of maintaining standards and protecting public health.

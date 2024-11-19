@@ -1,0 +1,10 @@
+# Law
+160.103(Group%20health%20plan)(1)
+# Key Legal Concepts
+Group Health Plan: A group health plan is defined as an employee welfare benefit plan that provides medical care, including insured and self-insured options. Employee Welfare Benefit Plan: This term refers to any plan that provides benefits to employees, as outlined in section 3(1) of ERISA, which includes health benefits. Participants: The law specifies that a group health plan must have 50 or more participants, which is defined in section 3(7) of ERISA.
+# Key Legal Principles
+Coverage Requirements: Group health plans are required to provide certain levels of medical care to employees and their dependents, ensuring access to necessary health services. Participant Threshold: The identification of a group health plan is contingent upon having a minimum number of participants (50), which influences the applicability of various regulations.
+# Application Scenarios
+A company with 70 employees offering a health insurance plan qualifies as a group health plan under ERISA, thus becoming subject to specific regulatory requirements. A small business with 40 employees providing health benefits would not meet the threshold to be classified as a group health plan, impacting its compliance obligations.
+# Relationship to Overall Document Argument
+The definition and requirements for group health plans establish the framework for understanding employee benefits under ERISA, emphasizing the significance of participant numbers. By specifying participant thresholds, the law delineates which plans are subject to broader regulatory scrutiny, affecting employers' responsibilities regarding employee health benefits.

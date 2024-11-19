@@ -1,0 +1,10 @@
+# Law
+160.103(Genetic%20services)(2)
+# Key Legal Concepts
+Genetic counseling: A professional service that involves providing information and support to individuals regarding genetic conditions, including the interpretation of genetic information. Genetic information: Data about genes, gene products, or inherited characteristics that can be used to identify potential health risks or conditions.
+# Key Legal Principles
+Informed consent: The principle that individuals must be fully informed about the implications of genetic testing and counseling before proceeding. Confidentiality: The obligation to protect the privacy of individuals' genetic information, ensuring that it is not disclosed without consent.
+# Application Scenarios
+Individuals seeking genetic counseling for hereditary conditions in their family to understand their risks and options. Healthcare providers using genetic information to inform treatment plans and patient care.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of genetic counseling as a critical service for understanding genetic risks and making informed decisions. It highlights the need for legal protections surrounding genetic information to promote ethical practices in genetic services.

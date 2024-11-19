@@ -1,0 +1,10 @@
+# Law
+160.103(Transaction)
+# Key Legal Concepts
+Transaction: Refers to the exchange of information between two parties for financial or administrative purposes within the health care sector. Health care claims: Information related to requests for payment for health services rendered. Remittance advice: Documentation that explains payments made by insurers to health care providers. Coordination of benefits: Process to determine the order of payment when a patient is covered by multiple health plans.
+# Key Legal Principles
+Transparency in transactions: Ensures that all parties involved in health care transactions have access to necessary information for financial clarity. Regulatory compliance: Emphasizes adherence to rules set forth by the Secretary, which may include additional transaction types beyond those listed.
+# Application Scenarios
+Submitting a health care claim to an insurance company for reimbursement. Processing electronic funds transfers related to health plan premium payments.
+# Relationship to Overall Document Argument
+Defines essential terms that facilitate understanding of health care transactions and their regulation. Establishes a framework for ensuring that all related health care information exchanges occur under standardized processes.

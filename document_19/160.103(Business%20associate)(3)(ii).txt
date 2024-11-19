@@ -1,0 +1,10 @@
+# Law
+160.103(Business%20associate)(3)(ii)
+# Key Legal Concepts
+A business associate is defined as an individual or entity that performs certain functions or activities on behalf of a covered entity, which involves the use or disclosure of protected health information (PHI). A personal health record (PHR) is a health record maintained by an individual that can include various health-related information, and it is offered on behalf of a covered entity, implicating the management of PHI.
+# Key Legal Principles
+Confidentiality: The principle that PHI must be protected and disclosed only in accordance with established legal guidelines, ensuring the privacy of individuals. Liability: Business associates can be held liable for compliance with HIPAA regulations regarding the handling of PHI, including penalties for unauthorized disclosures.
+# Application Scenarios
+A business associate providing a web-based platform for individuals to access their personal health records, ensuring the platform complies with HIPAA requirements. A healthcare provider contracting with a third-party service to manage personal health records for patients, requiring the third-party to adhere to confidentiality and security standards.
+# Relationship to Overall Document Argument
+This law clarifies the responsibilities of business associates in managing personal health records, emphasizing the importance of protecting PHI. By defining the role of business associates, the law reinforces the broader framework of HIPAA compliance, ensuring that all parties involved in health information management are held to the same standards of privacy and security.

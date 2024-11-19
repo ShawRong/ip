@@ -1,0 +1,10 @@
+# Law
+160.312(b)
+# Key Legal Concepts
+**Investigation**: This refers to the process initiated under § 160.306 for examining complaints made against covered entities or business associates regarding potential violations. **Compliance Review**: Under § 160.308, this involves a systematic assessment of whether entities are adhering to applicable laws and regulations. **Resolution of Complaints**: This concept involves the Secretary's duty to notify all relevant parties when a determination is made that no violation occurred following the investigation or compliance review.
+# Key Legal Principles
+**Due Process**: The requirement for the Secretary to inform both the covered entity and the complainant ensures transparency and fairness in the resolution process. **Accountability**: By mandating a written response from the Secretary, the law holds the Secretary accountable for their findings and decisions following investigations or reviews.
+# Application Scenarios
+A covered entity receives a complaint alleging non-compliance with privacy regulations. After an investigation, the Secretary finds no violation and informs the entity and the complainant. A business associate undergoes a compliance review, and upon finding no issues, the Secretary communicates the results to both the associate and any involved parties.
+# Relationship to Overall Document Argument
+The provision reinforces the framework for handling complaints and compliance, ensuring that entities are not left without feedback on investigations. It highlights a balance between enforcement and due process, allowing entities to understand outcomes while maintaining accountability in the Secretary's role.

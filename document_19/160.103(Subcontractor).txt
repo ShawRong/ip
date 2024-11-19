@@ -1,0 +1,10 @@
+# Law
+160.103(Subcontractor)
+# Key Legal Concepts
+Subcontractor: A subcontractor is defined as an individual or entity that receives delegated functions, activities, or services from a business associate, distinct from being part of the business associate's workforce. Business Associate: This term refers to entities that perform certain functions on behalf of a covered entity, often involving access to protected health information.
+# Key Legal Principles
+Delegation of Responsibilities: The principle that a business associate can delegate certain responsibilities to subcontractors while maintaining accountability for compliance with relevant laws and regulations. Liability and Compliance: Business associates remain liable for the actions of their subcontractors, ensuring that all parties adhere to applicable legal standards.
+# Application Scenarios
+Healthcare providers hiring a subcontractor to manage patient data, requiring the subcontractor to comply with privacy regulations. A technology company subcontracting software development tasks while ensuring that subcontractors adhere to data protection laws.
+# Relationship to Overall Document Argument
+Clarifies the roles and responsibilities of subcontractors within the framework of business associates, emphasizing the importance of compliance. Illustrates how the definitions set a foundation for understanding accountability and legal obligations in the context of delegated functions.

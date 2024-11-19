@@ -1,0 +1,10 @@
+# Law
+160.103(Protected%20health%20information)(1)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any individually identifiable health information that is transmitted or maintained in various forms, including electronic media. Individually Identifiable Health Information: This encompasses data that relates to the health status, provision of health care, or payment for health care that can be linked to a specific individual.
+# Key Legal Principles
+Confidentiality: PHI must be kept confidential and protected from unauthorized disclosure, ensuring that individuals' medical information remains private. Scope of Protection: The definition clarifies that PHI protection applies regardless of the medium, whether electronic or otherwise, emphasizing comprehensive coverage.
+# Application Scenarios
+A healthcare provider sending patient records electronically must ensure that these records are encrypted to protect PHI during transmission. A hospital maintaining patient data in electronic databases must implement security measures to prevent unauthorized access to PHI.
+# Relationship to Overall Document Argument
+This law establishes a foundational definition of PHI, which is crucial for understanding subsequent regulations and protections related to health information privacy. By defining PHI, the law sets the stage for enforcement mechanisms aimed at safeguarding patient information, reflecting a commitment to privacy in healthcare.

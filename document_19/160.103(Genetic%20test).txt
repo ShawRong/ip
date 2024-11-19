@@ -1,0 +1,10 @@
+# Law
+160.103(Genetic%20test)
+# Key Legal Concepts
+Genetic test: Refers to the analysis of human biological materials (DNA, RNA, chromosomes, proteins, or metabolites) to identify genotypes, mutations, or chromosomal changes. Exclusion of certain analyses: The definition specifies that tests related to manifested diseases or conditions are not included under the term 'genetic test'.
+# Key Legal Principles
+Precision in definitions: Legal definitions must be clear and precise to ensure proper understanding and application in legal contexts. Scope limitation: The law delineates the boundaries of what constitutes a genetic test, thereby limiting the scope of regulation and ensuring that only specific analyses fall under this category.
+# Application Scenarios
+Use in clinical settings: Genetic tests are commonly used in medical diagnostics to identify genetic disorders or predispositions. Regulatory compliance: Laboratories performing genetic tests must understand this definition to comply with relevant laws and regulations.
+# Relationship to Overall Document Argument
+Establishes a foundation: Defining 'genetic test' is crucial for subsequent legal provisions that may pertain to genetic testing practices, privacy, and discrimination. Guides interpretation: This definition helps interpret other legal texts or regulations that reference genetic testing, ensuring consistency in application.

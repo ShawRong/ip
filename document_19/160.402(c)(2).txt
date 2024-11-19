@@ -1,0 +1,10 @@
+# Law
+160.402(c)(2)
+# Key Legal Concepts
+**Covered Entity**: A covered entity refers to health care providers, health plans, and health care clearinghouses that transmit any health information in electronic form. They are subject to specific regulations concerning the protection of health information. **Business Associate**: A business associate is a person or entity that performs certain functions or activities on behalf of, or provides services to, a covered entity that involves the use or disclosure of protected health information.
+# Key Legal Principles
+**Vicarious Liability**: This principle holds that an employer (or business associate) can be held liable for the actions of its employees (or agents) performed within the course of their employment. This is applicable as the business associate is liable for violations committed by its workforce or subcontractors. **Agency Relationship**: The relationship between a business associate and its agents is defined by the Federal common law of agency, which establishes that actions taken by agents within the scope of their authority can result in liability for the principal.
+# Application Scenarios
+A business associate that fails to safeguard protected health information due to the negligence of a subcontractor may face civil penalties as a result of the actions of that subcontractor. If a workforce member of a business associate improperly discloses patient information while performing their job duties, the business associate may be liable for the violation.
+# Relationship to Overall Document Argument
+The law emphasizes the accountability of business associates, thereby ensuring that they adhere to the same standards as covered entities in protecting health information. It reinforces the importance of compliance within the entire health care system, holding both covered entities and their business associates responsible for any breaches or failures to comply with privacy regulations.

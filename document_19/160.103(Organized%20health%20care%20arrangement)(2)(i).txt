@@ -1,0 +1,10 @@
+# Law
+160.103(Organized%20health%20care%20arrangement)(2)(i)
+# Key Legal Concepts
+The concept of 'organized health care arrangement' refers to a structured system where multiple covered entities collaborate to provide health care services. This arrangement is designed to improve care coordination and efficiency. The term 'covered entity' includes health care providers, health plans, and health care clearinghouses that are subject to regulatory requirements under health privacy laws.
+# Key Legal Principles
+Transparency in collaboration: Covered entities must clearly present themselves to the public as part of a joint arrangement, ensuring that patients understand the nature of the healthcare services provided. Accountability: Participating entities in an organized health care arrangement share responsibility for the care provided, which encompasses adherence to privacy laws and regulations.
+# Application Scenarios
+Health care providers forming a joint venture to offer specialized services, such as a group of hospitals collaborating to provide comprehensive cancer care. A network of clinics that markets itself as a unified health care system, providing coordinated care and shared resources to patients.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of public representation and transparency, which is essential for maintaining trust in health care arrangements. It underscores the collaborative nature of health care delivery, aligning with broader goals of integrated care and improved patient outcomes.

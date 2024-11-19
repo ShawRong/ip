@@ -1,0 +1,10 @@
+# Law
+160.504(c)
+# Key Legal Concepts
+**Hearing Request Requirements**: The law specifies that a request for a hearing must explicitly address each finding of fact from the notice of proposed determination, indicating whether the respondent admits, denies, or explains each finding. **Denial by Lack of Knowledge**: If a respondent states they have no knowledge of a particular finding, that finding is automatically deemed denied, emphasizing the importance of the respondent's knowledge in the adjudication process.
+# Key Legal Principles
+**Due Process**: The requirement for a clear and direct response to findings of fact ensures that respondents have a fair opportunity to contest determinations made against them. **Affirmative Defense**: The ability for respondents to raise affirmative defenses at any time allows for flexibility in legal strategy, particularly in relation to demonstrating lack of knowledge of violations under § 160.410(b)(1).
+# Application Scenarios
+A healthcare entity receives a notice of proposed determination regarding a violation and must prepare a hearing request that addresses each finding of fact accurately. A respondent might argue that they were unaware of certain compliance violations, invoking the affirmative defense provision to contest penalties.
+# Relationship to Overall Document Argument
+The provisions outlined in § 160.504(c) ensure that respondents can effectively challenge findings against them, reinforcing the legal framework's emphasis on accountability and transparency. The interaction between the requirements for hearing requests and the affirmative defense under § 160.410(b)(1) illustrates a balance between enforcing compliance and allowing for justifiable defenses.

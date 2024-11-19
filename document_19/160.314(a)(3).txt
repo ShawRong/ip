@@ -1,0 +1,10 @@
+# Law
+160.314(a)(3)
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual or entity to attend a legal proceeding or produce evidence. Proof of Service: The requirement to demonstrate that a subpoena has been properly delivered to the relevant parties.
+# Key Legal Principles
+Due Process: Ensures that parties involved in legal proceedings have the right to be notified and to respond. Verification: The need for a verified return confirms that the service of the subpoena was conducted according to legal standards.
+# Application Scenarios
+During an investigation, if a witness fails to appear, the verified return can be used to establish that they were properly notified of their obligation to attend. In compliance reviews, entities may need to provide documentation to prove they received a subpoena, and the verified return serves as evidence of that service.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of proper notification in legal processes, ensuring that parties are aware of their obligations. It reinforces the procedural integrity of investigations and compliance reviews by establishing a clear method for proving service of subpoenas.
