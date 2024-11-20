@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(i)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: This refers to any health information that can be used to identify an individual and is protected under privacy regulations. **Genetic Information**: Specific type of health information that includes data derived from genetic testing, family medical histories, and other genetic predispositions. **Underwriting Purposes**: Activities related to assessing risk and determining eligibility for health insurance coverage, including premium calculations.
+# Key Legal Principles
+**Prohibition on Use of Genetic Information**: Health plans are explicitly prohibited from using or disclosing genetic information for underwriting purposes, ensuring that individuals are not discriminated against based on their genetic predispositions. **Exclusion for Long-term Care Policies**: Health plans providing long-term care policies may have different standards, exempting them from this prohibition, which reflects a nuanced approach to different types of health coverage. **Consistency with Other Regulations**: Any use or disclosure of protected health information must comply with other relevant sections of the law, maintaining a comprehensive framework for patient privacy.
+# Application Scenarios
+A health plan assessing an individual's application for coverage must not consider any genetic test results when determining premium rates or eligibility. In the event of a claim, genetic information cannot be disclosed to insurance underwriters as part of the risk assessment process.
+# Relationship to Overall Document Argument
+The provision supports broader objectives of protecting individual privacy rights, particularly concerning sensitive genetic information. It aligns with the overall legislative intent to prevent discrimination in health insurance practices, promoting fairness and equity in access to healthcare.

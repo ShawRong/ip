@@ -1,0 +1,10 @@
+# Law
+164.103Requiredbylaw
+# Key Legal Concepts
+Required by law: This concept refers to legal mandates that compel entities to disclose or use protected health information, ensuring compliance with enforceable legal obligations. Court orders and warrants: These are legal instruments issued by a court that require the disclosure of information, emphasizing the judicial authority in regulating information sharing. Subpoenas and summons: Legal documents that require individuals or entities to appear in court or produce evidence, highlighting the process of law in obtaining necessary information.
+# Key Legal Principles
+Enforceability: The legal requirement is enforceable in a court of law, meaning entities must comply with the mandated disclosures or face legal consequences. Transparency in legal processes: The principle promotes transparency by ensuring that the methods by which information is requested are formally documented and legally justified. Protection of health information: This principle underscores the importance of safeguarding personal health information while complying with legal requests.
+# Application Scenarios
+When a healthcare provider receives a subpoena for patient records, they must comply with the request as it is required by law. In the event of a court-ordered investigation into healthcare practices, the organization must disclose relevant information as mandated by the court.
+# Relationship to Overall Document Argument
+The definitions provided in § 164.103 create a framework for understanding the legal obligations surrounding health information, reinforcing the necessity of compliance with laws governing data disclosure. This section supports the broader argument of protecting health information while acknowledging the legal contexts in which disclosure is required, balancing privacy and legal accountability.

@@ -1,0 +1,10 @@
+# Law
+160.516(e)(2)(ii)
+# Key Legal Concepts
+Protective Order: A legal order issued by a court or an administrative law judge (ALJ) to limit or prevent certain discovery requests to protect a party from undue burden or expense. Discovery: A pre-trial procedure in which parties to a lawsuit exchange information and evidence relevant to the case. Undue Burden: A standard used to assess whether a discovery request is excessively difficult or expensive for a party to fulfill.
+# Key Legal Principles
+The principle of proportionality: Discovery requests must be proportional to the needs of the case, meaning they should not impose excessive costs or burdens relative to the issues at stake. The balancing test: The ALJ must weigh the importance of the information sought against the burden and costs associated with obtaining it.
+# Application Scenarios
+A party requests extensive documents that would require significant resources to gather, prompting the opposing party to file for a protective order due to the undue burden. In a case where the discovery sought involves numerous depositions that would be logistically challenging and expensive, the ALJ may deny the motion to compel based on the principle of undue burden.
+# Relationship to Overall Document Argument
+This law emphasizes the authority of the ALJ to prevent excessive discovery that could hinder the efficiency of legal proceedings. The concept of undue burden supports the overall goal of ensuring that legal processes remain fair and accessible, avoiding situations where one party is disproportionately affected by discovery demands.

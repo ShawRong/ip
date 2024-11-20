@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.520(b)(3)', 'data': '(3) Revisions to the notice.  The covered entity must promptly revise and distribute its notice whenever there is a material change to the uses or disclosures, the individual's rights, the covered entity's legal duties, or other privacy practices stated in the notice. Except when required by law, a material change to any term of the notice may not be implemented prior to the effective date of the notice in which such material change is reflected. '}, {'id': '164.520(c)', 'data': '(c) Implementation specifications: Provision of notice.  A covered entity must make the notice required by this section available on request to any person and to individuals as specified in paragraphs (c)(1) through (c)(3) of this section, as applicable. '}, {'id': '164.530(i)(4)(i)', 'data': '(i) To implement a change as provided by paragraph (i)(2)(ii) of this section, a covered entity must: '}, {'id': '164.530(i)(4)(i)', 'data': '(i) To implement a change as provided by paragraph (i)(2)(ii) of this section, a covered entity must: '}, {'id': '164.520(b)(3)', 'data': '(3) Revisions to the notice.  The covered entity must promptly revise and distribute its notice whenever there is a material change to the uses or disclosures, the individual's rights, the covered entity's legal duties, or other privacy practices stated in the notice. Except when required by law, a material change to any term of the notice may not be implemented prior to the effective date of the notice in which such material change is reflected. '}, {'id': '164.520(c)', 'data': '(c) Implementation specifications: Provision of notice.  A covered entity must make the notice required by this section available on request to any person and to individuals as specified in paragraphs (c)(1) through (c)(3) of this section, as applicable. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(i)(4)(i)(C)', 'data': '(C) Revise the notice as required by § 164.520(b)(3) to state the changed practice and make the revised notice available as required by § 164.520(c). The covered entity may not implement a change to a policy or procedure prior to the effective date of the revised notice. '}
+You may now respond.

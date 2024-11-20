@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.528(a)', 'data': '(a) Standard: Right to an accounting of disclosures of protected health information. '}, {'id': '164.528(a)(1)(i)', 'data': '(i) To carry out treatment, payment and health care operations as provided in § 164.506; '}, {'id': '164.528(a)(1)(ii)', 'data': '(ii) To individuals of protected health information about them as provided in § 164.502; '}, {'id': '164.528(a)(1)(iii)', 'data': '(iii) Incident to a use or disclosure otherwise permitted or required by this subpart, as provided in § 164.502; '}, {'id': '164.528(a)(1)(iv)', 'data': '(iv) Pursuant to an authorization as provided in § 164.508; '}, {'id': '164.528(a)(1)(v)', 'data': '(v) For the facility's directory or to persons involved in the individual's care or other notification purposes as provided in § 164.510; '}, {'id': '164.528(a)(1)(vi)', 'data': '(vi) For national security or intelligence purposes as provided in § 164.512(k)(2); '}, {'id': '164.528(a)(1)(vii)', 'data': '(vii) To correctional institutions or law enforcement officials as provided in § 164.512(k)(5); '}, {'id': '164.528(a)(1)(viii)', 'data': '(viii) As part of a limited data set in accordance with § 164.514(e); or '}, {'id': '164.528(a)(1)(ix)', 'data': '(ix) That occurred prior to the compliance date for the covered entity. '}, {'id': '164.528(a)', 'data': '(a) Standard: Right to an accounting of disclosures of protected health information. '}, {'id': '164.528(a)(1)(i)', 'data': '(i) To carry out treatment, payment and health care operations as provided in § 164.506; '}, {'id': '164.528(a)(1)(ii)', 'data': '(ii) To individuals of protected health information about them as provided in § 164.502; '}, {'id': '164.528(a)(1)(iii)', 'data': '(iii) Incident to a use or disclosure otherwise permitted or required by this subpart, as provided in § 164.502; '}, {'id': '164.528(a)(1)(iv)', 'data': '(iv) Pursuant to an authorization as provided in § 164.508; '}, {'id': '164.528(a)(1)(v)', 'data': '(v) For the facility's directory or to persons involved in the individual's care or other notification purposes as provided in § 164.510; '}, {'id': '164.528(a)(1)(vi)', 'data': '(vi) For national security or intelligence purposes as provided in § 164.512(k)(2); '}, {'id': '164.528(a)(1)(vii)', 'data': '(vii) To correctional institutions or law enforcement officials as provided in § 164.512(k)(5); '}, {'id': '164.528(a)(1)(viii)', 'data': '(viii) As part of a limited data set in accordance with § 164.514(e); or '}, {'id': '164.528(a)(1)(ix)', 'data': '(ix) That occurred prior to the compliance date for the covered entity. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.528(a)(1)', 'data': '(1) An individual has a right to receive an accounting of disclosures of protected health information made by a covered entity in the six years prior to the date on which the accounting is requested, except for disclosures: '}
+You may now respond.

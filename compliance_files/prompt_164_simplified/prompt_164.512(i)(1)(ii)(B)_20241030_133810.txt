@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(i)(1)(ii)', 'data': '(ii) Reviews preparatory to research.  The covered entity obtains from the researcher representations that: '}, {'id': '164.512(i)(1)(ii)', 'data': '(ii) Reviews preparatory to research.  The covered entity obtains from the researcher representations that: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(i)(1)(ii)(B)', 'data': '(B) No protected health information is to be removed from the covered entity by the researcher in the course of the review; and '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.510', 'data': '§ 164.510 Uses and disclosures requiring an opportunity for the individual to agree or to object. A covered entity may use or disclose protected health information, provided that the individual is informed in advance of the use or disclosure and has the opportunity to agree to or prohibit or restrict the use or disclosure, in accordance with the applicable requirements of this section. The covered entity may orally inform the individual of and obtain the individual's oral agreement or objection to a use or disclosure permitted by this section. '}, {'id': '164.510(a)(1)', 'data': '(1) Permitted uses and disclosure.  Except when an objection is expressed in accordance with paragraphs (a)(2) or (3) of this section, a covered health care provider may: '}, {'id': '164.510(a)(2)', 'data': '(2) Opportunity to object.  A covered health care provider must inform an individual of the protected health information that it may include in a directory and the persons to whom it may disclose such information (including disclosures to clergy of information regarding religious affiliation) and provide the individual with the opportunity to restrict or prohibit some or all of the uses or disclosures permitted by paragraph (a)(1) of this section. '}, {'id': '164.510(a)(3)', 'data': '(3) Emergency circumstances. '}, {'id': '164.522(a)(1)(v)', 'data': '(v) A restriction agreed to by a covered entity under paragraph (a) of this section, is not effective under this subpart to prevent uses or disclosures permitted or required under § 164.502(a)(2)(ii), § 164.510(a) or § 164.512. '}, {'id': '164.510', 'data': '§ 164.510 Uses and disclosures requiring an opportunity for the individual to agree or to object. A covered entity may use or disclose protected health information, provided that the individual is informed in advance of the use or disclosure and has the opportunity to agree to or prohibit or restrict the use or disclosure, in accordance with the applicable requirements of this section. The covered entity may orally inform the individual of and obtain the individual's oral agreement or objection to a use or disclosure permitted by this section. '}, {'id': '164.510(a)(1)', 'data': '(1) Permitted uses and disclosure.  Except when an objection is expressed in accordance with paragraphs (a)(2) or (3) of this section, a covered health care provider may: '}, {'id': '164.510(a)(2)', 'data': '(2) Opportunity to object.  A covered health care provider must inform an individual of the protected health information that it may include in a directory and the persons to whom it may disclose such information (including disclosures to clergy of information regarding religious affiliation) and provide the individual with the opportunity to restrict or prohibit some or all of the uses or disclosures permitted by paragraph (a)(1) of this section. '}, {'id': '164.510(a)(3)', 'data': '(3) Emergency circumstances. '}, {'id': '164.522(a)(1)(v)', 'data': '(v) A restriction agreed to by a covered entity under paragraph (a) of this section, is not effective under this subpart to prevent uses or disclosures permitted or required under § 164.502(a)(2)(ii), § 164.510(a) or § 164.512. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.510(a)', 'data': '(a) Standard: Use and disclosure for facility directories —'}
+You may now respond.

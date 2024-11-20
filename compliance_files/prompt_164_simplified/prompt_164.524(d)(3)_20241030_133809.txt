@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.524(d)', 'data': '(d) Implementation specifications: Denial of access.  If the covered entity denies access, in whole or in part, to protected health information, the covered entity must comply with the following requirements. '}, {'id': '164.524(d)', 'data': '(d) Implementation specifications: Denial of access.  If the covered entity denies access, in whole or in part, to protected health information, the covered entity must comply with the following requirements. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.524(d)(3)', 'data': '(3) Other responsibility.  If the covered entity does not maintain the protected health information that is the subject of the individual's request for access, and the covered entity knows where the requested information is maintained, the covered entity must inform the individual where to direct the request for access. '}
+You may now respond.

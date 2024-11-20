@@ -1,0 +1,10 @@
+# Law
+160.510
+# Key Legal Concepts
+Ex parte communication: This refers to any communication between a party involved in a legal proceeding and the judge or administrative law judge (ALJ) without the other parties being present. It is generally prohibited to ensure fairness and impartiality. Administrative law judge (ALJ): An official who presides over hearings and makes decisions on disputes within administrative law, ensuring that the process is fair and follows legal standards.
+# Key Legal Principles
+Due process: This principle ensures that all parties have the right to be heard and to participate in legal proceedings, which is upheld by prohibiting ex parte communications. Impartiality: The prohibition of ex parte contacts aims to maintain the impartiality of the ALJ, preventing any undue influence or bias in decision-making.
+# Application Scenarios
+A party in a hearing wanting to inquire about case status must do so through appropriate channels, ensuring all parties are informed. An attorney seeking to clarify procedural questions can do so without violating the ex parte rule, as long as it does not pertain to the merits of the case.
+# Relationship to Overall Document Argument
+The rule reinforces the integrity of the hearing process by ensuring that all communications are transparent and equitable. It underscores the importance of procedural fairness, which is a foundational aspect of administrative law and hearing procedures.

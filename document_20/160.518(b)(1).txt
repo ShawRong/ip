@@ -1,0 +1,10 @@
+# Law
+160.518(b)(1)
+# Key Legal Concepts
+Evidence Admission: This concept pertains to the rules governing what evidence can be presented in a hearing, emphasizing the importance of pre-hearing disclosure. Exclusion of Evidence: This principle deals with the circumstances under which evidence can be excluded from consideration based on procedural failures, such as not providing evidence as required.
+# Key Legal Principles
+Due Process: The requirement for parties to exchange evidence ensures fairness in legal proceedings, allowing both sides to prepare adequately. Judicial Discretion: The Administrative Law Judge (ALJ) has the authority to decide whether to exclude evidence based on compliance with procedural rules.
+# Application Scenarios
+A party may object to the admission of a document that was not exchanged within the specified timeframe, prompting an ALJ review. If a party fails to provide a witness statement as required, the opposing party can raise an objection during the hearing.
+# Relationship to Overall Document Argument
+This law reinforces the procedural framework established in § 160.518(a), ensuring that parties adhere to the rules of evidence exchange. It highlights the balance between procedural compliance and the need for fair trial standards, guiding the ALJ's decision-making process.

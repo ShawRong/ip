@@ -1,0 +1,10 @@
+# Law
+160.103(Individually%20identifiable%20health%20information)(1)
+# Key Legal Concepts
+**Individually Identifiable Health Information**: This refers to health data that can be associated with a specific individual due to unique identifiers such as name, social security number, or other demographic details. **Health Care Providers and Plans**: Entities such as hospitals, clinics, and insurance companies that create, receive, or maintain health information as part of their operations.
+# Key Legal Principles
+**Confidentiality**: The principle that individually identifiable health information must be kept private and secure, protecting the individual's privacy rights. **Authorization**: The requirement that individuals must give explicit permission for their health information to be shared or used, except in certain legally defined circumstances.
+# Application Scenarios
+A healthcare provider uses patient records to develop treatment plans while ensuring that only authorized personnel have access to sensitive information. A health plan processes claims for medical services while adhering to regulations that protect patient privacy and require secure handling of identifiable information.
+# Relationship to Overall Document Argument
+This law emphasizes the necessity of protecting individually identifiable health information within healthcare systems, reinforcing the broader legal framework aimed at safeguarding patient privacy. The stipulations regarding who can create or receive such information are foundational to understanding the responsibilities of various healthcare entities in maintaining compliance with privacy laws.

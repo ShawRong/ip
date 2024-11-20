@@ -1,0 +1,10 @@
+# Law
+160.538(c)(1)
+# Key Legal Concepts
+**Administrative Law Judge (ALJ)**: An official who presides over administrative hearings and has the authority to make decisions on disputes involving administrative agencies. **Interrogation Control**: The ALJ's responsibility to manage how witnesses are questioned to ensure clarity and focus during the hearing.
+# Key Legal Principles
+**Due Process**: The principle that all parties in a hearing should have a fair opportunity to present their case and respond to evidence. **Truth-Seeking Function**: The obligation of the ALJ to facilitate procedures that lead to the discovery of factual truths in a case.
+# Application Scenarios
+When an ALJ determines the order of questioning to ensure that the most relevant information is elicited from witnesses. In a scenario where an ALJ must intervene to clarify a witness's testimony to prevent confusion and ensure effective communication.
+# Relationship to Overall Document Argument
+The focus on effective interrogation aligns with the broader goal of administrative hearings to resolve disputes based on factual accuracy. By emphasizing the need for control in witness interrogation, the law supports the integrity and efficiency of the administrative process.

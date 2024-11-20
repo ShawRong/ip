@@ -1,0 +1,10 @@
+# Law
+164.502(g)(5)(i)
+# Key Legal Concepts
+**Covered Entity:** Refers to organizations or individuals that are subject to the law, typically healthcare providers who transmit health information in electronic form. **Personal Representative:** A person authorized to act on behalf of an individual, especially in contexts related to health information and decision-making. **Domestic Violence, Abuse, or Neglect:** Situations where an individual may be harmed or is at risk of harm by another individual, which may impact the handling of health information.
+# Key Legal Principles
+**Safety and Well-being Priority:** The law prioritizes the safety of individuals over the rights of personal representatives when abuse or neglect is suspected. **Discretionary Authority:** Covered entities have the discretion to determine whether to recognize someone as a personal representative based on reasonable belief about potential harm.
+# Application Scenarios
+A healthcare provider evaluates whether to share medical information with a family member who has a history of domestic violence against the patient. A social worker decides not to treat an abusive partner as a personal representative in a case where the individual could be endangered.
+# Relationship to Overall Document Argument
+This law emphasizes the need for protective measures in situations involving potential abuse, aligning with broader legal frameworks that seek to safeguard vulnerable individuals. It highlights the balance between patient rights and the necessity to prevent harm, reinforcing the ethical obligations of covered entities.

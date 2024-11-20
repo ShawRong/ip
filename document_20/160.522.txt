@@ -1,0 +1,10 @@
+# Law
+160.522
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual to appear as a witness or produce evidence in a legal proceeding. Witness Fees: Compensatory payments made to witnesses for their time and travel incurred while attending a legal proceeding.
+# Key Legal Principles
+Cost Responsibility: The party that requests a subpoena is responsible for covering the associated costs of witness fees and mileage, establishing a principle of accountability in legal proceedings. Exemption for Government Entities: When a subpoena is issued on behalf of the Secretary, the requirement for accompanying witness fees is waived, highlighting a distinction in the treatment of government entities compared to private parties.
+# Application Scenarios
+A party in a legal dispute issues a subpoena to a witness, ensuring they provide a check for fees when serving the subpoena. A government agency issues a subpoena for a witness without needing to provide upfront fees, streamlining the process for governmental investigations.
+# Relationship to Overall Document Argument
+The provisions in § 160.522 underscore the importance of fair compensation for witnesses, which is fundamental to ensuring their cooperation in legal proceedings. The exemption for subpoenas issued on behalf of the Secretary reflects the operational needs of government agencies, balancing efficiency with legal obligations.

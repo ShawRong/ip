@@ -1,0 +1,10 @@
+# Law
+164.502(e)(1)
+# Key Legal Concepts
+**Covered Entity**: An organization or individual that is subject to HIPAA regulations and handles protected health information (PHI). They are responsible for ensuring the privacy and security of PHI. **Business Associate**: A person or entity that performs certain functions or activities on behalf of, or provides certain services to, a covered entity that involves the use or disclosure of PHI. **Protected Health Information (PHI)**: Any information held by a covered entity that relates to the health status, provision of health care, or payment for health care that can identify the individual.
+# Key Legal Principles
+**Satisfactory Assurance**: The covered entity must obtain satisfactory assurance from a business associate that appropriate safeguards are in place to protect PHI. **Written Agreement Requirement**: There must be a documented agreement, such as a contract, that outlines the responsibilities and protections for PHI between the covered entity and the business associate.
+# Application Scenarios
+A healthcare provider may share patient records with a billing company (business associate) under a written contract that ensures the billing company will protect the PHI. A health insurance company can allow a third-party claims processor (business associate) to handle claims, as long as there is a written agreement ensuring the processor safeguards the information.
+# Relationship to Overall Document Argument
+This law establishes the framework for how covered entities can work with business associates while maintaining compliance with HIPAA regulations regarding the safeguarding of PHI. It emphasizes the necessity of written agreements to formalize the responsibilities and security measures that must be in place, thereby reinforcing the protection of PHI in shared environments.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.524(a)(2)', 'data': '(2) Unreviewable grounds for denial.  A covered entity may deny an individual access without providing the individual an opportunity for review, in the following circumstances. '}, {'id': '164.524(a)(2)', 'data': '(2) Unreviewable grounds for denial.  A covered entity may deny an individual access without providing the individual an opportunity for review, in the following circumstances. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.524(a)(2)(iv)', 'data': '(iv) An individual's access to protected health information that is contained in records that are subject to the Privacy Act, 5 U.S.C. 552a, may be denied, if the denial of access under the Privacy Act would meet the requirements of that law. '}
+You may now respond.

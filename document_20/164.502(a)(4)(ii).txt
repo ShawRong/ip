@@ -1,0 +1,10 @@
+# Law
+164.502(a)(4)(ii)
+# Key Legal Concepts
+Business Associate: A business associate is an individual or entity that performs certain functions or activities on behalf of a covered entity involving the use or disclosure of protected health information (PHI). Electronic Access: This concept pertains to the rights of individuals to access their protected health information in electronic formats, emphasizing the importance of electronic health records in modern healthcare.
+# Key Legal Principles
+Right to Access: Individuals have the right to request access to their protected health information, and covered entities must comply with these requests, particularly when the data is maintained electronically. Required Disclosures: Business associates must disclose PHI as required by the covered entity to fulfill obligations related to access requests, ensuring compliance with laws governing health information privacy.
+# Application Scenarios
+A patient requests an electronic copy of their medical records from a healthcare provider, and the provider must ensure that the records are provided in the format requested if readily available. A health insurance company must share an individual's health information with a business associate, such as a third-party billing service, in order to comply with the individual's access request.
+# Relationship to Overall Document Argument
+This law supports the framework of patient rights by emphasizing the obligation of covered entities and their business associates to facilitate access to health information, thereby reinforcing the rights established under HIPAA. By mandating the disclosure of PHI to fulfill access requests, the law ensures that individuals are empowered in their healthcare decisions and can obtain their health information in a timely and appropriate manner.

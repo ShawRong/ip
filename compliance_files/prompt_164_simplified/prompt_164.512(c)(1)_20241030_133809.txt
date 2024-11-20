@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(b)(1)(ii)', 'data': '(ii) A public health authority or other appropriate government authority authorized by law to receive reports of child abuse or neglect; '}, {'id': '164.512(c)', 'data': '(c) Standard: Disclosures about victims of abuse, neglect or domestic violence —'}, {'id': '164.512(c)(1)(i)', 'data': '(i) To the extent the disclosure is required by law and the disclosure complies with and is limited to the relevant requirements of such law; '}, {'id': '164.512(c)(1)(ii)', 'data': '(ii) If the individual agrees to the disclosure; or '}, {'id': '164.512(c)(1)(iii)', 'data': '(iii) To the extent the disclosure is expressly authorized by statute or regulation and: '}, {'id': '164.512(c)(2)', 'data': '(2) Informing the individual.  A covered entity that makes a disclosure permitted by paragraph (c)(1) of this section must promptly inform the individual that such a report has been or will be made, except if: '}, {'id': '164.512(c)', 'data': '(c) Standard: Disclosures about victims of abuse, neglect or domestic violence —'}, {'id': '164.512(c)(1)(i)', 'data': '(i) To the extent the disclosure is required by law and the disclosure complies with and is limited to the relevant requirements of such law; '}, {'id': '164.512(c)(1)(ii)', 'data': '(ii) If the individual agrees to the disclosure; or '}, {'id': '164.512(c)(1)(iii)', 'data': '(iii) To the extent the disclosure is expressly authorized by statute or regulation and: '}, {'id': '164.512(b)(1)(ii)', 'data': '(ii) A public health authority or other appropriate government authority authorized by law to receive reports of child abuse or neglect; '}, {'id': '164.512(c)(2)', 'data': '(2) Informing the individual.  A covered entity that makes a disclosure permitted by paragraph (c)(1) of this section must promptly inform the individual that such a report has been or will be made, except if: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(c)(1)', 'data': '(1) Permitted disclosures.  Except for reports of child abuse or neglect permitted by paragraph (b)(1)(ii) of this section, a covered entity may disclose protected health information about an individual whom the covered entity reasonably believes to be a victim of abuse, neglect, or domestic violence to a government authority, including a social service or protective services agency, authorized by law to receive reports of such abuse, neglect, or domestic violence: '}
+You may now respond.

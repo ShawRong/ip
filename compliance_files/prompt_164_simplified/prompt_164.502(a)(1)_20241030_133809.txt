@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)', 'data': '(a) Standard.  A covered entity or business associate may not use or disclose protected health information, except as permitted or required by this subpart or by subpart C of part 160 of this subchapter. '}, {'id': '164.502(a)(1)(i)', 'data': '(i) To the individual; '}, {'id': '164.502(a)(1)(ii)', 'data': '(ii) For treatment, payment, or health care operations, as permitted by and in compliance with § 164.506; '}, {'id': '164.502(a)(1)(iii)', 'data': '(iii) Incident to a use or disclosure otherwise permitted or required by this subpart, provided that the covered entity has complied with the applicable requirements of §§ 164.502(b), 164.514(d), and 164.530(c) with respect to such otherwise permitted or required use or disclosure; '}, {'id': '164.502(a)(1)(iv)', 'data': '(iv) Except for uses and disclosures prohibited under § 164.502(a)(5)(i), pursuant to and in compliance with a valid authorization under § 164.508; '}, {'id': '164.502(a)(1)(v)', 'data': '(v) Pursuant to an agreement under, or as otherwise permitted by, § 164.510; and '}, {'id': '164.502(a)(1)(vi)', 'data': '(vi) As permitted by and in compliance with this section, § 164.512, § 164.514(e), (f), or (g). '}, {'id': '164.502(a)', 'data': '(a) Standard.  A covered entity or business associate may not use or disclose protected health information, except as permitted or required by this subpart or by subpart C of part 160 of this subchapter. '}, {'id': '164.502(a)(1)(i)', 'data': '(i) To the individual; '}, {'id': '164.502(a)(1)(ii)', 'data': '(ii) For treatment, payment, or health care operations, as permitted by and in compliance with § 164.506; '}, {'id': '164.502(a)(1)(iii)', 'data': '(iii) Incident to a use or disclosure otherwise permitted or required by this subpart, provided that the covered entity has complied with the applicable requirements of §§ 164.502(b), 164.514(d), and 164.530(c) with respect to such otherwise permitted or required use or disclosure; '}, {'id': '164.502(a)(1)(iv)', 'data': '(iv) Except for uses and disclosures prohibited under § 164.502(a)(5)(i), pursuant to and in compliance with a valid authorization under § 164.508; '}, {'id': '164.502(a)(1)(v)', 'data': '(v) Pursuant to an agreement under, or as otherwise permitted by, § 164.510; and '}, {'id': '164.502(a)(1)(vi)', 'data': '(vi) As permitted by and in compliance with this section, § 164.512, § 164.514(e), (f), or (g). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(a)(1)', 'data': '(1) Covered entities: Permitted uses and disclosures.  A covered entity is permitted to use or disclose protected health information as follows: '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.514(h)(2)', 'data': '(2) Implementation specifications: Verification —'}, {'id': '164.514(h)(2)(ii)(A)', 'data': '(A) If the request is made in person, presentation of an agency identification badge, other official credentials, or other proof of government status; '}, {'id': '164.514(h)(2)(ii)(B)', 'data': '(B) If the request is in writing, the request is on the appropriate government letterhead; or '}, {'id': '164.514(h)(2)(ii)(C)', 'data': '(C) If the disclosure is to a person acting on behalf of a public official, a written statement on appropriate government letterhead that the person is acting under the government's authority or other evidence or documentation of agency, such as a contract for services, memorandum of understanding, or purchase order, that establishes that the person is acting on behalf of the public official. '}, {'id': '164.514(h)(2)', 'data': '(2) Implementation specifications: Verification —'}, {'id': '164.514(h)(2)(ii)(A)', 'data': '(A) If the request is made in person, presentation of an agency identification badge, other official credentials, or other proof of government status; '}, {'id': '164.514(h)(2)(ii)(B)', 'data': '(B) If the request is in writing, the request is on the appropriate government letterhead; or '}, {'id': '164.514(h)(2)(ii)(C)', 'data': '(C) If the disclosure is to a person acting on behalf of a public official, a written statement on appropriate government letterhead that the person is acting under the government's authority or other evidence or documentation of agency, such as a contract for services, memorandum of understanding, or purchase order, that establishes that the person is acting on behalf of the public official. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.514(h)(2)(ii)', 'data': '(ii) Identity of public officials.  A covered entity may rely, if such reliance is reasonable under the circumstances, on any of the following to verify identity when the disclosure of protected health information is to a public official or a person acting on behalf of the public official: '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(b)(1)(vi)', 'data': '(vi) A school, about an individual who is a student or prospective student of the school, if: '}, {'id': '164.512(b)(1)(vi)', 'data': '(vi) A school, about an individual who is a student or prospective student of the school, if: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(b)(1)(vi)(B)', 'data': '(B) The school is required by State or other law to have such proof of immunization prior to admitting the individual; and '}
+You may now respond.

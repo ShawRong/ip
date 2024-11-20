@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part164SubpartE', 'data': 'Subpart E—Privacy of Individually Identifiable Health Information'}, {'id': '164.530(a)', 'data': '(a) '}, {'id': '164.530(b)', 'data': '(b) '}, {'id': '164.530(c)', 'data': '(c) '}, {'id': '164.530(d)', 'data': '(d) '}, {'id': '164.530(e)', 'data': '(e) '}, {'id': '164.530(f)', 'data': '(f) Standard: Mitigation.  A covered entity must mitigate, to the extent practicable, any harmful effect that is known to the covered entity of a use or disclosure of protected health information in violation of its policies and procedures or the requirements of this subpart by the covered entity or its business associate. '}, {'id': '164.530(g)', 'data': '(g) Standard: Refraining from intimidating or retaliatory acts.  A covered entity— '}, {'id': '164.530(h)', 'data': '(h) Standard: Waiver of rights.  A covered entity may not require individuals to waive their rights under § 160.306 of this subchapter, this subpart, or subpart D of this part, as a condition of the provision of treatment, payment, enrollment in a health plan, or eligibility for benefits. '}, {'id': '164.530(i)', 'data': '(i) '}, {'id': '164.530(j)', 'data': '(j) '}, {'id': '164.530(k)', 'data': '(k) Standard: Group health plans. '}, {'id': 'Part164SubpartE', 'data': 'Subpart E—Privacy of Individually Identifiable Health Information'}, {'id': '164.530(a)', 'data': '(a) '}, {'id': '164.530(b)', 'data': '(b) '}, {'id': '164.530(c)', 'data': '(c) '}, {'id': '164.530(d)', 'data': '(d) '}, {'id': '164.530(e)', 'data': '(e) '}, {'id': '164.530(f)', 'data': '(f) Standard: Mitigation.  A covered entity must mitigate, to the extent practicable, any harmful effect that is known to the covered entity of a use or disclosure of protected health information in violation of its policies and procedures or the requirements of this subpart by the covered entity or its business associate. '}, {'id': '164.530(g)', 'data': '(g) Standard: Refraining from intimidating or retaliatory acts.  A covered entity— '}, {'id': '164.530(h)', 'data': '(h) Standard: Waiver of rights.  A covered entity may not require individuals to waive their rights under § 160.306 of this subchapter, this subpart, or subpart D of this part, as a condition of the provision of treatment, payment, enrollment in a health plan, or eligibility for benefits. '}, {'id': '164.530(i)', 'data': '(i) '}, {'id': '164.530(j)', 'data': '(j) '}, {'id': '164.530(k)', 'data': '(k) Standard: Group health plans. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530', 'data': '§ 164.530 Administrative requirements.'}
+You may now respond.

@@ -1,0 +1,10 @@
+# Law
+164.104
+# Key Legal Concepts
+The applicability of standards, requirements, and implementation specifications to specified entities, ensuring they are subject to compliance measures. The inclusion of business associates under these standards, meaning that any third-party service providers who handle protected health information (PHI) are also held accountable.
+# Key Legal Principles
+Uniform application of standards: The law establishes that all covered entities must adhere to the same baseline requirements, promoting consistency in handling PHI. Accountability of business associates: By extending applicability to business associates, the law ensures that entities cannot evade responsibility for PHI by outsourcing tasks.
+# Application Scenarios
+A healthcare provider must implement security measures to protect patient information in accordance with the specified standards. A medical billing company, as a business associate, must comply with the same regulations regarding the handling of PHI to ensure patient data is protected.
+# Relationship to Overall Document Argument
+The provisions in § 164.104 set the framework for understanding which entities are impacted by the law, reinforcing the importance of compliance across the healthcare industry. By outlining the applicability, the law underscores the need for a comprehensive approach to privacy and security, influencing subsequent regulations and practices.

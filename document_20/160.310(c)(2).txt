@@ -1,0 +1,10 @@
+# Law
+160.310(c)(2)
+# Key Legal Concepts
+**Access to Information**: This concept emphasizes the importance of permitting access to information held by covered entities or business associates, ensuring transparency and accountability in handling sensitive data. **Certification of Efforts**: This principle requires that if a covered entity or business associate cannot obtain necessary information from another source, they must formally certify their efforts to do so, documenting the attempts made.
+# Key Legal Principles
+**Responsibility of Covered Entities**: Covered entities and business associates have a legal obligation to seek out required information, reinforcing the principle of due diligence in data management. **Collaboration and Accountability**: The law promotes collaboration between different entities and institutions while holding them accountable for their roles in the information-sharing process.
+# Application Scenarios
+A healthcare provider attempting to access patient information held by a third-party laboratory must document their attempts if the laboratory refuses to provide the needed data. A business associate working with a healthcare organization must certify their efforts to obtain necessary health records from another agency if those records are essential for compliance.
+# Relationship to Overall Document Argument
+The provision reinforces the overarching theme of ensuring that covered entities and business associates actively seek compliance with information access requirements. It highlights the necessity of accountability and transparency in the health information ecosystem, supporting the broader goals of privacy and data protection.

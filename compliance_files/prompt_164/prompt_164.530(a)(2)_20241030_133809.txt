@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.530(a)', 'data': '(a) '}, {'id': '164.530(a)(1)', 'data': '(1) Standard: Personnel designations. '}, {'id': '164.530(j)', 'data': '(j) '}, {'id': '164.530(a)', 'data': '(a) '}, {'id': '164.530(a)(1)', 'data': '(1) Standard: Personnel designations. '}, {'id': '164.530(j)', 'data': '(j) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(a)(2)', 'data': '(2) Implementation specification: Personnel designations.  A covered entity must document the personnel designations in paragraph (a)(1) of this section as required by paragraph (j) of this section. '}
+You may now respond.

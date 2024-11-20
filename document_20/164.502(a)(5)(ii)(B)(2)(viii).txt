@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(ii)(B)(2)(viii)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual, which is protected under privacy laws. Disclosure: The act of revealing or providing access to PHI, which can occur under certain conditions without constituting a sale of that information.
+# Key Legal Principles
+Cost-based fee principle: This principle establishes that covered entities or business associates may charge a reasonable fee to cover the costs associated with preparing and transmitting PHI, distinguishing this from a profit-driven sale. Permitted purposes: The law outlines that disclosures of PHI may occur for various purposes as long as they comply with specific legal requirements, ensuring that the use of PHI remains within legal boundaries.
+# Application Scenarios
+A healthcare provider may charge a patient a fee to cover the costs of sending their medical records to a new provider, as this aligns with the cost-based fee principle. A business associate may disclose PHI to a third party for research purposes if the fee charged is strictly for the costs incurred in transmitting the information, thus adhering to the requirements outlined in the law.
+# Relationship to Overall Document Argument
+This law emphasizes the distinction between permissible disclosures of PHI and sales of PHI, reinforcing the protection of patient privacy while allowing for necessary transactions related to healthcare delivery. It supports the broader regulatory framework that governs the use of PHI, aiming to balance the need for information flow in healthcare with the imperative of patient confidentiality.

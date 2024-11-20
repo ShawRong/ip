@@ -1,0 +1,10 @@
+# Law
+164.502(a)(2)(ii)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: This refers to any information about health status, healthcare provision, or payment for healthcare that can be linked to an individual. Laws like § 164.502(a)(2) require that covered entities disclose PHI under specific circumstances. **Covered Entities**: These include health care providers, health plans, and healthcare clearinghouses that transmit any health information in electronic form. They are obligated to comply with regulations regarding the handling of PHI, as outlined in the law.
+# Key Legal Principles
+**Mandatory Disclosure**: Under § 164.502(a)(2)(ii), covered entities must disclose PHI when required by the Secretary for compliance investigations. This principle emphasizes the importance of regulatory oversight. **Permitted Uses and Disclosures**: The law establishes various circumstances under which PHI can be disclosed, stressing that even agreed-upon restrictions may not prevent disclosures mandated by regulatory bodies.
+# Application Scenarios
+A healthcare provider might be required to disclose patient records to the Secretary when an investigation into compliance with HIPAA regulations is initiated. A health plan may need to provide access to specific PHI for audits or investigations to ensure adherence to healthcare regulations.
+# Relationship to Overall Document Argument
+The requirement for disclosure under § 164.502(a)(2)(ii) supports the broader goal of ensuring accountability among covered entities in protecting PHI. The interplay between mandatory disclosures and the rights of individuals regarding their PHI illustrates the balance between regulatory oversight and personal privacy rights within the healthcare system.

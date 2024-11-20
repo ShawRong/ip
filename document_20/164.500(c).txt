@@ -1,0 +1,10 @@
+# Law
+164.500(c)
+# Key Legal Concepts
+Business Associate: A business associate is an individual or entity that performs certain functions or activities on behalf of a covered entity that involves the use or disclosure of protected health information (PHI). Protected Health Information (PHI): PHI refers to any information held by a covered entity that relates to the health status, provision of health care, or payment for health care of an individual, which can identify the individual.
+# Key Legal Principles
+Confidentiality: The principle of confidentiality requires that PHI be protected from unauthorized access and disclosure, ensuring that only authorized individuals can access sensitive health information. Compliance: Business associates must comply with the standards and requirements set forth in regulations concerning the handling of PHI, reflecting the accountability of both covered entities and their business associates.
+# Application Scenarios
+A healthcare provider may engage a third-party billing company (business associate) to manage patient billing, necessitating adherence to PHI protection standards. A cloud service provider that stores health records for a hospital must implement security measures to protect PHI as mandated by the law.
+# Relationship to Overall Document Argument
+This law emphasizes the shared responsibility of business associates in safeguarding PHI, reinforcing the legal obligations that extend beyond covered entities. It highlights the importance of regulatory compliance in the healthcare industry, particularly in the context of partnerships and outsourcing health-related services.

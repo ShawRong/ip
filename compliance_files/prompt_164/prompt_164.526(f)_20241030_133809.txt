@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.526', 'data': '§ 164.526 Amendment of protected health information.'}, {'id': '164.530(j)', 'data': '(j) '}, {'id': '164.526', 'data': '§ 164.526 Amendment of protected health information.'}, {'id': '164.530(j)', 'data': '(j) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.526(f)', 'data': '(f) Implementation specification: Documentation.  A covered entity must document the titles of the persons or offices responsible for receiving and processing requests for amendments by individuals and retain the documentation as required by § 164.530(j). '}
+You may now respond.

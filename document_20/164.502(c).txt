@@ -1,0 +1,10 @@
+# Law
+164.502(c)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. Agreed Upon Restrictions: These are specific limitations that a covered entity agrees to regarding the use and disclosure of an individual's protected health information.
+# Key Legal Principles
+Right to Restrict Disclosures: Individuals have the right to request that a covered entity restrict certain uses and disclosures of their protected health information, as outlined in § 164.522(a)(1). Compliance with Restrictions: Once a covered entity agrees to a restriction on the use or disclosure of PHI, it is legally bound to comply with that restriction unless exceptions apply.
+# Application Scenarios
+A patient requests that their health information not be shared with a specific family member, and the covered entity agrees to this restriction. A healthcare provider must ensure that any information shared with third parties adheres to the restrictions agreed upon with the patient.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of patient autonomy regarding their health information and supports the broader framework of privacy and confidentiality in healthcare. It reinforces the obligation of covered entities to honor agreed-upon restrictions, thereby promoting trust between patients and healthcare providers.

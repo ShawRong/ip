@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.508(b)(1)(i)', 'data': '(i) A valid authorization is a document that meets the requirements in paragraphs (a)(3)(ii), (a)(4)(ii), (c)(1), and (c)(2) of this section, as applicable. '}, {'id': '164.508(c)', 'data': '(c) Implementation specifications: Core elements and requirements —'}, {'id': '164.508(c)(1)(i)', 'data': '(i) A description of the information to be used or disclosed that identifies the information in a specific and meaningful fashion. '}, {'id': '164.508(c)(1)(ii)', 'data': '(ii) The name or other specific identification of the person(s), or class of persons, authorized to make the requested use or disclosure. '}, {'id': '164.508(c)(1)(iii)', 'data': '(iii) The name or other specific identification of the person(s), or class of persons, to whom the covered entity may make the requested use or disclosure. '}, {'id': '164.508(c)(1)(iv)', 'data': '(iv) A description of each purpose of the requested use or disclosure. The statement “at the request of the individual” is a sufficient description of the purpose when an individual initiates the authorization and does not, or elects not to, provide a statement of the purpose. '}, {'id': '164.508(c)(1)(v)', 'data': '(v) An expiration date or an expiration event that relates to the individual or the purpose of the use or disclosure. The statement “end of the research study,” “none,” or similar language is sufficient if the authorization is for a use or disclosure of protected health information for research, including for the creation and maintenance of a research database or research repository. '}, {'id': '164.508(c)(1)(vi)', 'data': '(vi) Signature of the individual and date. If the authorization is signed by a personal representative of the individual, a description of such representative's authority to act for the individual must also be provided. '}, {'id': '164.508(c)', 'data': '(c) Implementation specifications: Core elements and requirements —'}, {'id': '164.508(c)(1)(i)', 'data': '(i) A description of the information to be used or disclosed that identifies the information in a specific and meaningful fashion. '}, {'id': '164.508(c)(1)(ii)', 'data': '(ii) The name or other specific identification of the person(s), or class of persons, authorized to make the requested use or disclosure. '}, {'id': '164.508(c)(1)(iii)', 'data': '(iii) The name or other specific identification of the person(s), or class of persons, to whom the covered entity may make the requested use or disclosure. '}, {'id': '164.508(c)(1)(iv)', 'data': '(iv) A description of each purpose of the requested use or disclosure. The statement “at the request of the individual” is a sufficient description of the purpose when an individual initiates the authorization and does not, or elects not to, provide a statement of the purpose. '}, {'id': '164.508(c)(1)(v)', 'data': '(v) An expiration date or an expiration event that relates to the individual or the purpose of the use or disclosure. The statement “end of the research study,” “none,” or similar language is sufficient if the authorization is for a use or disclosure of protected health information for research, including for the creation and maintenance of a research database or research repository. '}, {'id': '164.508(c)(1)(vi)', 'data': '(vi) Signature of the individual and date. If the authorization is signed by a personal representative of the individual, a description of such representative's authority to act for the individual must also be provided. '}, {'id': '164.508(b)(1)(i)', 'data': '(i) A valid authorization is a document that meets the requirements in paragraphs (a)(3)(ii), (a)(4)(ii), (c)(1), and (c)(2) of this section, as applicable. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.508(c)(1)', 'data': '(1) Core elements.  A valid authorization under this section must contain at least the following elements: '}
+You may now respond.

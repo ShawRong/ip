@@ -1,0 +1,10 @@
+# Law
+160.520(h)
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual to appear at a specified time and place to testify or produce evidence. Motion to Quash: A formal request made to a court or administrative law judge (ALJ) to nullify or cancel a subpoena.
+# Key Legal Principles
+Due Process: The right of an individual to contest a subpoena ensures fairness in legal proceedings. Timeliness: The requirement to file a motion to quash within 10 days emphasizes the need for prompt legal action.
+# Application Scenarios
+A witness receiving a subpoena to testify at a hearing may feel that the request is inappropriate or burdensome and thus file a motion to quash. A party involved in a legal dispute may challenge the relevance or legality of a subpoena issued against them.
+# Relationship to Overall Document Argument
+The provision ensures that individuals have an opportunity to protect their rights against potentially overreaching subpoenas. It reinforces the administrative process's integrity by allowing for the review and potential dismissal of unwarranted subpoenas.

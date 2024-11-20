@@ -1,0 +1,10 @@
+# Law
+160.518(b)(2)
+# Key Legal Concepts
+Exchange of Evidence: The requirement for parties to exchange witness lists, prior written statements, and proposed exhibits ensures that both sides are aware of the evidence and witnesses that will be presented at the hearing. Exclusion of Evidence: This concept relates to the consequences of failing to comply with the prescribed timeline for exchanging information, where evidence may be excluded from consideration.
+# Key Legal Principles
+Timeliness: The principles emphasize the importance of adhering to deadlines for exchanging witness lists and evidence to promote fairness and preparedness in legal proceedings. Extraordinary Circumstances: The principle allows for flexibility in enforcing deadlines if a party can demonstrate that unforeseen and exceptional circumstances prevented timely compliance.
+# Application Scenarios
+A party fails to submit a witness list within the timeframe, leading the Administrative Law Judge (ALJ) to exclude the testimony of that witness during the hearing. A respondent wants to introduce a statistical expert's report but does so after the deadline, unless they can prove extraordinary circumstances, the report will be excluded.
+# Relationship to Overall Document Argument
+This law supports the overall aim of ensuring fairness and transparency in the hearing process by mandating timely exchange of information. It reinforces the procedural integrity of the hearing by establishing consequences for non-compliance, thus encouraging parties to adhere to timelines.

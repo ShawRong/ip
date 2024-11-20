@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.534', 'data': '§ 164.534 Compliance dates for initial implementation of the privacy standards.'}, {'id': '164.534(b)(1)', 'data': '(1) Health plans other than small health plans.  April 14, 2003. '}, {'id': '164.534(b)(2)', 'data': '(2) Small health plans.  April 14, 2004. '}, {'id': '164.534', 'data': '§ 164.534 Compliance dates for initial implementation of the privacy standards.'}, {'id': '164.534(b)(1)', 'data': '(1) Health plans other than small health plans.  April 14, 2003. '}, {'id': '164.534(b)(2)', 'data': '(2) Small health plans.  April 14, 2004. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.534(b)', 'data': '(b) Health plans.  A health plan must comply with the applicable requirements of this subpart no later than the following as applicable: '}
+You may now respond.

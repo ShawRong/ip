@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.520(a)', 'data': '(a) Standard: Notice of privacy practices —'}, {'id': '164.520(a)(1)', 'data': '(1) Right to notice.  Except as provided by paragraph (a)(2) or (3) of this section, an individual has a right to adequate notice of the uses and disclosures of protected health information that may be made by the covered entity, and of the individual's rights and the covered entity's legal duties with respect to protected health information. '}, {'id': '164.520(a)', 'data': '(a) Standard: Notice of privacy practices —'}, {'id': '164.520(a)(1)', 'data': '(1) Right to notice.  Except as provided by paragraph (a)(2) or (3) of this section, an individual has a right to adequate notice of the uses and disclosures of protected health information that may be made by the covered entity, and of the individual's rights and the covered entity's legal duties with respect to protected health information. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.520(a)(3)', 'data': '(3) Exception for inmates.  An inmate does not have a right to notice under this section, and the requirements of this section do not apply to a correctional institution that is a covered entity. '}
+You may now respond.

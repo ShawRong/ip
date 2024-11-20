@@ -1,0 +1,10 @@
+# Law
+160.530
+# Key Legal Concepts
+Sanctions: Legal consequences imposed by a judge (ALJ) for non-compliance with orders or procedures. Discovery: The pre-trial phase where parties gather evidence from each other; non-compliance can lead to sanctions. Default Judgments: A decision made by the court in favor of one party due to the other party's failure to respond or comply.
+# Key Legal Principles
+Proportionality: Sanctions must be proportional to the severity of the misconduct. Fairness: Sanctions should not unfairly disadvantage any party and must ensure the integrity of the hearing process. Timeliness: Actions and motions must be filed in a timely manner to be considered valid.
+# Application Scenarios
+A party refuses to provide requested documents during discovery, leading to sanctions such as negative inferences against them. An attorney fails to file required pleadings on time, resulting in the striking of those pleadings or dismissal of the case.
+# Relationship to Overall Document Argument
+Establishes a framework for maintaining order and fairness in hearings, which is essential for the integrity of the legal process. Illustrates the consequences of misconduct, reinforcing the importance of compliance with legal procedures to achieve just outcomes.

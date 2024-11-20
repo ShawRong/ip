@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)(1)', 'data': '(1) Covered entities: Permitted uses and disclosures.  A covered entity is permitted to use or disclose protected health information as follows: '}, {'id': '164.502(b)', 'data': '(b) Standard: Minimum necessary — Minimum necessary applies. When using or disclosing protected health information or when requesting protected health information from another covered entity or business associate, a covered entity or business associate must make reasonable efforts to limit protected health information to the minimum necessary to accomplish the intended purpose of the use, disclosure, or request. '}, {'id': '164.514(d)', 'data': '(d) '}, {'id': '164.530(c)', 'data': '(c) '}, {'id': '164.502(a)(1)', 'data': '(1) Covered entities: Permitted uses and disclosures.  A covered entity is permitted to use or disclose protected health information as follows: '}, {'id': '164.502(b)', 'data': '(b) Standard: Minimum necessary — Minimum necessary applies. When using or disclosing protected health information or when requesting protected health information from another covered entity or business associate, a covered entity or business associate must make reasonable efforts to limit protected health information to the minimum necessary to accomplish the intended purpose of the use, disclosure, or request. '}, {'id': '164.514(d)', 'data': '(d) '}, {'id': '164.530(c)', 'data': '(c) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(a)(1)(iii)', 'data': '(iii) Incident to a use or disclosure otherwise permitted or required by this subpart, provided that the covered entity has complied with the applicable requirements of §§ 164.502(b), 164.514(d), and 164.530(c) with respect to such otherwise permitted or required use or disclosure; '}
+You may now respond.

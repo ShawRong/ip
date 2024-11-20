@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(d)(2)', 'data': '(2) Uses and disclosures of de-identified information.  Health information that meets the standard and implementation specifications for de-identification under § 164.514(a) and (b) is considered not to be individually identifiable health information, i.e., de-identified. The requirements of this subpart do not apply to information that has been de-identified in accordance with the applicable requirements of § 164.514, provided that: '}, {'id': '164.514', 'data': '§ 164.514 Other requirements relating to uses and disclosures of protected health information.'}, {'id': '164.514(b)(1)', 'data': '(1) A person with appropriate knowledge of and experience with generally accepted statistical and scientific principles and methods for rendering information not individually identifiable: '}, {'id': '164.514(b)(2)', 'data': '(2) '}, {'id': '164.514', 'data': '§ 164.514 Other requirements relating to uses and disclosures of protected health information.'}, {'id': '164.514(b)(1)', 'data': '(1) A person with appropriate knowledge of and experience with generally accepted statistical and scientific principles and methods for rendering information not individually identifiable: '}, {'id': '164.514(b)(2)', 'data': '(2) '}, {'id': '164.502(d)(2)', 'data': '(2) Uses and disclosures of de-identified information.  Health information that meets the standard and implementation specifications for de-identification under § 164.514(a) and (b) is considered not to be individually identifiable health information, i.e., de-identified. The requirements of this subpart do not apply to information that has been de-identified in accordance with the applicable requirements of § 164.514, provided that: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.514(b)', 'data': '(b) Implementation specifications: Requirements for de-identification of protected health information.  A covered entity may determine that health information is not individually identifiable health information only if: '}
+You may now respond.

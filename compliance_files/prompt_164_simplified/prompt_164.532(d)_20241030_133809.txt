@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.308(b)', 'data': '(b) '}, {'id': '164.314(a)', 'data': '(a) '}, {'id': '164.502(e)', 'data': '(e) '}, {'id': '164.504(e)', 'data': '(e) '}, {'id': '164.532', 'data': '§ 164.532 Transition provisions.'}, {'id': '164.532(e)', 'data': '(e) Implementation specification: Deemed compliance —'}, {'id': '164.532', 'data': '§ 164.532 Transition provisions.'}, {'id': '164.308(b)', 'data': '(b) '}, {'id': '164.314(a)', 'data': '(a) '}, {'id': '164.502(e)', 'data': '(e) '}, {'id': '164.504(e)', 'data': '(e) '}, {'id': '164.532(e)', 'data': '(e) Implementation specification: Deemed compliance —'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.532(d)', 'data': '(d) Standard: Effect of prior contracts or other arrangements with business associates.  Notwithstanding any other provisions of this part, a covered entity, or business associate with respect to a subcontractor, may disclose protected health information to a business associate and may allow a business associate to create, receive, maintain, or transmit protected health information on its behalf pursuant to a written contract or other written arrangement with such business associate that does not comply with §§ 164.308(b), 164.314(a), 164.502(e), and 164.504(e), only in accordance with paragraph (e) of this section. '}
+You may now respond.

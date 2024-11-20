@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(i)(A)
+# Key Legal Concepts
+Prohibition of using genetic information for underwriting: This concept emphasizes that health plans are restricted from using genetic information when determining eligibility, benefits, premiums, or exclusions, thereby protecting individuals from discrimination based on their genetic data. Underwriting purposes: This refers to specific activities related to assessing risk and determining the terms of health insurance coverage, such as eligibility and cost calculations, which must not include genetic information as a factor.
+# Key Legal Principles
+Privacy of genetic information: The law underscores the importance of protecting sensitive genetic information from being utilized in ways that could lead to unfair treatment in health insurance. Non-discrimination in health insurance: By prohibiting the use of genetic information for underwriting, the law aims to ensure equitable access to health insurance coverage, regardless of an individual's genetic predisposition.
+# Application Scenarios
+A health plan cannot deny coverage to an individual based on their genetic predisposition to certain conditions, ensuring that all applicants are treated fairly. An insurer must calculate premiums without considering genetic information, preventing potential biases against individuals with hereditary conditions.
+# Relationship to Overall Document Argument
+This law supports the broader objective of protecting patient privacy and ensuring equitable treatment in the health insurance market. It aligns with principles of non-discrimination, reinforcing that health plans must operate without prejudice based on genetic factors, which is crucial for public trust in health insurance systems.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.524(b)(2)', 'data': '(2) Timely action by the covered entity. '}, {'id': '164.524(d)', 'data': '(d) Implementation specifications: Denial of access.  If the covered entity denies access, in whole or in part, to protected health information, the covered entity must comply with the following requirements. '}, {'id': '164.524(d)(2)(i)', 'data': '(i) The basis for the denial; '}, {'id': '164.524(d)(2)(ii)', 'data': '(ii) If applicable, a statement of the individual's review rights under paragraph (a)(4) of this section, including a description of how the individual may exercise such review rights; and '}, {'id': '164.524(d)(2)(iii)', 'data': '(iii) A description of how the individual may complain to the covered entity pursuant to the complaint procedures in § 164.530(d) or to the Secretary pursuant to the procedures in § 160.306. The description must include the name, or title, and telephone number of the contact person or office designated in § 164.530(a)(1)(ii). '}, {'id': '164.524(d)', 'data': '(d) Implementation specifications: Denial of access.  If the covered entity denies access, in whole or in part, to protected health information, the covered entity must comply with the following requirements. '}, {'id': '164.524(d)(2)(i)', 'data': '(i) The basis for the denial; '}, {'id': '164.524(d)(2)(ii)', 'data': '(ii) If applicable, a statement of the individual's review rights under paragraph (a)(4) of this section, including a description of how the individual may exercise such review rights; and '}, {'id': '164.524(d)(2)(iii)', 'data': '(iii) A description of how the individual may complain to the covered entity pursuant to the complaint procedures in § 164.530(d) or to the Secretary pursuant to the procedures in § 160.306. The description must include the name, or title, and telephone number of the contact person or office designated in § 164.530(a)(1)(ii). '}, {'id': '164.524(b)(2)', 'data': '(2) Timely action by the covered entity. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.524(d)(2)', 'data': '(2) Denial.  The covered entity must provide a timely, written denial to the individual, in accordance with paragraph (b)(2) of this section. The denial must be in plain language and contain: '}
+You may now respond.

@@ -1,0 +1,10 @@
+# Law
+160.530(h)
+# Key Legal Concepts
+Sanctions: Refers to penalties or punitive measures imposed by the Administrative Law Judge (ALJ) on individuals or parties for non-compliance with legal procedures or orders. Timeliness: The requirement that motions or actions must be filed within specified deadlines to be considered valid or actionable within the proceedings.
+# Key Legal Principles
+Due Process: Ensures that all parties have a fair opportunity to present their case, which includes adhering to procedural timelines. Proportionality: Sanctions must be appropriate and correspond to the nature of the misconduct or failure, ensuring that the response is not excessive.
+# Application Scenarios
+A party fails to submit required documents by the deadline, leading to potential sanctions if the ALJ decides to exclude late submissions. An attorney neglects to file a motion in a timely manner, resulting in the ALJ refusing to consider the motion and potentially imposing sanctions for the delay.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of procedural compliance in administrative hearings, reinforcing the need for timely actions to ensure a fair process. It supports the overarching framework of maintaining order and efficiency in legal proceedings, aligning with the ALJ's authority to impose sanctions for non-compliance.

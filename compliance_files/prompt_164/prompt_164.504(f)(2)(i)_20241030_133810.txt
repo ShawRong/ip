@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.504(f)(2)', 'data': '(2) Implementation specifications: Requirements for plan documents.  The plan documents of the group health plan must be amended to incorporate provisions to: '}, {'id': '164.504(f)(2)', 'data': '(2) Implementation specifications: Requirements for plan documents.  The plan documents of the group health plan must be amended to incorporate provisions to: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.504(f)(2)(i)', 'data': '(i) Establish the permitted and required uses and disclosures of such information by the plan sponsor, provided that such permitted and required uses and disclosures may not be inconsistent with this subpart. '}
+You may now respond.

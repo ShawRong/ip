@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.530(a)(1)', 'data': '(1) Standard: Personnel designations. '}, {'id': '164.530(a)(1)', 'data': '(1) Standard: Personnel designations. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(a)(1)(i)', 'data': '(i) A covered entity must designate a privacy official who is responsible for the development and implementation of the policies and procedures of the entity. '}
+You may now respond.

@@ -1,0 +1,10 @@
+# Law
+160.103(Protected%20health%20information)(2)(i)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any health information that can be used to identify an individual and is protected under privacy laws. In this context, PHI is defined in a way that excludes individually identifiable health information. Individually Identifiable Health Information: This concept refers to any health data that can be linked to a specific individual. The law states that such information is not classified as protected health information under certain circumstances.
+# Key Legal Principles
+Confidentiality: The principle that health information must be kept private and disclosed only under certain conditions or with consent. Educational Privacy: Under the Family Educational Rights and Privacy Act (FERPA), educational records containing health information are subject to strict privacy protections, emphasizing the importance of safeguarding student information.
+# Application Scenarios
+A school must ensure that any health information disclosed in a student's educational record is done in compliance with FERPA, ensuring the student's privacy is maintained. A healthcare provider sharing information with an educational institution must understand how PHI is defined and what constitutes individually identifiable information to comply with relevant laws.
+# Relationship to Overall Document Argument
+The law clarifies the boundaries of what constitutes protected health information, ensuring that educational records are appropriately categorized and protected. By distinguishing between PHI and individually identifiable health information, the law supports a more nuanced understanding of privacy rights in both healthcare and educational settings.

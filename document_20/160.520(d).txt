@@ -1,0 +1,10 @@
+# Law
+160.520(d)
+# Key Legal Concepts
+**Subpoena**: A legal document that orders an individual to appear at a certain time and place to testify or produce evidence in a legal proceeding. **Administrative Law Judge (ALJ)**: An official who conducts administrative hearings and has the authority to make decisions on legal disputes.
+# Key Legal Principles
+**Due Process**: The requirement that legal proceedings be conducted fairly and that parties have the opportunity to present their case, which includes proper notice and the ability to gather evidence. **Timeliness in Legal Requests**: The principle that parties must adhere to specified timelines for motions and subpoenas to ensure an organized and fair legal process.
+# Application Scenarios
+A party in a hearing may need to subpoena a witness to provide testimony that is critical to their case. An attorney may file a motion to obtain documents from a third party that are relevant to the hearing.
+# Relationship to Overall Document Argument
+The requirements for filing a subpoena are designed to ensure that the process is orderly and that all parties are adequately prepared for the hearing. By mandating a 30-day notice, the law promotes fairness and allows for adequate time to gather necessary evidence and witnesses.

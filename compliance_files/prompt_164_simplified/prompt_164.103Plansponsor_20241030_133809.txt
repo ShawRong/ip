@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.103', 'data': '§ 164.103 Definitions. As used in this part, the following terms have the following meanings: '}, {'id': '164.103', 'data': '§ 164.103 Definitions. As used in this part, the following terms have the following meanings: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.103Plansponsor', 'data': 'Plan sponsor   is defined as defined at section 3(16)(B) of ERISA, 29 U.S.C. 1002(16)(B). '}
+You may now respond.

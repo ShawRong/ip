@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502', 'data': '§ 164.502 Uses and disclosures of protected health information: General rules.'}, {'id': '164.502(a)(1)(iii)', 'data': '(iii) Incident to a use or disclosure otherwise permitted or required by this subpart, provided that the covered entity has complied with the applicable requirements of §§ 164.502(b), 164.514(d), and 164.530(c) with respect to such otherwise permitted or required use or disclosure; '}, {'id': '164.502(b)(2)', 'data': '(2) Minimum necessary does not apply.  This requirement does not apply to: '}, {'id': '164.514(d)(1)', 'data': '(1) Standard: minimum necessary requirements.  In order to comply with § 164.502(b) and this section, a covered entity must meet the requirements of paragraphs (d)(2) through (d)(5) of this section with respect to a request for, or the use and disclosure of, protected health information. '}, {'id': '164.502', 'data': '§ 164.502 Uses and disclosures of protected health information: General rules.'}, {'id': '164.502(b)(2)', 'data': '(2) Minimum necessary does not apply.  This requirement does not apply to: '}, {'id': '164.502(a)(1)(iii)', 'data': '(iii) Incident to a use or disclosure otherwise permitted or required by this subpart, provided that the covered entity has complied with the applicable requirements of §§ 164.502(b), 164.514(d), and 164.530(c) with respect to such otherwise permitted or required use or disclosure; '}, {'id': '164.514(d)(1)', 'data': '(1) Standard: minimum necessary requirements.  In order to comply with § 164.502(b) and this section, a covered entity must meet the requirements of paragraphs (d)(2) through (d)(5) of this section with respect to a request for, or the use and disclosure of, protected health information. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(b)', 'data': '(b) Standard: Minimum necessary — Minimum necessary applies. When using or disclosing protected health information or when requesting protected health information from another covered entity or business associate, a covered entity or business associate must make reasonable efforts to limit protected health information to the minimum necessary to accomplish the intended purpose of the use, disclosure, or request. '}
+You may now respond.

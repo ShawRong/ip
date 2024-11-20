@@ -1,0 +1,10 @@
+# Law
+160.520(a)
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual to appear in court or produce evidence. It is a tool used to compel testimony or the production of documents relevant to a case. Administrative Law Judge (ALJ): An official who presides over administrative hearings and has the authority to issue subpoenas to ensure that necessary evidence is presented.
+# Key Legal Principles
+Necessity of Testimony: The principle that a party must demonstrate that the testimony of a witness is essential to their case, justifying the issuance of a subpoena. Relevance of Evidence: The requirement that any evidence or testimony procured through a subpoena must be pertinent to the issues being adjudicated in the hearing.
+# Application Scenarios
+A party in a regulatory hearing may subpoena a witness who has specific knowledge relevant to the case to ensure that their argument is fully supported with evidence. A business may seek a subpoena for documents from another entity to substantiate claims made in an administrative dispute.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of gathering necessary testimony and evidence to ensure a fair hearing process, aligning with principles of due process. It underscores the procedural rights of parties involved in administrative hearings, facilitating a comprehensive examination of relevant facts.

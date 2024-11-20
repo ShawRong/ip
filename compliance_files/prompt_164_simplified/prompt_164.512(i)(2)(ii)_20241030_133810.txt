@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(i)(2)', 'data': '(2) Documentation of waiver approval.  For a use or disclosure to be permitted based on documentation of approval of an alteration or waiver, under paragraph (i)(1)(i) of this section, the documentation must include all of the following: '}, {'id': '164.512(i)(2)(ii)(A)', 'data': '(A) The use or disclosure of protected health information involves no more than a minimal risk to the privacy of individuals, based on, at least, the presence of the following elements; '}, {'id': '164.512(i)(2)(ii)(B)', 'data': '(B) The research could not practicably be conducted without the waiver or alteration; and '}, {'id': '164.512(i)(2)(ii)(C)', 'data': '(C) The research could not practicably be conducted without access to and use of the protected health information. '}, {'id': '164.512(i)(2)', 'data': '(2) Documentation of waiver approval.  For a use or disclosure to be permitted based on documentation of approval of an alteration or waiver, under paragraph (i)(1)(i) of this section, the documentation must include all of the following: '}, {'id': '164.512(i)(2)(ii)(A)', 'data': '(A) The use or disclosure of protected health information involves no more than a minimal risk to the privacy of individuals, based on, at least, the presence of the following elements; '}, {'id': '164.512(i)(2)(ii)(B)', 'data': '(B) The research could not practicably be conducted without the waiver or alteration; and '}, {'id': '164.512(i)(2)(ii)(C)', 'data': '(C) The research could not practicably be conducted without access to and use of the protected health information. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(i)(2)(ii)', 'data': '(ii) Waiver criteria.  A statement that the IRB or privacy board has determined that the alteration or waiver, in whole or in part, of authorization satisfies the following criteria: '}
+You may now respond.

@@ -1,0 +1,10 @@
+# Law
+160.410(b)(2)(ii)(B)
+# Key Legal Concepts
+The Secretary's discretion allows for an additional period of compliance based on the severity of the non-compliance. Compliance failures can be assessed on a case-by-case basis, reflecting the unique circumstances of each situation.
+# Key Legal Principles
+Discretionary authority: The Secretary has the authority to decide the appropriateness of extensions, emphasizing the importance of administrative judgment. Non-reviewability: The decision made by the Secretary regarding extensions is not subject to review, reinforcing the principle of administrative finality.
+# Application Scenarios
+A healthcare provider fails to meet a regulatory deadline due to unforeseen circumstances and seeks an extension. A state agency encounters delays in implementing compliance measures and requests additional time from the Secretary.
+# Relationship to Overall Document Argument
+This law underscores the importance of flexibility in regulatory compliance, allowing for adjustments based on specific failures. It establishes a framework that prioritizes compliance while recognizing the need for administrative discretion in managing enforcement.

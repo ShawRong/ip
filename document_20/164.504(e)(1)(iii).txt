@@ -1,0 +1,10 @@
+# Law
+164.504(e)(1)(iii)
+# Key Legal Concepts
+Business Associate: An entity or person that performs functions or activities on behalf of a covered entity involving the use or disclosure of protected health information (PHI). Material Breach: A significant violation of the terms of a contract that allows the non-breaching party to terminate the contract. Subcontractor Responsibilities: A subcontractor must comply with the same standards as the business associate regarding the handling of PHI. Reasonable Steps: Actions that a business associate must take to remedy a breach or violation, which may include notifying the covered entity and attempting to rectify the issue.
+# Key Legal Principles
+Duty to Monitor: A business associate has an obligation to monitor the practices of its subcontractors to ensure compliance with relevant standards. Contractual Obligations: The business associate must ensure that contracts with subcontractors explicitly outline their responsibilities concerning PHI. Termination of Contract: If a material breach is identified and not resolved, the business associate must terminate the contract if feasible.
+# Application Scenarios
+A business associate discovers that a subcontractor has been mishandling PHI and must assess whether it was aware of this issue and take appropriate corrective action. In a situation where a covered entity learns of a breach by its business associate, the covered entity may need to review the business associate’s actions regarding its subcontractors.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of accountability within the chain of responsibility for handling PHI, ensuring that all parties maintain compliance. By establishing clear obligations for business associates regarding their subcontractors, the law aims to protect patient information and enhance the overall integrity of health information management.

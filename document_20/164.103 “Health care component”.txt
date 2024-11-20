@@ -1,0 +1,10 @@
+# Law
+164.103 “Health care component”
+# Key Legal Concepts
+Health Care Component: A 'health care component' refers to a part of a covered entity that engages in activities related to healthcare functions and data management. Designation Responsibility: The covered entity must identify and document which components are health care components, ensuring that all relevant parts are included.
+# Key Legal Principles
+Comprehensive Inclusion: The designation of health care components must encompass any part that would qualify as a covered entity or business associate if it operated independently. Functional Limitation: A component is considered a health care component only to the extent that it performs covered functions, establishing a functional boundary for the designation.
+# Application Scenarios
+A hospital designating its various departments (like radiology or billing) as health care components for compliance with HIPAA regulations. A health insurance company identifying its claims processing unit as a health care component to ensure proper handling of protected health information.
+# Relationship to Overall Document Argument
+This law establishes the framework for identifying and managing health care components, which is crucial for compliance with privacy regulations. It reinforces the accountability of covered entities in maintaining the integrity and security of health care operations.

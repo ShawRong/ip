@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(e)(1)', 'data': '(1) Permitted disclosures.  A covered entity may disclose protected health information in the course of any judicial or administrative proceeding: '}, {'id': '164.512(e)(1)(ii)(B)', 'data': '(B) The covered entity receives satisfactory assurance, as described in paragraph (e)(1)(iv) of this section, from the party seeking the information that reasonable efforts have been made by such party to secure a qualified protective order that meets the requirements of paragraph (e)(1)(v) of this section. '}, {'id': '164.512(e)(1)(iv)(A)', 'data': '(A) The parties to the dispute giving rise to the request for information have agreed to a qualified protective order and have presented it to the court or administrative tribunal with jurisdiction over the dispute; or '}, {'id': '164.512(e)(1)(iv)(B)', 'data': '(B) The party seeking the protected health information has requested a qualified protective order from such court or administrative tribunal. '}, {'id': '164.512(e)(1)', 'data': '(1) Permitted disclosures.  A covered entity may disclose protected health information in the course of any judicial or administrative proceeding: '}, {'id': '164.512(e)(1)(iv)(A)', 'data': '(A) The parties to the dispute giving rise to the request for information have agreed to a qualified protective order and have presented it to the court or administrative tribunal with jurisdiction over the dispute; or '}, {'id': '164.512(e)(1)(iv)(B)', 'data': '(B) The party seeking the protected health information has requested a qualified protective order from such court or administrative tribunal. '}, {'id': '164.512(e)(1)(ii)(B)', 'data': '(B) The covered entity receives satisfactory assurance, as described in paragraph (e)(1)(iv) of this section, from the party seeking the information that reasonable efforts have been made by such party to secure a qualified protective order that meets the requirements of paragraph (e)(1)(v) of this section. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(e)(1)(iv)', 'data': '(iv) For the purposes of paragraph (e)(1)(ii)(B) of this section, a covered entity receives satisfactory assurances from a party seeking protected health information, if the covered entity receives from such party a written statement and accompanying documentation demonstrating that: '}
+You may now respond.

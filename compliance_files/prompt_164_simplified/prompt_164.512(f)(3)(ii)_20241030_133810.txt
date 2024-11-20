@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(f)(3)', 'data': '(3) Permitted disclosure: Victims of a crime.  Except for disclosures required by law as permitted by paragraph (f)(1) of this section, a covered entity may disclose protected health information in response to a law enforcement official's request for such information about an individual who is or is suspected to be a victim of a crime, other than disclosures that are subject to paragraph (b) or (c) of this section, if: '}, {'id': '164.512(f)(3)(ii)(A)', 'data': '(A) The law enforcement official represents that such information is needed to determine whether a violation of law by a person other than the victim has occurred, and such information is not intended to be used against the victim; '}, {'id': '164.512(f)(3)(ii)(B)', 'data': '(B) The law enforcement official represents that immediate law enforcement activity that depends upon the disclosure would be materially and adversely affected by waiting until the individual is able to agree to the disclosure; and '}, {'id': '164.512(f)(3)(ii)(C)', 'data': '(C) The disclosure is in the best interests of the individual as determined by the covered entity, in the exercise of professional judgment. '}, {'id': '164.512(f)(3)', 'data': '(3) Permitted disclosure: Victims of a crime.  Except for disclosures required by law as permitted by paragraph (f)(1) of this section, a covered entity may disclose protected health information in response to a law enforcement official's request for such information about an individual who is or is suspected to be a victim of a crime, other than disclosures that are subject to paragraph (b) or (c) of this section, if: '}, {'id': '164.512(f)(3)(ii)(A)', 'data': '(A) The law enforcement official represents that such information is needed to determine whether a violation of law by a person other than the victim has occurred, and such information is not intended to be used against the victim; '}, {'id': '164.512(f)(3)(ii)(B)', 'data': '(B) The law enforcement official represents that immediate law enforcement activity that depends upon the disclosure would be materially and adversely affected by waiting until the individual is able to agree to the disclosure; and '}, {'id': '164.512(f)(3)(ii)(C)', 'data': '(C) The disclosure is in the best interests of the individual as determined by the covered entity, in the exercise of professional judgment. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(f)(3)(ii)', 'data': '(ii) The covered entity is unable to obtain the individual's agreement because of incapacity or other emergency circumstance, provided that: '}
+You may now respond.

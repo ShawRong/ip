@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part164SubpartE', 'data': 'Subpart E—Privacy of Individually Identifiable Health Information'}, {'id': '164.500(b)(1)(vii)', 'data': '(vii) Section 164.534 relating to compliance dates for initial implementation of the privacy standards. '}, {'id': '164.534(a)', 'data': '(a) Health care providers.  A covered health care provider must comply with the applicable requirements of this subpart no later than April 14, 2003. '}, {'id': '164.534(b)', 'data': '(b) Health plans.  A health plan must comply with the applicable requirements of this subpart no later than the following as applicable: '}, {'id': '164.534(c)', 'data': '(c) Health clearinghouses.  A health care clearinghouse must comply with the applicable requirements of this subpart no later than April 14, 2003. '}, {'id': 'Part164SubpartE', 'data': 'Subpart E—Privacy of Individually Identifiable Health Information'}, {'id': '164.534(a)', 'data': '(a) Health care providers.  A covered health care provider must comply with the applicable requirements of this subpart no later than April 14, 2003. '}, {'id': '164.534(b)', 'data': '(b) Health plans.  A health plan must comply with the applicable requirements of this subpart no later than the following as applicable: '}, {'id': '164.534(c)', 'data': '(c) Health clearinghouses.  A health care clearinghouse must comply with the applicable requirements of this subpart no later than April 14, 2003. '}, {'id': '164.500(b)(1)(vii)', 'data': '(vii) Section 164.534 relating to compliance dates for initial implementation of the privacy standards. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.534', 'data': '§ 164.534 Compliance dates for initial implementation of the privacy standards.'}
+You may now respond.

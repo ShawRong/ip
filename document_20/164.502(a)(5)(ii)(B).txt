@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(ii)(B)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. Covered Entity: This term includes health care providers, health plans, and health care clearinghouses that transmit any health information in electronic form. Business Associate: An individual or entity that performs a function or activity on behalf of, or provides certain services to, a covered entity that involves the use or disclosure of PHI.
+# Key Legal Principles
+Remuneration: The law distinguishes between disclosures of PHI that involve payment or compensation, which is considered a sale, and those that do not. Restrictions on Sale of PHI: There are strict limitations on the sale of PHI to protect patient privacy and ensure that individuals' health information is not exploited for profit.
+# Application Scenarios
+A healthcare provider may not sell patient data to a marketing company without explicit consent, as this would be considered a sale of PHI. A research institution may share PHI with a pharmaceutical company for a study, provided no remuneration is received in exchange for that data.
+# Relationship to Overall Document Argument
+The provisions aim to ensure that patient privacy is maintained and that PHI is not used for commercial gain without proper safeguards. This section reinforces the broader regulatory framework of HIPAA, which seeks to balance the need for health information accessibility with the imperative of patient confidentiality.

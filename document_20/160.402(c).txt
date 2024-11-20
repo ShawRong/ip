@@ -1,0 +1,10 @@
+# Law
+160.402(c)
+# Key Legal Concepts
+The concept of liability under the Federal common law of agency establishes that a covered entity can be held responsible for the actions of its agents, including employees and business associates, when those actions occur within the scope of their authority. The term 'business associate' refers to a person or entity that performs certain functions or activities on behalf of, or provides certain services to, a covered entity that involves the use or disclosure of protected health information.
+# Key Legal Principles
+The principle of vicarious liability applies here, whereby a covered entity or business associate is liable for civil money penalties resulting from the acts or omissions of their agents, provided those actions are executed within their official capacities. The principle of agency indicates that the relationship between the agent and the principal (covered entity or business associate) is critical in determining liability for violations.
+# Application Scenarios
+A healthcare provider (covered entity) could be held liable for a data breach caused by an employee who mishandled patient information while performing their job duties. A subcontractor for a health insurance company (business associate) could face penalties due to a failure to comply with privacy regulations if one of its workforce members acts outside the scope of their assigned duties.
+# Relationship to Overall Document Argument
+This law underscores the accountability of organizations in the healthcare sector, emphasizing the importance of compliance with regulations by all agents acting on their behalf. It highlights the interconnectedness of covered entities and business associates in maintaining regulatory standards and protecting sensitive information, which is vital for public trust and legal compliance.

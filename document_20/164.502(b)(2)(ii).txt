@@ -1,0 +1,10 @@
+# Law
+164.502(b)(2)(ii)
+# Key Legal Concepts
+**Right to Access**: This concept establishes that individuals have the right to access their own health information, as specified in paragraphs (a)(1)(i) and (a)(2)(i). **Minimum Necessary Standard**: This principle generally requires that only the minimum necessary information be disclosed for a specific purpose; however, there are exceptions, such as when information is disclosed directly to the individual.
+# Key Legal Principles
+**Permitted Uses and Disclosures**: The law allows for uses or disclosures of health information to the individual under certain conditions, reinforcing the individual's right to their own data. **Compliance with Requests**: Healthcare providers and entities must comply with specific requests for information as outlined in sections 164.524 and 164.528, which pertain to an individual's right to access and amend their health records.
+# Application Scenarios
+A patient requests their medical records from a healthcare provider, and the provider must disclose the information as per the law. A healthcare entity must ensure that any disclosures made to the patient adhere to the minimum necessary standard, unless the disclosure falls under an exception.
+# Relationship to Overall Document Argument
+This law reinforces the overarching theme of patient rights and the importance of individual access to health information. It connects to broader privacy protections by setting clear guidelines on how and when personal health information can be disclosed to the individual.

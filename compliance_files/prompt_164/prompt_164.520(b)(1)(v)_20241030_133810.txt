@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.520(b)(1)', 'data': '(1) Required elements.  The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph. '}, {'id': '164.520(b)(1)(v)(A)', 'data': '(A) A statement that the covered entity is required by law to maintain the privacy of protected health information, to provide individuals with notice of its legal duties and privacy practices with respect to protected health information, and to notify affected individuals following a breach of unsecured protected health information; '}, {'id': '164.520(b)(1)(v)(B)', 'data': '(B) A statement that the covered entity is required to abide by the terms of the notice currently in effect; and '}, {'id': '164.520(b)(1)(v)(C)', 'data': '(C) For the covered entity to apply a change in a privacy practice that is described in the notice to protected health information that the covered entity created or received prior to issuing a revised notice, in accordance with § 164.530(i)(2)(ii), a statement that it reserves the right to change the terms of its notice and to make the new notice provisions effective for all protected health information that it maintains. The statement must also describe how it will provide individuals with a revised notice. '}, {'id': '164.520(b)(1)', 'data': '(1) Required elements.  The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph. '}, {'id': '164.520(b)(1)(v)(A)', 'data': '(A) A statement that the covered entity is required by law to maintain the privacy of protected health information, to provide individuals with notice of its legal duties and privacy practices with respect to protected health information, and to notify affected individuals following a breach of unsecured protected health information; '}, {'id': '164.520(b)(1)(v)(B)', 'data': '(B) A statement that the covered entity is required to abide by the terms of the notice currently in effect; and '}, {'id': '164.520(b)(1)(v)(C)', 'data': '(C) For the covered entity to apply a change in a privacy practice that is described in the notice to protected health information that the covered entity created or received prior to issuing a revised notice, in accordance with § 164.530(i)(2)(ii), a statement that it reserves the right to change the terms of its notice and to make the new notice provisions effective for all protected health information that it maintains. The statement must also describe how it will provide individuals with a revised notice. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.520(b)(1)(v)', 'data': '(v) Covered entity's duties.  The notice must contain: '}
+You may now respond.

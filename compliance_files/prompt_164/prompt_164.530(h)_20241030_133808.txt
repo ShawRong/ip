@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '160.306', 'data': '§ 160.306 Complaints to the Secretary.'}, {'id': '164.414(a)', 'data': '(a) Administrative requirements.  A covered entity is required to comply with the administrative requirements of § 164.530(b), (d), (e), (g), (h), (i), and (j) with respect to the requirements of this subpart. '}, {'id': '164.530', 'data': '§ 164.530 Administrative requirements.'}, {'id': '164.530', 'data': '§ 164.530 Administrative requirements.'}, {'id': '164.414(a)', 'data': '(a) Administrative requirements.  A covered entity is required to comply with the administrative requirements of § 164.530(b), (d), (e), (g), (h), (i), and (j) with respect to the requirements of this subpart. '}, {'id': '160.306', 'data': '§ 160.306 Complaints to the Secretary.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(h)', 'data': '(h) Standard: Waiver of rights.  A covered entity may not require individuals to waive their rights under § 160.306 of this subchapter, this subpart, or subpart D of this part, as a condition of the provision of treatment, payment, enrollment in a health plan, or eligibility for benefits. '}
+You may now respond.

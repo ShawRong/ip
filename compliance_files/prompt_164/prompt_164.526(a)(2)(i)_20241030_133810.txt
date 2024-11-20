@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.526(a)(2)', 'data': '(2) Denial of amendment.  A covered entity may deny an individual's request for amendment, if it determines that the protected health information or record that is the subject of the request: '}, {'id': '164.526(a)(2)', 'data': '(2) Denial of amendment.  A covered entity may deny an individual's request for amendment, if it determines that the protected health information or record that is the subject of the request: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.526(a)(2)(i)', 'data': '(i) Was not created by the covered entity, unless the individual provides a reasonable basis to believe that the originator of protected health information is no longer available to act on the requested amendment; '}
+You may now respond.

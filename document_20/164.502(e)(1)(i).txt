@@ -1,0 +1,10 @@
+# Law
+164.502(e)(1)(i)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any health information that can be used to identify an individual and is protected under HIPAA regulations. Business Associate: An entity that performs functions or activities on behalf of a covered entity that involve the use or disclosure of PHI. Covered Entity: Health care providers, health plans, or health care clearinghouses that transmit any health information in electronic form in connection with a HIPAA transaction.
+# Key Legal Principles
+Safeguarding PHI: Covered entities must ensure that business associates implement appropriate safeguards to protect PHI. Assurances: Covered entities are required to obtain satisfactory assurances from business associates regarding their data protection practices, ensuring compliance with HIPAA standards. Subcontractor Exemption: Covered entities are not required to obtain assurances from subcontractors of the business associate, which emphasizes a tiered responsibility in protecting PHI.
+# Application Scenarios
+A healthcare provider disclosing patient information to a third-party billing company that processes claims on their behalf. A hospital allowing a cloud service provider to store patient records, contingent on the provider agreeing to security measures.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of safeguarding patient information when shared with external entities, aligning with HIPAA's broader goal of protecting patient privacy. It establishes a clear framework for the responsibilities of covered entities and business associates, illustrating the layered approach to compliance within the healthcare sector.

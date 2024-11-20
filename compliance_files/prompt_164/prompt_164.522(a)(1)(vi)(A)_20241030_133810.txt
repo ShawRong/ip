@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.522(a)(1)(vi)', 'data': '(vi) A covered entity must agree to the request of an individual to restrict disclosure of protected health information about the individual to a health plan if: '}, {'id': '164.522(a)(1)(vi)', 'data': '(vi) A covered entity must agree to the request of an individual to restrict disclosure of protected health information about the individual to a health plan if: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.522(a)(1)(vi)(A)', 'data': '(A) The disclosure is for the purpose of carrying out payment or health care operations and is not otherwise required by law; and '}
+You may now respond.

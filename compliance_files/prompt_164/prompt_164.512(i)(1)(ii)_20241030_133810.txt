@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(i)(1)', 'data': '(1) Permitted uses and disclosures.  A covered entity may use or disclose protected health information for research, regardless of the source of funding of the research, provided that: '}, {'id': '164.512(i)(1)(ii)(A)', 'data': '(A) Use or disclosure is sought solely to review protected health information as necessary to prepare a research protocol or for similar purposes preparatory to research; '}, {'id': '164.512(i)(1)(ii)(B)', 'data': '(B) No protected health information is to be removed from the covered entity by the researcher in the course of the review; and '}, {'id': '164.512(i)(1)(ii)(C)', 'data': '(C) The protected health information for which use or access is sought is necessary for the research purposes. '}, {'id': '164.512(i)(1)', 'data': '(1) Permitted uses and disclosures.  A covered entity may use or disclose protected health information for research, regardless of the source of funding of the research, provided that: '}, {'id': '164.512(i)(1)(ii)(A)', 'data': '(A) Use or disclosure is sought solely to review protected health information as necessary to prepare a research protocol or for similar purposes preparatory to research; '}, {'id': '164.512(i)(1)(ii)(B)', 'data': '(B) No protected health information is to be removed from the covered entity by the researcher in the course of the review; and '}, {'id': '164.512(i)(1)(ii)(C)', 'data': '(C) The protected health information for which use or access is sought is necessary for the research purposes. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(i)(1)(ii)', 'data': '(ii) Reviews preparatory to research.  The covered entity obtains from the researcher representations that: '}
+You may now respond.

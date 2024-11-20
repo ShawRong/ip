@@ -1,0 +1,10 @@
+# Law
+160.536
+# Key Legal Concepts
+**Statistical Sampling**: This concept refers to the method of using a subset of data to infer conclusions about a larger population. In this context, statistical sampling is used to assess the number of violations related to civil penalties. **Prima Facie Evidence**: This principle indicates that the results of a statistical sampling study can serve as initial evidence of violations until proven otherwise. It establishes a baseline of proof that the Secretary must meet to initiate a case.
+# Key Legal Principles
+**Burden of Proof**: The Secretary initially holds the burden of proof to substantiate claims of violations using statistical evidence. Once this is established, the burden shifts to the respondent to contest these findings. **Rebuttal Evidence**: After the Secretary presents prima facie evidence, the respondent has the opportunity to present evidence that may counter the Secretary's claims, which allows for a balanced hearing process.
+# Application Scenarios
+**Administrative Hearings**: This law applies in hearings where the Secretary is proposing civil penalties based on statistical evidence of violations, requiring clear documentation and methodology. **Compliance Audits**: Organizations subject to oversight may face evaluations based on statistical sampling studies to determine compliance levels and potential penalties for violations.
+# Relationship to Overall Document Argument
+**Foundation for Legal Proceedings**: The provisions outlined in § 160.536 provide a legal framework that supports the enforcement of compliance regulations through statistical evidence, reinforcing the legitimacy of the Secretary's claims. **Procedural Fairness**: By establishing clear burdens of proof and opportunities for rebuttal, the law upholds procedural fairness in administrative hearings, which is crucial for maintaining trust in regulatory processes.

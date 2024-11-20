@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.530(j)', 'data': '(j) '}, {'id': '164.530(j)(1)(i)', 'data': '(i) Maintain the policies and procedures provided for in paragraph (i) of this section in written or electronic form; '}, {'id': '164.530(j)(1)(ii)', 'data': '(ii) If a communication is required by this subpart to be in writing, maintain such writing, or an electronic copy, as documentation; and '}, {'id': '164.530(j)(1)(iii)', 'data': '(iii) If an action, activity, or designation is required by this subpart to be documented, maintain a written or electronic record of such action, activity, or designation. '}, {'id': '164.530(j)(1)(iv)', 'data': '(iv) Maintain documentation sufficient to meet its burden of proof under § 164.414(b). '}, {'id': '164.530(j)(2)', 'data': '(2) Implementation specification: Retention period.  A covered entity must retain the documentation required by paragraph (j)(1) of this section for six years from the date of its creation or the date when it last was in effect, whichever is later. '}, {'id': '164.530(j)', 'data': '(j) '}, {'id': '164.530(j)(1)(i)', 'data': '(i) Maintain the policies and procedures provided for in paragraph (i) of this section in written or electronic form; '}, {'id': '164.530(j)(1)(ii)', 'data': '(ii) If a communication is required by this subpart to be in writing, maintain such writing, or an electronic copy, as documentation; and '}, {'id': '164.530(j)(1)(iii)', 'data': '(iii) If an action, activity, or designation is required by this subpart to be documented, maintain a written or electronic record of such action, activity, or designation. '}, {'id': '164.530(j)(1)(iv)', 'data': '(iv) Maintain documentation sufficient to meet its burden of proof under § 164.414(b). '}, {'id': '164.530(j)(2)', 'data': '(2) Implementation specification: Retention period.  A covered entity must retain the documentation required by paragraph (j)(1) of this section for six years from the date of its creation or the date when it last was in effect, whichever is later. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(j)(1)', 'data': '(1) Standard: Documentation.  A covered entity must: '}
+You may now respond.

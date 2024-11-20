@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)(5)(ii)(B)(2)', 'data': '(2) Sale of protected health information does not include a disclosure of protected health information: '}, {'id': '164.506(a)', 'data': '(a) Standard: Permitted uses and disclosures.  Except with respect to uses or disclosures that require an authorization under § 164.508(a)(2) through (4) or that are prohibited under § 164.502(a)(5)(i), a covered entity may use or disclose protected health information for treatment, payment, or health care operations as set forth in paragraph (c) of this section, provided that such use or disclosure is consistent with other applicable requirements of this subpart. '}, {'id': '164.502(a)(5)(ii)(B)(2)', 'data': '(2) Sale of protected health information does not include a disclosure of protected health information: '}, {'id': '164.506(a)', 'data': '(a) Standard: Permitted uses and disclosures.  Except with respect to uses or disclosures that require an authorization under § 164.508(a)(2) through (4) or that are prohibited under § 164.502(a)(5)(i), a covered entity may use or disclose protected health information for treatment, payment, or health care operations as set forth in paragraph (c) of this section, provided that such use or disclosure is consistent with other applicable requirements of this subpart. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(a)(5)(ii)(B)(2)(iii)', 'data': '(iii) For treatment and payment purposes pursuant to § 164.506(a); '}
+You may now respond.

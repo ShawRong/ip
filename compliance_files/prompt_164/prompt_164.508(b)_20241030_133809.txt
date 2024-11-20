@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.508', 'data': '§ 164.508 Uses and disclosures for which an authorization is required.'}, {'id': '164.508(b)(1)', 'data': '(1) Valid authorizations. '}, {'id': '164.508(b)(2)', 'data': '(2) Defective authorizations.  An authorization is not valid, if the document submitted has any of the following defects: '}, {'id': '164.508(b)(3)', 'data': '(3) Compound authorizations.  An authorization for use or disclosure of protected health information may not be combined with any other document to create a compound authorization, except as follows: '}, {'id': '164.508(b)(4)', 'data': '(4) Prohibition on conditioning of authorizations.  A covered entity may not condition the provision to an individual of treatment, payment, enrollment in the health plan, or eligibility for benefits on the provision of an authorization, except: '}, {'id': '164.508(b)(5)', 'data': '(5) Revocation of authorizations.  An individual may revoke an authorization provided under this section at any time, provided that the revocation is in writing, except to the extent that: '}, {'id': '164.508(b)(6)', 'data': '(6) Documentation.  A covered entity must document and retain any signed authorization under this section as required by § 164.530(j). '}, {'id': '164.508', 'data': '§ 164.508 Uses and disclosures for which an authorization is required.'}, {'id': '164.508(b)(1)', 'data': '(1) Valid authorizations. '}, {'id': '164.508(b)(2)', 'data': '(2) Defective authorizations.  An authorization is not valid, if the document submitted has any of the following defects: '}, {'id': '164.508(b)(3)', 'data': '(3) Compound authorizations.  An authorization for use or disclosure of protected health information may not be combined with any other document to create a compound authorization, except as follows: '}, {'id': '164.508(b)(4)', 'data': '(4) Prohibition on conditioning of authorizations.  A covered entity may not condition the provision to an individual of treatment, payment, enrollment in the health plan, or eligibility for benefits on the provision of an authorization, except: '}, {'id': '164.508(b)(5)', 'data': '(5) Revocation of authorizations.  An individual may revoke an authorization provided under this section at any time, provided that the revocation is in writing, except to the extent that: '}, {'id': '164.508(b)(6)', 'data': '(6) Documentation.  A covered entity must document and retain any signed authorization under this section as required by § 164.530(j). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.508(b)', 'data': '(b) Implementation specifications: General requirements —'}
+You may now respond.

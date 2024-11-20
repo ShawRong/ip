@@ -1,0 +1,10 @@
+# Law
+164.501Designatedrecordset
+# Key Legal Concepts
+Designated record set: This refers to a group of records maintained by a covered entity that pertains to an individual's health information. It includes medical records, billing records, and any other information used to make decisions about the individual. Covered entity: This term refers to organizations that are subject to specific regulations, particularly in the context of health information privacy and security, such as healthcare providers and health plans.
+# Key Legal Principles
+Confidentiality: The principle that health information must be kept private and secure, ensuring that only authorized individuals have access to the designated record set. Access rights: Individuals have the right to access their designated record set, which empowers them to review and request corrections to their health information.
+# Application Scenarios
+A patient requesting access to their medical records from a healthcare provider's designated record set. A healthcare organization implementing policies to ensure the confidentiality and security of the designated record sets they maintain.
+# Relationship to Overall Document Argument
+The definition of 'designated record set' establishes the foundation for understanding rights related to health information access and privacy. It supports the broader regulatory framework aimed at protecting patient information and ensuring compliance among covered entities.

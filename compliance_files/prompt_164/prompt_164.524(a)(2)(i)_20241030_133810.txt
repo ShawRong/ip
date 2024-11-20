@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.524(a)(1)', 'data': '(1) Right of access.  Except as otherwise provided in paragraph (a)(2) or (a)(3) of this section, an individual has a right of access to inspect and obtain a copy of protected health information about the individual in a designated record set, for as long as the protected health information is maintained in the designated record set, except for: '}, {'id': '164.524(a)(2)', 'data': '(2) Unreviewable grounds for denial.  A covered entity may deny an individual access without providing the individual an opportunity for review, in the following circumstances. '}, {'id': '164.524(a)(2)', 'data': '(2) Unreviewable grounds for denial.  A covered entity may deny an individual access without providing the individual an opportunity for review, in the following circumstances. '}, {'id': '164.524(a)(1)', 'data': '(1) Right of access.  Except as otherwise provided in paragraph (a)(2) or (a)(3) of this section, an individual has a right of access to inspect and obtain a copy of protected health information about the individual in a designated record set, for as long as the protected health information is maintained in the designated record set, except for: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.524(a)(2)(i)', 'data': '(i) The protected health information is excepted from the right of access by paragraph (a)(1) of this section. '}
+You may now respond.

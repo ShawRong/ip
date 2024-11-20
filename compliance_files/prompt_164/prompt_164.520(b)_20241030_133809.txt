@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.520', 'data': '§ 164.520 Notice of privacy practices for protected health information.'}, {'id': '164.520(b)(1)', 'data': '(1) Required elements.  The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph. '}, {'id': '164.520(b)(2)', 'data': '(2) Optional elements. '}, {'id': '164.520(b)(3)', 'data': '(3) Revisions to the notice.  The covered entity must promptly revise and distribute its notice whenever there is a material change to the uses or disclosures, the individual's rights, the covered entity's legal duties, or other privacy practices stated in the notice. Except when required by law, a material change to any term of the notice may not be implemented prior to the effective date of the notice in which such material change is reflected. '}, {'id': '164.520(d)(2)', 'data': '(2) The joint notice meets the implementation specifications in paragraph (b) of this section, except that the statements required by this section may be altered to reflect the fact that the notice covers more than one covered entity; and '}, {'id': '164.520', 'data': '§ 164.520 Notice of privacy practices for protected health information.'}, {'id': '164.520(b)(1)', 'data': '(1) Required elements.  The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph. '}, {'id': '164.520(b)(2)', 'data': '(2) Optional elements. '}, {'id': '164.520(b)(3)', 'data': '(3) Revisions to the notice.  The covered entity must promptly revise and distribute its notice whenever there is a material change to the uses or disclosures, the individual's rights, the covered entity's legal duties, or other privacy practices stated in the notice. Except when required by law, a material change to any term of the notice may not be implemented prior to the effective date of the notice in which such material change is reflected. '}, {'id': '164.520(d)(2)', 'data': '(2) The joint notice meets the implementation specifications in paragraph (b) of this section, except that the statements required by this section may be altered to reflect the fact that the notice covers more than one covered entity; and '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.520(b)', 'data': '(b) Implementation specifications: Content of notice —'}
+You may now respond.

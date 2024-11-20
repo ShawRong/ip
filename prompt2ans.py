@@ -12,10 +12,11 @@ collection = db['responses']  # Collection name
 
 # Define your tokens for the Poe API
 tokens = {
-    #'p-b': 'Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D',  # Replace with your actual token
-    #'p-lat': 'KSLevugTCDkdeNdxTHzWMSU5XGjl9PFr%2BLkp%2BhFGng%3D%3D',  # Replace with your actual token
     'p-b': 'Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D',  # Replace with your actual token
     'p-lat': 'z1CIIXXmuEyntM4RMVrNe3puY2Us433OUME1hanapg%3D%3D',  # Replace with your actual token
+    #'p-b': 'Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D',  # Replace with your actual token
+    #'p-lat': 'z1CIIXXmuEyntM4RMVrNe3puY2Us433OUME1hanapg%3D%3D',  # Replace with your actual token
+    #'formkey': '939bde191131f22f6168acdb7cf6953c',
 }
 
 async def send_prompt_to_poe(prompt):
@@ -74,7 +75,7 @@ def check_response_exists(prompt_filename, output_file_path):
     return False  # No matching prompt_file found
 
 async def main():
-    prompts_dir = 'prompts'  # Replace with your prompts folder path
+    prompts_dir = './compliance_files/prompt_164'  # Replace with your prompts folder path
     
     # Generate a timestamp for the output file name
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")

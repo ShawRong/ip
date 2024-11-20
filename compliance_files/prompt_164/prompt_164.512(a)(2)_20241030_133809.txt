@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(a)', 'data': '(a) Standard: Uses and disclosures required by law. '}, {'id': '164.512(c)', 'data': '(c) Standard: Disclosures about victims of abuse, neglect or domestic violence —'}, {'id': '164.512(e)', 'data': '(e) Standard: Disclosures for judicial and administrative proceedings —'}, {'id': '164.512(f)', 'data': '(f) Standard: Disclosures for law enforcement purposes.  A covered entity may disclose protected health information for a law enforcement purpose to a law enforcement official if the conditions in paragraphs (f)(1) through (f)(6) of this section are met, as applicable. '}, {'id': '164.512(a)', 'data': '(a) Standard: Uses and disclosures required by law. '}, {'id': '164.512(c)', 'data': '(c) Standard: Disclosures about victims of abuse, neglect or domestic violence —'}, {'id': '164.512(e)', 'data': '(e) Standard: Disclosures for judicial and administrative proceedings —'}, {'id': '164.512(f)', 'data': '(f) Standard: Disclosures for law enforcement purposes.  A covered entity may disclose protected health information for a law enforcement purpose to a law enforcement official if the conditions in paragraphs (f)(1) through (f)(6) of this section are met, as applicable. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(a)(2)', 'data': '(2) A covered entity must meet the requirements described in paragraph (c), (e), or (f) of this section for uses or disclosures required by law. '}
+You may now respond.

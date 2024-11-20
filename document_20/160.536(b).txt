@@ -1,0 +1,10 @@
+# Law
+160.536(b)
+# Key Legal Concepts
+Statistical Sampling: A method used to infer characteristics of a larger population based on a representative subset, which can serve as evidence in legal proceedings. Prima Facie Evidence: Evidence that is sufficient to establish a fact or raise a presumption unless disproven or rebutted.
+# Key Legal Principles
+Burden of Proof: The obligation to present evidence to support one's claims, which in this context shifts from the Secretary to the respondent once a prima facie case is established. Rebuttal Evidence: The requirement for the respondent to provide evidence that counters the findings of the statistical sampling, thus engaging in a legal contest.
+# Application Scenarios
+Administrative hearings where the Secretary is enforcing regulatory compliance based on statistical data. Cases involving civil penalties where statistical evidence is used to demonstrate violations and the corresponding financial ramifications.
+# Relationship to Overall Document Argument
+The provision establishes a clear framework for how evidence can be introduced and challenged, facilitating the enforcement of regulations. It underscores the importance of statistical methods in legal proceedings, enhancing the efficiency and effectiveness of regulatory enforcement.

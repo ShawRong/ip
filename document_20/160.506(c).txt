@@ -1,0 +1,10 @@
+# Law
+160.506(c)
+# Key Legal Concepts
+**Attorney Fees**: This refers to the compensation that an attorney charges for their legal services. The law specifies that fees for services performed on behalf of a party are not regulated by certain federal provisions. **Federal Fee Regulation**: Under 42 U.S.C. 406, the Secretary has the authority to specify or limit the fees that can be charged in certain legal contexts, particularly in relation to social security cases.
+# Key Legal Principles
+**Autonomy of Legal Fees**: The law emphasizes the independence of attorney fees from federal limitations, allowing attorneys to charge fees as agreed upon with their clients without the constraints of federal fee caps. **Client and Attorney Agreement**: It reinforces the principle that the relationship and agreement between a client and their attorney govern the fees, rather than external regulations.
+# Application Scenarios
+A client hiring an attorney for a social security case may negotiate their fees directly with the attorney, without worrying about federal limits on those fees. An attorney representing a party in a legal matter can set their fees based on their agreement with the client, even if the case intersects with areas typically regulated by federal law.
+# Relationship to Overall Document Argument
+This provision highlights the need for flexibility in legal representation, ensuring that attorneys are compensated fairly for their services without federal intervention. It supports the argument for personal autonomy in legal agreements, emphasizing the importance of client choice in the attorney-client relationship.

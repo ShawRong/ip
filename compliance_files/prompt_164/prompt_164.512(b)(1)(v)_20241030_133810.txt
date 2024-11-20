@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(b)(1)', 'data': '(1) Permitted uses and disclosures.  A covered entity may use or disclose protected health information for the public health activities and purposes described in this paragraph to: '}, {'id': '164.512(b)(1)(v)(A)', 'data': '(A) The covered entity is a covered health care provider who provides health care to the individual at the request of the employer: '}, {'id': '164.512(b)(1)(v)(B)', 'data': '(B) The protected health information that is disclosed consists of findings concerning a work-related illness or injury or a workplace-related medical surveillance; '}, {'id': '164.512(b)(1)(v)(C)', 'data': '(C) The employer needs such findings in order to comply with its obligations, under 29 CFR parts 1904 through 1928, 30 CFR parts 50 through 90, or under state law having a similar purpose, to record such illness or injury or to carry out responsibilities for workplace medical surveillance; and '}, {'id': '164.512(b)(1)(v)(D)', 'data': '(D) The covered health care provider provides written notice to the individual that protected health information relating to the medical surveillance of the workplace and work-related illnesses and injuries is disclosed to the employer: '}, {'id': '164.512(b)(1)', 'data': '(1) Permitted uses and disclosures.  A covered entity may use or disclose protected health information for the public health activities and purposes described in this paragraph to: '}, {'id': '164.512(b)(1)(v)(A)', 'data': '(A) The covered entity is a covered health care provider who provides health care to the individual at the request of the employer: '}, {'id': '164.512(b)(1)(v)(B)', 'data': '(B) The protected health information that is disclosed consists of findings concerning a work-related illness or injury or a workplace-related medical surveillance; '}, {'id': '164.512(b)(1)(v)(C)', 'data': '(C) The employer needs such findings in order to comply with its obligations, under 29 CFR parts 1904 through 1928, 30 CFR parts 50 through 90, or under state law having a similar purpose, to record such illness or injury or to carry out responsibilities for workplace medical surveillance; and '}, {'id': '164.512(b)(1)(v)(D)', 'data': '(D) The covered health care provider provides written notice to the individual that protected health information relating to the medical surveillance of the workplace and work-related illnesses and injuries is disclosed to the employer: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(b)(1)(v)', 'data': '(v) An employer, about an individual who is a member of the workforce of the employer, if: '}
+You may now respond.

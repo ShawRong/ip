@@ -1,0 +1,10 @@
+# Law
+160.103(Manifestation%20or%20manifested)
+# Key Legal Concepts
+Manifestation: This concept refers to the point at which a disease, disorder, or pathological condition is officially recognized or diagnosed by a qualified health care professional. Diagnosis: The determination of the presence of a disease or condition, which should be based on clinical expertise rather than solely on genetic information.
+# Key Legal Principles
+Qualified Diagnosis: A diagnosis must be made by a health care professional who has the appropriate training and expertise, ensuring that the diagnosis is credible and reliable. Limitations on Genetic Information: The law explicitly states that a diagnosis cannot be based principally on genetic information, emphasizing the need for clinical evaluation.
+# Application Scenarios
+A patient exhibiting symptoms of a disease must be evaluated by a qualified health care professional who can provide a diagnosis based on clinical evidence. In legal cases regarding health insurance claims, the determination of whether a condition is manifested will hinge on the qualifications of the diagnosing professional and the nature of the information used.
+# Relationship to Overall Document Argument
+This law clarifies the criteria under which a disease or condition is considered manifested, which is crucial for determining eligibility for various health-related benefits. By defining what constitutes a manifestation, the law aims to prevent misuse of genetic information in medical diagnoses, thereby protecting patient rights and ensuring fair treatment.

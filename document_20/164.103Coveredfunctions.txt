@@ -1,0 +1,10 @@
+# Law
+164.103Coveredfunctions
+# Key Legal Concepts
+Covered functions: These are specific activities performed by a covered entity that categorize it as a health plan, health care provider, or health care clearinghouse, thus subjecting it to regulatory requirements. Covered entity: Refers to organizations or individuals that handle protected health information (PHI) and are subject to privacy and security regulations.
+# Key Legal Principles
+Compliance with regulatory standards: Covered entities must adhere to laws and regulations governing the handling of PHI to ensure privacy and security. Scope of operations: The designation of covered functions helps delineate which activities fall under the purview of health regulations.
+# Application Scenarios
+A health insurance company must understand which of its operations are classified as covered functions to comply with HIPAA. A healthcare provider must identify its covered functions to ensure it is meeting all necessary legal obligations regarding patient information.
+# Relationship to Overall Document Argument
+The definition of covered functions is crucial for interpreting the broader regulatory framework governing health information privacy. Understanding what constitutes a covered function helps clarify the responsibilities and protections afforded to entities operating within the healthcare sector.

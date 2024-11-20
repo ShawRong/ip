@@ -1,0 +1,10 @@
+# Law
+160.526
+# Key Legal Concepts
+Computation of time: This refers to the method of calculating periods for legal actions or responses as defined by the law. Exclusion of weekends and holidays: The law specifies that if a time period includes a Saturday, Sunday, or legal holiday, the last day is extended to the next business day.
+# Key Legal Principles
+Notice and opportunity: Covered entities or business associates are given a specific timeframe to respond to notifications, ensuring they have the chance to present mitigating evidence. Deemed agreement: If a witness or entity fails to respond within the specified timeframe, they are considered to agree with the contents of the document or transcript.
+# Application Scenarios
+Submitting evidence to the Secretary in response to a notification regarding compliance issues within the 30-day period. Providing proposed corrections to a transcript and ensuring timely submission to avoid being deemed in agreement.
+# Relationship to Overall Document Argument
+The computation of time provisions ensure fairness in legal processes by providing clear deadlines for responses. These principles support the overall structure of the hearings and compliance processes, emphasizing accountability and the importance of timely communication.

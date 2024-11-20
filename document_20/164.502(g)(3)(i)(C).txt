@@ -1,0 +1,10 @@
+# Law
+164.502(g)(3)(i)(C)
+# Key Legal Concepts
+**Unemancipated Minor**: A minor who has not been legally granted independence from parental or guardian authority, typically retaining the right to have their healthcare decisions influenced or made by their parents or guardians. **In Loco Parentis**: Refers to a person, such as a guardian, who has the legal authority to act on behalf of a minor in matters including healthcare, similar to a parent.
+# Key Legal Principles
+**Confidentiality in Healthcare**: This principle emphasizes the importance of maintaining the privacy of patient information, especially in sensitive cases involving minors, where guardians or parents may need to be involved. **Professional Judgment**: Health care professionals must exercise their discretion when determining access to a minor's health information, balancing the rights of the minor with those of the parent or guardian.
+# Application Scenarios
+A healthcare provider may enter into a confidentiality agreement with a minor regarding a sensitive health issue, such as mental health treatment, where the minor prefers that their parents or guardians do not have access to certain information. A parent acting in loco parentis may be involved in discussions about a minor's healthcare, provided they agree to the terms of confidentiality put forth by the healthcare provider.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of respecting the autonomy of unemancipated minors in healthcare decisions while also acknowledging the role of parents or guardians. It establishes a framework where confidentiality agreements can protect the minor’s privacy, ensuring that sensitive health information is disclosed only with the minor's assent.

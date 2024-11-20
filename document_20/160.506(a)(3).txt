@@ -1,0 +1,10 @@
+# Law
+160.506(a)(3)
+# Key Legal Concepts
+Discovery: This refers to the pre-trial process where parties can obtain evidence from each other, which may include documents, testimonies, and other relevant information. Subpart Limitations: The phrase 'except as otherwise limited by this subpart' indicates that there are specific rules or restrictions within the subpart that may affect how discovery can be conducted.
+# Key Legal Principles
+Right to Discovery: Each party is entitled to conduct discovery, which is fundamental to ensuring a fair trial by allowing both sides to prepare adequately. Compliance with Subpart Rules: Parties must adhere to the rules established in the relevant subpart, which may impose limits on the types of documents that can be requested or the manner in which discovery is conducted.
+# Application Scenarios
+Parties in a civil litigation case requesting documents related to a contract dispute to support their claims or defenses. An entity conducting internal investigations may use discovery rules to gather documents that could be relevant in a compliance-related dispute.
+# Relationship to Overall Document Argument
+The provision emphasizes the importance of discovery as a tool for transparency and accountability in legal proceedings. It establishes a framework within which parties can engage in the discovery process, highlighting the balance between access to information and procedural limitations.

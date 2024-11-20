@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)(1)', 'data': '(1) Covered entities: Permitted uses and disclosures.  A covered entity is permitted to use or disclose protected health information as follows: '}, {'id': '164.512', 'data': '§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required. A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given orally. '}, {'id': '164.514(e)', 'data': '(e) '}, {'id': '164.514(f)', 'data': '(f) Fundraising communications —'}, {'id': '164.514(g)', 'data': '(g) Standard: Uses and disclosures for underwriting and related purposes.  If a health plan receives protected health information for the purpose of underwriting, premium rating, or other activities relating to the creation, renewal, or replacement of a contract of health insurance or health benefits, and if such health insurance or health benefits are not placed with the health plan, such health plan may only use or disclose such protected health information for such purpose or as may be required by law, subject to the prohibition at § 164.502(a)(5)(i) with respect to genetic information included in the protected health information. '}, {'id': '164.502(a)(1)', 'data': '(1) Covered entities: Permitted uses and disclosures.  A covered entity is permitted to use or disclose protected health information as follows: '}, {'id': '164.512', 'data': '§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required. A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given orally. '}, {'id': '164.514(e)', 'data': '(e) '}, {'id': '164.514(f)', 'data': '(f) Fundraising communications —'}, {'id': '164.514(g)', 'data': '(g) Standard: Uses and disclosures for underwriting and related purposes.  If a health plan receives protected health information for the purpose of underwriting, premium rating, or other activities relating to the creation, renewal, or replacement of a contract of health insurance or health benefits, and if such health insurance or health benefits are not placed with the health plan, such health plan may only use or disclose such protected health information for such purpose or as may be required by law, subject to the prohibition at § 164.502(a)(5)(i) with respect to genetic information included in the protected health information. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(a)(1)(vi)', 'data': '(vi) As permitted by and in compliance with this section, § 164.512, § 164.514(e), (f), or (g). '}
+You may now respond.

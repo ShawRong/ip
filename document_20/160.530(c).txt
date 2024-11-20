@@ -1,0 +1,10 @@
+# Law
+160.530(c)
+# Key Legal Concepts
+**Sanctions**: Refers to penalties imposed by the Administrative Law Judge (ALJ) for non-compliance with orders or procedures, or for misconduct that disrupts the hearing process. **Compliance**: The expectation that parties and attorneys adhere to established orders and procedures during legal proceedings. **Misconduct**: Actions by parties or attorneys that are deemed inappropriate or harmful to the integrity of the hearing process.
+# Key Legal Principles
+**Proportionality**: Sanctions must be proportional to the severity and nature of the non-compliance or misconduct, ensuring fairness in the application of penalties. **Due Process**: The principle that individuals must be given a fair opportunity to defend themselves and comply with legal orders before sanctions are imposed.
+# Application Scenarios
+A party fails to submit required documentation by the deadline, prompting the ALJ to impose sanctions that may include striking pleadings or dismissing parts of the case. An attorney engages in behavior that disrupts the hearing, leading the ALJ to consider sanctions that ensure the process remains orderly and fair.
+# Relationship to Overall Document Argument
+The inclusion of sanctions emphasizes the importance of maintaining order and compliance in legal proceedings, which supports the overall goal of achieving fair and efficient hearings. By allowing the striking of pleadings as a sanction, the law reinforces the necessity for parties to engage in the hearing process responsibly, thereby upholding the integrity of the legal system.

@@ -1,0 +1,10 @@
+# Law
+164.502(g)(3)
+# Key Legal Concepts
+Personal representatives: Individuals authorized to make healthcare decisions on behalf of another, particularly in the context of protected health information (PHI). Unemancipated minors: Individuals who are not legally independent and whose healthcare decisions may be made by a parent, guardian, or other authorized person.
+# Key Legal Principles
+Authority of personal representatives: A covered entity must recognize personal representatives as the individual for accessing PHI, subject to certain exceptions. Limits on representation for unemancipated minors: While a personal representative can act on behalf of an unemancipated minor, there are restrictions, especially concerning the minor's rights to access their own health information.
+# Application Scenarios
+A parent seeking access to their child's medical records to make informed healthcare decisions. A healthcare provider determining whether to disclose PHI to a guardian of an unemancipated minor while considering the minor's autonomy in specific healthcare situations.
+# Relationship to Overall Document Argument
+The provisions highlight the balance between parental authority and the rights of minors, ensuring that both are respected in healthcare contexts. The law emphasizes the importance of safeguarding PHI while facilitating necessary access for decision-making purposes.

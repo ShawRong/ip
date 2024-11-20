@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.514(e)(2)', 'data': '(2) Implementation specification: Limited data set:  A limited data set is protected health information that excludes the following direct identifiers of the individual or of relatives, employers, or household members of the individual: '}, {'id': '164.514(e)(3)', 'data': '(3) Implementation specification: Permitted purposes for uses and disclosures. '}, {'id': '164.514(e)(3)', 'data': '(3) Implementation specification: Permitted purposes for uses and disclosures. '}, {'id': '164.514(e)(2)', 'data': '(2) Implementation specification: Limited data set:  A limited data set is protected health information that excludes the following direct identifiers of the individual or of relatives, employers, or household members of the individual: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.514(e)(3)(ii)', 'data': '(ii) A covered entity may use protected health information to create a limited data set that meets the requirements of paragraph (e)(2) of this section, or disclose protected health information only to a business associate for such purpose, whether or not the limited data set is to be used by the covered entity. '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.528', 'data': '§ 164.528 Accounting of disclosures of protected health information.'}, {'id': '164.528(b)(1)', 'data': '(1) Except as otherwise provided by paragraph (a) of this section, the accounting must include disclosures of protected health information that occurred during the six years (or such shorter time period at the request of the individual as provided in paragraph (a)(3) of this section) prior to the date of the request for an accounting, including disclosures to or by business associates of the covered entity. '}, {'id': '164.528(b)(2)', 'data': '(2) Except as otherwise provided by paragraphs (b)(3) or (b)(4) of this section, the accounting must include for each disclosure: '}, {'id': '164.528(b)(3)', 'data': '(3) If, during the period covered by the accounting, the covered entity has made multiple disclosures of protected health information to the same person or entity for a single purpose under § 164.502(a)(2)(ii) or § 164.512, the accounting may, with respect to such multiple disclosures, provide: '}, {'id': '164.528(b)(4)', 'data': '(4) '}, {'id': '164.528(d)(1)', 'data': '(1) The information required to be included in an accounting under paragraph (b) of this section for disclosures of protected health information that are subject to an accounting under paragraph (a) of this section; '}, {'id': '164.528', 'data': '§ 164.528 Accounting of disclosures of protected health information.'}, {'id': '164.528(b)(1)', 'data': '(1) Except as otherwise provided by paragraph (a) of this section, the accounting must include disclosures of protected health information that occurred during the six years (or such shorter time period at the request of the individual as provided in paragraph (a)(3) of this section) prior to the date of the request for an accounting, including disclosures to or by business associates of the covered entity. '}, {'id': '164.528(b)(2)', 'data': '(2) Except as otherwise provided by paragraphs (b)(3) or (b)(4) of this section, the accounting must include for each disclosure: '}, {'id': '164.528(b)(3)', 'data': '(3) If, during the period covered by the accounting, the covered entity has made multiple disclosures of protected health information to the same person or entity for a single purpose under § 164.502(a)(2)(ii) or § 164.512, the accounting may, with respect to such multiple disclosures, provide: '}, {'id': '164.528(b)(4)', 'data': '(4) '}, {'id': '164.528(d)(1)', 'data': '(1) The information required to be included in an accounting under paragraph (b) of this section for disclosures of protected health information that are subject to an accounting under paragraph (a) of this section; '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.528(b)', 'data': '(b) Implementation specifications: Content of the accounting.  The covered entity must provide the individual with a written accounting that meets the following requirements. '}
+You may now respond.

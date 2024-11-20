@@ -1,0 +1,10 @@
+# Law
+160.103(Use)
+# Key Legal Concepts
+**Use**: This refers specifically to the internal handling of individually identifiable health information within a covered entity, meaning how the entity shares, employs, or analyzes such information. **Individually identifiable health information**: This concept encompasses any health data that can be linked to a specific individual, making it sensitive and subject to legal protections.
+# Key Legal Principles
+**Confidentiality**: The principle that individually identifiable health information must be protected from unauthorized access and should only be used in ways that respect the privacy of individuals. **Minimum necessary standard**: This principle dictates that only the minimum amount of health information necessary for a particular purpose should be used or disclosed.
+# Application Scenarios
+An entity uses patient records internally to provide treatment, ensuring that only relevant information is shared among healthcare providers. A research department within a hospital analyzes health data for studies, adhering to the principle of minimum necessary use.
+# Relationship to Overall Document Argument
+The definition of 'Use' lays the foundation for understanding how health information can be legally handled within an entity, which is crucial for compliance with privacy laws. By clarifying what constitutes 'Use', the law supports the broader regulatory framework aimed at protecting patient privacy and establishing trust in healthcare systems.

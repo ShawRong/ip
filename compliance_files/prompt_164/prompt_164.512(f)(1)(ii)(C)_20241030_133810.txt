@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(f)(1)(ii)', 'data': '(ii) In compliance with and as limited by the relevant requirements of: '}, {'id': '164.512(f)(1)(ii)(C)(1)', 'data': '(1) The information sought is relevant and material to a legitimate law enforcement inquiry; '}, {'id': '164.512(f)(1)(ii)(C)(2)', 'data': '(2) The request is specific and limited in scope to the extent reasonably practicable in light of the purpose for which the information is sought; and '}, {'id': '164.512(f)(1)(ii)(C)(3)', 'data': '(3) De-identified information could not reasonably be used. '}, {'id': '164.514(h)(2)(i)(A)', 'data': '(A) The conditions in § 164.512(f)(1)(ii)(C) may be satisfied by the administrative subpoena or similar process or by a separate written statement that, on its face, demonstrates that the applicable requirements have been met. '}, {'id': '164.512(f)(1)(ii)', 'data': '(ii) In compliance with and as limited by the relevant requirements of: '}, {'id': '164.512(f)(1)(ii)(C)(1)', 'data': '(1) The information sought is relevant and material to a legitimate law enforcement inquiry; '}, {'id': '164.512(f)(1)(ii)(C)(2)', 'data': '(2) The request is specific and limited in scope to the extent reasonably practicable in light of the purpose for which the information is sought; and '}, {'id': '164.512(f)(1)(ii)(C)(3)', 'data': '(3) De-identified information could not reasonably be used. '}, {'id': '164.514(h)(2)(i)(A)', 'data': '(A) The conditions in § 164.512(f)(1)(ii)(C) may be satisfied by the administrative subpoena or similar process or by a separate written statement that, on its face, demonstrates that the applicable requirements have been met. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(f)(1)(ii)(C)', 'data': '(C) An administrative request, including an administrative subpoena or summons, a civil or an authorized investigative demand, or similar process authorized under law, provided that: '}
+You may now respond.

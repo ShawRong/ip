@@ -1,0 +1,10 @@
+# Law
+160.518(b)(3)(i)
+# Key Legal Concepts
+Extraordinary circumstances: Refers to unusual or exceptional situations that justify deviating from standard procedures in legal proceedings. Substantial prejudice: The potential for significant harm or unfair disadvantage to a party in a legal case due to the introduction of certain evidence.
+# Key Legal Principles
+Evidence admission: The principle that evidence can be admitted in legal proceedings if it does not cause substantial prejudice to the objecting party. Judicial discretion: The authority of an Administrative Law Judge (ALJ) to make decisions based on their judgment, particularly regarding the admission of evidence in light of extraordinary circumstances.
+# Application Scenarios
+A case where new evidence emerges after the standard deadline, and the ALJ must assess both the extraordinary nature of the circumstances and the potential prejudice to the opposing party. A situation where one party objects to evidence presented by the other, prompting the ALJ to evaluate if the objection is valid based on the criteria of substantial prejudice.
+# Relationship to Overall Document Argument
+This law emphasizes the balance between allowing relevant evidence and protecting the rights of parties involved, ensuring fairness in proceedings. It underscores the importance of judicial discretion in determining the appropriateness of evidence admission based on the specific circumstances surrounding each case.

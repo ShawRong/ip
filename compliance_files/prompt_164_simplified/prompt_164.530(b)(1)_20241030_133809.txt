@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.530(b)', 'data': '(b) '}, {'id': '164.530(b)(2)(i)', 'data': '(i) A covered entity must provide training that meets the requirements of paragraph (b)(1) of this section, as follows: '}, {'id': '164.530(b)', 'data': '(b) '}, {'id': '164.530(b)(2)(i)', 'data': '(i) A covered entity must provide training that meets the requirements of paragraph (b)(1) of this section, as follows: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(b)(1)', 'data': '(1) Standard: Training.  A covered entity must train all members of its workforce on the policies and procedures with respect to protected health information required by this subpart and subpart D of this part, as necessary and appropriate for the members of the workforce to carry out their functions within the covered entity. '}
+You may now respond.

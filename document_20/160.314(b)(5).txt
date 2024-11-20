@@ -1,0 +1,10 @@
+# Law
+160.314(b)(5)
+# Key Legal Concepts
+Investigational inquiries: These are confidential proceedings led by the Secretary, focused on gathering information without public disclosure. Claim of privilege: A legal right that allows a witness to refuse to provide certain information, protecting specific communications from disclosure.
+# Key Legal Principles
+Assertion of privilege: The requirement that a witness must formally claim their privilege during the proceedings to prevent the disclosure of protected information. Non-public nature of inquiries: The principle that investigational inquiries are conducted privately, ensuring confidentiality and protecting sensitive information.
+# Application Scenarios
+A witness in an investigational inquiry might claim attorney-client privilege during questioning to avoid revealing confidential communications. A party involved in an investigational inquiry may need to assert their Fifth Amendment right against self-incrimination on the record.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of formally asserting privilege to maintain the confidentiality of sensitive information during investigational inquiries. It underscores the procedural fairness in investigational proceedings, ensuring that witnesses understand their rights and the process.

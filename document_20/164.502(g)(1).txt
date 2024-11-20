@@ -1,0 +1,10 @@
+# Law
+164.502(g)(1)
+# Key Legal Concepts
+The concept of 'personal representative' refers to an individual authorized to act on behalf of another person, particularly in matters related to health information privacy. The standard set forth in 164.502(g)(1) mandates that covered entities recognize personal representatives in the same manner as the individuals they represent, ensuring that their rights and responsibilities are upheld.
+# Key Legal Principles
+The principle of recognizing personal representatives aligns with the overall goal of protecting an individual's health information while allowing authorized individuals to manage that information effectively. The exceptions outlined in paragraphs (g)(3) and (g)(5) signify that there are specific situations—such as abuse or neglect—where this standard may be overridden to protect the individual’s welfare.
+# Application Scenarios
+A healthcare provider must grant access to medical records to a parent acting as a personal representative for their minor child, in line with the standard unless exceptions apply. A hospital may deny access to a personal representative if there are credible allegations of abuse or neglect towards the individual whose records are being requested.
+# Relationship to Overall Document Argument
+This law emphasizes the balance between individual rights and the need for protection in sensitive situations, reinforcing the importance of confidentiality and trust in healthcare. The inclusion of exceptions in the law highlights the complexities of personal representation, ensuring that the protection of vulnerable individuals is prioritized over blanket access rights.

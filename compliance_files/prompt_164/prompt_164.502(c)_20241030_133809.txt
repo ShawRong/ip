@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502', 'data': '§ 164.502 Uses and disclosures of protected health information: General rules.'}, {'id': '164.522(a)', 'data': '(a) '}, {'id': '164.522(a)(1)', 'data': '(1) Standard: Right of an individual to request restriction of uses and disclosures. '}, {'id': '164.502', 'data': '§ 164.502 Uses and disclosures of protected health information: General rules.'}, {'id': '164.522(a)(1)', 'data': '(1) Standard: Right of an individual to request restriction of uses and disclosures. '}, {'id': '164.522(a)', 'data': '(a) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(c)', 'data': '(c) Standard: Uses and disclosures of protected health information subject to an agreed upon restriction.  A covered entity that has agreed to a restriction pursuant to § 164.522(a)(1) may not use or disclose the protected health information covered by the restriction in violation of such restriction, except as otherwise provided in § 164.522(a). '}
+You may now respond.

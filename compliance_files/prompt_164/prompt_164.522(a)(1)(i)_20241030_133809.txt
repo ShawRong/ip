@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.522(a)(1)', 'data': '(1) Standard: Right of an individual to request restriction of uses and disclosures. '}, {'id': '164.522(a)(1)(i)(A)', 'data': '(A) Uses or disclosures of protected health information about the individual to carry out treatment, payment, or health care operations; and '}, {'id': '164.522(a)(1)(i)(B)', 'data': '(B) Disclosures permitted under § 164.510(b). '}, {'id': '164.522(a)(1)(iii)', 'data': '(iii) A covered entity that agrees to a restriction under paragraph (a)(1)(i) of this section may not use or disclose protected health information in violation of such restriction, except that, if the individual who requested the restriction is in need of emergency treatment and the restricted protected health information is needed to provide the emergency treatment, the covered entity may use the restricted protected health information, or may disclose such information to a health care provider, to provide such treatment to the individual. '}, {'id': '164.522(a)(1)', 'data': '(1) Standard: Right of an individual to request restriction of uses and disclosures. '}, {'id': '164.522(a)(1)(i)(A)', 'data': '(A) Uses or disclosures of protected health information about the individual to carry out treatment, payment, or health care operations; and '}, {'id': '164.522(a)(1)(i)(B)', 'data': '(B) Disclosures permitted under § 164.510(b). '}, {'id': '164.522(a)(1)(iii)', 'data': '(iii) A covered entity that agrees to a restriction under paragraph (a)(1)(i) of this section may not use or disclose protected health information in violation of such restriction, except that, if the individual who requested the restriction is in need of emergency treatment and the restricted protected health information is needed to provide the emergency treatment, the covered entity may use the restricted protected health information, or may disclose such information to a health care provider, to provide such treatment to the individual. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.522(a)(1)(i)', 'data': '(i) A covered entity must permit an individual to request that the covered entity restrict: '}
+You may now respond.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512', 'data': '§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required. A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given orally. '}, {'id': '164.512(a)(2)', 'data': '(2) A covered entity must meet the requirements described in paragraph (c), (e), or (f) of this section for uses or disclosures required by law. '}, {'id': '164.512(e)(1)', 'data': '(1) Permitted disclosures.  A covered entity may disclose protected health information in the course of any judicial or administrative proceeding: '}, {'id': '164.512(e)(2)', 'data': '(2) Other uses and disclosures under this section.  The provisions of this paragraph do not supersede other provisions of this section that otherwise permit or restrict uses or disclosures of protected health information. '}, {'id': '164.512', 'data': '§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required. A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given orally. '}, {'id': '164.512(e)(1)', 'data': '(1) Permitted disclosures.  A covered entity may disclose protected health information in the course of any judicial or administrative proceeding: '}, {'id': '164.512(e)(2)', 'data': '(2) Other uses and disclosures under this section.  The provisions of this paragraph do not supersede other provisions of this section that otherwise permit or restrict uses or disclosures of protected health information. '}, {'id': '164.512(a)(2)', 'data': '(2) A covered entity must meet the requirements described in paragraph (c), (e), or (f) of this section for uses or disclosures required by law. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(e)', 'data': '(e) Standard: Disclosures for judicial and administrative proceedings —'}
+You may now respond.

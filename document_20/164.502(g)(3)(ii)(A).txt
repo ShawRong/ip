@@ -1,0 +1,10 @@
+# Law
+164.502(g)(3)(ii)(A)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any individually identifiable health information that is held or transmitted by a covered entity, which is subject to privacy regulations. Unemancipated Minor: A minor who has not been legally granted the rights of an adult and whose health information may be subject to special disclosure rules. In loco parentis: A legal doctrine allowing individuals to act in the capacity of a parent, which may extend rights to access a minor's health information.
+# Key Legal Principles
+Disclosure of PHI: Covered entities may disclose or provide access to a minor's PHI to parents or guardians, provided it is in compliance with state laws and regulations. State Law Supremacy: The provision acknowledges that state laws may impose additional requirements or permissions regarding the disclosure of a minor's health information.
+# Application Scenarios
+A healthcare provider may share a minor's medical records with a parent during a consultation if state law permits this disclosure. A guardian may request access to a minor's health information for treatment decisions, necessitating the healthcare entity's compliance with both federal and state regulations.
+# Relationship to Overall Document Argument
+This regulation emphasizes the balance between parental rights and the privacy of minors in healthcare contexts, ensuring that disclosures align with applicable laws. It supports the overarching goal of HIPAA to protect patient privacy while allowing necessary access for guardians to fulfill their roles in the healthcare of minors.

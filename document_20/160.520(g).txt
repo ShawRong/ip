@@ -1,0 +1,10 @@
+# Law
+160.520(g)
+# Key Legal Concepts
+Subpoena: A legal document ordering a person to attend a court proceeding or produce evidence. Service of process: The legal procedure of delivering documents to a party to ensure they are notified of legal actions involving them.
+# Key Legal Principles
+Due process: The principle that legal proceedings must be fair and that individuals should be properly notified of legal actions against them. Authority of the court: The court has the power to issue subpoenas as part of its authority to ensure that relevant evidence and witnesses are available for a hearing.
+# Application Scenarios
+A party in a lawsuit needs to compel a witness to appear at a hearing to provide testimony. A party requires documents from a business that is relevant to a case and issues a subpoena for those records.
+# Relationship to Overall Document Argument
+This law emphasizes the procedural requirement that a subpoena must be properly served to ensure compliance and uphold due process. The stipulation regarding service methods reinforces the importance of notifying individuals effectively, reflecting the legal system's commitment to fairness.

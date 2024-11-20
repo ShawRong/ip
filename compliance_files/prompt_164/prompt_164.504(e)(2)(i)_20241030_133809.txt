@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.504(e)(2)', 'data': '(2) Implementation specifications: Business associate contracts.  A contract between the covered entity and a business associate must: '}, {'id': '164.504(e)(2)(i)(A)', 'data': '(A) The contract may permit the business associate to use and disclose protected health information for the proper management and administration of the business associate, as provided in paragraph (e)(4) of this section; and '}, {'id': '164.504(e)(2)(i)(B)', 'data': '(B) The contract may permit the business associate to provide data aggregation services relating to the health care operations of the covered entity. '}, {'id': '164.504(e)(2)', 'data': '(2) Implementation specifications: Business associate contracts.  A contract between the covered entity and a business associate must: '}, {'id': '164.504(e)(2)(i)(A)', 'data': '(A) The contract may permit the business associate to use and disclose protected health information for the proper management and administration of the business associate, as provided in paragraph (e)(4) of this section; and '}, {'id': '164.504(e)(2)(i)(B)', 'data': '(B) The contract may permit the business associate to provide data aggregation services relating to the health care operations of the covered entity. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.504(e)(2)(i)', 'data': '(i) Establish the permitted and required uses and disclosures of protected health information by the business associate. The contract may not authorize the business associate to use or further disclose the information in a manner that would violate the requirements of this subpart, if done by the covered entity, except that: '}
+You may now respond.

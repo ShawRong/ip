@@ -1,0 +1,10 @@
+# Law
+160.314(a)(2)(i)
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual or entity to appear or produce documents for legal proceedings. Service of Process: The legal procedure by which a party to a lawsuit gives appropriate notice of legal action to another party, ensuring they are informed and can respond.
+# Key Legal Principles
+Due Process: The principle that legal proceedings must be conducted fairly and that individuals must be given proper notice of actions affecting their rights. Personal Service: The requirement that a subpoena must be delivered directly to the person or entity named, ensuring that they are aware of the legal obligation.
+# Application Scenarios
+A witness is served a subpoena to testify in court, requiring the subpoena to be delivered personally to them. A company receives a subpoena for documents, necessitating service at its principal place of business to ensure compliance.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of proper service to uphold due process, ensuring that individuals and entities are adequately informed. It establishes clear guidelines for how subpoenas must be served, which is critical for the enforceability of legal proceedings.

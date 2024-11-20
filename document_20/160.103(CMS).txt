@@ -1,0 +1,10 @@
+# Law
+160.103(CMS)
+# Key Legal Concepts
+Definition of CMS: The term 'CMS' refers to the Centers for Medicare & Medicaid Services, which is a federal agency responsible for administering the nation's major healthcare programs. Role of CMS: CMS plays a critical role in overseeing the Medicare and Medicaid programs, ensuring compliance with federal laws and regulations.
+# Key Legal Principles
+Federal Authority: CMS operates under the authority granted by federal law, which establishes the framework for healthcare services provided to eligible individuals. Regulatory Compliance: Entities that engage with Medicare and Medicaid must comply with the standards and regulations set forth by CMS to receive federal funding.
+# Application Scenarios
+Healthcare providers seeking reimbursement from Medicare must understand CMS regulations to ensure compliance and avoid penalties. State governments administering Medicaid programs must align their policies with CMS guidelines to secure federal matching funds.
+# Relationship to Overall Document Argument
+Understanding CMS is essential for interpreting the broader legal framework that governs healthcare services and funding in the U.S. Defining CMS within this subchapter sets the stage for discussions about healthcare policy, regulation, and the legal obligations of various stakeholders.

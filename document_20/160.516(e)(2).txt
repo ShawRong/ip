@@ -1,0 +1,10 @@
+# Law
+160.516(e)(2)
+# Key Legal Concepts
+Discovery: The process by which parties obtain information and evidence from each other prior to a trial or hearing. It is essential for preparing a case. Protective Order: A legal order issued by a court or administrative law judge (ALJ) to protect a party from the burden or expense of discovery that is deemed unnecessary or harmful. Relevance: A principle that dictates that only information pertinent to the case should be disclosed during discovery.
+# Key Legal Principles
+Cost-Burden Principle: Discovery requests may be denied if they are deemed unduly costly or burdensome, protecting parties from excessive expenses. Delay Principle: Discovery requests that would significantly delay proceedings can be denied, ensuring efficiency in legal processes. Privileged Information: Requests seeking privileged information, which is protected from disclosure under law, are not allowed during discovery.
+# Application Scenarios
+A party requests extensive documents that the opposing party argues are irrelevant and would impose significant costs to produce. A party seeks testimony that would take an unreasonable amount of time to prepare and would unnecessarily delay the proceedings.
+# Relationship to Overall Document Argument
+The law provides a framework for balancing the right to discovery with the need to protect parties from excessive burdens. It establishes safeguards to ensure that the discovery process does not undermine the efficiency and fairness of legal proceedings.

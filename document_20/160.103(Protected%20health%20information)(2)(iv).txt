@@ -1,0 +1,10 @@
+# Law
+160.103(Protected%20health%20information)(2)(iv)
+# Key Legal Concepts
+Protected health information (PHI): This refers to any individually identifiable health information that is maintained by a covered entity, which can include health records, medical histories, and personal details related to health. Individually identifiable health information: This concept pertains to information that can be used to identify an individual and is related to their health condition, healthcare, or payment for healthcare services.
+# Key Legal Principles
+Exclusion of deceased individuals: The law specifies that PHI does not include information about individuals who have been deceased for more than 50 years, thereby limiting the scope of what constitutes protected information in these cases. Privacy protections for living individuals: The underlying principle is to protect the privacy of living individuals, ensuring that their identifiable health information remains confidential.
+# Application Scenarios
+Medical researchers seeking historical health data may reference information about individuals who have been deceased for more than 50 years without violating PHI regulations. Healthcare providers may disclose information about deceased patients who have been gone for over 50 years for educational or public health purposes, as it falls outside the protections of PHI.
+# Relationship to Overall Document Argument
+The provision emphasizes the balance between protecting individual privacy and allowing for the use of historical health data for research and educational purposes. It clarifies the limitations of PHI in relation to historical records, reinforcing the importance of identifying relevant timelines when considering health information confidentiality.

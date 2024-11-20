@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.528(c)', 'data': '(c) Implementation specifications: Provision of the accounting. '}, {'id': '164.528(c)(1)(i)', 'data': '(i) The covered entity must provide the individual with the accounting requested; or '}, {'id': '164.528(c)(1)(ii)', 'data': '(ii) If the covered entity is unable to provide the accounting within the time required by paragraph (c)(1) of this section, the covered entity may extend the time to provide the accounting by no more than 30 days, provided that: '}, {'id': '164.528(c)(1)(ii)(A)', 'data': '(A) The covered entity, within the time limit set by paragraph (c)(1) of this section, provides the individual with a written statement of the reasons for the delay and the date by which the covered entity will provide the accounting; and '}, {'id': '164.528(c)', 'data': '(c) Implementation specifications: Provision of the accounting. '}, {'id': '164.528(c)(1)(i)', 'data': '(i) The covered entity must provide the individual with the accounting requested; or '}, {'id': '164.528(c)(1)(ii)', 'data': '(ii) If the covered entity is unable to provide the accounting within the time required by paragraph (c)(1) of this section, the covered entity may extend the time to provide the accounting by no more than 30 days, provided that: '}, {'id': '164.528(c)(1)(ii)(A)', 'data': '(A) The covered entity, within the time limit set by paragraph (c)(1) of this section, provides the individual with a written statement of the reasons for the delay and the date by which the covered entity will provide the accounting; and '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.528(c)(1)', 'data': '(1) The covered entity must act on the individual's request for an accounting, no later than 60 days after receipt of such a request, as follows. '}
+You may now respond.

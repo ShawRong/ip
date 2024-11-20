@@ -1,0 +1,10 @@
+# Law
+160.314(a)(1)(ii)
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual to appear in court or produce documents, requiring compliance under penalty of law. Statutory Authority: The legal basis or source of power under which a subpoena is issued, ensuring that the subpoenaed party understands the legal grounding for the request.
+# Key Legal Principles
+Due Process: The principle that ensures individuals have the right to be informed of the legal basis for any actions taken against them, including subpoenas. Clarity and Specificity: The legal requirement that subpoenas must clearly state their purpose and the authority under which they are issued, allowing recipients to understand their obligations.
+# Application Scenarios
+A party in a legal dispute issues a subpoena to obtain documents from a third party, citing the statutory authority to compel production. A witness receives a subpoena that states the specific law under which they are required to testify, ensuring they understand their legal obligations.
+# Relationship to Overall Document Argument
+Establishes the legitimacy of the subpoena process by ensuring that all legal documents are backed by statutory authority, reinforcing the rule of law. Supports the argument for transparency in legal proceedings, helping to protect the rights of individuals who might be compelled to provide information or testimony.

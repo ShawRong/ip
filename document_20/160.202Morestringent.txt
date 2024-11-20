@@ -1,0 +1,10 @@
+# Law
+160.202Morestringent
+# Key Legal Concepts
+More stringent: This term refers to a state law that imposes stricter requirements than those established by federal standards or regulations. Provision of State law: This refers to specific legal rules or statutes enacted at the state level that may interact with federal regulations.
+# Key Legal Principles
+Preemption: This principle addresses the relationship between state and federal laws, where federal law may supersede state law unless the state law is more stringent. Compliance: The principle that entities must adhere to the more rigorous standards set by state laws when they exceed federal requirements.
+# Application Scenarios
+A state enacts a law regulating data privacy that imposes stricter penalties than those defined in federal law, thereby qualifying as more stringent. A healthcare provider must comply with both state and federal regulations, ensuring that they meet the higher standards set forth by the state.
+# Relationship to Overall Document Argument
+This definition clarifies the scope of state authority in regulating aspects that federal law may also cover, emphasizing the importance of state laws that enhance protections. The identification of what constitutes 'more stringent' serves to support the argument that states can play a critical role in establishing higher standards for compliance.

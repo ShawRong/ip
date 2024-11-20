@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)(5)(ii)(B)(2)(vii)', 'data': '(vii) Required by law as permitted under § 164.512(a); and '}, {'id': '164.502(b)(2)(v)', 'data': '(v) Uses or disclosures that are required by law, as described by § 164.512(a); and '}, {'id': '164.508(a)(2)(ii)', 'data': '(ii) A use or disclosure that is required by § 164.502(a)(2)(ii) or permitted by § 164.512(a); § 164.512(d) with respect to the oversight of the originator of the psychotherapy notes; § 164.512(g)(1); or § 164.512(j)(1)(i). '}, {'id': '164.512', 'data': '§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required. A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given orally. '}, {'id': '164.512(a)(1)', 'data': '(1) A covered entity may use or disclose protected health information to the extent that such use or disclosure is required by law and the use or disclosure complies with and is limited to the relevant requirements of such law. '}, {'id': '164.512(a)(2)', 'data': '(2) A covered entity must meet the requirements described in paragraph (c), (e), or (f) of this section for uses or disclosures required by law. '}, {'id': '164.512', 'data': '§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required. A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given orally. '}, {'id': '164.512(a)(1)', 'data': '(1) A covered entity may use or disclose protected health information to the extent that such use or disclosure is required by law and the use or disclosure complies with and is limited to the relevant requirements of such law. '}, {'id': '164.512(a)(2)', 'data': '(2) A covered entity must meet the requirements described in paragraph (c), (e), or (f) of this section for uses or disclosures required by law. '}, {'id': '164.502(a)(5)(ii)(B)(2)(vii)', 'data': '(vii) Required by law as permitted under § 164.512(a); and '}, {'id': '164.502(b)(2)(v)', 'data': '(v) Uses or disclosures that are required by law, as described by § 164.512(a); and '}, {'id': '164.508(a)(2)(ii)', 'data': '(ii) A use or disclosure that is required by § 164.502(a)(2)(ii) or permitted by § 164.512(a); § 164.512(d) with respect to the oversight of the originator of the psychotherapy notes; § 164.512(g)(1); or § 164.512(j)(1)(i). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(a)', 'data': '(a) Standard: Uses and disclosures required by law. '}
+You may now respond.

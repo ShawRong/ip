@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.514(e)(4)', 'data': '(4) Implementation specifications: Data use agreement —'}, {'id': '164.514(e)(4)(ii)(A)', 'data': '(A) Establish the permitted uses and disclosures of such information by the limited data set recipient, consistent with paragraph (e)(3) of this section. The data use agreement may not authorize the limited data set recipient to use or further disclose the information in a manner that would violate the requirements of this subpart, if done by the covered entity; '}, {'id': '164.514(e)(4)(ii)(B)', 'data': '(B) Establish who is permitted to use or receive the limited data set; and '}, {'id': '164.514(e)(4)(ii)(C)', 'data': '(C) Provide that the limited data set recipient will: '}, {'id': '164.514(e)(4)', 'data': '(4) Implementation specifications: Data use agreement —'}, {'id': '164.514(e)(4)(ii)(A)', 'data': '(A) Establish the permitted uses and disclosures of such information by the limited data set recipient, consistent with paragraph (e)(3) of this section. The data use agreement may not authorize the limited data set recipient to use or further disclose the information in a manner that would violate the requirements of this subpart, if done by the covered entity; '}, {'id': '164.514(e)(4)(ii)(B)', 'data': '(B) Establish who is permitted to use or receive the limited data set; and '}, {'id': '164.514(e)(4)(ii)(C)', 'data': '(C) Provide that the limited data set recipient will: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.514(e)(4)(ii)', 'data': '(ii) Contents.  A data use agreement between the covered entity and the limited data set recipient must: '}
+You may now respond.

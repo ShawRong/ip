@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.514(d)(2)', 'data': '(2) Implementation specifications: Minimum necessary uses of protected health information. '}, {'id': '164.514(d)(2)(i)(A)', 'data': '(A) Those persons or classes of persons, as appropriate, in its workforce who need access to protected health information to carry out their duties; and '}, {'id': '164.514(d)(2)(i)(B)', 'data': '(B) For each such person or class of persons, the category or categories of protected health information to which access is needed and any conditions appropriate to such access. '}, {'id': '164.514(d)(2)', 'data': '(2) Implementation specifications: Minimum necessary uses of protected health information. '}, {'id': '164.514(d)(2)(i)(A)', 'data': '(A) Those persons or classes of persons, as appropriate, in its workforce who need access to protected health information to carry out their duties; and '}, {'id': '164.514(d)(2)(i)(B)', 'data': '(B) For each such person or class of persons, the category or categories of protected health information to which access is needed and any conditions appropriate to such access. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.514(d)(2)(ii)', 'data': '(ii) A covered entity must make reasonable efforts to limit the access of such persons or classes identified in paragraph (d)(2)(i)(A) of this section to protected health information consistent with paragraph (d)(2)(i)(B) of this section. '}
+You may now respond.

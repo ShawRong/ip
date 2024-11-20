@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.501', 'data': '§ 164.501 Definitions. As used in this subpart, the following terms have the following meanings: '}, {'id': '164.508(a)(4)', 'data': '(4) Authorization required: Sale of protected health information. '}, {'id': '164.532', 'data': '§ 164.532 Transition provisions.'}, {'id': '164.508(a)(4)', 'data': '(4) Authorization required: Sale of protected health information. '}, {'id': '164.532', 'data': '§ 164.532 Transition provisions.'}, {'id': '164.501', 'data': '§ 164.501 Definitions. As used in this subpart, the following terms have the following meanings: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.508(a)(4)(i)', 'data': '(i) Notwithstanding any provision of this subpart, other than the transition provisions in § 164.532, a covered entity must obtain an authorization for any disclosure of protected health information which is a sale of protected health information, as defined in § 164.501 of this subpart. '}
+You may now respond.

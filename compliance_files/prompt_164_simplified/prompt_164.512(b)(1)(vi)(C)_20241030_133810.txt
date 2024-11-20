@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(b)(1)(vi)', 'data': '(vi) A school, about an individual who is a student or prospective student of the school, if: '}, {'id': '164.512(b)(1)(vi)(C)(1)', 'data': '(1) A parent, guardian, or other person acting in loco parentis of the individual, if the individual is an unemancipated minor; or '}, {'id': '164.512(b)(1)(vi)(C)(2)', 'data': '(2) The individual, if the individual is an adult or emancipated minor. '}, {'id': '164.512(b)(1)(vi)', 'data': '(vi) A school, about an individual who is a student or prospective student of the school, if: '}, {'id': '164.512(b)(1)(vi)(C)(1)', 'data': '(1) A parent, guardian, or other person acting in loco parentis of the individual, if the individual is an unemancipated minor; or '}, {'id': '164.512(b)(1)(vi)(C)(2)', 'data': '(2) The individual, if the individual is an adult or emancipated minor. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(b)(1)(vi)(C)', 'data': '(C) The covered entity obtains and documents the agreement to the disclosure from either: '}
+You may now respond.

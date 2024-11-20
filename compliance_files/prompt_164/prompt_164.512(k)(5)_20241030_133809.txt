@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(k)', 'data': '(k) Standard: Uses and disclosures for specialized government functions —'}, {'id': '164.512(k)(5)(i)', 'data': '(i) Permitted disclosures.  A covered entity may disclose to a correctional institution or a law enforcement official having lawful custody of an inmate or other individual protected health information about such inmate or individual, if the correctional institution or such law enforcement official represents that such protected health information is necessary for: '}, {'id': '164.512(k)(5)(ii)', 'data': '(ii) Permitted uses.  A covered entity that is a correctional institution may use protected health information of individuals who are inmates for any purpose for which such protected health information may be disclosed. '}, {'id': '164.512(k)(5)(iii)', 'data': '(iii) No application after release.  For the purposes of this provision, an individual is no longer an inmate when released on parole, probation, supervised release, or otherwise is no longer in lawful custody. '}, {'id': '164.528(a)(1)(vii)', 'data': '(vii) To correctional institutions or law enforcement officials as provided in § 164.512(k)(5); '}, {'id': '164.512(k)', 'data': '(k) Standard: Uses and disclosures for specialized government functions —'}, {'id': '164.512(k)(5)(i)', 'data': '(i) Permitted disclosures.  A covered entity may disclose to a correctional institution or a law enforcement official having lawful custody of an inmate or other individual protected health information about such inmate or individual, if the correctional institution or such law enforcement official represents that such protected health information is necessary for: '}, {'id': '164.512(k)(5)(ii)', 'data': '(ii) Permitted uses.  A covered entity that is a correctional institution may use protected health information of individuals who are inmates for any purpose for which such protected health information may be disclosed. '}, {'id': '164.512(k)(5)(iii)', 'data': '(iii) No application after release.  For the purposes of this provision, an individual is no longer an inmate when released on parole, probation, supervised release, or otherwise is no longer in lawful custody. '}, {'id': '164.528(a)(1)(vii)', 'data': '(vii) To correctional institutions or law enforcement officials as provided in § 164.512(k)(5); '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(k)(5)', 'data': '(5) Correctional institutions and other law enforcement custodial situations —'}
+You may now respond.

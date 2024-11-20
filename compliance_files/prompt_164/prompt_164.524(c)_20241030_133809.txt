@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.524', 'data': '§ 164.524 Access of individuals to protected health information.'}, {'id': '164.524(b)(2)(i)(A)', 'data': '(A) If the covered entity grants the request, in whole or in part, it must inform the individual of the acceptance of the request and provide the access requested, in accordance with paragraph (c) of this section. '}, {'id': '164.524(c)(1)', 'data': '(1) Providing the access requested.  The covered entity must provide the access requested by individuals, including inspection or obtaining a copy, or both, of the protected health information about them in designated record sets. If the same protected health information that is the subject of a request for access is maintained in more than one designated record set or at more than one location, the covered entity need only produce the protected health information once in response to a request for access. '}, {'id': '164.524(c)(2)', 'data': '(2) Form of access requested. '}, {'id': '164.524(c)(3)', 'data': '(3) Time and manner of access. '}, {'id': '164.524(c)(4)', 'data': '(4) Fees.  If the individual requests a copy of the protected health information or agrees to a summary or explanation of such information, the covered entity may impose a reasonable, cost-based fee, provided that the fee includes only the cost of: '}, {'id': '164.524', 'data': '§ 164.524 Access of individuals to protected health information.'}, {'id': '164.524(c)(1)', 'data': '(1) Providing the access requested.  The covered entity must provide the access requested by individuals, including inspection or obtaining a copy, or both, of the protected health information about them in designated record sets. If the same protected health information that is the subject of a request for access is maintained in more than one designated record set or at more than one location, the covered entity need only produce the protected health information once in response to a request for access. '}, {'id': '164.524(c)(2)', 'data': '(2) Form of access requested. '}, {'id': '164.524(c)(3)', 'data': '(3) Time and manner of access. '}, {'id': '164.524(c)(4)', 'data': '(4) Fees.  If the individual requests a copy of the protected health information or agrees to a summary or explanation of such information, the covered entity may impose a reasonable, cost-based fee, provided that the fee includes only the cost of: '}, {'id': '164.524(b)(2)(i)(A)', 'data': '(A) If the covered entity grants the request, in whole or in part, it must inform the individual of the acceptance of the request and provide the access requested, in accordance with paragraph (c) of this section. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.524(c)', 'data': '(c) Implementation specifications: Provision of access.  If the covered entity provides an individual with access, in whole or in part, to protected health information, the covered entity must comply with the following requirements. '}
+You may now respond.

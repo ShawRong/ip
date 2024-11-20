@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.520(c)(2)', 'data': '(2) Specific requirements for certain covered health care providers.  A covered health care provider that has a direct treatment relationship with an individual must: '}, {'id': '164.520(c)(2)(iii)', 'data': '(iii) If the covered health care provider maintains a physical service delivery site: '}, {'id': '164.520(c)(2)', 'data': '(2) Specific requirements for certain covered health care providers.  A covered health care provider that has a direct treatment relationship with an individual must: '}, {'id': '164.520(c)(2)(iii)', 'data': '(iii) If the covered health care provider maintains a physical service delivery site: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.520(c)(2)(iv)', 'data': '(iv) Whenever the notice is revised, make the notice available upon request on or after the effective date of the revision and promptly comply with the requirements of paragraph (c)(2)(iii) of this section, if applicable. '}
+You may now respond.

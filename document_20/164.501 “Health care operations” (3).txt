@@ -1,0 +1,10 @@
+# Law
+164.501 “Health care operations” (3)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any health information that can be used to identify an individual and is held by a health plan, which includes genetic information. Underwriting Purposes: This term relates to the activities involved in assessing risk for the issuance or renewal of health insurance contracts, including premium rating.
+# Key Legal Principles
+Non-Disclosure of Genetic Information: Under § 164.502(a)(5)(i), health plans are prohibited from using or disclosing genetic information for underwriting purposes. This principle aims to protect individuals from discrimination based on their genetic predispositions. Restricted Use of PHI for Underwriting: According to § 164.514(g), health plans may only use PHI received for underwriting purposes in a limited manner, adhering to legal requirements while respecting the prohibition on genetic information.
+# Application Scenarios
+An individual applies for health insurance and the insurer receives genetic test results. The insurer cannot use this information to determine eligibility or premiums due to the prohibition on genetic information use. A health plan conducts routine underwriting assessments but must ensure that any genetic information is excluded from the evaluation process to comply with the regulations.
+# Relationship to Overall Document Argument
+The provisions highlight the importance of safeguarding sensitive health information, particularly genetic data, from misuse in underwriting practices, thus reinforcing patient privacy rights. By delineating clear boundaries on the use of genetic information, the law supports broader anti-discrimination efforts in health insurance, ensuring that individuals are not unfairly treated based on their genetic background.

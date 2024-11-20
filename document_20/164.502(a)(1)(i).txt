@@ -1,0 +1,10 @@
+# Law
+164.502(a)(1)(i)
+# Key Legal Concepts
+**Covered Entities**: Entities that are subject to the regulations governing the use and disclosure of protected health information (PHI) under HIPAA. This includes health care providers, health plans, and health care clearinghouses. **Protected Health Information (PHI)**: Any information about health status, provision of health care, or payment for health care that can be linked to an individual, ensuring the confidentiality and security of this data.
+# Key Legal Principles
+**Permitted Uses and Disclosures**: Covered entities are allowed to use or disclose PHI under specific conditions, particularly when it is to the benefit of the individual, such as providing them with their own health information. **Individual Rights**: Individuals have the right to access their own health information, reinforcing the principle that they should have control over their personal health data.
+# Application Scenarios
+An individual requests access to their medical records from their health care provider, and the provider complies as permitted under the law. A healthcare organization discloses a patient’s health information directly to them for the purposes of ensuring they understand their treatment options.
+# Relationship to Overall Document Argument
+This law establishes the foundational right of individuals to access their own health information, which is critical for informed decision-making regarding their health care. It supports the broader framework of patient rights and confidentiality in health care, emphasizing the importance of transparency and individual autonomy in health-related matters.

@@ -1,0 +1,10 @@
+# Law
+164.501
+# Key Legal Concepts
+Protected Health Information (PHI): Information that relates to the health status, provision of health care, or payment for health care that can identify an individual. Business Associate: A person or entity that performs certain functions or activities on behalf of a covered entity that involves the use or disclosure of protected health information. Data Aggregation: The process by which a business associate combines PHI from multiple covered entities for the purpose of analysis related to health care operations. Health Care Operations: Activities related to the administration of health care services, including quality assessment, case management, and training. Authorization: A documented permission from an individual to disclose their PHI for a specific purpose, which must be obtained by covered entities before certain disclosures.
+# Key Legal Principles
+Confidentiality: The principle that PHI must be kept confidential and disclosed only in accordance with legal standards. Informed Consent: Individuals must be informed about how their PHI will be used and must consent to its disclosure. Limitation of Use: PHI should only be used for the purposes for which it was collected, and any disclosure should be limited to the minimum necessary to achieve that purpose. Accountability: Covered entities and business associates are responsible for safeguarding PHI and can be held liable for breaches.
+# Application Scenarios
+A health care provider discloses PHI to a billing service (a business associate) to process patient claims. A research organization aggregates PHI from several hospitals to conduct a study on patient outcomes.
+# Relationship to Overall Document Argument
+This law establishes foundational definitions that clarify the roles and responsibilities of entities handling PHI, promoting accountability and compliance. Understanding these definitions is essential for interpreting other provisions related to privacy and security of health information, ensuring that all stakeholders are aware of their legal obligations.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.522(a)(1)', 'data': '(1) Standard: Right of an individual to request restriction of uses and disclosures. '}, {'id': '164.522(a)(1)(ii)', 'data': '(ii) Except as provided in paragraph (a)(1)(vi) of this section, a covered entity is not required to agree to a restriction. '}, {'id': '164.522(a)(1)(vi)(A)', 'data': '(A) The disclosure is for the purpose of carrying out payment or health care operations and is not otherwise required by law; and '}, {'id': '164.522(a)(1)(vi)(B)', 'data': '(B) The protected health information pertains solely to a health care item or service for which the individual, or person other than the health plan on behalf of the individual, has paid the covered entity in full. '}, {'id': '164.522(a)(2)(iii)(A)', 'data': '(A) Not effective for protected health information restricted under paragraph (a)(1)(vi) of this section; and '}, {'id': '164.522(a)(1)', 'data': '(1) Standard: Right of an individual to request restriction of uses and disclosures. '}, {'id': '164.522(a)(1)(vi)(A)', 'data': '(A) The disclosure is for the purpose of carrying out payment or health care operations and is not otherwise required by law; and '}, {'id': '164.522(a)(1)(vi)(B)', 'data': '(B) The protected health information pertains solely to a health care item or service for which the individual, or person other than the health plan on behalf of the individual, has paid the covered entity in full. '}, {'id': '164.522(a)(1)(ii)', 'data': '(ii) Except as provided in paragraph (a)(1)(vi) of this section, a covered entity is not required to agree to a restriction. '}, {'id': '164.522(a)(2)(iii)(A)', 'data': '(A) Not effective for protected health information restricted under paragraph (a)(1)(vi) of this section; and '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.522(a)(1)(vi)', 'data': '(vi) A covered entity must agree to the request of an individual to restrict disclosure of protected health information about the individual to a health plan if: '}
+You may now respond.

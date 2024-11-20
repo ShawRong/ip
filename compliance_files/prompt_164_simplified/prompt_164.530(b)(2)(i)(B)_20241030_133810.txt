@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.530(b)(2)(i)', 'data': '(i) A covered entity must provide training that meets the requirements of paragraph (b)(1) of this section, as follows: '}, {'id': '164.530(b)(2)(i)', 'data': '(i) A covered entity must provide training that meets the requirements of paragraph (b)(1) of this section, as follows: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(b)(2)(i)(B)', 'data': '(B) Thereafter, to each new member of the workforce within a reasonable period of time after the person joins the covered entity's workforce; and '}
+You may now respond.

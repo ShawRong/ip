@@ -1,0 +1,10 @@
+# Law
+160.103(Transaction)(1)
+# Key Legal Concepts
+Transaction: This term refers to the transmission of information between two parties for carrying out financial or administrative activities related to health care. It encompasses various types of information exchanges necessary for processing health care claims. Health care claims: These are formal requests for payment or reimbursement for services provided by health care professionals, submitted to insurers or payers.
+# Key Legal Principles
+Confidentiality: The legal principle that requires the protection of patient information during transactions to ensure privacy and compliance with health care regulations. Accuracy: The obligation to ensure that the information transmitted in health care claims is accurate and complete to avoid disputes and ensure timely payments.
+# Application Scenarios
+Submitting a health care claim to an insurance company for a recent medical procedure. Exchanging encounter information between a health care provider and a payer for the purpose of reimbursement.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of clear definitions and processes related to transactions in health care, establishing a foundation for efficient claims processing. By defining health care claims within the context of transactions, it highlights the legal framework necessary for ensuring compliance and protecting patient rights.

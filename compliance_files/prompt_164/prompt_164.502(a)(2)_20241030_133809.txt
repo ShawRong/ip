@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)', 'data': '(a) Standard.  A covered entity or business associate may not use or disclose protected health information, except as permitted or required by this subpart or by subpart C of part 160 of this subchapter. '}, {'id': '164.502(a)(2)(i)', 'data': '(i) To an individual, when requested under, and required by § 164.524 or § 164.528; and '}, {'id': '164.502(a)(2)(ii)', 'data': '(ii) When required by the Secretary under subpart C of part 160 of this subchapter to investigate or determine the covered entity's compliance with this subchapter. '}, {'id': '164.502(a)', 'data': '(a) Standard.  A covered entity or business associate may not use or disclose protected health information, except as permitted or required by this subpart or by subpart C of part 160 of this subchapter. '}, {'id': '164.502(a)(2)(i)', 'data': '(i) To an individual, when requested under, and required by § 164.524 or § 164.528; and '}, {'id': '164.502(a)(2)(ii)', 'data': '(ii) When required by the Secretary under subpart C of part 160 of this subchapter to investigate or determine the covered entity's compliance with this subchapter. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(a)(2)', 'data': '(2) Covered entities: Required disclosures.  A covered entity is required to disclose protected health information: '}
+You may now respond.

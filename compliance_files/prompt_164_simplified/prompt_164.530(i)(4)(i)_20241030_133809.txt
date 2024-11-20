@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.530(i)(2)(ii)', 'data': '(ii) When a covered entity changes a privacy practice that is stated in the notice described in § 164.520, and makes corresponding changes to its policies and procedures, it may make the changes effective for protected health information that it created or received prior to the effective date of the notice revision, if the covered entity has, in accordance with § 164.520(b)(1)(v)(C), included in the notice a statement reserving its right to make such a change in its privacy practices; or '}, {'id': '164.530(i)(4)', 'data': '(4) Implementation specifications: Changes to privacy practices stated in the notice. '}, {'id': '164.530(i)(4)(i)(A)', 'data': '(A) Ensure that the policy or procedure, as revised to reflect a change in the covered entity's privacy practice as stated in its notice, complies with the standards, requirements, and implementation specifications of this subpart; '}, {'id': '164.530(i)(4)(i)(B)', 'data': '(B) Document the policy or procedure, as revised, as required by paragraph (j) of this section; and '}, {'id': '164.530(i)(4)(i)(C)', 'data': '(C) Revise the notice as required by § 164.520(b)(3) to state the changed practice and make the revised notice available as required by § 164.520(c). The covered entity may not implement a change to a policy or procedure prior to the effective date of the revised notice. '}, {'id': '164.530(i)(4)', 'data': '(4) Implementation specifications: Changes to privacy practices stated in the notice. '}, {'id': '164.530(i)(4)(i)(A)', 'data': '(A) Ensure that the policy or procedure, as revised to reflect a change in the covered entity's privacy practice as stated in its notice, complies with the standards, requirements, and implementation specifications of this subpart; '}, {'id': '164.530(i)(4)(i)(B)', 'data': '(B) Document the policy or procedure, as revised, as required by paragraph (j) of this section; and '}, {'id': '164.530(i)(4)(i)(C)', 'data': '(C) Revise the notice as required by § 164.520(b)(3) to state the changed practice and make the revised notice available as required by § 164.520(c). The covered entity may not implement a change to a policy or procedure prior to the effective date of the revised notice. '}, {'id': '164.530(i)(2)(ii)', 'data': '(ii) When a covered entity changes a privacy practice that is stated in the notice described in § 164.520, and makes corresponding changes to its policies and procedures, it may make the changes effective for protected health information that it created or received prior to the effective date of the notice revision, if the covered entity has, in accordance with § 164.520(b)(1)(v)(C), included in the notice a statement reserving its right to make such a change in its privacy practices; or '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.530(i)(4)(i)', 'data': '(i) To implement a change as provided by paragraph (i)(2)(ii) of this section, a covered entity must: '}
+You may now respond.

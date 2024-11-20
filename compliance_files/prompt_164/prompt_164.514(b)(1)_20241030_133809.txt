@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.514(b)', 'data': '(b) Implementation specifications: Requirements for de-identification of protected health information.  A covered entity may determine that health information is not individually identifiable health information only if: '}, {'id': '164.514(b)(1)(i)', 'data': '(i) Applying such principles and methods, determines that the risk is very small that the information could be used, alone or in combination with other reasonably available information, by an anticipated recipient to identify an individual who is a subject of the information; and '}, {'id': '164.514(b)(1)(ii)', 'data': '(ii) Documents the methods and results of the analysis that justify such determination; or '}, {'id': '164.514(b)', 'data': '(b) Implementation specifications: Requirements for de-identification of protected health information.  A covered entity may determine that health information is not individually identifiable health information only if: '}, {'id': '164.514(b)(1)(i)', 'data': '(i) Applying such principles and methods, determines that the risk is very small that the information could be used, alone or in combination with other reasonably available information, by an anticipated recipient to identify an individual who is a subject of the information; and '}, {'id': '164.514(b)(1)(ii)', 'data': '(ii) Documents the methods and results of the analysis that justify such determination; or '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.514(b)(1)', 'data': '(1) A person with appropriate knowledge of and experience with generally accepted statistical and scientific principles and methods for rendering information not individually identifiable: '}
+You may now respond.

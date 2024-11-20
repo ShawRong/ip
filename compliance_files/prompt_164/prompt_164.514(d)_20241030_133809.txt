@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)(1)(iii)', 'data': '(iii) Incident to a use or disclosure otherwise permitted or required by this subpart, provided that the covered entity has complied with the applicable requirements of §§ 164.502(b), 164.514(d), and 164.530(c) with respect to such otherwise permitted or required use or disclosure; '}, {'id': '164.514', 'data': '§ 164.514 Other requirements relating to uses and disclosures of protected health information.'}, {'id': '164.514(d)(1)', 'data': '(1) Standard: minimum necessary requirements.  In order to comply with § 164.502(b) and this section, a covered entity must meet the requirements of paragraphs (d)(2) through (d)(5) of this section with respect to a request for, or the use and disclosure of, protected health information. '}, {'id': '164.514(d)(2)', 'data': '(2) Implementation specifications: Minimum necessary uses of protected health information. '}, {'id': '164.514(d)(3)', 'data': '(3) Implementation specification: Minimum necessary disclosures of protected health information. '}, {'id': '164.514(d)(4)', 'data': '(4) Implementation specifications: Minimum necessary requests for protected health information. '}, {'id': '164.514(d)(5)', 'data': '(5) Implementation specification: Other content requirement.  For all uses, disclosures, or requests to which the requirements in paragraph (d) of this section apply, a covered entity may not use, disclose or request an entire medical record, except when the entire medical record is specifically justified as the amount that is reasonably necessary to accomplish the purpose of the use, disclosure, or request. '}, {'id': '164.514', 'data': '§ 164.514 Other requirements relating to uses and disclosures of protected health information.'}, {'id': '164.514(d)(1)', 'data': '(1) Standard: minimum necessary requirements.  In order to comply with § 164.502(b) and this section, a covered entity must meet the requirements of paragraphs (d)(2) through (d)(5) of this section with respect to a request for, or the use and disclosure of, protected health information. '}, {'id': '164.514(d)(2)', 'data': '(2) Implementation specifications: Minimum necessary uses of protected health information. '}, {'id': '164.514(d)(3)', 'data': '(3) Implementation specification: Minimum necessary disclosures of protected health information. '}, {'id': '164.514(d)(4)', 'data': '(4) Implementation specifications: Minimum necessary requests for protected health information. '}, {'id': '164.514(d)(5)', 'data': '(5) Implementation specification: Other content requirement.  For all uses, disclosures, or requests to which the requirements in paragraph (d) of this section apply, a covered entity may not use, disclose or request an entire medical record, except when the entire medical record is specifically justified as the amount that is reasonably necessary to accomplish the purpose of the use, disclosure, or request. '}, {'id': '164.502(a)(1)(iii)', 'data': '(iii) Incident to a use or disclosure otherwise permitted or required by this subpart, provided that the covered entity has complied with the applicable requirements of §§ 164.502(b), 164.514(d), and 164.530(c) with respect to such otherwise permitted or required use or disclosure; '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.514(d)', 'data': '(d) '}
+You may now respond.

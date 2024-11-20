@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(ii)(B)(2)
+# Key Legal Concepts
+Sale of protected health information: This concept pertains to the transfer of protected health information (PHI) by covered entities or business associates in exchange for remuneration, outlining the circumstances under which such transactions are considered a sale. Protected health information (PHI): This refers to any health information that can be used to identify an individual, which is protected under privacy laws, particularly HIPAA.
+# Key Legal Principles
+Disclosure limitations: The law specifies that certain disclosures of PHI are not considered sales and therefore do not require the same level of scrutiny or restrictions as sales of PHI. Permissible disclosures: The law lists specific circumstances under which PHI can be disclosed without it being classified as a sale, such as for public health, research, treatment, and other specified purposes.
+# Application Scenarios
+A healthcare organization providing data to a public health agency for surveillance purposes, which would not be considered a sale. A research institution receiving PHI for a study, wherein the only remuneration is a reasonable fee for the preparation of the data, thus exempting it from sale classification.
+# Relationship to Overall Document Argument
+This provision clarifies the boundaries of what constitutes a sale of PHI, thereby protecting patient privacy while allowing for necessary disclosures in certain contexts. It ensures that covered entities and business associates understand their obligations and the permissible uses of PHI without crossing into the realm of 'sale,' which could have more stringent legal implications.

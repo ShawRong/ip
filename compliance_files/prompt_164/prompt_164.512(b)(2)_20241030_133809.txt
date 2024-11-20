@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(b)', 'data': '(b) Standard: Uses and disclosures for public health activities —'}, {'id': '164.512(b)(1)', 'data': '(1) Permitted uses and disclosures.  A covered entity may use or disclose protected health information for the public health activities and purposes described in this paragraph to: '}, {'id': '164.512(b)', 'data': '(b) Standard: Uses and disclosures for public health activities —'}, {'id': '164.512(b)(1)', 'data': '(1) Permitted uses and disclosures.  A covered entity may use or disclose protected health information for the public health activities and purposes described in this paragraph to: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(b)(2)', 'data': '(2) Permitted uses.  If the covered entity also is a public health authority, the covered entity is permitted to use protected health information in all cases in which it is permitted to disclose such information for public health activities under paragraph (b)(1) of this section. '}
+You may now respond.

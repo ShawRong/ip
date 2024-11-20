@@ -1,0 +1,10 @@
+# Law
+164.502(j)(2)(i)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual, which is safeguarded under laws like HIPAA. Covered Entity: This term refers to organizations that handle PHI, such as health care providers, health plans, and healthcare clearinghouses, and are subject to compliance with privacy regulations.
+# Key Legal Principles
+Disclosure Exception: A covered entity does not violate privacy regulations when a workforce member discloses PHI to law enforcement if the disclosure is about the suspected perpetrator of a crime. Victim Rights: This principle emphasizes the rights of individuals who are victims of crimes to share relevant information with authorities without penalization of their employer or health care entity.
+# Application Scenarios
+A nurse discloses information about a patient who is a suspect in a violent crime to law enforcement after being a victim of that crime, ensuring the information shared pertains specifically to the perpetrator. A hospital staff member who was assaulted provides details about the assailant, which includes relevant health information linked to the suspect, to police investigating the incident.
+# Relationship to Overall Document Argument
+This provision supports the idea that protecting victims' rights and enabling law enforcement to apprehend suspects is crucial, even within the framework of health information privacy. It reinforces the balance between individual privacy rights and public safety needs, illustrating that certain disclosures are permissible under specific circumstances.

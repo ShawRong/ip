@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.514(b)(2)(i)', 'data': '(i) The following identifiers of the individual or of relatives, employers, or household members of the individual, are removed: '}, {'id': '164.514(b)(2)(i)(B)(1)', 'data': '(1) The geographic unit formed by combining all zip codes with the same three initial digits contains more than 20,000 people; and '}, {'id': '164.514(b)(2)(i)(B)(2)', 'data': '(2) The initial three digits of a zip code for all such geographic units containing 20,000 or fewer people is changed to 000. '}, {'id': '164.504(a) “Summary health information” (2)', 'data': 'None'}, {'id': '164.514(b)(2)(i)', 'data': '(i) The following identifiers of the individual or of relatives, employers, or household members of the individual, are removed: '}, {'id': '164.514(b)(2)(i)(B)(1)', 'data': '(1) The geographic unit formed by combining all zip codes with the same three initial digits contains more than 20,000 people; and '}, {'id': '164.514(b)(2)(i)(B)(2)', 'data': '(2) The initial three digits of a zip code for all such geographic units containing 20,000 or fewer people is changed to 000. '}, {'id': '164.504(a) “Summary health information” (2)', 'data': 'None'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.514(b)(2)(i)(B)', 'data': '(B) All geographic subdivisions smaller than a State, including street address, city, county, precinct, zip code, and their equivalent geocodes, except for the initial three digits of a zip code if, according to the current publicly available data from the Bureau of the Census: '}
+You may now respond.

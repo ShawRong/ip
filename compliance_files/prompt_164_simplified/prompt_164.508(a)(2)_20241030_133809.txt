@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.506(a)', 'data': '(a) Standard: Permitted uses and disclosures.  Except with respect to uses or disclosures that require an authorization under § 164.508(a)(2) through (4) or that are prohibited under § 164.502(a)(5)(i), a covered entity may use or disclose protected health information for treatment, payment, or health care operations as set forth in paragraph (c) of this section, provided that such use or disclosure is consistent with other applicable requirements of this subpart. '}, {'id': '164.508(a)', 'data': '(a) Standard: Authorizations for uses and disclosures —'}, {'id': '164.508(a)(2)(i)', 'data': '(i) To carry out the following treatment, payment, or health care operations: '}, {'id': '164.508(a)(2)(ii)', 'data': '(ii) A use or disclosure that is required by § 164.502(a)(2)(ii) or permitted by § 164.512(a); § 164.512(d) with respect to the oversight of the originator of the psychotherapy notes; § 164.512(g)(1); or § 164.512(j)(1)(i). '}, {'id': '164.508(b)(4)(ii)(B)', 'data': '(B) The authorization is not for a use or disclosure of psychotherapy notes under paragraph (a)(2) of this section; and '}, {'id': '164.520(b)(1)(ii)(E)', 'data': '(E) A description of the types of uses and disclosures that require an authorization under § 164.508(a)(2)–(a)(4), a statement that other uses and disclosures not described in the notice will be made only with the individual's written authorization, and a statement that the individual may revoke an authorization as provided by § 164.508(b)(5). '}, {'id': '164.532', 'data': '§ 164.532 Transition provisions.'}, {'id': '164.508(a)', 'data': '(a) Standard: Authorizations for uses and disclosures —'}, {'id': '164.508(a)(2)(i)', 'data': '(i) To carry out the following treatment, payment, or health care operations: '}, {'id': '164.508(a)(2)(ii)', 'data': '(ii) A use or disclosure that is required by § 164.502(a)(2)(ii) or permitted by § 164.512(a); § 164.512(d) with respect to the oversight of the originator of the psychotherapy notes; § 164.512(g)(1); or § 164.512(j)(1)(i). '}, {'id': '164.506(a)', 'data': '(a) Standard: Permitted uses and disclosures.  Except with respect to uses or disclosures that require an authorization under § 164.508(a)(2) through (4) or that are prohibited under § 164.502(a)(5)(i), a covered entity may use or disclose protected health information for treatment, payment, or health care operations as set forth in paragraph (c) of this section, provided that such use or disclosure is consistent with other applicable requirements of this subpart. '}, {'id': '164.532', 'data': '§ 164.532 Transition provisions.'}, {'id': '164.508(b)(4)(ii)(B)', 'data': '(B) The authorization is not for a use or disclosure of psychotherapy notes under paragraph (a)(2) of this section; and '}, {'id': '164.520(b)(1)(ii)(E)', 'data': '(E) A description of the types of uses and disclosures that require an authorization under § 164.508(a)(2)–(a)(4), a statement that other uses and disclosures not described in the notice will be made only with the individual's written authorization, and a statement that the individual may revoke an authorization as provided by § 164.508(b)(5). '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.508(a)(2)', 'data': '(2) Authorization required: Psychotherapy notes.  Notwithstanding any provision of this subpart, other than the transition provisions in § 164.532, a covered entity must obtain an authorization for any use or disclosure of psychotherapy notes, except: '}
+You may now respond.

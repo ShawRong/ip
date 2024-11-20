@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)(5)(ii)', 'data': '(ii) Sale of protected health information: '}, {'id': '164.508(a)(4)', 'data': '(4) Authorization required: Sale of protected health information. '}, {'id': '164.502(a)(5)(ii)', 'data': '(ii) Sale of protected health information: '}, {'id': '164.508(a)(4)', 'data': '(4) Authorization required: Sale of protected health information. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.502(a)(5)(ii)(A)', 'data': '(A) Except pursuant to and in compliance with § 164.508(a)(4), a covered entity or business associate may not sell protected health information. '}
+You may now respond.

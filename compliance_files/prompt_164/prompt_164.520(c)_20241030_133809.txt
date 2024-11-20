@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.520', 'data': '§ 164.520 Notice of privacy practices for protected health information.'}, {'id': '164.520(c)(1)', 'data': '(1) Specific requirements for health plans. '}, {'id': '164.520(c)(2)', 'data': '(2) Specific requirements for certain covered health care providers.  A covered health care provider that has a direct treatment relationship with an individual must: '}, {'id': '164.520(c)(3)', 'data': '(3) Specific requirements for electronic notice. '}, {'id': '164.520(c)(3)(ii)', 'data': '(ii) A covered entity may provide the notice required by this section to an individual by e-mail, if the individual agrees to electronic notice and such agreement has not been withdrawn. If the covered entity knows that the e-mail transmission has failed, a paper copy of the notice must be provided to the individual. Provision of electronic notice by the covered entity will satisfy the provision requirements of paragraph (c) of this section when timely made in accordance with paragraph (c)(1) or (2) of this section. '}, {'id': '164.520(d)(3)', 'data': '(3) The covered entities included in the joint notice must provide the notice to individuals in accordance with the applicable implementation specifications of paragraph (c) of this section. Provision of the joint notice to an individual by any one of the covered entities included in the joint notice will satisfy the provision requirement of paragraph (c) of this section with respect to all others covered by the joint notice. '}, {'id': '164.530(i)(4)(i)(C)', 'data': '(C) Revise the notice as required by § 164.520(b)(3) to state the changed practice and make the revised notice available as required by § 164.520(c). The covered entity may not implement a change to a policy or procedure prior to the effective date of the revised notice. '}, {'id': '164.520', 'data': '§ 164.520 Notice of privacy practices for protected health information.'}, {'id': '164.520(c)(1)', 'data': '(1) Specific requirements for health plans. '}, {'id': '164.520(c)(2)', 'data': '(2) Specific requirements for certain covered health care providers.  A covered health care provider that has a direct treatment relationship with an individual must: '}, {'id': '164.520(c)(3)', 'data': '(3) Specific requirements for electronic notice. '}, {'id': '164.520(c)(3)(ii)', 'data': '(ii) A covered entity may provide the notice required by this section to an individual by e-mail, if the individual agrees to electronic notice and such agreement has not been withdrawn. If the covered entity knows that the e-mail transmission has failed, a paper copy of the notice must be provided to the individual. Provision of electronic notice by the covered entity will satisfy the provision requirements of paragraph (c) of this section when timely made in accordance with paragraph (c)(1) or (2) of this section. '}, {'id': '164.520(d)(3)', 'data': '(3) The covered entities included in the joint notice must provide the notice to individuals in accordance with the applicable implementation specifications of paragraph (c) of this section. Provision of the joint notice to an individual by any one of the covered entities included in the joint notice will satisfy the provision requirement of paragraph (c) of this section with respect to all others covered by the joint notice. '}, {'id': '164.530(i)(4)(i)(C)', 'data': '(C) Revise the notice as required by § 164.520(b)(3) to state the changed practice and make the revised notice available as required by § 164.520(c). The covered entity may not implement a change to a policy or procedure prior to the effective date of the revised notice. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.520(c)', 'data': '(c) Implementation specifications: Provision of notice.  A covered entity must make the notice required by this section available on request to any person and to individuals as specified in paragraphs (c)(1) through (c)(3) of this section, as applicable. '}
+You may now respond.

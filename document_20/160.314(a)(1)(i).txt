@@ -1,0 +1,10 @@
+# Law
+160.314(a)(1)(i)
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual or entity to appear in court or produce evidence. Addressing: The requirement that a subpoena must clearly state the name of the person or entity to whom it is directed, ensuring proper notification.
+# Key Legal Principles
+Due Process: The principle that individuals must be given fair notice of legal actions affecting their rights. Clarity and Specificity: The necessity for legal documents, such as subpoenas, to be clear and specific to avoid confusion and ensure compliance.
+# Application Scenarios
+A court issues a subpoena to a corporation requiring them to produce financial records for a legal proceeding. A lawyer submits a subpoena to an individual witness to compel them to testify in a trial.
+# Relationship to Overall Document Argument
+This law emphasizes the procedural correctness in issuing subpoenas, which is crucial to uphold legal standards and ensure that individuals or entities are properly informed. It supports the principle of accountability by mandating that subpoenas are directed at specific parties, reinforcing the integrity of the legal process.

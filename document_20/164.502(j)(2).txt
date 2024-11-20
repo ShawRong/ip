@@ -1,0 +1,10 @@
+# Law
+164.502(j)(2)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual, and is subject to privacy protections under HIPAA. **Whistleblower Protections**: Legal safeguards are in place to protect individuals who report misconduct or illegal activities, allowing for disclosures without fear of retaliation.
+# Key Legal Principles
+**Limited Disclosure**: A covered entity is allowed to disclose PHI if it is in the context of a criminal act and is specifically limited to information about the suspected perpetrator. **Good Faith Reporting**: Disclosures made by workforce members who are victims of crime are protected when made in good faith to law enforcement, promoting transparency and accountability.
+# Application Scenarios
+A nurse who witnesses a colleague committing a crime and discloses relevant information about that colleague to law enforcement without facing repercussions. A healthcare worker who is a victim of a crime can report the incident and share necessary health information about the suspected perpetrator to the police.
+# Relationship to Overall Document Argument
+This provision emphasizes the importance of enabling victims to report crimes without compromising their own rights or facing penalties under HIPAA. It aligns with broader legal frameworks that encourage reporting of criminal activities while maintaining necessary privacy protections for individuals.

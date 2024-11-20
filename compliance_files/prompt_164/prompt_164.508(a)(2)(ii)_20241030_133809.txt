@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.502(a)(2)(ii)', 'data': '(ii) When required by the Secretary under subpart C of part 160 of this subchapter to investigate or determine the covered entity's compliance with this subchapter. '}, {'id': '164.508(a)(2)', 'data': '(2) Authorization required: Psychotherapy notes.  Notwithstanding any provision of this subpart, other than the transition provisions in § 164.532, a covered entity must obtain an authorization for any use or disclosure of psychotherapy notes, except: '}, {'id': '164.512(a)', 'data': '(a) Standard: Uses and disclosures required by law. '}, {'id': '164.512(d)', 'data': '(d) Standard: Uses and disclosures for health oversight activities —'}, {'id': '164.512(g)(1)', 'data': '(1) Coroners and medical examiners.  A covered entity may disclose protected health information to a coroner or medical examiner for the purpose of identifying a deceased person, determining a cause of death, or other duties as authorized by law. A covered entity that also performs the duties of a coroner or medical examiner may use protected health information for the purposes described in this paragraph. '}, {'id': '164.512(j)(1)(i)', 'data': '(i) '}, {'id': '164.508(a)(2)', 'data': '(2) Authorization required: Psychotherapy notes.  Notwithstanding any provision of this subpart, other than the transition provisions in § 164.532, a covered entity must obtain an authorization for any use or disclosure of psychotherapy notes, except: '}, {'id': '164.502(a)(2)(ii)', 'data': '(ii) When required by the Secretary under subpart C of part 160 of this subchapter to investigate or determine the covered entity's compliance with this subchapter. '}, {'id': '164.512(a)', 'data': '(a) Standard: Uses and disclosures required by law. '}, {'id': '164.512(d)', 'data': '(d) Standard: Uses and disclosures for health oversight activities —'}, {'id': '164.512(g)(1)', 'data': '(1) Coroners and medical examiners.  A covered entity may disclose protected health information to a coroner or medical examiner for the purpose of identifying a deceased person, determining a cause of death, or other duties as authorized by law. A covered entity that also performs the duties of a coroner or medical examiner may use protected health information for the purposes described in this paragraph. '}, {'id': '164.512(j)(1)(i)', 'data': '(i) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.508(a)(2)(ii)', 'data': '(ii) A use or disclosure that is required by § 164.502(a)(2)(ii) or permitted by § 164.512(a); § 164.512(d) with respect to the oversight of the originator of the psychotherapy notes; § 164.512(g)(1); or § 164.512(j)(1)(i). '}
+You may now respond.

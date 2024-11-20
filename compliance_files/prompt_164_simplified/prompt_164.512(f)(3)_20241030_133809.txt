@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(b)', 'data': '(b) Standard: Uses and disclosures for public health activities —'}, {'id': '164.512(c)', 'data': '(c) Standard: Disclosures about victims of abuse, neglect or domestic violence —'}, {'id': '164.512(f)', 'data': '(f) Standard: Disclosures for law enforcement purposes.  A covered entity may disclose protected health information for a law enforcement purpose to a law enforcement official if the conditions in paragraphs (f)(1) through (f)(6) of this section are met, as applicable. '}, {'id': '164.512(f)(1)', 'data': '(1) Permitted disclosures: Pursuant to process and as otherwise required by law.  A covered entity may disclose protected health information: '}, {'id': '164.512(f)(3)(i)', 'data': '(i) The individual agrees to the disclosure; or '}, {'id': '164.512(f)(3)(ii)', 'data': '(ii) The covered entity is unable to obtain the individual's agreement because of incapacity or other emergency circumstance, provided that: '}, {'id': '164.512(f)', 'data': '(f) Standard: Disclosures for law enforcement purposes.  A covered entity may disclose protected health information for a law enforcement purpose to a law enforcement official if the conditions in paragraphs (f)(1) through (f)(6) of this section are met, as applicable. '}, {'id': '164.512(f)(3)(i)', 'data': '(i) The individual agrees to the disclosure; or '}, {'id': '164.512(f)(3)(ii)', 'data': '(ii) The covered entity is unable to obtain the individual's agreement because of incapacity or other emergency circumstance, provided that: '}, {'id': '164.512(f)(1)', 'data': '(1) Permitted disclosures: Pursuant to process and as otherwise required by law.  A covered entity may disclose protected health information: '}, {'id': '164.512(b)', 'data': '(b) Standard: Uses and disclosures for public health activities —'}, {'id': '164.512(c)', 'data': '(c) Standard: Disclosures about victims of abuse, neglect or domestic violence —'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(f)(3)', 'data': '(3) Permitted disclosure: Victims of a crime.  Except for disclosures required by law as permitted by paragraph (f)(1) of this section, a covered entity may disclose protected health information in response to a law enforcement official's request for such information about an individual who is or is suspected to be a victim of a crime, other than disclosures that are subject to paragraph (b) or (c) of this section, if: '}
+You may now respond.

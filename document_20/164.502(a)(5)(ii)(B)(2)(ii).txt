@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(ii)(B)(2)(ii)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. Reasonable Cost-Based Fee: A fee that reflects the actual costs incurred by the covered entity or business associate in preparing and transmitting PHI, ensuring that remuneration does not exceed necessary expenses.
+# Key Legal Principles
+Permissible Use of PHI: The law allows for the use and disclosure of PHI for research purposes under specific conditions, promoting medical advancements while protecting individual privacy. Limitations on Remuneration: The regulation restricts the types of financial compensation that can be received in exchange for PHI, ensuring that any remuneration is not profit-driven but rather covers necessary expenses.
+# Application Scenarios
+A hospital may share patient data with a research organization if the only payment received is to cover the costs of data preparation and transmission. A business associate processing health information for a clinical trial can charge only for the actual costs incurred, such as labor and materials, without making a profit.
+# Relationship to Overall Document Argument
+This law emphasizes the balance between facilitating research and protecting the privacy of individuals by strictly regulating how PHI can be used and disclosed. It reinforces the ethical framework surrounding health information by ensuring that compensation for PHI is strictly limited to cost recovery, thereby preventing exploitation.

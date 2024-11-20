@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.506(b)', 'data': '(b) Standard: Consent for uses and disclosures permitted. '}, {'id': '164.508', 'data': '§ 164.508 Uses and disclosures for which an authorization is required.'}, {'id': '164.506(b)', 'data': '(b) Standard: Consent for uses and disclosures permitted. '}, {'id': '164.508', 'data': '§ 164.508 Uses and disclosures for which an authorization is required.'}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.506(b)(2)', 'data': '(2) Consent, under paragraph (b) of this section, shall not be effective to permit a use or disclosure of protected health information when an authorization, under § 164.508, is required or when another condition must be met for such use or disclosure to be permissible under this subpart. '}
+You may now respond.

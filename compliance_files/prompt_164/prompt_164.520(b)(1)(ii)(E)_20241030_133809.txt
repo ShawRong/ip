@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.508(a)(2)', 'data': '(2) Authorization required: Psychotherapy notes.  Notwithstanding any provision of this subpart, other than the transition provisions in § 164.532, a covered entity must obtain an authorization for any use or disclosure of psychotherapy notes, except: '}, {'id': '164.508(b)(5)', 'data': '(5) Revocation of authorizations.  An individual may revoke an authorization provided under this section at any time, provided that the revocation is in writing, except to the extent that: '}, {'id': '164.520(b)(1)(ii)', 'data': '(ii) Uses and disclosures.  The notice must contain: '}, {'id': '164.520(b)(1)(ii)', 'data': '(ii) Uses and disclosures.  The notice must contain: '}, {'id': '164.508(a)(2)', 'data': '(2) Authorization required: Psychotherapy notes.  Notwithstanding any provision of this subpart, other than the transition provisions in § 164.532, a covered entity must obtain an authorization for any use or disclosure of psychotherapy notes, except: '}, {'id': '164.508(b)(5)', 'data': '(5) Revocation of authorizations.  An individual may revoke an authorization provided under this section at any time, provided that the revocation is in writing, except to the extent that: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.520(b)(1)(ii)(E)', 'data': '(E) A description of the types of uses and disclosures that require an authorization under § 164.508(a)(2)–(a)(4), a statement that other uses and disclosures not described in the notice will be made only with the individual's written authorization, and a statement that the individual may revoke an authorization as provided by § 164.508(b)(5). '}
+You may now respond.

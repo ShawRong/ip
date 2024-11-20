@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.524(a)', 'data': '(a) Standard: Access to protected health information —'}, {'id': '164.524(a)(1)(i)', 'data': '(i) Psychotherapy notes; and '}, {'id': '164.524(a)(1)(ii)', 'data': '(ii) Information compiled in reasonable anticipation of, or for use in, a civil, criminal, or administrative action or proceeding. '}, {'id': '164.524(a)(2)', 'data': '(2) Unreviewable grounds for denial.  A covered entity may deny an individual access without providing the individual an opportunity for review, in the following circumstances. '}, {'id': '164.524(a)(2)(i)', 'data': '(i) The protected health information is excepted from the right of access by paragraph (a)(1) of this section. '}, {'id': '164.524(a)(3)', 'data': '(3) Reviewable grounds for denial.  A covered entity may deny an individual access, provided that the individual is given a right to have such denials reviewed, as required by paragraph (a)(4) of this section, in the following circumstances: '}, {'id': '164.524(a)', 'data': '(a) Standard: Access to protected health information —'}, {'id': '164.524(a)(1)(i)', 'data': '(i) Psychotherapy notes; and '}, {'id': '164.524(a)(1)(ii)', 'data': '(ii) Information compiled in reasonable anticipation of, or for use in, a civil, criminal, or administrative action or proceeding. '}, {'id': '164.524(a)(2)', 'data': '(2) Unreviewable grounds for denial.  A covered entity may deny an individual access without providing the individual an opportunity for review, in the following circumstances. '}, {'id': '164.524(a)(3)', 'data': '(3) Reviewable grounds for denial.  A covered entity may deny an individual access, provided that the individual is given a right to have such denials reviewed, as required by paragraph (a)(4) of this section, in the following circumstances: '}, {'id': '164.524(a)(2)(i)', 'data': '(i) The protected health information is excepted from the right of access by paragraph (a)(1) of this section. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.524(a)(1)', 'data': '(1) Right of access.  Except as otherwise provided in paragraph (a)(2) or (a)(3) of this section, an individual has a right of access to inspect and obtain a copy of protected health information about the individual in a designated record set, for as long as the protected health information is maintained in the designated record set, except for: '}
+You may now respond.

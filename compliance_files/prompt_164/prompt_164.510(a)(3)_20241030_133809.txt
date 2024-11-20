@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.510(a)', 'data': '(a) Standard: Use and disclosure for facility directories —'}, {'id': '164.510(a)(1)', 'data': '(1) Permitted uses and disclosure.  Except when an objection is expressed in accordance with paragraphs (a)(2) or (3) of this section, a covered health care provider may: '}, {'id': '164.510(a)(3)(i)', 'data': '(i) If the opportunity to object to uses or disclosures required by paragraph (a)(2) of this section cannot practicably be provided because of the individual's incapacity or an emergency treatment circumstance, a covered health care provider may use or disclose some or all of the protected health information permitted by paragraph (a)(1) of this section for the facility's directory, if such disclosure is: '}, {'id': '164.510(a)(3)(ii)', 'data': '(ii) The covered health care provider must inform the individual and provide an opportunity to object to uses or disclosures for directory purposes as required by paragraph (a)(2) of this section when it becomes practicable to do so. '}, {'id': '164.510(a)', 'data': '(a) Standard: Use and disclosure for facility directories —'}, {'id': '164.510(a)(3)(i)', 'data': '(i) If the opportunity to object to uses or disclosures required by paragraph (a)(2) of this section cannot practicably be provided because of the individual's incapacity or an emergency treatment circumstance, a covered health care provider may use or disclose some or all of the protected health information permitted by paragraph (a)(1) of this section for the facility's directory, if such disclosure is: '}, {'id': '164.510(a)(3)(ii)', 'data': '(ii) The covered health care provider must inform the individual and provide an opportunity to object to uses or disclosures for directory purposes as required by paragraph (a)(2) of this section when it becomes practicable to do so. '}, {'id': '164.510(a)(1)', 'data': '(1) Permitted uses and disclosure.  Except when an objection is expressed in accordance with paragraphs (a)(2) or (3) of this section, a covered health care provider may: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.510(a)(3)', 'data': '(3) Emergency circumstances. '}
+You may now respond.

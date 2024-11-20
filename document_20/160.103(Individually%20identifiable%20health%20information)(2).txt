@@ -1,0 +1,10 @@
+# Law
+160.103(Individually%20identifiable%20health%20information)(2)
+# Key Legal Concepts
+Individually identifiable health information refers to any health-related data that can identify an individual, including demographic details. The definition encompasses both direct identifiers (like names) and indirect identifiers (where there is a reasonable basis to believe the information could identify someone).
+# Key Legal Principles
+The principle of confidentiality mandates that personal health information must be protected and only disclosed under certain conditions. The principle of informed consent requires that individuals be informed about how their health information may be used and shared.
+# Application Scenarios
+A healthcare provider must ensure that patient records are secured to prevent unauthorized access, adhering to confidentiality regulations. In a clinical trial, researchers must obtain informed consent from participants regarding the use of their identifiable health information.
+# Relationship to Overall Document Argument
+This law underscores the importance of protecting individual health information in various contexts, reinforcing the need for compliance with privacy standards. By defining the scope of individually identifiable health information, the law supports broader regulatory frameworks aimed at safeguarding patient data.

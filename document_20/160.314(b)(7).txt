@@ -1,0 +1,10 @@
+# Law
+160.314(b)(7)
+# Key Legal Concepts
+Subpoena enforcement: This refers to the legal mechanism by which a subpoena can be compelled through a district court, ensuring compliance from individuals or entities involved in an investigational inquiry. Investigational inquiries: These are non-public proceedings led by the Secretary to gather information relevant to an investigation, emphasizing the confidentiality and procedural guidelines governing such inquiries.
+# Key Legal Principles
+Compliance with subpoenas: Witnesses are legally obligated to answer questions and produce documents unless a valid privilege applies. Non-compliance can lead to legal enforcement actions. Protection of investigational processes: The law seeks to prevent any actions that could obstruct or delay the investigational inquiry, thereby maintaining the integrity of the investigation.
+# Application Scenarios
+A witness refuses to answer questions during an investigational inquiry, prompting the Secretary to seek court enforcement of the subpoena to ensure compliance. An entity fails to produce requested documents, leading the Secretary to leverage the legal framework to compel document submission.
+# Relationship to Overall Document Argument
+This law supports the overarching goal of ensuring that investigational inquiries are conducted effectively and without obstruction, reinforcing the authority of the Secretary. It establishes a clear legal recourse for the Secretary to address non-compliance, thereby enhancing the enforceability of investigational inquiries and promoting accountability.

@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(j)(1)(i)', 'data': '(i) '}, {'id': '164.520(b)(1)', 'data': '(1) Required elements.  The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph. '}, {'id': '164.520(b)(2)', 'data': '(2) Optional elements. '}, {'id': '164.520(b)(2)', 'data': '(2) Optional elements. '}, {'id': '164.520(b)(1)', 'data': '(1) Required elements.  The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph. '}, {'id': '164.512(j)(1)(i)', 'data': '(i) '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.520(b)(2)(i)', 'data': '(i) In addition to the information required by paragraph (b)(1) of this section, if a covered entity elects to limit the uses or disclosures that it is permitted to make under this subpart, the covered entity may describe its more limited uses or disclosures in its notice, provided that the covered entity may not include in its notice a limitation affecting its right to make a use or disclosure that is required by law or permitted by § 164.512(j)(1)(i). '}
+You may now respond.

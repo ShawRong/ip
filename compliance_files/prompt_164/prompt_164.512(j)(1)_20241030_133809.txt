@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(j)', 'data': '(j) Standard: Uses and disclosures to avert a serious threat to health or safety —'}, {'id': '164.512(j)(1)(i)', 'data': '(i) '}, {'id': '164.512(j)(1)(ii)', 'data': '(ii) Is necessary for law enforcement authorities to identify or apprehend an individual: '}, {'id': '164.512(j)(4)', 'data': '(4) Presumption of good faith belief.  A covered entity that uses or discloses protected health information pursuant to paragraph (j)(1) of this section is presumed to have acted in good faith with regard to a belief described in paragraph (j)(1)(i) or (ii) of this section, if the belief is based upon the covered entity's actual knowledge or in reliance on a credible representation by a person with apparent knowledge or authority. '}, {'id': '164.512(j)', 'data': '(j) Standard: Uses and disclosures to avert a serious threat to health or safety —'}, {'id': '164.512(j)(1)(i)', 'data': '(i) '}, {'id': '164.512(j)(1)(ii)', 'data': '(ii) Is necessary for law enforcement authorities to identify or apprehend an individual: '}, {'id': '164.512(j)(4)', 'data': '(4) Presumption of good faith belief.  A covered entity that uses or discloses protected health information pursuant to paragraph (j)(1) of this section is presumed to have acted in good faith with regard to a belief described in paragraph (j)(1)(i) or (ii) of this section, if the belief is based upon the covered entity's actual knowledge or in reliance on a credible representation by a person with apparent knowledge or authority. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(j)(1)', 'data': '(1) Permitted disclosures.  A covered entity may, consistent with applicable law and standards of ethical conduct, use or disclose protected health information, if the covered entity, in good faith, believes the use or disclosure: '}
+You may now respond.

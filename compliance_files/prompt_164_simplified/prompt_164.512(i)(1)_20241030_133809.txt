@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.512(i)', 'data': '(i) Standard: Uses and disclosures for research purposes —'}, {'id': '164.512(i)(1)(i)', 'data': '(i) Board approval of a waiver of authorization.  The covered entity obtains documentation that an alteration to or waiver, in whole or in part, of the individual authorization required by § 164.508 for use or disclosure of protected health information has been approved by either: '}, {'id': '164.512(i)(1)(ii)', 'data': '(ii) Reviews preparatory to research.  The covered entity obtains from the researcher representations that: '}, {'id': '164.512(i)(1)(iii)', 'data': '(iii) Research on decedent's information.  The covered entity obtains from the researcher: '}, {'id': '164.512(i)', 'data': '(i) Standard: Uses and disclosures for research purposes —'}, {'id': '164.512(i)(1)(i)', 'data': '(i) Board approval of a waiver of authorization.  The covered entity obtains documentation that an alteration to or waiver, in whole or in part, of the individual authorization required by § 164.508 for use or disclosure of protected health information has been approved by either: '}, {'id': '164.512(i)(1)(ii)', 'data': '(ii) Reviews preparatory to research.  The covered entity obtains from the researcher representations that: '}, {'id': '164.512(i)(1)(iii)', 'data': '(iii) Research on decedent's information.  The covered entity obtains from the researcher: '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.512(i)(1)', 'data': '(1) Permitted uses and disclosures.  A covered entity may use or disclose protected health information for research, regardless of the source of funding of the research, provided that: '}
+You may now respond.

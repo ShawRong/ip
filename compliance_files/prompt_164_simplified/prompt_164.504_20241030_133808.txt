@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.105(a)(1)', 'data': '(1) Standard: Health care component.  If a covered entity is a hybrid entity, the requirements of this part, other than the requirements of this section, §§ 164.314, and 164.504, apply only to the health care component(s) of the entity, as specified in this section. '}, {'id': '164.105(a)(2)(i)', 'data': '(i) Application of other provisions.  In applying a provision of this part, other than the requirements of this section, §§ 164.314, and 164.504, to a hybrid entity: '}, {'id': '164.105(a)(2)(iii)(C)', 'data': '(C) The covered entity is responsible for complying with §§ 164.314 and 164.504 regarding business associate arrangements and other organizational requirements. '}, {'id': 'Part164SubpartE', 'data': 'Subpart E—Privacy of Individually Identifiable Health Information'}, {'id': '164.500(b)(1)(iv)', 'data': '(iv) Section 164.504 relating to the organizational requirements for covered entities; '}, {'id': '164.504(a)', 'data': '(a) Definitions.  As used in this section: '}, {'id': '164.504(b)', 'data': '(b)–(d) [Reserved] '}, {'id': '164.504(e)', 'data': '(e) '}, {'id': '164.504(f)', 'data': '(f) '}, {'id': '164.504(g)', 'data': '(g) Standard: Requirements for a covered entity with multiple covered functions. '}, {'id': 'Part164SubpartE', 'data': 'Subpart E—Privacy of Individually Identifiable Health Information'}, {'id': '164.504(a)', 'data': '(a) Definitions.  As used in this section: '}, {'id': '164.504(b)', 'data': '(b)–(d) [Reserved] '}, {'id': '164.504(e)', 'data': '(e) '}, {'id': '164.504(f)', 'data': '(f) '}, {'id': '164.504(g)', 'data': '(g) Standard: Requirements for a covered entity with multiple covered functions. '}, {'id': '164.105(a)(1)', 'data': '(1) Standard: Health care component.  If a covered entity is a hybrid entity, the requirements of this part, other than the requirements of this section, §§ 164.314, and 164.504, apply only to the health care component(s) of the entity, as specified in this section. '}, {'id': '164.105(a)(2)(i)', 'data': '(i) Application of other provisions.  In applying a provision of this part, other than the requirements of this section, §§ 164.314, and 164.504, to a hybrid entity: '}, {'id': '164.105(a)(2)(iii)(C)', 'data': '(C) The covered entity is responsible for complying with §§ 164.314 and 164.504 regarding business associate arrangements and other organizational requirements. '}, {'id': '164.500(b)(1)(iv)', 'data': '(iv) Section 164.504 relating to the organizational requirements for covered entities; '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.504', 'data': '§ 164.504 Uses and disclosures: Organizational requirements.'}
+You may now respond.

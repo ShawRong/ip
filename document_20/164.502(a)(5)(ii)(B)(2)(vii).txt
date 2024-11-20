@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(ii)(B)(2)(vii)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any information that can identify an individual and relates to their health status, provision of health care, or payment for health care. Disclosure vs. Sale: The distinction between disclosing PHI for permitted purposes and selling it; disclosures are generally allowed under specific conditions while sales are more restricted.
+# Key Legal Principles
+Permitted Uses and Disclosures: The law allows certain uses and disclosures of PHI without patient consent, particularly when required by law, as outlined in § 164.512(a). Health Privacy Protection: Emphasizes the importance of protecting individuals' health information while allowing necessary disclosures for legal compliance.
+# Application Scenarios
+Healthcare providers must disclose PHI when required by law, such as in response to a subpoena or court order. Insurance companies may need to disclose PHI to comply with state or federal regulations, ensuring they do not sell the information without consent.
+# Relationship to Overall Document Argument
+This law reinforces the balance between patient privacy and the need for legal compliance, highlighting the situations where PHI can be disclosed. It clarifies that required disclosures under specific legal conditions do not constitute a sale of PHI, thereby protecting patient rights while allowing necessary information sharing.

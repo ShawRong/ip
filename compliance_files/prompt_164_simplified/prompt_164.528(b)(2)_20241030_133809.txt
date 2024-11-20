@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.528(b)', 'data': '(b) Implementation specifications: Content of the accounting.  The covered entity must provide the individual with a written accounting that meets the following requirements. '}, {'id': '164.528(b)(2)(i)', 'data': '(i) The date of the disclosure; '}, {'id': '164.528(b)(2)(ii)', 'data': '(ii) The name of the entity or person who received the protected health information and, if known, the address of such entity or person; '}, {'id': '164.528(b)(2)(iii)', 'data': '(iii) A brief description of the protected health information disclosed; and '}, {'id': '164.528(b)(2)(iv)', 'data': '(iv) A brief statement of the purpose of the disclosure that reasonably informs the individual of the basis for the disclosure or, in lieu of such statement, a copy of a written request for a disclosure under § 164.502(a)(2)(ii) or § 164.512, if any. '}, {'id': '164.528(b)(3)', 'data': '(3) If, during the period covered by the accounting, the covered entity has made multiple disclosures of protected health information to the same person or entity for a single purpose under § 164.502(a)(2)(ii) or § 164.512, the accounting may, with respect to such multiple disclosures, provide: '}, {'id': '164.528(b)(3)(i)', 'data': '(i) The information required by paragraph (b)(2) of this section for the first disclosure during the accounting period; '}, {'id': '164.528(b)(4)', 'data': '(4) '}, {'id': '164.528(b)', 'data': '(b) Implementation specifications: Content of the accounting.  The covered entity must provide the individual with a written accounting that meets the following requirements. '}, {'id': '164.528(b)(2)(i)', 'data': '(i) The date of the disclosure; '}, {'id': '164.528(b)(2)(ii)', 'data': '(ii) The name of the entity or person who received the protected health information and, if known, the address of such entity or person; '}, {'id': '164.528(b)(2)(iii)', 'data': '(iii) A brief description of the protected health information disclosed; and '}, {'id': '164.528(b)(2)(iv)', 'data': '(iv) A brief statement of the purpose of the disclosure that reasonably informs the individual of the basis for the disclosure or, in lieu of such statement, a copy of a written request for a disclosure under § 164.502(a)(2)(ii) or § 164.512, if any. '}, {'id': '164.528(b)(3)', 'data': '(3) If, during the period covered by the accounting, the covered entity has made multiple disclosures of protected health information to the same person or entity for a single purpose under § 164.502(a)(2)(ii) or § 164.512, the accounting may, with respect to such multiple disclosures, provide: '}, {'id': '164.528(b)(4)', 'data': '(4) '}, {'id': '164.528(b)(3)(i)', 'data': '(i) The information required by paragraph (b)(2) of this section for the first disclosure during the accounting period; '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.528(b)(2)', 'data': '(2) Except as otherwise provided by paragraphs (b)(3) or (b)(4) of this section, the accounting must include for each disclosure: '}
+You may now respond.

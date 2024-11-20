@@ -1,0 +1,10 @@
+# Law
+164.502(d)(2)(i)
+# Key Legal Concepts
+De-identified Information: Health information that has been processed to remove identifiers, making it not individually identifiable according to the standards set forth in § 164.514. Protected Health Information (PHI): Any health information that can be tied to an individual, including demographic details, that is protected under privacy regulations.
+# Key Legal Principles
+Re-identification Risks: The principle that any disclosure of codes or identifiers that enable the re-identification of de-identified information constitutes a disclosure of PHI, which is subject to stricter legal protections. Compliance with De-identification Standards: The legal requirement to adhere to specific standards and implementation specifications for de-identification to ensure that information is truly non-identifiable.
+# Application Scenarios
+Healthcare organizations sharing de-identified data for research must ensure that no codes or identifiers that could lead to re-identification are disclosed. Data analysts using de-identified datasets must be cautious about how they handle any coding systems that could potentially link back to identifiable information.
+# Relationship to Overall Document Argument
+The provision emphasizes the importance of maintaining the privacy of individuals by regulating how de-identified information can be used and disclosed. It reinforces the framework of HIPAA by clarifying the boundaries between de-identified data and protected health information, ensuring that privacy protections remain intact.

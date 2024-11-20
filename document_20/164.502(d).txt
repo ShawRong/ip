@@ -1,0 +1,10 @@
+# Law
+164.502(d)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: This refers to any health information that can be linked to an individual and is protected under HIPAA regulations. **De-identified Information**: Information that has been stripped of identifiers that could connect it to an individual, making it no longer PHI. **Business Associate**: A person or entity that performs certain functions or activities on behalf of a covered entity that involves the use or disclosure of PHI.
+# Key Legal Principles
+**Permissible Use and Disclosure**: Covered entities are allowed to use or disclose PHI for the purpose of creating de-identified information without restrictions, as long as it adheres to defined standards. **De-identification Standards**: The law sets specific standards for de-identification to ensure that the resulting data cannot identify an individual, thus exempting it from HIPAA regulations.
+# Application Scenarios
+A healthcare provider may use patient data to create aggregate health statistics that do not identify individuals for research purposes. A health insurance company can share de-identified claims data with a business associate for analysis without violating HIPAA rules.
+# Relationship to Overall Document Argument
+The provisions under § 164.502(d) clarify how covered entities can handle PHI while ensuring patient privacy through de-identification. By allowing the use of de-identified information, the law balances the need for data utility in healthcare analytics with the imperative of protecting patient identity.

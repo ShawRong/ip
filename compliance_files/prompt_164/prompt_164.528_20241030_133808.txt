@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': 'Part164SubpartE', 'data': 'Subpart E—Privacy of Individually Identifiable Health Information'}, {'id': '164.502(a)(2)(i)', 'data': '(i) To an individual, when requested under, and required by § 164.524 or § 164.528; and '}, {'id': '164.502(a)(5)(ii)(B)(2)(vi)', 'data': '(vi) To an individual, when requested under § 164.524 or § 164.528; '}, {'id': '164.504(e)(2)(ii)(G)', 'data': '(G) Make available the information required to provide an accounting of disclosures in accordance with § 164.528; '}, {'id': '164.504(f)(2)(ii)(G)', 'data': '(G) Make available the information required to provide an accounting of disclosures in accordance with § 164.528; '}, {'id': '164.520(b)(1)(iv)(E)', 'data': '(E) The right to receive an accounting of disclosures of protected health information as provided by § 164.528; and '}, {'id': '164.528(a)', 'data': '(a) Standard: Right to an accounting of disclosures of protected health information. '}, {'id': '164.528(b)', 'data': '(b) Implementation specifications: Content of the accounting.  The covered entity must provide the individual with a written accounting that meets the following requirements. '}, {'id': '164.528(c)', 'data': '(c) Implementation specifications: Provision of the accounting. '}, {'id': '164.528(d)', 'data': '(d) Implementation specification: Documentation.  A covered entity must document the following and retain the documentation as required by § 164.530(j): '}, {'id': '164.532(e)(3)', 'data': '(3) Covered entity responsibilities.  Nothing in this section shall alter the requirements of a covered entity to comply with part 160, subpart C of this subchapter and §§ 164.524, 164.526, 164.528, and 164.530(f) with respect to protected health information held by a business associate. '}, {'id': 'Part164SubpartE', 'data': 'Subpart E—Privacy of Individually Identifiable Health Information'}, {'id': '164.528(a)', 'data': '(a) Standard: Right to an accounting of disclosures of protected health information. '}, {'id': '164.528(b)', 'data': '(b) Implementation specifications: Content of the accounting.  The covered entity must provide the individual with a written accounting that meets the following requirements. '}, {'id': '164.528(c)', 'data': '(c) Implementation specifications: Provision of the accounting. '}, {'id': '164.528(d)', 'data': '(d) Implementation specification: Documentation.  A covered entity must document the following and retain the documentation as required by § 164.530(j): '}, {'id': '164.502(a)(2)(i)', 'data': '(i) To an individual, when requested under, and required by § 164.524 or § 164.528; and '}, {'id': '164.502(a)(5)(ii)(B)(2)(vi)', 'data': '(vi) To an individual, when requested under § 164.524 or § 164.528; '}, {'id': '164.504(e)(2)(ii)(G)', 'data': '(G) Make available the information required to provide an accounting of disclosures in accordance with § 164.528; '}, {'id': '164.504(f)(2)(ii)(G)', 'data': '(G) Make available the information required to provide an accounting of disclosures in accordance with § 164.528; '}, {'id': '164.520(b)(1)(iv)(E)', 'data': '(E) The right to receive an accounting of disclosures of protected health information as provided by § 164.528; and '}, {'id': '164.532(e)(3)', 'data': '(3) Covered entity responsibilities.  Nothing in this section shall alter the requirements of a covered entity to comply with part 160, subpart C of this subchapter and §§ 164.524, 164.526, 164.528, and 164.530(f) with respect to protected health information held by a business associate. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.528', 'data': '§ 164.528 Accounting of disclosures of protected health information.'}
+You may now respond.

@@ -1,0 +1,10 @@
+# Law
+160.538(d)
+# Key Legal Concepts
+Cross-examination: A legal process where a party has the opportunity to question a witness who has testified, aimed at challenging the witness's credibility and the reliability of their testimony. Administrative Law Judge (ALJ): A neutral party who conducts hearings and makes decisions in administrative law cases, ensuring fairness and adherence to legal standards during proceedings.
+# Key Legal Principles
+Due Process: The principle that all parties must have a fair opportunity to present their case and challenge evidence, which includes the right to cross-examine witnesses. Full Disclosure of Facts: The obligation to ensure that all relevant information is revealed during a hearing, which is facilitated by allowing cross-examination.
+# Application Scenarios
+A party in a regulatory hearing seeks to challenge the testimony of an expert witness by questioning their qualifications and methodology. In a case involving allegations against a business, the business may cross-examine witnesses who provide testimony about its practices to defend against claims.
+# Relationship to Overall Document Argument
+Ensures that the adjudicative process is transparent and equitable, enhancing the integrity of the administrative proceedings. Supports the principle of accountability by allowing parties to actively engage with evidence presented, thereby fostering a more thorough examination of the facts.

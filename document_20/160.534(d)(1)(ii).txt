@@ -1,0 +1,10 @@
+# Law
+160.534(d)(1)(ii)
+# Key Legal Concepts
+The concept of 'material and relevant evidence' refers to evidence that directly relates to the facts at issue in a case, influencing the outcome of the determination being made. The 'notice of proposed determination' under § 160.420 outlines findings of fact that parties may challenge or address during hearings, serving as a basis for the legal discussion and evidence presentation. The 'request for hearing' under § 160.504 allows parties to formally contest a proposed determination, providing a framework for legal arguments and the introduction of evidence.
+# Key Legal Principles
+The principle of admissibility governs what evidence can be introduced in a hearing, ensuring that only pertinent information that aids in understanding the case is considered. The '15-day rule' under § 160.518(a) sets a timeline for submitting evidence, emphasizing the need for timely disclosure of information to maintain fairness in proceedings.
+# Application Scenarios
+A respondent may wish to introduce new evidence that emerged after the notice of proposed determination, arguing its relevance to mitigate potential penalties. In a hearing, parties might challenge the admissibility of evidence presented by the opposing side, based on its materiality or relevance to established findings.
+# Relationship to Overall Document Argument
+The provisions outlined in § 160.534(d)(1)(ii) emphasize the limitations on introducing evidence, ensuring that only relevant and material information is considered, which supports the integrity of the hearing process. This law reinforces the framework established by the notice of proposed determination and the request for hearing, creating a structured approach to address disputes and facilitate a fair resolution.

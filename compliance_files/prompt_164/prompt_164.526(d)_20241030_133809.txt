@@ -1,0 +1,22 @@
+
+Prompt:
+Identify the key legal concepts and principles related to the provided laws.
+I will provide a context, which will follow the label "Context:"
+
+
+Context: {'id': '164.526', 'data': '§ 164.526 Amendment of protected health information.'}, {'id': '164.526(d)(1)', 'data': '(1) Denial.  The covered entity must provide the individual with a timely, written denial, in accordance with paragraph (b)(2) of this section. The denial must use plain language and contain: '}, {'id': '164.526(d)(2)', 'data': '(2) Statement of disagreement.  The covered entity must permit the individual to submit to the covered entity a written statement disagreeing with the denial of all or part of a requested amendment and the basis of such disagreement. The covered entity may reasonably limit the length of a statement of disagreement. '}, {'id': '164.526(d)(3)', 'data': '(3) Rebuttal statement.  The covered entity may prepare a written rebuttal to the individual's statement of disagreement. Whenever such a rebuttal is prepared, the covered entity must provide a copy to the individual who submitted the statement of disagreement. '}, {'id': '164.526(d)(4)', 'data': '(4) Recordkeeping.  The covered entity must, as appropriate, identify the record or protected health information in the designated record set that is the subject of the disputed amendment and append or otherwise link the individual's request for an amendment, the covered entity's denial of the request, the individual's statement of disagreement, if any, and the covered entity's rebuttal, if any, to the designated record set. '}, {'id': '164.526(d)(5)', 'data': '(5) Future disclosures. '}, {'id': '164.526', 'data': '§ 164.526 Amendment of protected health information.'}, {'id': '164.526(d)(1)', 'data': '(1) Denial.  The covered entity must provide the individual with a timely, written denial, in accordance with paragraph (b)(2) of this section. The denial must use plain language and contain: '}, {'id': '164.526(d)(2)', 'data': '(2) Statement of disagreement.  The covered entity must permit the individual to submit to the covered entity a written statement disagreeing with the denial of all or part of a requested amendment and the basis of such disagreement. The covered entity may reasonably limit the length of a statement of disagreement. '}, {'id': '164.526(d)(3)', 'data': '(3) Rebuttal statement.  The covered entity may prepare a written rebuttal to the individual's statement of disagreement. Whenever such a rebuttal is prepared, the covered entity must provide a copy to the individual who submitted the statement of disagreement. '}, {'id': '164.526(d)(4)', 'data': '(4) Recordkeeping.  The covered entity must, as appropriate, identify the record or protected health information in the designated record set that is the subject of the disputed amendment and append or otherwise link the individual's request for an amendment, the covered entity's denial of the request, the individual's statement of disagreement, if any, and the covered entity's rebuttal, if any, to the designated record set. '}, {'id': '164.526(d)(5)', 'data': '(5) Future disclosures. '}
+
+
+Output Struct:
+{ 
+	"key legal concepts": ["explanation of concept 1", "explanation of concept 2", ...], 
+	"key legal principles": ["explanation of principle 1", "explanation of principle 2", ...],
+	"application scenarios": ["something", "something"],
+	"relationship to overall document argument": ["something", "something"]
+}
+
+
+You should focus solely on explaining THIS LAW within the given context:
+THIS LAW:
+{'id': '164.526(d)', 'data': '(d) Implementation specifications: Denying the amendment.  If the covered entity denies the requested amendment, in whole or in part, the covered entity must comply with the following requirements. '}
+You may now respond.
