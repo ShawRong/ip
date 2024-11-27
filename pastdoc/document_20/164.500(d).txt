@@ -1,0 +1,10 @@
+# Law
+164.500(d)
+# Key Legal Concepts
+The concept of 'applicability' refers to the contexts in which certain legal standards and requirements are enforced. In this case, it indicates who is exempt from the regulations outlined in this subpart. The distinction between federal agencies and non-governmental organizations highlights the scope of laws and regulations, particularly regarding their applicability to different entities.
+# Key Legal Principles
+The principle of federal immunity suggests that federal agencies, like the Department of Defense, may not be bound by specific regulations when operating in certain contexts, such as providing healthcare overseas. The principle of jurisdiction delineates the boundaries of legal authority, indicating that specific requirements may not apply outside the U.S. or to particular beneficiaries.
+# Application Scenarios
+Health care provided by the Department of Defense to foreign national beneficiaries stationed abroad, where U.S. regulations might not apply. Non-governmental organizations acting on behalf of federal agencies in foreign countries, providing services without the constraints of certain U.S. health care regulations.
+# Relationship to Overall Document Argument
+This law clarifies the limitations of the applicability of health care regulations, reinforcing the idea that U.S. laws may not extend to overseas operations. It supports the argument for a tailored approach to health care regulations, acknowledging that different contexts may require different regulatory frameworks.

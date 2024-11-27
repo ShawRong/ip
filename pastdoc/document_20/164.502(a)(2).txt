@@ -1,0 +1,10 @@
+# Law
+164.502(a)(2)
+# Key Legal Concepts
+***Covered Entities***: Organizations or individuals that handle protected health information (PHI), such as healthcare providers, health plans, and healthcare clearinghouses. ***Protected Health Information (PHI)***: Any individually identifiable health information that is transmitted or maintained in any form or medium, which is protected under the law.
+# Key Legal Principles
+***Required Disclosures***: Certain situations mandate that covered entities disclose PHI without patient consent, ensuring compliance with regulatory requirements. ***Compliance Obligations***: Covered entities must adhere to specific regulations, including responding to requests from individuals and governmental authorities as stipulated in the law.
+# Application Scenarios
+Disclosure of PHI to a patient who has requested their medical records under § 164.524. Mandatory reporting of PHI to the Secretary of Health and Human Services for compliance investigations.
+# Relationship to Overall Document Argument
+The law establishes the boundaries within which covered entities must operate regarding the disclosure of PHI, reinforcing the importance of patient privacy while delineating circumstances for required disclosures. This provision underscores the balance between protecting individual health information and fulfilling legal obligations, thus contributing to the overarching framework of health information privacy and security.

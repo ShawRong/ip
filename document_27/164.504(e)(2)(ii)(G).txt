@@ -1,0 +1,10 @@
+# Law
+164.504(e)(2)(ii)(G)
+# Key Legal Concepts
+**Business Associate**: A person or entity that performs activities on behalf of, or provides certain services to, a covered entity that involves the use or disclosure of protected health information (PHI). **Protected Health Information (PHI)**: Any information about health status, provision of health care, or payment for health care that can be linked to a specific individual. **Accounting of Disclosures**: A requirement under HIPAA that allows individuals to know when and to whom their PHI has been disclosed by a covered entity or business associate.
+# Key Legal Principles
+**Transparency**: Entities must be transparent about how PHI is shared and disclosed, ensuring individuals can access information about their health data. **Accountability**: Business associates are accountable for safeguarding PHI and providing necessary information to covered entities for compliance with HIPAA regulations.
+# Application Scenarios
+A healthcare provider may need to request a business associate to prepare a report detailing all disclosures of PHI to comply with a patient’s request for an accounting. A health insurance company might need to ensure its business associates can provide the necessary information for audits regarding PHI disclosures.
+# Relationship to Overall Document Argument
+This law emphasizes the obligations of business associates to support compliance with HIPAA's accounting requirements, reinforcing the framework of accountability in health information management. It establishes a clear expectation that business associates must be prepared to supply documentation necessary for covered entities to fulfill their legal obligations regarding PHI disclosures.

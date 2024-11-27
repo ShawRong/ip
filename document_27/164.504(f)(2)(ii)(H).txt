@@ -1,0 +1,10 @@
+# Law
+164.504(f)(2)(ii)(H)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any health information that can identify an individual and is maintained by a health plan or health care provider. This law emphasizes the handling of such sensitive information. Plan Sponsor Responsibilities: The requirement for plan sponsors to certify that they have amended their plan documents to protect PHI highlights the importance of compliance and accountability in managing health information.
+# Key Legal Principles
+Compliance Oversight: The law establishes a framework for the Secretary to ensure that group health plans adhere to regulations regarding the disclosure and use of PHI, promoting accountability within health plans. Transparency in Health Information Management: By requiring internal practices and records to be made available for review, the law reinforces the principle of transparency in how health information is handled.
+# Application Scenarios
+A group health plan must provide access to its records for an audit by the Secretary to verify compliance with privacy regulations, ensuring that PHI is used and disclosed appropriately. When a plan sponsor seeks access to PHI, it must first demonstrate that it has made necessary amendments to its plan documents, ensuring that it is legally permitted to handle this sensitive information.
+# Relationship to Overall Document Argument
+This law supports the overarching goal of protecting individual privacy by ensuring that only authorized entities can access PHI and that they do so in compliance with established regulations. By mandating transparency and accountability, this provision reinforces the integrity of health information management practices and aligns with broader health privacy regulations.

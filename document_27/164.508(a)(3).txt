@@ -1,0 +1,10 @@
+# Law
+164.508(a)(3)
+# Key Legal Concepts
+**Authorization Requirement**: Covered entities must obtain explicit authorization from individuals before using or disclosing their protected health information (PHI) for marketing purposes. This ensures that individuals have control over how their health information is used. **Protected Health Information (PHI)**: This refers to any individually identifiable health information that is transmitted or maintained in any form, which is subject to strict privacy protections under HIPAA.
+# Key Legal Principles
+**Informed Consent**: The principle that individuals must be fully informed about how their PHI will be used, particularly for marketing, and must consent to that use. **Transparency in Financial Relationships**: If marketing involves financial remuneration from third parties to the covered entity, the authorization must disclose this relationship, promoting transparency and informed consent.
+# Application Scenarios
+A healthcare provider plans to send promotional materials about a new medication to patients. They must obtain authorization from each patient before doing this. A health insurance company intends to sell patient data to a third-party marketing firm. They are required to inform patients and obtain their authorization, especially noting any financial compensation involved.
+# Relationship to Overall Document Argument
+This provision emphasizes the need for patient control over their personal health information in marketing contexts, reinforcing the ethical obligation of covered entities to prioritize patient privacy. The requirement for authorization and transparency about financial remuneration supports the overarching goals of HIPAA, which aim to protect patient rights and enhance trust in healthcare communications.

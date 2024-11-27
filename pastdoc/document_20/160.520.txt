@@ -1,0 +1,10 @@
+# Law
+160.520
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual to attend a hearing and potentially produce evidence. Administrative Law Judge (ALJ): An official who presides over hearings and makes decisions regarding the issuance of subpoenas.
+# Key Legal Principles
+Due Process: The requirement that all parties have the opportunity to present their case, which includes the ability to compel witness testimony. Material Evidence: Evidence that is relevant and significant to the case being presented at the hearing.
+# Application Scenarios
+A party in a hearing may require the testimony of a witness whose information is crucial for their argument. A respondent may seek to quash a subpoena if they believe it is unjust or burdensome.
+# Relationship to Overall Document Argument
+The provisions in § 160.520 outline the specific processes for obtaining witness testimony, ensuring fair hearings. The rules regarding subpoenas help maintain the integrity of administrative hearings by providing a mechanism for evidence collection.

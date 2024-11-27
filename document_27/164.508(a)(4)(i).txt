@@ -1,0 +1,10 @@
+# Law
+164.508(a)(4)(i)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: This refers to any information that can be used to identify an individual and is related to their health status, healthcare provision, or payment for healthcare. Under this law, PHI is subject to strict regulations regarding its use and disclosure. **Authorization Requirement**: The law mandates that covered entities must obtain explicit authorization from individuals before disclosing their PHI in a manner that constitutes a sale. This ensures that individuals have control over their personal health information.
+# Key Legal Principles
+**Informed Consent**: The requirement for authorization emphasizes the principle of informed consent, ensuring that individuals fully understand how their information will be used and for what purpose before agreeing to its disclosure. **Limitation on Disclosure**: This principle limits the circumstances under which PHI can be disclosed, reinforcing the privacy rights of individuals and preventing unauthorized exploitation of their health information.
+# Application Scenarios
+A healthcare provider wishing to sell patient data to a research firm must first obtain written consent from each patient whose data will be sold. A health insurance company must secure authorization from policyholders before sharing their PHI with third parties for marketing purposes.
+# Relationship to Overall Document Argument
+The law underscores the importance of safeguarding patient privacy by requiring explicit consent for the sale of PHI, thereby aligning with broader healthcare regulations aimed at protecting individual rights. The transition provisions in § 164.532 are relevant as they provide guidelines for entities to adapt to these authorization requirements, ensuring a smooth transition to enhanced privacy protections.

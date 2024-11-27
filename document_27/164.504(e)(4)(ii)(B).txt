@@ -1,0 +1,10 @@
+# Law
+164.504(e)(4)(ii)(B)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: This refers to any information that can be used to identify an individual and is related to their health, healthcare provision, or payment for healthcare. The law emphasizes the protection of such sensitive data. **Business Associate**: A person or entity that performs functions or activities on behalf of a covered entity that involves the use or disclosure of PHI. This concept is crucial in establishing the responsibilities and permissions related to PHI handling.
+# Key Legal Principles
+**Confidentiality Assurance**: The business associate must obtain reasonable assurances from any third party to whom PHI is disclosed that the information will be held confidentially and used only for specified purposes or as required by law. **Breach Notification**: The person receiving the PHI has an obligation to inform the business associate of any known breaches of confidentiality, ensuring accountability in the handling of sensitive information.
+# Application Scenarios
+A healthcare provider discloses PHI to a billing company (business associate) under a contract that stipulates confidentiality and use limitations, ensuring compliance with legal standards. A research organization receives PHI from a hospital for a study, and the hospital requires the organization to notify them of any breaches in confidentiality as part of their agreement.
+# Relationship to Overall Document Argument
+This law underlines the importance of protecting PHI while allowing necessary disclosures between covered entities and business associates, balancing patient privacy with operational needs. It establishes a framework for accountability and trust, ensuring that both parties understand their responsibilities regarding the handling and safeguarding of sensitive health information.

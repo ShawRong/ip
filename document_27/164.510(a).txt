@@ -1,0 +1,10 @@
+# Law
+164.510(a)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any personal health information that can be used to identify an individual, which is subject to privacy regulations. Opportunity to Agree or Object: Individuals must be informed in advance about the use or disclosure of their PHI and given a chance to consent to or restrict such actions. Facility Directory: A system used by healthcare providers to manage information about patients, including their presence in a facility and certain details that can be shared.
+# Key Legal Principles
+Informed Consent: The principle that individuals must be fully informed about how their PHI will be used or disclosed and must have the opportunity to agree or object. Patient Autonomy: Emphasizes the individual's right to control their own health information and make decisions regarding its disclosure. Emergency Exceptions: Recognizes that in certain emergency circumstances, standard procedures for obtaining consent may be altered to ensure timely care.
+# Application Scenarios
+A hospital may include a patient's name and room number in its directory, provided the patient has been informed and has agreed to this disclosure. In situations where a patient is incapacitated, healthcare providers may still disclose information necessary for treatment without prior consent under emergency circumstances.
+# Relationship to Overall Document Argument
+This law emphasizes the balance between the need for healthcare providers to share certain information for operational purposes while protecting patient privacy. It establishes a framework for how healthcare entities can responsibly manage patient information, ensuring patients are aware of and can control the use of their personal health data.

@@ -1,0 +1,10 @@
+# Law
+160.314(a)(2)
+# Key Legal Concepts
+Subpoena: A legal document that commands an individual or entity to appear in court or produce evidence in a legal proceeding. Service of Process: The procedure by which a party to a legal action gives an appropriate notice of initial legal action to another party.
+# Key Legal Principles
+Due Process: The principle that ensures individuals receive notice and the opportunity to be heard before any governmental action affecting their rights. Authority of the Secretary: The law grants the Secretary the power to issue subpoenas in specific contexts, such as investigations or compliance reviews.
+# Application Scenarios
+Conducting compliance reviews in healthcare settings where entities must provide documentation. Investigating potential violations of regulations related to healthcare providers or insurers.
+# Relationship to Overall Document Argument
+Serves as a mechanism to enforce compliance with legal standards, ensuring accountability of entities in healthcare. Establishes the procedural requirements for issuing subpoenas, which supports the integrity of investigations and reviews.

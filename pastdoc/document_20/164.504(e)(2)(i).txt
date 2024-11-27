@@ -1,0 +1,10 @@
+# Law
+164.504(e)(2)(i)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. Business Associate: An individual or entity that performs functions or activities on behalf of, or provides certain services to, a covered entity that involves the use or disclosure of PHI.
+# Key Legal Principles
+Permitted Uses and Disclosures: The law specifies the conditions under which a business associate may use or disclose PHI, emphasizing that such actions must align with the stipulations set forth in the contract and not violate any legal requirements applicable to the covered entity. Contractual Obligations: The contract must explicitly outline the permissible uses and disclosures of PHI by the business associate, ensuring accountability and compliance with privacy regulations.
+# Application Scenarios
+A healthcare provider enters into a contract with a billing company (business associate) that allows the billing company to access patient information for billing purposes, provided that the contract specifies how the information can be used. A health insurer hires a data analytics firm (business associate) to analyze claims data for trends, ensuring the contract allows for data aggregation while protecting individual patient identities.
+# Relationship to Overall Document Argument
+This provision reinforces the importance of maintaining the confidentiality and integrity of PHI while allowing necessary business functions to occur. It establishes a framework for ensuring that any use or disclosure of PHI by business associates is controlled and compliant with overarching privacy regulations, thereby protecting patients' rights.

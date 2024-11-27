@@ -1,0 +1,10 @@
+# Law
+164.504(e)(4)(ii)(A)
+# Key Legal Concepts
+The concept of 'protected health information' (PHI) refers to any information related to an individual's health status, provision of health care, or payment for health care that can be linked to a specific individual. The role of a 'business associate' is defined under HIPAA as an entity that performs functions or activities on behalf of a covered entity that involve the use or disclosure of PHI.
+# Key Legal Principles
+The principle of compliance with applicable laws mandates that disclosures of PHI must occur when required by law, ensuring that legal obligations are met. The principle of confidentiality emphasizes that PHI should be disclosed only to the extent necessary to comply with legal requirements, maintaining the privacy of individuals.
+# Application Scenarios
+A healthcare provider may need to disclose PHI to comply with a subpoena or court order as required by law. A business associate may share PHI with law enforcement as mandated by specific legal statutes.
+# Relationship to Overall Document Argument
+This law establishes a clear guideline for when PHI can be disclosed, reinforcing the balance between legal compliance and patient privacy rights. It connects to broader HIPAA regulations by outlining exceptions to general confidentiality rules, thereby clarifying the circumstances under which disclosures are permissible.

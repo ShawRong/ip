@@ -1,0 +1,10 @@
+# Law
+164.510(a)(1)(i)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information that can be used to identify an individual and is related to their health status, healthcare services, or payment for healthcare. In this context, it specifically includes names, locations within a facility, general condition descriptions, and religious affiliations. Directory Maintenance: The law allows covered health care providers to maintain a directory using certain types of protected health information, which can facilitate communication and support for individuals in the facility.
+# Key Legal Principles
+Informed Consent: Covered health care providers must respect the rights of individuals to express objections regarding the use of their information in the directory, emphasizing the importance of patient autonomy. Minimum Necessary Standard: The law implies that only the necessary and limited information about an individual should be used in the directory to protect their privacy.
+# Application Scenarios
+A hospital may include a patient's name and general condition in its directory but must refrain from disclosing specific medical details unless the patient has consented. A facility can provide information about an individual's religious affiliation to support spiritual care but should ensure that this disclosure is aligned with the patient's preferences.
+# Relationship to Overall Document Argument
+This provision supports the broader framework of health information privacy by defining how PHI can be used while ensuring individuals' rights are protected. The emphasis on permitted uses and individual objections illustrates the balance between operational needs of health care providers and the privacy rights of individuals.

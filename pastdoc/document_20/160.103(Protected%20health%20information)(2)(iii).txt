@@ -1,0 +1,10 @@
+# Law
+160.103(Protected%20health%20information)(2)(iii)
+# Key Legal Concepts
+Protected Health Information (PHI): Defined as any information held by a covered entity that relates to health status, provision of health care, or payment for health care that can be linked to an individual. Individually Identifiable Health Information: This refers to any health information that can be traced back to a specific individual, which is crucial for determining what constitutes PHI.
+# Key Legal Principles
+Exclusion of Identifiable Information: The law clarifies that certain identifiable health information is excluded from the definition of PHI, thereby limiting the scope of what is protected under health privacy laws. Employment Records Exception: It specifies that health information contained in employment records maintained by an employer is not categorized as PHI in the context of the employer's role, suggesting a different treatment for such records.
+# Application Scenarios
+A healthcare provider may collect health-related data from employees for workplace safety but must navigate the distinction between protected health information and employment records when disclosing this data. An employer conducting health screenings for employees must ensure that the information remains within the employment records category and does not fall under PHI when sharing it with third parties.
+# Relationship to Overall Document Argument
+This law emphasizes the boundaries of what constitutes protected health information, thereby reinforcing the importance of privacy in health-related data management. It provides a framework that distinguishes between health information relevant to employment and that which is protected under broader health privacy regulations, supporting a more nuanced approach to data protection.

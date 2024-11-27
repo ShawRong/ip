@@ -1,0 +1,10 @@
+# Law
+160.516(e)(2)(i)
+# Key Legal Concepts
+**Administrative Law Judge (ALJ)**: A neutral party who oversees administrative hearings and makes decisions on motions and disputes. **Protective Order**: A legal order to limit access to certain evidence or information during discovery to protect a party from harassment or undue burden. **Discovery**: The pre-trial phase in a lawsuit where parties exchange information and evidence relevant to the case.
+# Key Legal Principles
+**Relevance**: The principle that evidence must be related to the claims or defenses in a case to be admissible during discovery. **Discretion of the ALJ**: The ALJ has the authority to grant or deny motions based on their assessment of relevance and the potential impact on the parties involved.
+# Application Scenarios
+A party requests documents that they believe will support their claims, but the ALJ finds those documents irrelevant to the case at hand. A party files for a protective order to prevent the disclosure of sensitive information that is not pertinent to the proceedings.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of relevance in the discovery process, reinforcing the ALJ's role in ensuring that only pertinent evidence is considered. It underscores the balance between a party's right to discovery and the need to protect parties from irrelevant or burdensome requests.

@@ -1,0 +1,10 @@
+# Law
+160.520(d)(1)
+# Key Legal Concepts
+Subpoena: A legal document that orders a person to attend a legal proceeding or produce evidence. Motion: A formal request made to a court or administrative agency asking for a specific ruling or order.
+# Key Legal Principles
+Due process: Ensures that parties have sufficient notice and opportunity to prepare for a hearing, reflected in the 30-day notice requirement. Good cause: Allows flexibility in procedural rules, enabling an Administrative Law Judge (ALJ) to permit shorter notice periods when justified.
+# Application Scenarios
+A party in an administrative hearing needs to gather specific evidence from a third party, necessitating the issuance of a subpoena. A lawyer files a motion for a subpoena with only 20 days before a hearing, seeking to demonstrate good cause to the ALJ.
+# Relationship to Overall Document Argument
+The requirement to specify evidence in a subpoena motion ensures clarity and focus in legal proceedings, contributing to orderly and fair hearings. By mandating detailed evidence specifications, the law enhances the efficiency of hearings and aids the ALJ in making informed decisions.

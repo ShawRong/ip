@@ -1,0 +1,10 @@
+# Law
+164.502(b)(2)(i)
+# Key Legal Concepts
+Minimum Necessary Standard: This concept requires that when disclosing protected health information (PHI), covered entities must limit the information to the minimum necessary to achieve the purpose of the disclosure. Treatment Exception: The law specifies that the minimum necessary standard does not apply when disclosing PHI for treatment purposes, allowing healthcare providers access to necessary information to provide appropriate care.
+# Key Legal Principles
+Patient Care Priority: The principle emphasizes that when a healthcare provider requests information for treatment, ensuring the patient's health and safety takes precedence over strict adherence to the minimum necessary rule. Confidentiality vs. Necessity: This principle underscores the balance between maintaining patient confidentiality and the need for information to facilitate effective treatment.
+# Application Scenarios
+A physician requesting a patient's medical history from another provider to determine the best course of treatment after a new diagnosis. A hospital sharing patient information with a specialist for a referral, where the specialist needs access to relevant past medical records for informed decision-making.
+# Relationship to Overall Document Argument
+This provision reinforces the importance of facilitating efficient and effective healthcare delivery, which can sometimes require broader access to PHI than typically permitted. It highlights the legal framework that prioritizes patient treatment while still aiming to protect sensitive health information, aligning with both healthcare practices and privacy regulations.

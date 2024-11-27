@@ -1,0 +1,10 @@
+# Law
+164.502(g)(4)
+# Key Legal Concepts
+Personal representative: This concept refers to an executor, administrator, or authorized individual who has the legal authority to act on behalf of a deceased individual or their estate, particularly concerning the management of protected health information (PHI). Protected health information (PHI): This refers to any information held by a covered entity that relates to an individual's health status, provision of healthcare, or payment for healthcare that can be linked to an individual.
+# Key Legal Principles
+Authority of personal representatives: The law mandates that covered entities must recognize individuals with the legal authority to manage the affairs of a deceased person as personal representatives. This ensures that the rights of the deceased regarding their PHI are respected even after death. Confidentiality and notification: The requirement for written notice to personal representatives or next of kin underscores the importance of confidentiality in handling PHI and informs relevant parties about their rights and responsibilities regarding such information.
+# Application Scenarios
+Upon the death of an individual, a covered entity must provide relevant PHI to the designated personal representative to facilitate estate management and resolve any health-related matters. A healthcare provider may need to disclose a deceased patient's medical records to their executor for settling the estate or addressing any outstanding healthcare claims.
+# Relationship to Overall Document Argument
+This provision clarifies the legal standing of personal representatives in managing the PHI of deceased individuals, thereby promoting the proper handling of sensitive information. It integrates with the notification requirements outlined in § 164.404(d)(1) by establishing the necessary legal framework for communicating with individuals who have the authority to act on behalf of the deceased.

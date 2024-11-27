@@ -1,0 +1,10 @@
+# Law
+164.506(c)(2)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. Under HIPAA, PHI is protected to ensure privacy and confidentiality. **Covered Entity**: A covered entity is a person or organization that transmits any health information in electronic form in connection with a HIPAA transaction. This can include health care providers, health plans, and health care clearinghouses.
+# Key Legal Principles
+**Permissible Disclosure**: The law allows covered entities to disclose PHI for treatment activities, ensuring that health care providers can communicate and coordinate care effectively. **Minimum Necessary Rule**: Even when disclosing PHI for treatment, covered entities must still adhere to the principle of sharing only the information necessary to accomplish the intended purpose.
+# Application Scenarios
+A doctor sharing a patient's medical history with a specialist for a consultation, ensuring the specialist has all necessary information to provide appropriate care. A hospital disclosing a patient's treatment information to another facility involved in the patient's ongoing care, facilitating seamless health care transitions.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of sharing PHI among health care providers to enhance patient care while maintaining the necessary protections for patient privacy. It supports the broader goal of HIPAA to balance the need for health information exchange with the need to protect patient confidentiality.

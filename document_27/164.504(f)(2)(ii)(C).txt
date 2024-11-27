@@ -1,0 +1,10 @@
+# Law
+164.504(f)(2)(ii)(C)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any health information that can be used to identify an individual and is protected under privacy laws, limiting its disclosure. Plan Sponsor: The entity that establishes and maintains the group health plan, responsible for ensuring compliance with privacy regulations and managing plan documents.
+# Key Legal Principles
+Confidentiality: The principle that PHI should be kept private and only disclosed in accordance with applicable laws and regulations. Purpose Limitation: The legal requirement that PHI can only be used for specified purposes, such as health care operations, and not for employment-related actions or benefits.
+# Application Scenarios
+A group health plan may disclose PHI to a plan sponsor only if the sponsor certifies that it will use the information solely for the purposes outlined in the plan documents. If a plan sponsor wants to access PHI for decisions related to hiring or promotions, it must refrain from doing so to comply with this law.
+# Relationship to Overall Document Argument
+This law ensures that PHI remains confidential and is not misused by the plan sponsor, supporting the broader goals of privacy and employee rights. It reinforces the importance of amending plan documents to safeguard employee health information from being used inappropriately in employment contexts.

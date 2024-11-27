@@ -1,0 +1,10 @@
+# Law
+164.510(b)(1)
+# Key Legal Concepts
+**Permitted Uses and Disclosures**: This concept refers to the specific circumstances under which covered entities are allowed to use or disclose protected health information (PHI) without obtaining consent from the individual, especially in relation to their care and notification. **Protected Health Information (PHI)**: This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual, which is safeguarded under privacy laws.
+# Key Legal Principles
+**Involvement in Care**: Covered entities can disclose PHI to family members, relatives, or personal friends involved in the individual's healthcare, provided the information is directly relevant to their involvement. **Notification Purposes**: Entities may disclose PHI to notify or assist in notifying family members or others about the individual's location or condition, ensuring that such actions comply with established guidelines.
+# Application Scenarios
+A hospital may inform a patient's family member about the patient's health status after the patient has consented or is present during the discussion. If an individual is deceased, the hospital may disclose relevant health information to family members who were involved in their care before death, unless contrary to the deceased's known preferences.
+# Relationship to Overall Document Argument
+This law underscores the balance between patient privacy and the necessity of involving family or friends in healthcare decisions, promoting effective communication. By detailing permitted uses and disclosures, the law seeks to ensure that covered entities respect privacy rights while facilitating essential health care interactions.

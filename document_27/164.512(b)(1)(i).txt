@@ -1,0 +1,10 @@
+# Law
+164.512(b)(1)(i)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information that can identify an individual and relates to their health status, provision of health care, or payment for health care. Public Health Authority: An entity authorized by law to collect and use health information for the purpose of protecting public health, such as monitoring and controlling diseases.
+# Key Legal Principles
+Permitted Use and Disclosure: Covered entities are allowed to share PHI with public health authorities for specific public health purposes without individual consent. Collaboration with Foreign Entities: The law allows for the sharing of PHI with officials from foreign government agencies if they are collaborating with a public health authority.
+# Application Scenarios
+Reporting cases of communicable diseases to local health departments to track outbreaks. Conducting public health surveillance that involves analyzing health data for trends in disease prevalence.
+# Relationship to Overall Document Argument
+This section emphasizes the importance of safeguarding public health while balancing individual privacy rights. It supports the overarching framework of health information privacy by clearly delineating when and how PHI can be shared for collective health benefits.

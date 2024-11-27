@@ -1,0 +1,10 @@
+# Law
+164.502(g)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: Refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. **Personal Representatives**: Individuals authorized to act on behalf of another person, particularly in making healthcare decisions and accessing PHI. **Emancipated Minors**: Individuals under the age of majority who have been legally granted independence from parental control, allowing them to make decisions regarding their own healthcare.
+# Key Legal Principles
+**Authority to Access PHI**: A covered entity must recognize personal representatives as having the same rights as the individual regarding access to PHI, unless specified exceptions apply. **Legal Hierarchy in Representation**: The law establishes a clear hierarchy for who can act on behalf of an individual, ensuring that only those with appropriate authority are treated as personal representatives. **Exceptions for Protection of Individuals**: In cases of abuse, neglect, or endangerment, covered entities may choose not to recognize a personal representative to protect the individual’s welfare.
+# Application Scenarios
+A parent seeking medical records for their adult child who is an emancipated minor may be denied access if the child has not granted permission. An executor of a deceased person's estate may request PHI relevant to the deceased’s healthcare, as they are treated as a personal representative.
+# Relationship to Overall Document Argument
+The provisions outlined in § 164.502(g) clarify the conditions under which personal representatives can access PHI, enhancing understanding of patient rights and healthcare decision-making. By specifying the roles of personal representatives, the law aims to balance patient confidentiality with the need for family members or legal representatives to access necessary health information.

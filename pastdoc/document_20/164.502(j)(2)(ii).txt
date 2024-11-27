@@ -1,0 +1,10 @@
+# Law
+164.502(j)(2)(ii)
+# Key Legal Concepts
+The concept of 'protected health information' (PHI) refers to any information about health status, provision of health care, or payment for health care that can be linked to a specific individual. The principle of 'permissible disclosures' under HIPAA allows certain exceptions where PHI can be disclosed without violating privacy regulations, particularly in cases involving law enforcement.
+# Key Legal Principles
+The principle of 'minimum necessary' states that PHI should be disclosed only to the extent necessary to achieve the intended purpose, in this case, for law enforcement purposes. The principle of 'workforce member disclosure' allows employees who are victims of crime to share their PHI under specific conditions without the covered entity being held liable.
+# Application Scenarios
+A healthcare worker who is a victim of a robbery may disclose their medical records related to the incident to law enforcement. A hospital employee may report their assault to the police and share relevant health information as part of the investigation.
+# Relationship to Overall Document Argument
+This law reinforces the importance of protecting PHI while recognizing the need for certain disclosures in the context of criminal investigations. It establishes a clear framework that balances individual privacy rights with the necessity of law enforcement to access pertinent health information in specific situations.

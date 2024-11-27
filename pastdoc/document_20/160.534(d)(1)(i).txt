@@ -1,0 +1,10 @@
+# Law
+160.534(d)(1)(i)
+# Key Legal Concepts
+Notice of proposed determination: This is a formal communication that outlines the proposed actions or penalties against a party, providing them with the opportunity to respond or contest the determination. Material and relevant evidence: This refers to evidence that is significant and pertinent to the case at hand, particularly in relation to the acts or omissions leading to the proposed penalty.
+# Key Legal Principles
+Due process: Parties must be given fair notice and an opportunity to contest the evidence and penalties proposed against them. Admissibility of evidence: Only evidence that is deemed material and relevant to the case may be introduced, ensuring that the proceedings focus on pertinent issues.
+# Application Scenarios
+A regulatory agency issues a notice of proposed determination against a business for alleged violations. The business may present evidence that emerged after the notice was issued if it is relevant to the case. In a hearing regarding penalties for non-compliance, a party may argue that new evidence impacts the severity of the penalties proposed, thereby affecting the outcome.
+# Relationship to Overall Document Argument
+The provision connects procedural safeguards (like notice and admissibility of evidence) to the enforcement of penalties, reinforcing the importance of transparency and fairness in regulatory actions. It emphasizes the need for relevant evidence to ensure that decisions made regarding penalties are justified and based on comprehensive information.

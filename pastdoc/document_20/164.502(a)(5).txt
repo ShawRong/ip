@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: Refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. Under this law, it is crucial to protect PHI from unauthorized use or disclosure. **Covered Entities and Business Associates**: These are the parties responsible for safeguarding PHI. Covered entities include health plans, healthcare providers, and healthcare clearinghouses, while business associates are individuals or entities that perform functions on behalf of or provide services to a covered entity that involves PHI.
+# Key Legal Principles
+**Permitted and Required Disclosures**: The law stipulates that PHI can only be used or disclosed in ways that are explicitly permitted or required by law, ensuring that personal health information is not inappropriately shared. **Prohibition of Genetic Information Use for Underwriting**: This principle emphasizes that health plans cannot use genetic information in a way that could discriminate against individuals, particularly in relation to underwriting decisions.
+# Application Scenarios
+A health plan must ensure that it does not disclose an individual’s genetic information to underwrite a policy, thus protecting the individual from discrimination based on their genetic predispositions. A healthcare provider must obtain explicit consent from a patient before sharing their PHI with a third party, in accordance with the regulations set forth in this law.
+# Relationship to Overall Document Argument
+This law aims to protect individuals' privacy rights regarding their health information, reinforcing the importance of consent and limiting the potential for misuse of sensitive data. The specific prohibitions outlined contribute to broader public health objectives by fostering trust between patients and healthcare providers, ensuring that individuals feel secure in sharing their health information.

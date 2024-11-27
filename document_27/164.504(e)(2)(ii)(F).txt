@@ -1,0 +1,10 @@
+# Law
+164.504(e)(2)(ii)(F)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information that relates to an individual's health, healthcare, or payment for healthcare that can identify the individual. Amendment of Health Information: This concept allows individuals to request changes to their PHI if they believe it is inaccurate or incomplete, ensuring the integrity of their health records.
+# Key Legal Principles
+Right to Amend: Individuals have the right to request amendments to their PHI, which must be considered by the covered entity or business associate as mandated by § 164.526. Responsibility of Business Associates: Business associates must comply with the requirements to make PHI available for amendment and to incorporate approved amendments into health records.
+# Application Scenarios
+A patient discovers an error in their medical record regarding a past diagnosis and requests an amendment, prompting the healthcare provider to review and amend the record if the request is valid. A healthcare organization collaborates with a business associate for electronic health record management, ensuring that the associate can process amendment requests as per the law.
+# Relationship to Overall Document Argument
+This law supports the overarching goal of maintaining accurate and trustworthy health records, which is crucial for patient safety and quality of care. It emphasizes the accountability of both covered entities and business associates in safeguarding patients' rights regarding their health information.

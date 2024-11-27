@@ -1,0 +1,10 @@
+# Law
+160.204(a)(5)
+# Key Legal Concepts
+Preemption: The legal principle that federal law takes precedence over state law when there is a conflict. State law exception: The process through which a state can request that a specific provision of its law not be overridden by federal law.
+# Key Legal Principles
+Federalism: The division of power between federal and state governments, allowing states some autonomy in lawmaking. Criteria for exemption: Specific conditions under which a state law may be exempt from federal preemption, as outlined in § 160.203(a).
+# Application Scenarios
+A state may submit a request to the Secretary to allow a law regarding healthcare privacy to remain in effect despite federal regulations that might otherwise override it. A state legislature might seek exemption for a provision that enhances consumer protections above federal standards.
+# Relationship to Overall Document Argument
+The provision emphasizes the importance of states retaining authority over certain laws, reinforcing the concept of federalism. It establishes a mechanism for states to argue for the continued relevance of their laws in light of federal standards, highlighting the balance of power.

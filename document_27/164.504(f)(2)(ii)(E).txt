@@ -1,0 +1,10 @@
+# Law
+164.504(f)(2)(ii)(E)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any individually identifiable health information, including demographic data, that is collected, created, or maintained by a healthcare provider or plan. Plan Sponsor: The entity responsible for establishing and maintaining the group health plan, often an employer or organization that offers health benefits to its employees or members.
+# Key Legal Principles
+Disclosure Requirements: The law mandates that PHI can be disclosed to the plan sponsor only if specific conditions are met, including certification that the plan documents have been amended to comply with privacy regulations. Access Rights: Individuals have the right to access their own protected health information, as outlined in § 164.524, ensuring transparency and enabling individuals to understand their health data.
+# Application Scenarios
+A health plan administrator must ensure that any PHI shared with the plan sponsor is compliant with the amended plan documents to protect patient privacy. An employee requests access to their own health information, triggering the application of § 164.524, which outlines the procedures for individuals to obtain their PHI.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of safeguarding PHI while allowing necessary disclosures to plan sponsors, balancing privacy concerns with operational needs. By linking the disclosure of PHI to the compliance of plan documents, the provision reinforces the need for accountability and adherence to privacy regulations in health plan management.

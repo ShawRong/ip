@@ -1,0 +1,10 @@
+# Law
+164.510(a)(3)
+# Key Legal Concepts
+**Permitted Uses and Disclosures**: This concept establishes the conditions under which a covered health care provider can use or disclose protected health information (PHI) without prior consent from the individual, particularly in the context of facility directories. **Individual's Right to Object**: Individuals have the right to express objections to the use or disclosure of their PHI. This right is crucial for maintaining patient autonomy and privacy.
+# Key Legal Principles
+**Emergency Circumstances**: In situations where a patient is incapacitated or in need of emergency treatment, health care providers are allowed to disclose certain PHI for directory purposes without prior consent, recognizing the need for immediate action. **Post-Emergency Notification**: After an emergency situation, health care providers are required to inform individuals about the disclosures made and provide an opportunity to object, reinforcing the principle of accountability.
+# Application Scenarios
+A patient arrives at the hospital unconscious after an accident. The health care provider uses the patient's information for the facility directory to inform family members of their location, as the patient cannot object due to their condition. After stabilizing a patient who was in an emergency situation, the health care provider sends a notification to the patient about the use of their information in the directory and gives them the chance to object to future disclosures.
+# Relationship to Overall Document Argument
+The provisions in section 164.510(a)(3) highlight the balance between the need for quick action in emergencies and the protection of individual privacy rights. This section supports the broader argument of the law, emphasizing that while patient information may be used in urgent situations, there are still safeguards in place to respect the patient's rights once the emergency has passed.

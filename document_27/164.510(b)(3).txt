@@ -1,0 +1,10 @@
+# Law
+164.510(b)(3)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any health information that can identify an individual and is held by a covered entity. The law governs how this information can be used and disclosed. Covered Entity: This term typically refers to healthcare providers, health plans, and healthcare clearinghouses that must comply with privacy regulations regarding PHI. Professional Judgment: This concept allows healthcare providers to use their discretion in determining the best interests of the individual when they are unable to consent to the use or disclosure of their health information.
+# Key Legal Principles
+Best Interest Standard: When an individual is not present or unable to provide consent, the covered entity can use professional judgment to decide if disclosing PHI is in the individual's best interest. Minimum Necessary Rule: When disclosing PHI, only the information that is directly relevant to the person's involvement in the individual's care or necessary for notification purposes should be shared. Emergency Exceptions: In situations involving incapacity or emergencies, the usual requirements for consent can be bypassed to ensure timely care or notification.
+# Application Scenarios
+A healthcare provider may disclose relevant health information to a family member if the patient is unconscious after an accident and the family member is seeking information about the patient's condition. A pharmacist may release a filled prescription to a friend of the patient when the patient is unable to come to the pharmacy due to illness, provided it aligns with the patient's best interests.
+# Relationship to Overall Document Argument
+This provision emphasizes the balance between patient privacy and the need for timely information sharing in healthcare settings, particularly during emergencies. It reinforces the importance of using professional judgment to navigate situations where patient consent cannot be readily obtained, ensuring that care continuity is maintained.

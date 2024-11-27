@@ -1,0 +1,10 @@
+# Law
+164.508(b)(4)(iii)
+# Key Legal Concepts
+Prohibition on conditioning authorizations: This legal concept prohibits covered entities from making treatment, payment, enrollment, or eligibility for benefits contingent upon an individual's provision of authorization for the disclosure of protected health information. Conditional provision of healthcare: This concept allows covered entities to condition healthcare services specifically aimed at creating protected health information for third-party disclosure on obtaining an authorization from the individual.
+# Key Legal Principles
+Patient autonomy: This principle emphasizes the individual's right to make informed decisions regarding their personal health information and the conditions under which it may be disclosed. Privacy protection: The law underscores the importance of safeguarding protected health information and limits the circumstances under which such information can be accessed or disclosed.
+# Application Scenarios
+A healthcare provider may offer a patient a service that generates health information intended for a third party (e.g., insurance company) only if the patient provides explicit authorization for that specific disclosure. A hospital might refuse to provide certain diagnostic services unless the patient agrees to authorize sharing the resulting health information with a research organization.
+# Relationship to Overall Document Argument
+This law reinforces the overarching goal of protecting patient privacy while also allowing for specific exceptions that facilitate necessary information sharing under controlled circumstances. It highlights the balance between patient rights and the operational needs of covered entities in managing health information disclosures, ensuring that individuals retain control over their personal data.

@@ -1,0 +1,10 @@
+# Law
+160.314(a)(4)
+# Key Legal Concepts
+Subpoenas: A legal document that commands an individual to appear as a witness or produce evidence. Witness Fees: Compensation provided to witnesses for their time and travel in accordance with federal law.
+# Key Legal Principles
+Due Process: Witnesses must be compensated fairly to ensure they are not unduly burdened by their legal obligations. Authority of the Secretary: The Secretary has the legal authority to issue subpoenas as part of investigations, reflecting the enforcement power vested in the role.
+# Application Scenarios
+A government investigation into healthcare compliance where witnesses may be called to testify regarding practices. A compliance review where entities are required to produce documentation and personnel for questioning.
+# Relationship to Overall Document Argument
+Establishes the procedural framework for ensuring witness participation in investigations, which reinforces the integrity of the review process. Links the authority to compel testimony with the requirement to compensate witnesses, highlighting the balance between enforcement and fairness in legal proceedings.

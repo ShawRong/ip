@@ -1,0 +1,10 @@
+# Law
+160.516(d)
+# Key Legal Concepts
+Discovery: A pre-trial procedure in which parties obtain evidence from one another to prepare for trial. Privilege: A legal concept that protects certain communications from being disclosed in legal proceedings, such as attorney-client privilege.
+# Key Legal Principles
+Non-disclosure of certain documents: This law establishes that certain interview reports and statements do not have to be disclosed if the individuals involved will not testify. Protection of privileged information: The law reinforces the idea that documents prepared in the course of litigation or investigation may be protected from disclosure.
+# Application Scenarios
+A party in a lawsuit may conduct interviews with witnesses but may choose not to disclose those reports if the witnesses are not going to testify. Lawyers preparing for a case may draft analyses or summaries of evidence that they will not be required to share with opposing counsel.
+# Relationship to Overall Document Argument
+By limiting disclosure requirements, this section aims to protect the integrity of the litigation process and encourage candid communication between parties and their legal representatives. It underscores the balance between the right to discovery and the need to protect privileged information, thereby promoting fair trial rights.

@@ -1,0 +1,10 @@
+# Law
+160.105
+# Key Legal Concepts
+Compliance Dates: This concept refers to the specified timeframes within which entities must adhere to new or modified standards. In this law, entities have 180 days from the effective date to comply. Covered Entities and Business Associates: These terms refer to organizations that handle protected health information (PHI) and their partners, emphasizing the scope of who must comply with the standards.
+# Key Legal Principles
+Timeliness of Compliance: The principle that entities must act within a designated period post-implementation of new standards to ensure regulatory adherence. Modification of Standards: This principle highlights that existing standards can be updated, necessitating compliance with the new requirements.
+# Application Scenarios
+A healthcare organization must implement new privacy standards introduced after January 25, 2013, and ensure that all necessary changes are made within the 180-day compliance window. A business associate of a covered entity receives notice of a modification to existing health information handling standards and must update its practices accordingly within the stipulated timeframe.
+# Relationship to Overall Document Argument
+This law reinforces the framework established in Subpart A by setting clear compliance timelines, thereby promoting accountability among covered entities and business associates. It supports the overall aim of the regulations by ensuring that entities proactively adapt to changes in standards, enhancing the protection of health information.

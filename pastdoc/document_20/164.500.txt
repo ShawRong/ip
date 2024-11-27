@@ -1,0 +1,10 @@
+# Law
+164.500
+# Key Legal Concepts
+**Covered Entities**: Organizations such as health care providers, health plans, and health care clearinghouses that are required to comply with privacy regulations regarding protected health information (PHI). **Protected Health Information (PHI)**: Any individually identifiable health information that is transmitted or maintained in any form, which is subject to privacy protections under the law. **Business Associates**: Individuals or entities that perform functions on behalf of a covered entity that involve the use or disclosure of PHI, and are therefore also subject to certain privacy standards.
+# Key Legal Principles
+**Applicability**: The law outlines which entities are subject to the standards, requirements, and implementation specifications of privacy regulations, ensuring that covered entities handle PHI appropriately. **Exemptions**: Certain federal agencies, including the Department of Defense, are exempt from these standards when providing health care to specific groups, highlighting the limitations of the law's reach.
+# Application Scenarios
+A health care provider must implement safeguards to protect patient records from unauthorized access, as mandated by the standards applicable to covered entities. A health care clearinghouse must comply with privacy regulations when processing PHI on behalf of a health plan, ensuring proper handling of sensitive information.
+# Relationship to Overall Document Argument
+The provisions in § 164.500 establish the foundational applicability of privacy standards, forming the basis for the protection of health information throughout the document. This section underscores the importance of identifying which entities are accountable under the law, thereby framing the subsequent requirements and implementation specifications that protect individual privacy.

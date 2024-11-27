@@ -1,0 +1,10 @@
+# Law
+160.518(a)
+# Key Legal Concepts
+Exchange of witness lists: This concept mandates that parties involved in a hearing must share lists of witnesses they intend to call, ensuring both sides have access to the same information and can prepare accordingly. Admissibility of evidence: The law outlines conditions under which evidence can be deemed admissible or excluded based on whether it was exchanged according to the specified timeline. Timeliness of evidence exchange: Parties are required to exchange witnesses' statements and exhibits within a specific timeframe (15 to 60 days before a hearing), which is crucial for maintaining procedural fairness.
+# Key Legal Principles
+Exclusion of non-compliant evidence: If a party fails to exchange evidence as required, the Administrative Law Judge (ALJ) is tasked with determining whether such failure justifies excluding the evidence from consideration. Authenticity by default: Documents exchanged in compliance with the law are presumed authentic unless an objection is raised in a timely manner, which streamlines the process of establishing evidence credibility during hearings.
+# Application Scenarios
+A party may object to a witness or exhibit not exchanged within the required timeline, prompting the ALJ to consider whether to exclude that evidence from the hearing. If a statistical expert's report is not provided to the opposing party within the specified 30 days, it may be excluded from the hearing, affecting the respondent's case.
+# Relationship to Overall Document Argument
+The provisions outlined in § 160.518(a) serve to create a structured process for evidence exchange, which supports the integrity of the hearing process by promoting transparency and fairness. The requirements for timely exchange of witness lists and exhibits reinforce the overall goal of ensuring that both parties are adequately prepared, thereby enhancing the effectiveness and efficiency of the adjudicative process.

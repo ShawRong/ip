@@ -1,0 +1,10 @@
+# Law
+160.508(b)(11)
+# Key Legal Concepts
+Official notice: This refers to the process by which a judge or administrative law judge (ALJ) recognizes certain facts as true without requiring formal proof. It is typically used for facts that are generally known or can be accurately and readily determined from reliable sources. Motion of a party: This involves a request made by one party in a legal proceeding to the judge or ALJ, asking for a specific ruling or order. In this context, it allows a party to initiate the process of taking official notice.
+# Key Legal Principles
+Due process: The principle that parties in a legal proceeding must be given fair notice and an opportunity to be heard. This includes the ability to contest facts that are officially noticed. Efficiency in legal proceedings: By allowing official notice, the law aims to streamline cases by eliminating the need for redundant proof of widely accepted facts.
+# Application Scenarios
+A party may request the ALJ to take official notice of weather conditions on a specific date relevant to the case, which is a common and easily verifiable fact. During a hearing, a party may motion for official notice of a regulation or policy that is widely recognized and pertinent to the case at hand, thus avoiding the need for extensive evidence.
+# Relationship to Overall Document Argument
+Recognizing facts through official notice can significantly influence the outcome of a case by establishing a factual basis without extensive evidence, thereby supporting the efficiency of the adjudicative process. This provision enhances the ALJ's ability to make informed decisions based on universally acknowledged facts, thereby reinforcing the integrity and effectiveness of the administrative legal framework.

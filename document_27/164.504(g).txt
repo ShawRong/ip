@@ -1,0 +1,10 @@
+# Law
+164.504(g)
+# Key Legal Concepts
+Covered Entity: A covered entity is a person or organization that provides health care services or health plans and is subject to HIPAA regulations. Protected Health Information (PHI): Refers to any health information that can identify an individual and is held by a covered entity, which must be handled following privacy regulations.
+# Key Legal Principles
+Compliance with Standards: Covered entities performing multiple functions must adhere to specific standards and requirements applicable to each function, ensuring proper handling of PHI. Purpose Limitation: The use or disclosure of PHI must be limited to the appropriate function being performed, preventing misuse of information across different services.
+# Application Scenarios
+A health insurance company that also provides health care services must ensure that when using PHI, it does so in a manner compliant with health plan regulations when acting as a health plan. A hospital that also runs a health insurance plan must separate its use of patient information according to whether it is providing medical care or insurance services.
+# Relationship to Overall Document Argument
+This standard underscores the importance of regulatory compliance for entities managing multiple health functions, highlighting the need for clarity in handling PHI. It supports the broader goal of maintaining patient privacy and security by ensuring that entities do not mix functions inappropriately when dealing with sensitive health information.

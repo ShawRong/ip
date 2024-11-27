@@ -1,0 +1,10 @@
+# Law
+164.508(c)(4)
+# Key Legal Concepts
+Protected Health Information (PHI): Information that can identify an individual and relates to their health condition, healthcare provision, or payment for healthcare. Authorization: A documented permission from an individual allowing a covered entity to use or disclose their PHI for specific purposes.
+# Key Legal Principles
+Transparency: Covered entities must ensure that individuals are aware of and have access to their authorizations, promoting informed consent. Accountability: By providing a copy of the signed authorization, covered entities maintain a record of compliance and responsibility in handling PHI.
+# Application Scenarios
+A healthcare provider requests authorization from a patient to share their medical records with a specialist and provides a copy of the signed authorization to the patient. A health insurance company requires authorization from an insured individual to disclose their claims history to a third-party vendor and supplies the individual with a copy of the authorization.
+# Relationship to Overall Document Argument
+This provision emphasizes the necessity for covered entities to respect patient autonomy by ensuring individuals have copies of their authorizations, reinforcing trust in the healthcare system. It supports the broader framework of HIPAA, which aims to protect patient privacy while facilitating necessary information flow in healthcare.

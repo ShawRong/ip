@@ -1,0 +1,10 @@
+# Law
+164.508(c)(2)(i)
+# Key Legal Concepts
+The individual's right to revoke authorization: This concept establishes that individuals have the power to withdraw their consent for the use or disclosure of their personal information, ensuring they maintain control over their data. Core elements of authorization: These are the fundamental components that must be included in any authorization for the use or disclosure of protected health information, ensuring transparency and informed consent.
+# Key Legal Principles
+Notice requirement: The law mandates that individuals must be adequately informed about how they can revoke their authorization, emphasizing the importance of clear communication in legal agreements. Reference to existing notices: If the information regarding revocation is already covered in another required notice (§ 164.520), the authorization can simply reference that notice, promoting efficiency in legal documentation.
+# Application Scenarios
+A patient signing a consent form for their health information to be shared with a third party can later decide to revoke that consent by submitting a written request, as outlined by the law. Healthcare providers must ensure that the authorizations they obtain include clear instructions regarding revocation, thereby protecting patient rights and compliance with legal standards.
+# Relationship to Overall Document Argument
+The law reinforces the principle of patient autonomy by allowing individuals to revoke their consent, thus aligning with broader healthcare privacy regulations. By requiring clear statements about revocation, the law supports the overall goal of ensuring that individuals are fully informed about their rights regarding personal health information.

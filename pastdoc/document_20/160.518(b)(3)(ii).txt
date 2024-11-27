@@ -1,0 +1,10 @@
+# Law
+160.518(b)(3)(ii)
+# Key Legal Concepts
+**Extraordinary Circumstances**: This refers to situations that are unusual and warrant special consideration by the Administrative Law Judge (ALJ) when evaluating the admissibility of evidence. **Substantial Prejudice**: This concept involves determining whether the admission of certain evidence would significantly disadvantage the party opposing its introduction, potentially affecting their ability to present an effective case.
+# Key Legal Principles
+**Admissibility of Evidence**: The ALJ has the discretion to admit or exclude evidence based on the presence of extraordinary circumstances and the potential for substantial prejudice to a party. **Right to Fair Hearing**: The principle ensures that parties have the opportunity to adequately prepare and respond to evidence presented against them, maintaining the integrity of the hearing process.
+# Application Scenarios
+A party objects to new evidence being introduced late in the hearing process due to extraordinary circumstances, claiming it would cause substantial prejudice to their case. The ALJ discovers that evidence was obtained under unusual conditions and must decide whether to admit it while considering the potential impact on the objecting party's ability to respond.
+# Relationship to Overall Document Argument
+The law emphasizes the balance between allowing relevant evidence and protecting the rights of parties to ensure a fair hearing. It reinforces the procedural safeguards that must be in place to prevent unfair disadvantage while allowing for flexibility in evidence admission under extraordinary circumstances.

@@ -1,0 +1,10 @@
+# Law
+164.504(f)(3)(ii)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information held by a covered entity that can be used to identify an individual and relates to their health status, provision of health care, or payment for health care. Group Health Plan: A type of health insurance plan that provides health coverage to a group of people, typically offered by an employer or organization.
+# Key Legal Principles
+Confidentiality: The principle that requires health information to be kept private and not disclosed without proper authorization. Permitted Uses and Disclosures: The law outlines specific circumstances under which PHI may be shared, emphasizing that disclosures should be limited to what is necessary for the intended purpose.
+# Application Scenarios
+A group health plan must ensure that any health insurance issuer or HMO does not disclose PHI to a plan sponsor unless explicitly permitted, thus safeguarding member privacy. In situations where a plan sponsor needs data for administrative purposes, the health plan must evaluate whether the requested information falls within the permitted disclosures.
+# Relationship to Overall Document Argument
+This provision reinforces the overarching goal of protecting PHI while allowing necessary disclosures under specific conditions, thereby balancing privacy with operational needs. It emphasizes the responsibilities of group health plans to manage disclosures carefully, ensuring that plan sponsors do not have unfettered access to sensitive health information.

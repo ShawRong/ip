@@ -1,0 +1,10 @@
+# Law
+164.502(b)(2)
+# Key Legal Concepts
+The 'minimum necessary' standard requires covered entities and business associates to limit the use and disclosure of protected health information (PHI) to the least amount necessary to achieve the intended purpose. The exceptions to the minimum necessary standard specify scenarios where this limitation does not apply, allowing for broader access or disclosure of PHI.
+# Key Legal Principles
+The principle of confidentiality emphasizes protecting patient information while allowing necessary access to facilitate treatment and comply with legal requirements. The principle of compliance ensures that healthcare entities adhere to legal standards while managing PHI, balancing patient privacy with operational needs.
+# Application Scenarios
+A healthcare provider requesting PHI for treatment purposes does not need to adhere to the minimum necessary standard, as this is considered essential for patient care. Disclosures made under legal authorization (e.g., court orders) do not require adherence to the minimum necessary guideline, enabling compliance with legal obligations.
+# Relationship to Overall Document Argument
+The exceptions outlined in this law clarify the boundaries of the minimum necessary standard, reinforcing the importance of patient care and legal compliance. By delineating where the minimum necessary standard does not apply, the law aims to facilitate efficient healthcare delivery while maintaining a framework for protecting patient privacy.

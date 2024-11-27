@@ -1,0 +1,10 @@
+# Law
+160.530(g)
+# Key Legal Concepts
+Sanctions: Measures imposed by the Administrative Law Judge (ALJ) to address non-compliance or misconduct during legal proceedings. Attorney's Fees: Costs incurred by a party for legal representation that may be awarded as part of sanctions.
+# Key Legal Principles
+Proportionality: Sanctions must be reasonably related to the severity and nature of the misconduct or failure. Due Process: Ensuring that sanctions are applied fairly and justly, respecting the rights of all parties involved.
+# Application Scenarios
+A party fails to provide requested documentation during a hearing, leading to sanctions that may include payment of attorney's fees for the opposing party. An attorney repeatedly fails to appear at scheduled hearings, prompting the ALJ to impose sanctions that include the payment of costs associated with the delays.
+# Relationship to Overall Document Argument
+This law emphasizes accountability in legal proceedings, ensuring that parties and their attorneys adhere to procedures, thereby fostering a fair hearing process. The provision for awarding attorney's fees as a sanction underscores the principle of compensating affected parties for additional costs incurred due to another's misconduct.

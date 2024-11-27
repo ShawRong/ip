@@ -1,0 +1,10 @@
+# Law
+160.526(b)
+# Key Legal Concepts
+Computation of time: This concept refers to the method by which periods of time are calculated in legal contexts, ensuring clarity on deadlines and time-sensitive actions. Exclusion of days: Specifically, this law stipulates that when a time period is less than 7 days, certain days (Saturdays, Sundays, and federal holidays) are excluded from the count.
+# Key Legal Principles
+Fairness in deadlines: The principle underlying this law is to provide fairness by not penalizing parties with deadlines that fall on weekends or holidays, thereby allowing them adequate time to respond or act. Uniformity in legal practice: This principle promotes consistency across legal proceedings by standardizing how time is computed, regardless of the specific case or jurisdiction.
+# Application Scenarios
+A party is required to file a response to a legal motion due in 5 days. If the 5th day falls on a Saturday, the deadline extends to the following Monday. A notice of violation is served that gives the recipient 3 days to respond. If any of those days include a federal holiday, the counting does not include that holiday.
+# Relationship to Overall Document Argument
+This law supports a broader framework of procedural fairness in legal contexts, ensuring that individuals are not unduly burdened by strict timelines that do not account for non-working days. It reinforces the importance of clarity and predictability in legal proceedings, which is essential for maintaining order and efficiency in the judicial system.

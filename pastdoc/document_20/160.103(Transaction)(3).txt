@@ -1,0 +1,10 @@
+# Law
+160.103(Transaction)(3)
+# Key Legal Concepts
+Coordination of benefits refers to the process of determining the order in which multiple health care plans will pay for covered services, ensuring that the total reimbursement does not exceed the total cost of the services. The term 'transaction' in this context emphasizes the electronic or systematic exchange of information necessary for coordinating benefits among different insurers.
+# Key Legal Principles
+Equity in reimbursement: Ensures that patients receive fair compensation from multiple insurers without duplication of payments. Transparency in information exchange: Requires clear communication between insurers to facilitate accurate coordination of benefits.
+# Application Scenarios
+A patient with health insurance from two different providers receives treatment and the insurers must determine how to share the costs effectively. An administrative body needs to process claims from various insurers, ensuring that no insurer pays more than its share for a single treatment.
+# Relationship to Overall Document Argument
+Coordination of benefits is essential for streamlining healthcare transactions, reducing administrative burdens, and ensuring patients are not overcharged for services. This provision supports the broader regulatory framework by promoting efficient financial interactions in the healthcare system.

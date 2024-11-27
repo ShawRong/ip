@@ -1,0 +1,10 @@
+# Law
+164.504(f)(2)(ii)(G)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any health information that can be used to identify an individual and that is maintained by a covered entity. Plan Sponsor: An entity that establishes or maintains an employee benefit plan, which may include health plans. Accounting of Disclosures: A formal record of disclosures of PHI, which individuals have the right to request under certain conditions.
+# Key Legal Principles
+Confidentiality: The requirement to protect the privacy of individuals' health information and disclose it only in accordance with specified laws. Authorization: The necessity for plan sponsors to certify that they have amended their plan documents to comply with privacy regulations before receiving PHI. Transparency: Ensures that individuals can access information about who has accessed their PHI and for what purpose.
+# Application Scenarios
+A health plan must provide a detailed accounting of disclosures when a patient requests information about how their PHI has been shared. When a plan sponsor seeks access to PHI, they must first provide certification that their plan complies with legal requirements, ensuring protections are in place.
+# Relationship to Overall Document Argument
+The law emphasizes the balance between allowing plan sponsors access to necessary health information while safeguarding patient privacy. It reinforces the accountability of health plans and sponsors in handling PHI, thereby fostering trust and compliance within the healthcare system.

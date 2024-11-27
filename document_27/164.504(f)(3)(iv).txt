@@ -1,0 +1,10 @@
+# Law
+164.504(f)(3)(iv)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any individually identifiable health information that is transmitted or maintained in any form or medium, which is protected under HIPAA regulations. Plan Sponsor: An entity that establishes or maintains an employee benefit plan, responsible for the plan's administration and compliance with applicable laws.
+# Key Legal Principles
+Confidentiality: The principle that ensures sensitive health information is kept private and not disclosed without appropriate consent, particularly in the context of employment decisions. Non-Disclosure: The legal obligation that prohibits the sharing of PHI with plan sponsors for employment-related purposes, ensuring that such information cannot influence hiring, firing, or other employment actions.
+# Application Scenarios
+A health plan administrator must ensure that no employee health records are shared with the employer for performance evaluations, thereby protecting employee privacy. An HR department cannot request access to an employee's medical records from the health plan for the purpose of making decisions about promotions or disciplinary actions.
+# Relationship to Overall Document Argument
+This law reinforces the separation between health information and employment decisions, ensuring that employees' health data remains confidential and is not used discriminatorily. It supports the broader goals of HIPAA by promoting trust in health plans and safeguarding individuals' rights to privacy regarding their health information.

@@ -1,0 +1,10 @@
+# Law
+164.510(a)(1)
+# Key Legal Concepts
+Permitted uses and disclosures: This concept refers to the allowances made for covered health care providers to use and disclose protected health information (PHI) for maintaining facility directories, under specific conditions. Opportunity to object: This principle emphasizes the necessity for health care providers to inform individuals about how their PHI may be used or disclosed and to offer them a chance to restrict those uses.
+# Key Legal Principles
+Patient autonomy: The law supports the principle that individuals should have control over their own health information, allowing them to express objections to its use in directories. Emergency exceptions: The principle recognizes that in emergency situations where an individual cannot provide consent, health care providers may still use or disclose PHI to maintain directories.
+# Application Scenarios
+A patient admitted to a hospital may have their basic information included in the facility directory unless they explicitly object to such use. In an emergency room setting, if a patient is unconscious, the health care provider can still include their information in the directory without prior consent.
+# Relationship to Overall Document Argument
+The inclusion of permitted uses and disclosures reinforces the balance between patient privacy and the operational needs of health care facilities to maintain directories. It highlights the legal framework that governs how health care providers manage patient information, ensuring that individual rights are respected while enabling essential communication.

@@ -1,0 +1,10 @@
+# Law
+164.501 “Health care operations” (6)(v)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any individually identifiable health information that is created, received, maintained, or transmitted by a covered entity, which can include patient names, addresses, medical records, and any data that could be used to identify an individual. Uses and Disclosures: This concept involves how healthcare providers can share PHI for various purposes, including treatment, payment, and healthcare operations, and establishes the conditions under which such information may be disclosed.
+# Key Legal Principles
+Minimum Necessary Standard: This principle requires that when PHI is disclosed or used, only the minimum necessary information for the purpose should be shared, protecting patient privacy. Patient Consent: The law mandates obtaining patient consent before disclosing PHI for purposes not directly related to treatment, payment, or healthcare operations, ensuring that patients have control over their own health information.
+# Application Scenarios
+A healthcare provider sharing patient information with a specialist for treatment purposes, ensuring that only relevant information is disclosed. A hospital disclosing patient health information for billing purposes while adhering to the minimum necessary standard.
+# Relationship to Overall Document Argument
+The provisions of § 164.514 support the overarching goal of the Health Insurance Portability and Accountability Act (HIPAA), which aims to safeguard patient privacy while allowing for necessary information flow in healthcare operations. The principles established in this section reinforce the need for compliance and ethical handling of PHI, which is essential for maintaining trust between patients and healthcare providers.

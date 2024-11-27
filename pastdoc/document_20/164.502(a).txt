@@ -1,0 +1,10 @@
+# Law
+164.502(a)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. Covered Entity: Organizations or individuals that are subject to HIPAA regulations, including healthcare providers, health plans, and healthcare clearinghouses that transmit any health information in electronic form. Business Associate: A person or entity that performs functions or activities on behalf of, or provides certain services to, a covered entity that involves the use or disclosure of protected health information.
+# Key Legal Principles
+Permitted Uses and Disclosures: Covered entities and business associates may use or disclose PHI only as permitted by law or required by their contracts. Required Disclosures: Covered entities must disclose PHI when required by law, ensuring compliance with legal mandates. Prohibited Uses and Disclosures: Any use or disclosure of PHI not expressly permitted or required by law is prohibited, safeguarding patient privacy.
+# Application Scenarios
+A healthcare provider sharing PHI with another provider for treatment purposes is a permitted disclosure. A business associate conducting billing services for a covered entity must adhere to the contract terms regarding the use of PHI.
+# Relationship to Overall Document Argument
+The provisions in § 164.502 establish a framework that prioritizes the protection of patient privacy through strict guidelines on the use and disclosure of PHI. This law reinforces the accountability of both covered entities and business associates in handling sensitive health information responsibly.

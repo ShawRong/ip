@@ -1,0 +1,10 @@
+# Law
+164.508(b)(2)(iii)
+# Key Legal Concepts
+The concept of 'authorization' refers to the permission granted by a patient for a covered entity to use or disclose their protected health information (PHI). This authorization must meet specific legal standards to be considered valid. The notion of 'revocation' indicates that the patient has withdrawn their consent for the covered entity to use or disclose their PHI. A revocation must be acknowledged by the covered entity to invalidate any previous authorization.
+# Key Legal Principles
+The principle of validity in authorization emphasizes that an authorization must not only be correctly executed but also must not be known to have been revoked by the patient to remain effective. The principle of patient autonomy underscores the right of individuals to control their own health information, including the ability to revoke authorization at any time.
+# Application Scenarios
+A patient may initially authorize a healthcare provider to share their medical information with a family member but later decides to revoke that authorization due to privacy concerns. A healthcare facility must ensure that any authorizations it has on file are current and not revoked, particularly when responding to requests for information.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of maintaining valid authorizations for the use of PHI, reinforcing the need for covered entities to stay informed about any revocations. The provision helps protect patient rights by ensuring that once an authorization is revoked, the covered entity must cease all uses and disclosures based on that authorization.

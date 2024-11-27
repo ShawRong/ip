@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(ii)(A)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. The sale of PHI is heavily regulated to protect patient privacy. Covered Entity: This term refers to organizations like health care providers, health plans, and health care clearinghouses that transmit any health information in electronic form. They are subject to strict regulations regarding the handling of PHI.
+# Key Legal Principles
+Authorization Requirement: Under § 164.508(a)(4), a covered entity must obtain explicit authorization from the individual before selling their PHI. This principle underscores the importance of patient consent and control over personal health information. Compliance with Regulations: The law emphasizes that any sale of PHI must comply with specified regulations, thereby ensuring that all transactions are conducted legally and ethically.
+# Application Scenarios
+A healthcare provider wishing to sell patient data to a research organization must first obtain authorization from the patients involved, demonstrating compliance with the law. A business associate that processes PHI for a covered entity cannot sell that information to third parties unless specifically authorized to do so by the covered entity and the patients.
+# Relationship to Overall Document Argument
+The law reinforces the principle of patient autonomy over personal health data, ensuring that individuals have a say in how their information is used. It establishes a clear framework for covered entities and business associates, promoting ethical practices in the handling and potential monetization of protected health information.

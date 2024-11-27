@@ -1,0 +1,10 @@
+# Law
+164.508(a)(1)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, provision of healthcare, or payment for healthcare that can be linked to an individual. It is crucial for maintaining patient confidentiality. Authorization: A formal consent obtained from an individual allowing a covered entity to use or disclose their protected health information. This must be specific, informed, and compliant with legal standards.
+# Key Legal Principles
+Consent Requirement: The law establishes that a covered entity must obtain explicit authorization from the individual before using or disclosing their PHI, barring certain exceptions. Consistency with Authorization: Any use or disclosure of PHI must align with the terms outlined in the valid authorization, ensuring that the individual’s specific permissions are respected.
+# Application Scenarios
+A healthcare provider must acquire a patient's written consent before sharing their medical records with a third-party insurer. A hospital can only disclose patient information for research purposes if the patient has signed an authorization that explicitly allows such use.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of patient autonomy and informed consent in the handling of sensitive health information, reinforcing trust in healthcare. It serves as a foundational standard that guides the practices of covered entities, ensuring compliance with privacy regulations in the healthcare sector.

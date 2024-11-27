@@ -1,0 +1,10 @@
+# Law
+164.508
+# Key Legal Concepts
+Authorization: A formal agreement from an individual allowing a covered entity to use or disclose their protected health information (PHI) for specific purposes. Protected Health Information (PHI): Any individually identifiable health information that is created, received, maintained, or transmitted by a covered entity. Waiver of Authorization: A situation where the requirement for authorization can be waived under certain conditions, allowing use or disclosure of PHI without an individual's consent.
+# Key Legal Principles
+Individual Consent: Under § 164.508, a covered entity must obtain explicit authorization from individuals before using or disclosing their PHI, except in specific circumstances outlined in the law. Limitations on Disclosure: The authorization must clearly specify the scope and purpose of the disclosure, ensuring that individuals are informed about how their information will be used. Revocation of Authorization: Individuals have the right to revoke their authorization at any time, which must be honored by the covered entity, provided the revocation is communicated in writing.
+# Application Scenarios
+A healthcare provider must obtain a patient's written consent before sharing their medical records with a third-party insurer for reimbursement purposes. A research institution needs to secure written authorization from participants before using their health data for clinical studies.
+# Relationship to Overall Document Argument
+§ 164.508 is a critical component of the HIPAA Privacy Rule, emphasizing the importance of individual control over personal health information. The requirements outlined in § 164.508 ensure that individuals retain rights over their PHI, thereby fostering trust in healthcare systems and compliance with privacy standards.

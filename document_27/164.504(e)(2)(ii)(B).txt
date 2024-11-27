@@ -1,0 +1,10 @@
+# Law
+164.504(e)(2)(ii)(B)
+# Key Legal Concepts
+Business Associate: A business associate is an entity or individual that performs functions on behalf of a covered entity involving the use or disclosure of protected health information (PHI). This law emphasizes the responsibilities of business associates regarding PHI. Appropriate Safeguards: Refers to the security measures that must be implemented to protect electronic protected health information (ePHI) from unauthorized access, use, or disclosure. This includes administrative, physical, and technical safeguards.
+# Key Legal Principles
+Confidentiality: The principle of confidentiality ensures that PHI is protected and only disclosed to authorized individuals or entities as stipulated in the contract between the covered entity and the business associate. Compliance: The principle of compliance requires business associates to adhere to applicable laws and regulations, specifically subpart C, which outlines standards for protecting ePHI.
+# Application Scenarios
+A healthcare provider contracts with a third-party billing company (business associate) that processes patient billing information. The billing company must implement safeguards to protect ePHI as required by the contract and the law. A cloud service provider that stores ePHI must ensure they have appropriate security protocols in place to prevent unauthorized access and must comply with the terms of the contract regarding the handling of that information.
+# Relationship to Overall Document Argument
+This law reinforces the need for business associates to implement protective measures, thereby enhancing the overall security framework for handling ePHI. By establishing clear responsibilities for business associates, this law supports the broader objective of the HIPAA regulations to protect patient privacy and ensure the confidentiality of health information.

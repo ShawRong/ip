@@ -1,0 +1,10 @@
+# Law
+164.501Healthcareoperations
+# Key Legal Concepts
+Health care operations: Refers to administrative, financial, legal, and quality improvement activities necessary for the healthcare provider to function effectively. Covered entity: An organization or individual that transmits any health information in electronic form in connection with a HIPAA transaction.
+# Key Legal Principles
+Confidentiality: Ensures that patient information is kept private and is only disclosed in accordance with the law. Minimum necessary standard: Requires that only the minimum amount of protected health information is used or disclosed for any purpose.
+# Application Scenarios
+Conducting quality assessments to improve patient care services. Billing and collection activities related to healthcare services provided.
+# Relationship to Overall Document Argument
+Establishes a framework for understanding what constitutes health care operations, which is essential for compliance with regulations. Clarifies the scope of activities that fall under the protection of confidentiality laws, thereby guiding covered entities in their operations.

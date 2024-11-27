@@ -1,0 +1,10 @@
+# Law
+164.508(c)(2)(iii)
+# Key Legal Concepts
+The concept of 'authorization' refers to the permission granted by an individual for their personal information to be disclosed to a third party. In this context, the authorization must include specific statements that inform the individual about the implications of granting such permission. The principle of 'redisclosure' indicates that once information is shared under an authorization, the recipient may further share that information, which can lead to a loss of protection under the original privacy regulations.
+# Key Legal Principles
+The principle of informed consent emphasizes that individuals must be adequately informed about the potential consequences of sharing their information, including the risks associated with redisclosure. The principle of transparency mandates that the authorization must clearly outline the conditions under which the information may be shared, including any potential loss of privacy protections.
+# Application Scenarios
+In healthcare, a patient may authorize a provider to share their medical records with a specialist, but they must be informed that the specialist could further disclose this information without additional consent. In financial services, a customer might allow their financial data to be shared with a third-party service, necessitating clear communication about how that data may be used or shared again.
+# Relationship to Overall Document Argument
+This law underscores the importance of protecting personal information and ensuring that individuals understand the risks associated with authorization for disclosure. It reinforces the necessity for clear communication in authorization documents to promote informed decision-making and maintain privacy rights.

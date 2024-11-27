@@ -1,0 +1,10 @@
+# Law
+164.502(d)(2)(ii)
+# Key Legal Concepts
+De-identification: The process of removing or altering personal identifiers from health information so that individuals cannot be readily identified. Re-identification: The act of restoring the identifiers to de-identified information, making it possible to link the information back to the individual.
+# Key Legal Principles
+Privacy Protection: De-identified information is not considered individually identifiable, hence is subject to fewer privacy restrictions under HIPAA. Permitted Use: If information is re-identified, it falls back under the regulations of this subpart, meaning its use and disclosure must comply with HIPAA requirements.
+# Application Scenarios
+A healthcare provider may use de-identified data for research without consent, but if the data is later re-identified, it must adhere to HIPAA regulations for patient consent. A health insurance company may share de-identified health statistics for public health reporting, but if that information is linked back to individuals, it must ensure compliance with privacy laws.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of maintaining patient privacy while allowing for the use of health data in a de-identified form. It highlights the transition from de-identified to re-identified data, underscoring the need for compliance with existing privacy laws when individuals can be recognized.

@@ -1,0 +1,10 @@
+# Law
+160.520(d)(2)
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual to appear as a witness or produce evidence in a legal proceeding. Administrative Law Judge (ALJ): An official who presides over administrative hearings and has the authority to make decisions on legal issues.
+# Key Legal Principles
+Timeliness: The requirement to file a motion for a subpoena at least 30 days before a hearing ensures that all parties have adequate notice and time to prepare. Good Cause: The provision allowing the ALJ to waive the 30-day notice requirement indicates flexibility in the legal process, accommodating unforeseen circumstances.
+# Application Scenarios
+A party may need to subpoena a witness who has critical information for the hearing, thus needing to designate that witness in their motion. If a party is unable to meet the 30-day requirement due to unexpected developments, they can request a waiver from the ALJ by demonstrating good cause.
+# Relationship to Overall Document Argument
+Designating witnesses is crucial for ensuring that relevant testimony is presented during the hearing, thereby reinforcing the integrity of the legal process. The procedural requirements outlined in this law emphasize the importance of fairness and preparation in administrative hearings, contributing to the overall goal of just outcomes.

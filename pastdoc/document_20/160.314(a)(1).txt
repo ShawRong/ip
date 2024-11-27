@@ -1,0 +1,10 @@
+# Law
+160.314(a)(1)
+# Key Legal Concepts
+Subpoena: A legal document that orders an individual or entity to appear and testify or produce evidence at a specified time and place. Entity: Refers to any organization or group that is not a natural person, such as corporations or partnerships, which can be subject to subpoenas.
+# Key Legal Principles
+Due Process: The issuance of a subpoena must adhere to legal standards that protect the rights of the person or entity being subpoenaed, ensuring they receive adequate notice and an opportunity to respond. Authority: The Secretary's ability to issue subpoenas is grounded in specific statutory provisions, which must be clearly stated in the subpoena itself.
+# Application Scenarios
+An investigation into compliance with healthcare regulations where witnesses are required to provide testimony and documents relevant to the investigation. A compliance review of an organization’s adherence to federal laws, necessitating the gathering of evidence from key personnel.
+# Relationship to Overall Document Argument
+The requirements outlined in this law ensure that subpoenas are issued with clarity and specificity, reinforcing the legal framework within which investigations are conducted. By detailing what must be included in a subpoena, the law aims to balance the need for evidence gathering with the rights of individuals and entities, ensuring fair procedures.

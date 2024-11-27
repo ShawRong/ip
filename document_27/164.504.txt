@@ -1,0 +1,10 @@
+# Law
+164.504
+# Key Legal Concepts
+**Hybrid Entity**: A hybrid entity is an organization that conducts both covered and non-covered functions. This affects how the privacy rules apply, as only the health care component is subject to specific privacy regulations. **Covered Entity**: This term refers to health plans, health care clearinghouses, and health care providers who transmit any health information in electronic form. They must adhere to the regulations outlined in the HIPAA Privacy Rule.
+# Key Legal Principles
+**Organizational Requirements**: Covered entities must implement policies and procedures to ensure compliance with privacy regulations, particularly regarding how they handle and disclose individually identifiable health information. **Business Associate Arrangements**: Covered entities are responsible for ensuring that their business associates comply with the same privacy standards, which includes formal agreements outlining the responsibilities of both parties.
+# Application Scenarios
+A hospital that operates both a health clinic and a fitness center must apply privacy regulations only to the clinic's health care operations, while ensuring that business associate agreements are in place for any third-party services that may have access to health information. A health insurance company that also provides wellness programs must delineate its health care functions from non-health care functions to comply with HIPAA privacy requirements.
+# Relationship to Overall Document Argument
+The section emphasizes the need for clear organizational structures within hybrid entities to protect patient privacy and comply with health information regulations. It reinforces the importance of accountability among covered entities and their business associates, ensuring that all parties involved in handling health information are aware of their legal responsibilities.

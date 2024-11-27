@@ -1,0 +1,10 @@
+# Law
+164.504(f)(1)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, healthcare, or payment for healthcare that can be linked to an individual. The law regulates how this information can be disclosed, ensuring privacy. Plan Sponsor: This is typically an employer or organization that provides a group health plan. The law outlines the conditions under which they can access PHI. Summary Health Information: This is a subset of PHI that includes data summarizing the health status of individuals, which can be disclosed under specific conditions.
+# Key Legal Principles
+Limitation of Disclosure: The law mandates that disclosures of PHI to plan sponsors must be restricted and consistent with specific regulatory requirements, promoting the privacy of individuals. Authorization for Disclosure: Disclosures of summary health information or enrollment status to plan sponsors are permitted under certain conditions, balancing the need for information with privacy concerns.
+# Application Scenarios
+A health insurance issuer may disclose summary health information to a plan sponsor for the purpose of plan design or evaluation, provided they have received a request for this information. A group health plan may confirm an individual's participation status to a plan sponsor, ensuring that the sponsor has the necessary information to manage benefits.
+# Relationship to Overall Document Argument
+This law establishes the framework for how group health plans can manage and disclose sensitive health information while adhering to privacy standards, emphasizing the importance of protecting individuals' health data. By outlining specific conditions for disclosure, the law supports the broader goal of safeguarding patient privacy in the context of employer-sponsored health plans.

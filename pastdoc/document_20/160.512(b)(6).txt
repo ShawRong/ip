@@ -1,0 +1,10 @@
+# Law
+160.512(b)(6)
+# Key Legal Concepts
+Limitation of witnesses refers to the authority of an Administrative Law Judge (ALJ) to restrict the number of witnesses that may be called during a hearing. This concept ensures that the proceedings remain efficient and manageable. The prehearing conference is a procedural tool used by the ALJ to facilitate discussion and planning prior to the formal hearing. It allows for the clarification of issues, identification of witness lists, and management of other logistical aspects.
+# Key Legal Principles
+The principle of efficiency in administrative hearings seeks to streamline proceedings by limiting unnecessary testimony, thereby saving time and resources for both the court and the parties involved. The principle of procedural fairness ensures that all parties have the opportunity to present their case while balancing this with the need for order and efficiency in the hearing process.
+# Application Scenarios
+When a party intends to call numerous witnesses, the ALJ may invoke the limitation to prevent an overwhelming amount of testimony that could complicate the proceedings. During a prehearing conference, parties may negotiate and agree on a reasonable number of witnesses to ensure a focused and succinct hearing.
+# Relationship to Overall Document Argument
+This law reinforces the need for structure and efficiency in administrative hearings, aligning with the broader goals of expediting case resolution. It highlights the ALJ's role in managing the hearing process, which is crucial for maintaining order and fairness in administrative adjudications.

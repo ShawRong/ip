@@ -1,0 +1,10 @@
+# Law
+164.504(e)
+# Key Legal Concepts
+Business Associate: A third-party individual or entity that performs certain functions or activities on behalf of a covered entity involving the use or disclosure of protected health information (PHI). Covered Entity: Health care providers, health plans, or health care clearinghouses that transmit any health information in electronic form in connection with a HIPAA transaction. Protected Health Information (PHI): Any individually identifiable health information that is maintained or transmitted by a covered entity or business associate.
+# Key Legal Principles
+Permitted Uses and Disclosures: Business associates can only use or disclose PHI as allowed by their contract with the covered entity or as required by law, ensuring compliance with HIPAA regulations. Contractual Obligations: Business associate contracts must include specific provisions that outline the permissible uses and disclosures of PHI, ensuring legal and regulatory compliance. Documentation Requirements: There must be written contracts or agreements establishing satisfactory assurances regarding the handling of PHI between covered entities and business associates.
+# Application Scenarios
+A healthcare provider contracting with a third-party billing service to process patient claims while ensuring that the service complies with HIPAA regulations. A health insurance company allowing a subcontractor to manage claims processing under a contract that specifies how PHI can be used and disclosed.
+# Relationship to Overall Document Argument
+This law reinforces the requirement for business associate contracts to ensure that PHI is handled according to strict legal standards, thereby safeguarding patient privacy. The provisions outlined in this law serve to clarify the responsibilities and limitations of business associates, promoting accountability in the management of sensitive health information.

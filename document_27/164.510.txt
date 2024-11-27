@@ -1,0 +1,10 @@
+# Law
+164.510
+# Key Legal Concepts
+**Protected Health Information (PHI)**: This refers to any individually identifiable health information that is held or transmitted by a covered entity. It includes information about an individual's health status, provision of health care, or payment for health care. **Covered Entity**: This term refers to health care providers, health plans, and health care clearinghouses that transmit any health information in electronic form in connection with a HIPAA transaction. **Opportunity to Agree or Object**: This concept emphasizes the individual's right to be informed about the use or disclosure of their PHI and to have the opportunity to consent to or refuse such actions.
+# Key Legal Principles
+**Informed Consent**: A fundamental principle that requires individuals to be informed about how their health information will be used and disclosed, ensuring they have the right to agree or object. **Professional Judgment**: Covered entities may rely on their professional judgment in determining whether to disclose information under certain circumstances, as long as they act in good faith. **Identity Verification**: Before disclosing PHI, covered entities must verify the identity of the person requesting the information, unless the identity is already known.
+# Application Scenarios
+A patient in a hospital is informed about the use of their PHI in the facility directory and is given the option to agree or object to this disclosure. A health care provider seeks verbal consent from a patient before sharing their health information with family members involved in their care.
+# Relationship to Overall Document Argument
+The provisions in § 164.510 reinforce the overarching goal of protecting individual privacy while allowing necessary disclosures for care and administrative purposes. This section aligns with the overall framework of HIPAA, which seeks to balance the need for information sharing in health care with the rights of individuals to control their personal health information.

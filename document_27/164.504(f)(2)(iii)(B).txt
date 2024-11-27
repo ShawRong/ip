@@ -1,0 +1,10 @@
+# Law
+164.504(f)(2)(iii)(B)
+# Key Legal Concepts
+Separation of Functions: This concept emphasizes the need for a clear boundary between the operations of the group health plan and the activities of the plan sponsor to protect sensitive health information. Access Control: This refers to the limitations placed on who can access protected health information (PHI) and under what circumstances, ensuring that only authorized personnel can handle sensitive data.
+# Key Legal Principles
+Minimum Necessary Standard: Employees and persons described must only access the least amount of PHI necessary to perform their specific administrative functions. Permitted Use: Access to PHI should be strictly for plan administration functions, indicating that any other use or disclosure is prohibited unless specifically authorized.
+# Application Scenarios
+Health plan administrators accessing patient information solely to process claims or manage health benefits. Employees involved in the enrollment process having restricted access to only the information necessary for their roles.
+# Relationship to Overall Document Argument
+These provisions reinforce the overarching goal of protecting patient privacy and ensuring compliance with health information regulations. By establishing strict access controls, the law aims to minimize the risk of unauthorized disclosures and maintain the integrity of the group health plan.

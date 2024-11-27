@@ -1,0 +1,10 @@
+# Law
+160.314(b)(8)
+# Key Legal Concepts
+The concept of non-public investigational inquiries emphasizes the confidentiality of proceedings led by the Secretary, ensuring sensitive information is protected from public disclosure. The right of a witness to receive a copy of their transcript upon payment establishes a formal process for witnesses to access their testimonies, promoting transparency while also allowing for a cost-recovery mechanism.
+# Key Legal Principles
+The principle of witness rights in investigational proceedings highlights the importance of giving witnesses the opportunity to review and correct their testimonies, which supports the integrity of the investigation. The principle of deemed acceptance of the transcript if not signed or corrected within 30 days underscores the importance of timely responses from witnesses, thereby facilitating the investigational process.
+# Application Scenarios
+A witness who has participated in an investigational proceeding wishes to review their transcript to ensure accuracy before it is finalized. A scenario where a witness fails to sign or correct their transcript within the stipulated timeframe, leading to the automatic acceptance of the transcript as accurate.
+# Relationship to Overall Document Argument
+The provisions under § 160.314(b)(8) align with the overarching goals of ensuring fairness and transparency in investigational inquiries by safeguarding witness rights. The emphasis on non-public proceedings and the procedures for transcript review and correction reflects a balance between confidentiality and the accountability of the investigational process.

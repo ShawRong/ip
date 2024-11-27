@@ -1,0 +1,10 @@
+# Law
+164.508(c)(1)(v)
+# Key Legal Concepts
+Authorization: A legal permission that allows for the use or disclosure of protected health information (PHI) under specific conditions. Expiration criteria: The requirement for specifying an expiration date or event, which ensures that the authorization is time-limited and clarifies the duration of permissible PHI use.
+# Key Legal Principles
+Patient consent: The principle that individuals must provide informed consent for their health information to be used or shared, particularly in research contexts. Transparency: The obligation to ensure that individuals are aware of how their information will be used, including understanding when and how it will expire.
+# Application Scenarios
+A researcher seeking PHI for a study must obtain valid authorization from participants, specifying how long their information can be used. In cases where PHI is collected for a research database, researchers can use phrases like “end of the research study” to indicate when the authorization ceases.
+# Relationship to Overall Document Argument
+This law emphasizes the importance of clear communication regarding the use of PHI in research, aligning with broader privacy protection goals. It supports the argument that informed consent must include specific terms about the duration of data use, reinforcing the need for ethical research practices.

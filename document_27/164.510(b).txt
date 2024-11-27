@@ -1,0 +1,10 @@
+# Law
+164.510(b)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any information about health status, healthcare provision, or payment for healthcare that can be linked to a specific individual. Covered Entity: Entities such as healthcare providers, health plans, or healthcare clearinghouses that handle PHI and are subject to regulations governing its use and disclosure. Informed Consent: The principle that individuals must be informed about the use or disclosure of their PHI and provided the opportunity to agree or object.
+# Key Legal Principles
+Patient Autonomy: Individuals have the right to control who accesses their health information, emphasizing the importance of consent in healthcare. Professional Judgment: Covered entities are permitted to use their discretion in determining the best interests of individuals regarding disclosures when they are incapacitated or unavailable. Emergency Exception: In urgent situations, entities may disclose PHI without prior consent if it is necessary for the individual's care or safety.
+# Application Scenarios
+A patient is present during a consultation and agrees to have their health information shared with a family member for support. In an emergency room, a healthcare provider uses their judgment to disclose relevant health information to a caregiver when the patient cannot respond.
+# Relationship to Overall Document Argument
+The law emphasizes the balance between protecting patient privacy and allowing necessary communication for effective care. It reinforces the framework for healthcare providers to operate within legal boundaries while responding to real-time needs of patients and their families.

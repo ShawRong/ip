@@ -1,0 +1,10 @@
+# Law
+160.508(b)(5)
+# Key Legal Concepts
+Administrative Law Judge (ALJ) Authority: The ALJ possesses the authority to issue subpoenas, which are legal documents that require witnesses to attend hearings and compel the production of evidence or documents relevant to the case. Subpoena Power: The ability to issue subpoenas is a critical tool for gathering necessary information and ensuring that all relevant parties can provide testimony or evidence to support the adjudication of a case.
+# Key Legal Principles
+Due Process: The issuance of subpoenas aligns with the principle of due process, ensuring that parties involved in a hearing have the opportunity to present and defend their cases with all relevant evidence. Administrative Efficiency: Allowing ALJs to issue subpoenas promotes efficiency in administrative proceedings by enabling the collection of pertinent information directly related to the issues being adjudicated.
+# Application Scenarios
+When an ALJ needs to gather witness testimony to clarify facts in a contested case, they may issue a subpoena to ensure that the witness appears at the hearing. An ALJ may issue a subpoena for documents that are essential to proving or disproving claims made during the hearing process.
+# Relationship to Overall Document Argument
+The provision empowers ALJs to effectively manage hearings and ensure that all relevant information is accessible, which supports the overarching goal of fair and thorough adjudication. The ability to issue subpoenas enhances the integrity of administrative proceedings by ensuring that evidence is not withheld and that all parties have access to necessary information.

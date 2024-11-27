@@ -1,0 +1,10 @@
+# Law
+164.504(e)(2)(ii)(E)
+# Key Legal Concepts
+**Protected Health Information (PHI)**: Refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. This concept is central to the privacy and security regulations governing health information. **Business Associate**: A person or entity that performs certain functions or activities on behalf of a covered entity that involves the use or disclosure of PHI. The relationship between a covered entity and a business associate must be defined in a contract.
+# Key Legal Principles
+**Right of Access**: Individuals have the right to access their own PHI, as outlined in § 164.524. This principle empowers patients to obtain and review their health information, fostering transparency and trust. **Compliance Requirement**: The stipulation that business associates must make PHI available in accordance with § 164.524 establishes a legal obligation for business associates to ensure individuals can exercise their right of access.
+# Application Scenarios
+A patient requests access to their medical records from a hospital. The hospital, as a covered entity, must ensure that its business associates (like a billing company) also comply with this request. A health information technology vendor needs to provide access to PHI for patients through a digital portal. They must follow the regulations set forth in § 164.524 to ensure patient rights are upheld.
+# Relationship to Overall Document Argument
+The inclusion of § 164.504(e)(2)(ii)(E) emphasizes the importance of ensuring that PHI is accessible to individuals, thereby reinforcing the broader commitment to patient rights and the protection of health information. This section connects the responsibilities of business associates to the rights of individuals, illustrating how compliance with access laws is integral to the functioning of health care systems and the safeguarding of patient trust.

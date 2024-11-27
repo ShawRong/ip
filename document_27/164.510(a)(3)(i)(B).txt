@@ -1,0 +1,10 @@
+# Law
+164.510(a)(3)(i)(B)
+# Key Legal Concepts
+**Protected Health Information (PHI):** This law governs how healthcare providers can use or disclose PHI, particularly when the individual is incapacitated or in an emergency. **Professional Judgment:** The law emphasizes the role of the healthcare provider's professional judgment in determining what is in the individual's best interest.
+# Key Legal Principles
+**Patient Autonomy vs. Provider Discretion:** While patients typically have a right to consent to or object to disclosures of their health information, this principle recognizes situations where a provider can act without explicit consent due to the patient's condition. **Emergency Exceptions:** This principle acknowledges that in emergencies, the usual procedures for obtaining consent may not be practicable, which allows for flexibility in protecting patient welfare.
+# Application Scenarios
+A patient is unconscious after an accident, and a hospital must decide whether to include the patient in the facility's directory, using the provider's judgment to act in the patient's best interest. A healthcare provider may disclose information about a patient in critical condition to family members if it is deemed necessary for the patient's care, without first obtaining consent.
+# Relationship to Overall Document Argument
+This provision supports the overarching aim of balancing patient confidentiality with the need for effective and timely medical care. By allowing for discretion in emergencies, it reinforces the healthcare provider's role in safeguarding patient health while still respecting their rights when possible.

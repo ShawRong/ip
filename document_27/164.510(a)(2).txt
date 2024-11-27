@@ -1,0 +1,10 @@
+# Law
+164.510(a)(2)
+# Key Legal Concepts
+The concept of 'protected health information' (PHI) refers to any individually identifiable health information held by a covered entity, which is subject to privacy regulations. This includes information related to past, present, or future physical or mental health conditions. The 'facility directory' serves as a communication tool within healthcare settings, allowing the sharing of certain patient information without violating privacy rules, provided that patients are informed and given the opportunity to object.
+# Key Legal Principles
+The principle of informed consent emphasizes that individuals must be made aware of how their health information will be used and disclosed, ensuring transparency in the handling of PHI. The principle of patient autonomy underlines the individual's right to control their personal health information, including the ability to restrict or prohibit certain disclosures.
+# Application Scenarios
+A patient admitted to a hospital should be informed about what information will be included in the facility directory and must be given the chance to object to certain disclosures, such as to clergy regarding religious affiliation. In emergency situations where a patient is incapacitated, while a healthcare provider may disclose information for the directory, they are still required to inform the patient about this disclosure when feasible, respecting the patient's right to object.
+# Relationship to Overall Document Argument
+This law reinforces the importance of patient rights in the context of healthcare information management, ensuring that patients are both informed and allowed to exercise control over their PHI. It connects to broader healthcare regulations that seek to balance the need for communication within healthcare facilities with the imperative to protect patient privacy and autonomy.

@@ -1,0 +1,10 @@
+# Law
+160.103(Protected%20health%20information)(1)(iii)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. Transmission and Maintenance: This concept highlights the importance of how PHI is transmitted or stored, which includes electronic, paper, and other forms.
+# Key Legal Principles
+Confidentiality Principle: This principle mandates that PHI must be kept confidential and only disclosed under specific circumstances. Medium Agnostic Protection: The law applies to PHI regardless of the medium in which it is transmitted or maintained, ensuring comprehensive privacy protections.
+# Application Scenarios
+Health care providers must implement security measures to protect PHI transmitted via email or electronic records. Insurance companies must ensure that PHI contained in physical documents is stored securely and accessed only by authorized personnel.
+# Relationship to Overall Document Argument
+This law underscores the necessity for safeguarding PHI in diverse forms, reinforcing the overarching goal of protecting patient privacy. It establishes a broad framework that obligates entities to consider all mediums of PHI, thereby enhancing the overall effectiveness of health information protection.

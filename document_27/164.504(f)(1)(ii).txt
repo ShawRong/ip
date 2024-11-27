@@ -1,0 +1,10 @@
+# Law
+164.504(f)(1)(ii)
+# Key Legal Concepts
+Disclosure of summary health information by group health plans or health insurance issuers to plan sponsors, as long as it is not prohibited under specific regulations. Distinction between summary health information and protected health information, emphasizing the conditions under which each can be shared.
+# Key Legal Principles
+The principle of safeguarding personal health information, ensuring that only necessary information is disclosed and that protections are in place. The prohibition of using genetic information for underwriting purposes, which restricts how health plans can utilize certain health-related data.
+# Application Scenarios
+A plan sponsor requests summary health information to assess the overall health risks within the group covered by the plan, without accessing individual health records. A health insurance issuer provides summary health data to the plan sponsor to help them make informed decisions about plan modifications or premium adjustments.
+# Relationship to Overall Document Argument
+This law reinforces the importance of protecting individual health data while allowing for the necessary disclosure of aggregated information for administrative purposes. It aligns with broader health privacy regulations, ensuring that while plan sponsors can obtain useful information, they must still adhere to strict confidentiality standards.

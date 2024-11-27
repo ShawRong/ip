@@ -1,0 +1,10 @@
+# Law
+164.512(b)(1)(v)(C)
+# Key Legal Concepts
+Employer obligations: Refers to the legal responsibilities employers have under various federal and state regulations to maintain records of workplace injuries and illnesses. Workplace medical surveillance: This involves monitoring the health of employees to prevent occupational illnesses and injuries, ensuring compliance with health and safety regulations.
+# Key Legal Principles
+Compliance with regulations: Employers must adhere to specific federal regulations (29 CFR parts 1904-1928, 30 CFR parts 50-90) that mandate the recording of workplace incidents. State law alignment: The law highlights the importance of aligning with state laws that have similar purposes, ensuring comprehensive coverage of workplace safety regulations.
+# Application Scenarios
+An employer documenting an employee's injury to fulfill the requirements of federal OSHA regulations. Implementing a health surveillance program to track potential exposure to hazardous substances in the workplace.
+# Relationship to Overall Document Argument
+Emphasizes the necessity for employers to maintain accurate records as a fundamental aspect of workplace safety and employee health. Supports the argument that compliance with both federal and state regulations is essential for legal and ethical accountability in managing workforce health risks.

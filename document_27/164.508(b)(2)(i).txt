@@ -1,0 +1,10 @@
+# Law
+164.508(b)(2)(i)
+# Key Legal Concepts
+The concept of 'defective authorizations' relates to the validity of documents that grant permission for certain actions, such as the use or disclosure of protected health information. The 'expiration date' of an authorization signifies the period during which the authorization is considered valid; once this date passes, the authorization is no longer effective.
+# Key Legal Principles
+The principle of 'validity of consent' emphasizes that any authorization must be current and not expired to be legally binding. The principle of 'due diligence' requires covered entities to ensure they are aware of the status of authorizations, including any expiration events.
+# Application Scenarios
+A healthcare provider submits a request for patient information based on an authorization that has an expiration date, but the date has already passed. A covered entity discovers that an authorization was based on an event that has occurred (e.g., a patient revocation), which invalidates the authorization.
+# Relationship to Overall Document Argument
+This law underscores the importance of maintaining valid authorizations to protect patient rights and comply with legal standards. It reinforces the need for covered entities to actively monitor and manage authorizations to avoid legal repercussions from using expired or invalid documents.

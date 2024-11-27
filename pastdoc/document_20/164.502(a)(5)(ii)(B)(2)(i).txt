@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(ii)(B)(2)(i)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. Public Health Activities: These are actions intended to promote health and prevent disease, as defined under the applicable regulations.
+# Key Legal Principles
+Permitted Uses and Disclosures: Under § 164.512(b), there are specific allowances for the use and disclosure of PHI for public health purposes, emphasizing that such actions are lawful in specified contexts. Non-Sale of PHI: The law clarifies that selling PHI is not permissible, but disclosures for public health activities are considered acceptable exceptions.
+# Application Scenarios
+Reporting disease outbreaks to health authorities, where PHI may be disclosed to track and prevent the spread of illness. Conducting public health research that relies on de-identified health information to analyze trends without compromising individual privacy.
+# Relationship to Overall Document Argument
+The provisions emphasize the balance between public health needs and individual privacy rights, ensuring that PHI can be used to protect community health without infringing on personal confidentiality. This law supports the overarching goal of safeguarding public health while adhering to legal frameworks that protect individual rights concerning their health information.

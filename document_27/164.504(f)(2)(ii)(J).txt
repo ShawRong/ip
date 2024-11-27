@@ -1,0 +1,10 @@
+# Law
+164.504(f)(2)(ii)(J)
+# Key Legal Concepts
+Protected Health Information (PHI): Refers to any health information that can be linked to an individual, which must be safeguarded under laws like HIPAA. Plan Sponsor: The entity that establishes and maintains the group health plan, which can be an employer or union.
+# Key Legal Principles
+Certification Requirement: The plan sponsor must provide a certification that the plan documents have been amended to include necessary provisions before receiving PHI. Separation of Functions: There must be a clear distinction between the group health plan and the plan sponsor to protect patient privacy and ensure compliance with HIPAA.
+# Application Scenarios
+A company modifies its health plan documents to ensure that only authorized personnel can access PHI, following the certification requirement. A healthcare organization audits its plan documents to confirm that adequate separation between the health plan and the plan sponsor is maintained.
+# Relationship to Overall Document Argument
+This law emphasizes the necessity of establishing adequate separation as a means of protecting individuals' health information. It reinforces the requirement for plan sponsors to amend their documents to comply with privacy protections, ensuring that the integrity of health information is upheld.

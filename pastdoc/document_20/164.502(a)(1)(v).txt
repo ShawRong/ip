@@ -1,0 +1,10 @@
+# Law
+164.502(a)(1)(v)
+# Key Legal Concepts
+**Covered Entity**: A covered entity refers to organizations or individuals that handle protected health information (PHI) and are subject to privacy regulations. This includes healthcare providers, health plans, and healthcare clearinghouses. **Protected Health Information (PHI)**: PHI encompasses any information related to an individual's health status, healthcare provision, or payment for healthcare that can identify the individual.
+# Key Legal Principles
+**Permitted Uses and Disclosures**: The law allows covered entities to use or disclose PHI under certain conditions, ensuring that such actions are compliant with established regulations. **Informed Consent**: The principle of informed consent requires that individuals are made aware of how their PHI will be used or disclosed and must have the opportunity to agree or object to such uses.
+# Application Scenarios
+A healthcare provider may discuss a patient's treatment plan with another provider involved in that patient's care, as long as the patient is informed and has not objected. A health plan may share PHI with affiliates for payment purposes, provided the individual has been informed and has not opted out.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of patient autonomy and control over their health information, reinforcing the need for consent in the use and disclosure of PHI. It establishes a framework within which covered entities can operate while protecting individuals' rights, ensuring transparency and trust in healthcare practices.

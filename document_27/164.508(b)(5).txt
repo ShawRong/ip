@@ -1,0 +1,10 @@
+# Law
+164.508(b)(5)
+# Key Legal Concepts
+Revocation of authorizations: This concept allows individuals to withdraw their consent for the use or disclosure of their protected health information (PHI) at any time, as long as it is done in writing. Covered entities: These are organizations that are subject to HIPAA regulations, including healthcare providers, health plans, and healthcare clearinghouses, which must comply with authorization requirements.
+# Key Legal Principles
+Individual autonomy: The law emphasizes the right of individuals to control their personal health information, reinforcing the principle that individuals should have the power to revoke consent. Limitations on revocation: While individuals can revoke authorizations, the law clarifies that revocation does not apply to actions taken in reliance on the authorization before it was revoked.
+# Application Scenarios
+A patient decides to revoke their authorization for a healthcare provider to share their medical records with a third party, ensuring that the revocation is documented in writing. An individual who initially authorized an insurance company to access their medical information may later decide to revoke that authorization as they seek to limit the insurer's access to their health data.
+# Relationship to Overall Document Argument
+The provision reinforces the overarching goal of HIPAA to protect individual privacy while allowing for certain disclosures under specific conditions. It highlights the balance between individual rights and the operational needs of covered entities, ensuring that individuals remain informed and in control of their own health information.

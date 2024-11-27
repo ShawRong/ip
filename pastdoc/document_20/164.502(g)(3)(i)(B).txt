@@ -1,0 +1,10 @@
+# Law
+164.502(g)(3)(i)(B)
+# Key Legal Concepts
+Unemancipated Minor: A minor who is not legally independent from their parents or guardians, requiring parental consent for certain decisions, but may have the right to make specific healthcare decisions themselves under certain conditions. Personal Representative: An individual authorized to make healthcare decisions on behalf of another, specifically in this context, a parent or guardian acting for an unemancipated minor, except where the minor has rights to make decisions independently.
+# Key Legal Principles
+Right to Confidentiality: Unemancipated minors retain certain rights to confidentiality regarding their health information, especially when they can independently consent to certain healthcare services. Professional Judgment: Licensed healthcare professionals must exercise discretion when determining access to health information, balancing the rights of the minor with those of the parent or guardian.
+# Application Scenarios
+A minor seeking treatment for a sensitive health issue, such as reproductive health, may do so without parental consent, provided they meet specific legal criteria. A healthcare provider determining whether to grant a parent access to a minor's health records must consider state laws and the minor's ability to consent independently.
+# Relationship to Overall Document Argument
+This law emphasizes the autonomy of minors in accessing certain health services, reflecting a shift towards recognizing their rights in healthcare decision-making. It establishes boundaries for parental access to information, ensuring that minors can seek care without undue interference, thus promoting their privacy and healthcare rights.

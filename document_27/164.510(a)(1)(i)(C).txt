@@ -1,0 +1,10 @@
+# Law
+164.510(a)(1)(i)(C)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual, and is protected under laws like HIPAA. Directory Maintenance: This involves the processes that facilities use to keep a record of individuals currently receiving care, while ensuring that personal health information remains confidential.
+# Key Legal Principles
+Minimum Necessary Standard: This principle mandates that only the minimum amount of PHI necessary to accomplish a specific purpose should be used or disclosed. General Terms Disclosure: The law allows for the disclosure of an individual's condition in non-specific, general terms, ensuring that sensitive medical information remains protected.
+# Application Scenarios
+A hospital may maintain a directory that lists patients by name and their general condition (e.g., 'stable' or 'critical') without detailing specific diagnoses. A nursing facility could inform callers about the presence of a resident using general terms, ensuring that no specific medical details are shared.
+# Relationship to Overall Document Argument
+This law supports the balance between patient privacy and the need for communication within healthcare settings. By allowing only general descriptions of patient conditions, the law reinforces the importance of maintaining confidentiality while still providing essential information to authorized individuals.

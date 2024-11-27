@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(ii)
+# Key Legal Concepts
+The sale of protected health information (PHI) is strictly regulated to protect individual privacy and maintain the integrity of health data. Covered entities and business associates are prohibited from selling PHI without specific compliance measures in place.
+# Key Legal Principles
+Consent and compliance: The sale of PHI may only occur in accordance with § 164.508(a)(4), which outlines necessary consent and notification procedures. Limited data sets: Prior agreements may allow for the exchange of limited data sets under specific conditions, even if they involve remuneration.
+# Application Scenarios
+A healthcare organization wishing to monetize its patient data must ensure it complies with the regulations governing the sale of PHI. A business associate receiving a limited data set under an existing agreement may continue exchanges for remuneration as long as it adheres to the terms set before January 25, 2013.
+# Relationship to Overall Document Argument
+The regulation emphasizes the need for strict oversight of how PHI is handled and shared, reinforcing patient rights and privacy. It highlights the balance between data utility for research or commercial purposes and the ethical obligation to protect individual health information.

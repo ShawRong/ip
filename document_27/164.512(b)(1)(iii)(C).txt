@@ -1,0 +1,10 @@
+# Law
+164.512(b)(1)(iii)(C)
+# Key Legal Concepts
+FDA jurisdiction: This concept refers to the authority of the Food and Drug Administration over products and activities that fall under its regulatory scope, ensuring compliance with safety and effectiveness standards. Product recalls: A recall is an action taken to remove a product from the market due to safety concerns or defects, which is essential for protecting public health.
+# Key Legal Principles
+Accountability: Entities that produce or distribute FDA-regulated products are held responsible for the safety and quality of their products, emphasizing the duty of care owed to consumers. Consumer protection: The principle of protecting consumers from unsafe or ineffective products is central to FDA regulations, ensuring that public health is prioritized.
+# Application Scenarios
+A manufacturer discovers a defect in a medical device and must initiate a recall to prevent harm to patients. A pharmaceutical company is required to notify patients who have received a drug that has been withdrawn from the market due to safety issues.
+# Relationship to Overall Document Argument
+This law supports the broader regulatory framework by emphasizing the importance of proper actions during product recalls, which is vital for ensuring consumer safety. It highlights the proactive measures that must be taken by responsible parties in the FDA-regulated space, reinforcing the regulatory objectives of quality and safety.

@@ -1,0 +1,10 @@
+# Law
+164.510(a)(1)(i)(D)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information related to an individual's health status, provision of health care, or payment for health care that can be linked to a specific individual. The law specifies what types of PHI can be used and disclosed. Directory Maintenance: The law allows health facilities to maintain a directory of individuals, which includes specific types of protected health information, such as an individual's religious affiliation, for communication and operational purposes.
+# Key Legal Principles
+Consent and Authorization: Individuals generally have the right to control the use of their PHI, including the right to consent to the inclusion of their religious affiliation in a facility's directory. Minimal Disclosure: The principle of disclosing only the minimum necessary information applies, meaning that only the individual's religious affiliation can be included in the directory if it is pertinent and necessary for the facility's operations or communication.
+# Application Scenarios
+A hospital may include a patient's religious affiliation in its directory to facilitate visits from spiritual care providers, ensuring that the patient's religious needs are met during their stay. A nursing home might use the religious affiliation information to organize community religious activities that align with the beliefs of its residents.
+# Relationship to Overall Document Argument
+The inclusion of religious affiliation in the directory supports the argument for respecting individual beliefs while balancing the operational needs of health facilities. By allowing the use of religious affiliation, the law reinforces the importance of holistic care, acknowledging the role of spirituality in health and well-being.

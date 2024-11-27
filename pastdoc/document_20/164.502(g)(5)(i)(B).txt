@@ -1,0 +1,10 @@
+# Law
+164.502(g)(5)(i)(B)
+# Key Legal Concepts
+**Covered Entity**: Refers to organizations or individuals that handle protected health information (PHI) and are subject to HIPAA regulations. This includes healthcare providers, health plans, and healthcare clearinghouses. **Personal Representative**: A person authorized under state or federal law to make healthcare decisions on behalf of an individual, often a family member or legal guardian.
+# Key Legal Principles
+**Reasonable Belief Standard**: A covered entity must have a reasonable belief that treating an individual as a personal representative could pose a risk to the individual’s safety or privacy. This principle ensures that decisions are made with caution to protect vulnerable individuals. **Endangerment Clause**: This principle allows covered entities to refuse to treat someone as a personal representative if it is believed that doing so could endanger the individual, thereby prioritizing the individual's safety over the representation.
+# Application Scenarios
+A healthcare provider might refuse to share a patient’s medical records with a parent if there is evidence that the parent has previously harmed the patient or poses a threat to their well-being. A mental health professional may decide not to disclose treatment information to a family member if it could lead to adverse consequences for the patient’s mental health or safety.
+# Relationship to Overall Document Argument
+This law emphasizes the necessity of safeguarding individual safety and privacy over the rights of personal representatives, aligning with the broader goals of HIPAA to protect personal health information. It reinforces the responsibility of covered entities to assess potential risks in their interactions with personal representatives, ensuring that patient welfare remains paramount.

@@ -1,0 +1,10 @@
+# Law
+164.502(a)(1)(iv)
+# Key Legal Concepts
+**Covered Entities:** Refers to organizations that are legally permitted to use or disclose protected health information (PHI) under specific conditions. **Protected Health Information (PHI):** Any information about health status, provision of healthcare, or payment for healthcare that can be linked to an individual. **Authorization Requirement:** In certain cases, particularly those outlined in § 164.508, a covered entity must obtain explicit permission from individuals before using or disclosing their PHI.
+# Key Legal Principles
+**Permitted Uses and Disclosures:** Covered entities may use or disclose PHI only for purposes explicitly permitted by law, ensuring patient privacy and autonomy. **Prohibition of Genetic Information Use for Underwriting:** Health plans cannot use genetic information for underwriting purposes, promoting fairness in insurance practices. **Validity of Authorization:** A valid authorization must meet specific legal standards to be considered effective in allowing the use or disclosure of PHI.
+# Application Scenarios
+A healthcare provider requests PHI from a patient for treatment, which is permissible under the law as long as it complies with the authorization requirements. A health plan attempts to use genetic information for determining coverage, which is prohibited under § 164.502(a)(5)(i), demonstrating compliance with the law.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of patient consent and delineates the boundaries of permissible use of sensitive information, aligning with broader privacy protections. It reinforces the principle that while covered entities have access to PHI, there are strict guidelines that must be followed to protect individual rights, particularly concerning sensitive genetic data.

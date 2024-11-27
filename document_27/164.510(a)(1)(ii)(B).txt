@@ -1,0 +1,10 @@
+# Law
+164.510(a)(1)(ii)(B)
+# Key Legal Concepts
+Directory purposes: This refers to the use or disclosure of certain information for the purpose of maintaining a directory of individuals, typically within a healthcare or institutional setting. Religious affiliation: This is a specific type of information that is protected from disclosure under the law, emphasizing the sensitivity and privacy associated with an individual's religious beliefs.
+# Key Legal Principles
+Individual consent: The principle that individuals should have control over their personal information, including how and when it is disclosed to others. Protection of sensitive information: The legal obligation to safeguard specific types of sensitive information, such as religious affiliation, from being disclosed without proper authorization.
+# Application Scenarios
+A hospital may disclose a patient’s name to someone inquiring about them, but it cannot reveal their religious affiliation without consent. A nursing home can provide directory information to family members or friends who ask for a resident by name, while ensuring that sensitive details are protected.
+# Relationship to Overall Document Argument
+This provision supports the broader legal framework aimed at protecting patient privacy while allowing for necessary communication in healthcare settings. It emphasizes the need to balance the right to access information with the imperative to maintain confidentiality regarding sensitive personal details.

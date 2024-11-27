@@ -1,0 +1,10 @@
+# Law
+164.504(e)(1)(i)
+# Key Legal Concepts
+The concept of 'business associate' refers to an individual or entity that performs certain functions or activities on behalf of a covered entity involving the use or disclosure of protected health information (PHI). The 'protected health information' (PHI) is any information held by a covered entity that relates to the health status, provision of health care, or payment for health care of an individual. The term 'subcontractor' refers to a third party that a business associate may engage to carry out functions or activities involving PHI.
+# Key Legal Principles
+The principle of 'satisfactory assurances' requires that a business associate must ensure, usually through a contract, that any subcontractor will safeguard PHI appropriately. The principle of documentation mandates that the assurances regarding the safeguarding of PHI must be formalized in a written agreement. The principle of compliance indicates that any contracts or arrangements must adhere to specific regulatory standards outlined in the law.
+# Application Scenarios
+A healthcare provider (covered entity) engages a billing company (business associate) to manage patient billing and allows the billing company to subcontract to a data storage service. A law firm (business associate) handling sensitive health information for a client engages a third-party IT service provider (subcontractor) to manage data security, requiring a written contract to ensure compliance with PHI protection.
+# Relationship to Overall Document Argument
+This law supports the overall framework of protecting PHI by establishing clear requirements for contracts involving business associates and subcontractors. The emphasis on written agreements reinforces accountability and compliance with privacy standards, thereby enhancing the security of health information across multiple entities.

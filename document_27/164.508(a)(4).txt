@@ -1,0 +1,10 @@
+# Law
+164.508(a)(4)
+# Key Legal Concepts
+The concept of 'protected health information' (PHI) refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual. The term 'sale of protected health information' implies any exchange of PHI for remuneration, requiring specific authorization under the law.
+# Key Legal Principles
+Covered entities must obtain explicit authorization from individuals before disclosing their PHI for any sale, ensuring individuals have control over their personal health information. The authorization must clearly state that the disclosure will result in remuneration to the covered entity, enhancing transparency regarding the use of individuals' health data.
+# Application Scenarios
+A healthcare provider wishing to sell patient data to a research organization must first obtain written consent from the patients, indicating that the sale will generate income for the provider. If a business associate plans to share PHI with a third party for advertising purposes, it must first secure authorization from the individuals involved, highlighting the financial benefit to the covered entity.
+# Relationship to Overall Document Argument
+This law emphasizes the necessity of consent in transactions involving personal health information, reinforcing the protection of individual privacy rights. The requirement for authorization reflects broader regulatory efforts to govern the ethical use of health data in commercial contexts, aligning with the principles of patient autonomy and informed consent.

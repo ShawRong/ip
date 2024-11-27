@@ -1,0 +1,10 @@
+# Law
+160.518(b)(2)(i)
+# Key Legal Concepts
+Administrative Law Judge (ALJ): A neutral party who conducts hearings and makes decisions in administrative law disputes. Case-in-chief: The initial presentation of evidence and arguments by a party in a legal proceeding.
+# Key Legal Principles
+Timely Exchange of Information: Parties are required to exchange evidence and witness lists within specified timeframes to ensure fairness in the proceedings. Exclusionary Rule: Evidence or testimony may be excluded from consideration if proper procedures for exchange are not followed, unless justified by extraordinary circumstances.
+# Application Scenarios
+A party fails to include a key witness on their witness list, and the ALJ must decide whether to allow the testimony based on the circumstances. Extraordinary circumstances may be argued to allow the inclusion of late-disclosed witnesses in a case where the failure to disclose was unavoidable.
+# Relationship to Overall Document Argument
+This provision emphasizes the importance of procedural compliance in administrative hearings to promote fairness and efficiency. The requirement for timely information exchange underscores the necessity for both parties to prepare adequately for the hearing, thereby supporting the integrity of the legal process.

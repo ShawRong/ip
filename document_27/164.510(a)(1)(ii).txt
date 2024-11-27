@@ -1,0 +1,10 @@
+# Law
+164.510(a)(1)(ii)
+# Key Legal Concepts
+Permitted uses and disclosures: This concept pertains to the conditions under which covered health care providers can share patient information without explicit consent, focusing on the allowance for certain types of disclosures. Directory purposes: This refers to the specific use of patient information for creating directories that may be accessed by authorized individuals, such as members of the clergy or those asking for a patient by name.
+# Key Legal Principles
+Informed consent: While certain disclosures are permitted, the law emphasizes the need for patients to have the opportunity to express objections to such uses. Privacy rights: The principles enshrined in this law reflect the balance between protecting patient privacy and allowing necessary information sharing in health care contexts.
+# Application Scenarios
+A hospital may provide patient names to a clergy member inquiring about a specific patient, ensuring it does not disclose any additional information, such as religious affiliation. A nurse might confirm a patient's presence in the facility to a family member who explicitly asks for that individual by name, provided no objection has been raised.
+# Relationship to Overall Document Argument
+This law supports the broader framework of health privacy by outlining specific exceptions to general confidentiality rules, thus enabling necessary communication within healthcare settings. It illustrates the careful consideration of patient rights versus the operational needs of healthcare providers, reinforcing the importance of patient autonomy in the consent process.

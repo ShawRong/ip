@@ -1,0 +1,10 @@
+# Law
+164.504(g)(1)
+# Key Legal Concepts
+A covered entity refers to organizations that must follow specific regulations under HIPAA, including health plans, healthcare providers, and healthcare clearinghouses. The concept of multiple covered functions pertains to an entity performing roles that fall under more than one category defined by HIPAA, requiring compliance with various standards.
+# Key Legal Principles
+Compliance with applicable standards means that an entity must adhere to the specific regulations set forth for each function it performs, as determined by its role. Integration of functions highlights the need for covered entities to maintain compliance across diverse operations to ensure the protection of health information.
+# Application Scenarios
+A healthcare organization that acts as a health plan and a healthcare provider must implement all relevant HIPAA requirements for both roles. A clearinghouse that processes health-related transactions for various health plans must comply with the standards applicable to each type of transaction it handles.
+# Relationship to Overall Document Argument
+This section emphasizes the importance of comprehensive compliance for entities involved in multiple healthcare roles, reinforcing HIPAA's protective measures. It supports the overarching goal of HIPAA to safeguard patient information by ensuring that entities cannot selectively apply regulations based on their functions.

@@ -1,0 +1,10 @@
+# Law
+164.510(a)(3)(i)
+# Key Legal Concepts
+**Permitted Uses and Disclosures**: This concept refers to the circumstances under which health care providers are allowed to share protected health information (PHI) without explicit consent from the individual, except when objections are raised. **Opportunity to Object**: This principle emphasizes the individual's right to be informed about how their PHI may be used or disclosed and to express any objections to such uses. **Emergency Circumstances**: This concept allows for the use or disclosure of PHI in situations where the individual is incapacitated or unable to provide consent due to an emergency, ensuring that necessary care can be administered.
+# Key Legal Principles
+**Informed Consent**: Health care providers must inform individuals about their rights regarding their PHI, which includes the right to object to certain disclosures. **Best Interest Standard**: In emergency situations, health care providers are guided by what is deemed to be in the best interest of the patient when making disclosures of PHI. **Prior Preferences**: Providers must consider any known prior preferences expressed by the individual regarding the use or disclosure of their information.
+# Application Scenarios
+A patient is unconscious after an accident, and the hospital needs to disclose their information to family members for treatment decisions. A health care provider may need to include a patient's name in a facility directory even if the patient is unable to object due to their medical condition.
+# Relationship to Overall Document Argument
+This law upholds the balance between patient privacy rights and the need for health care providers to act swiftly in emergencies. It reinforces the importance of patient autonomy while also providing necessary flexibility for health care providers in urgent situations.

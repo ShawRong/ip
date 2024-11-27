@@ -1,0 +1,10 @@
+# Law
+160.103(Genetic%20information)(2)(i)
+# Key Legal Concepts
+Genetic information: Refers to information about genes, gene products, or inherited characteristics that may be derived from an individual's genetic makeup. Family member: Includes relatives who may also have genetic information relevant to the individual, broadening the scope of who may be affected by genetic data.
+# Key Legal Principles
+Inclusivity of genetic information: The law specifies that genetic information encompasses not only the individual but also their family members, ensuring that all relevant genetic data is considered. Reproductive considerations: The inclusion of a fetus in the definition acknowledges the legal and ethical implications of genetic information during pregnancy.
+# Application Scenarios
+Determining health insurance coverage based on genetic predispositions of a pregnant woman and her fetus. Legal disputes regarding parental rights or inheritance issues where genetic information of a fetus may be pertinent.
+# Relationship to Overall Document Argument
+By defining genetic information to include fetal data, the law emphasizes the importance of considering the implications of genetic traits on family health. This provision supports a broader understanding of genetic information's impact on health and legal rights, reinforcing the need for comprehensive protection against discrimination.

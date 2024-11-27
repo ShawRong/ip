@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(i)(B)
+# Key Legal Concepts
+Genetic information: Refers to any data that is derived from an individual's genetic makeup, which is categorized as protected health information under privacy laws. Underwriting purposes: This term is defined as the process by which health plans assess risk to determine eligibility for coverage and pricing, specifically excluding certain uses related to genetic information.
+# Key Legal Principles
+Non-discrimination: The law prohibits health plans from using genetic information in a way that could lead to discrimination against individuals seeking health benefits. Confidentiality of genetic information: The law emphasizes the importance of safeguarding sensitive personal data, ensuring it is not disclosed for underwriting purposes.
+# Application Scenarios
+A health plan evaluating an application for coverage must not consider the applicant's genetic test results when determining eligibility or pricing. An individual with a genetic predisposition to a condition can seek health benefits without fear that their genetic information will be used against them in underwriting decisions.
+# Relationship to Overall Document Argument
+The law reinforces the principle that genetic information should be treated with a high level of confidentiality and should not be used as a basis for adverse decisions in health coverage. It contributes to a broader legal framework aimed at protecting individuals from discrimination based on genetic information, thereby promoting equitable access to healthcare.

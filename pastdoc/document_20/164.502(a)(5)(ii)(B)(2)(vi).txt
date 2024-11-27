@@ -1,0 +1,10 @@
+# Law
+164.502(a)(5)(ii)(B)(2)(vi)
+# Key Legal Concepts
+Protected Health Information (PHI): This refers to any information about health status, provision of health care, or payment for health care that can be linked to an individual, which must be handled according to strict confidentiality standards. Access Rights: Under § 164.524, individuals have the right to access their own protected health information, ensuring transparency and autonomy in managing personal health data. Accounting of Disclosures: As outlined in § 164.528, individuals have the right to receive an accounting of disclosures of their protected health information, detailing who accessed their data and for what purpose.
+# Key Legal Principles
+Confidentiality Principle: The principle mandates that PHI should be disclosed only under specific conditions, protecting individuals from unauthorized access. Individual Autonomy: This principle emphasizes the rights of individuals to control their personal health information, including the right to access and request disclosures. Transparency: Mandated accounting of disclosures upholds the principle of transparency, allowing individuals to understand how their health information is used.
+# Application Scenarios
+A patient requests access to their medical records from a healthcare provider, invoking their rights under § 164.524. A patient seeks an accounting of all entities that have accessed their health information over the past year in accordance with § 164.528.
+# Relationship to Overall Document Argument
+The law reinforces the importance of individual rights concerning protected health information, ensuring that individuals are informed and empowered regarding their health data. It highlights the framework within which disclosures of PHI occur, emphasizing that not all disclosures constitute a sale, thereby protecting patient privacy.

@@ -1,0 +1,10 @@
+# Law
+164.103 “Hybrid entity” (3)
+# Key Legal Concepts
+Hybrid Entity: A hybrid entity is an organization that performs both covered and non-covered functions under HIPAA. It allows the organization to designate specific components that are subject to HIPAA regulations, while others may not be. Covered Entity: This term refers to health care providers, health plans, and health care clearinghouses that transmit any health information in electronic form in connection with a HIPAA transaction.
+# Key Legal Principles
+Responsibility of Designation: The covered entity must actively designate which components are considered health care components and document this designation, ensuring compliance with HIPAA. Scope of Health Care Components: Only those components that perform covered functions or would meet the definition of a covered entity or business associate if separate are included in the designation.
+# Application Scenarios
+A hospital that has both a medical practice (covered entity) and a non-medical service (non-covered) must designate the medical practice as a health care component under HIPAA. An insurance company that also provides wellness programs may need to designate its wellness program as a health care component if it handles protected health information.
+# Relationship to Overall Document Argument
+The designation of health care components is crucial for ensuring that the organization complies with HIPAA regulations, thereby protecting patient information. Understanding the hybrid entity framework helps organizations navigate their compliance obligations and manage their health care functions effectively.

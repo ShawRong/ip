@@ -1,0 +1,10 @@
+# Law
+164.502(a)(2)(i)
+# Key Legal Concepts
+**Covered Entity**: The term refers to health care providers, health plans, and health care clearinghouses that are subject to HIPAA regulations and must comply with the rules concerning the handling of protected health information (PHI). **Protected Health Information (PHI)**: This encompasses any information held by a covered entity that relates to an individual’s health status, provision of health care, or payment for health care that can be linked to a specific individual.
+# Key Legal Principles
+**Right of Access**: Individuals have the legal right to access their own PHI, ensuring transparency and enabling them to verify the accuracy of their health records as mandated by § 164.524. **Accounting of Disclosures**: Covered entities are required to maintain an accounting of disclosures of PHI, allowing individuals to know who has accessed their information, as outlined in § 164.528.
+# Application Scenarios
+A patient requests access to their medical records from a hospital. The hospital, as a covered entity, must comply with this request under § 164.524. A health insurance company must provide an accounting of disclosures of a member’s PHI when requested, ensuring compliance with § 164.528.
+# Relationship to Overall Document Argument
+The law emphasizes the importance of individual access to their health information, reinforcing patient autonomy and trust in the health care system. The requirement for covered entities to disclose PHI and provide an accounting of disclosures strengthens accountability and transparency within health care organizations.

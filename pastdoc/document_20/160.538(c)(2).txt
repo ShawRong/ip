@@ -1,0 +1,10 @@
+# Law
+160.538(c)(2)
+# Key Legal Concepts
+Administrative Law Judge (ALJ) authority: The ALJ has the discretion to manage the proceedings, ensuring that the process is efficient and orderly. Interrogation of witnesses: This concept relates to the way witnesses are questioned, emphasizing the need for control to maintain clarity and relevance.
+# Key Legal Principles
+Efficiency in legal proceedings: The principle focuses on avoiding unnecessary delays and ensuring that time is used effectively during hearings. Relevance of evidence: This principle underscores the importance of presenting only pertinent information and avoiding repetitive testimony.
+# Application Scenarios
+A case where multiple witnesses provide overlapping testimonies, requiring the ALJ to intervene to streamline the process. A situation in which an attorney repeatedly asks the same question to a witness, prompting the ALJ to assert control to maintain order.
+# Relationship to Overall Document Argument
+The law emphasizes the need for procedural efficiency, which supports the broader goal of fair and timely hearings. It reinforces the authority of the ALJ in managing proceedings, which is crucial for maintaining the integrity of administrative adjudications.

@@ -1,0 +1,10 @@
+# Law
+160.103(Individually%20identifiable%20health%20information)
+# Key Legal Concepts
+Individually identifiable health information: This concept refers to health information that can be linked to a specific individual, including details about their health status, treatment, and payment for care. It ensures that sensitive information about individuals is protected. Health care provider: This term encompasses entities or individuals that provide medical services, such as doctors, hospitals, and clinics. They are typically responsible for creating or receiving health information. Health plan: This refers to any plan that provides or pays for medical care, such as insurance companies. They handle individually identifiable health information as part of their operations.
+# Key Legal Principles
+Confidentiality: The principle that individually identifiable health information should be kept private and disclosed only under specific circumstances, ensuring patient trust in healthcare systems. Consent: Patients must often provide consent before their individually identifiable health information can be shared with third parties, protecting their autonomy and privacy. Data minimization: This principle encourages the collection of only the health information necessary for specific purposes, reducing the risk of exposure of sensitive data.
+# Application Scenarios
+A healthcare provider collects demographic information from a patient during a visit, creating individually identifiable health information that must be stored securely. A health plan processes claims, which involves accessing individually identifiable health information to determine coverage and payment, necessitating strict confidentiality measures.
+# Relationship to Overall Document Argument
+The definitions provided in § 160.103 establish a framework for understanding how individually identifiable health information is defined and protected under the law. Understanding these concepts and principles is crucial for healthcare entities to comply with regulations and protect patient privacy, which is a central argument of the overall document.
