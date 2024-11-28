@@ -1,0 +1,7 @@
+In this case, the HIPAA Privacy Rule allows for the revocation of authorization for the release of medical information. According to 45 C.F.R. § 164.508(b)(5)(I), a patient can revoke their authorization at any time, as long as the covered entity has not already acted on that authorization.
+
+Koch initially provided consent for the SEC to obtain his medical records but revoked that consent before his psychotherapist was served with a subpoena. The key aspect here is whether Koch's revocation of consent effectively protected his psychotherapist-patient privilege.
+
+The district court's ruling that Koch impliedly waived this privilege by placing his mental state in issue is contentious. Koch's appeal argues that revoking his authorization prevents the SEC from obtaining his psychotherapy records, as he had not yet acted on the initial consent before the revocation.
+
+In summary, HIPAA permits Koch's revocation of authorization for his healthcare providers to disclose his medical information, thus supporting his claim to maintain the confidentiality of his psychotherapy records. Therefore, the case hinges on whether the legal proceedings respect his revocation of consent and the psychotherapist-patient privilege, which HIPAA aims to protect.

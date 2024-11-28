@@ -1,0 +1,5 @@
+The HIPAA Privacy Rule permits the case described. Under HIPAA, covered entities, such as healthcare providers, can disclose protected health information (PHI) without patient consent in certain circumstances, particularly when the disclosure is required by law or necessary to prevent harm.
+
+In this scenario, the Protection & Advocacy System (P & A) is a federally designated entity authorized to investigate potential abuse or neglect of individuals with disabilities. Their request for records from the Wyoming State Hospital and Wyoming State Training School aligns with HIPAA provisions that allow for the sharing of PHI to protect vulnerable populations, especially when they are unable to consent or have no legal representation.
+
+Moreover, the mutual understanding between the facilities and P & A regarding the confidentiality and integrity of the information shared reinforces the compliance with HIPAA. The circumstances under which P & A sought access—specifically, the investigation of reported abuse or neglect—are justified under the exceptions provided by HIPAA, making the disclosure of records permissible.

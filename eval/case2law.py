@@ -65,14 +65,38 @@ def case2law_embedding(case, directory, n):
     doc = embedding_simi(to_test, directory, n)
     return doc
 
-test_applicability = load_csv_file("./eval/cases/test_real_cases_hipaa_applicability.csv")
-case = test_applicability['generate_background'][1]
-doc1 = case2law_bm25(case,'./document_27', 10)
-doc2 = case2law_embedding(case, './embeddings', 10)
+# Load test cases
+test_applicability = load_csv_file("./eval/cases/train_generate_cases_hipaa_compliance.csv")
+print("Checkpoint 1: Loaded test cases.")
 
-# Print the intersection of doc1 and doc2
-print(case)
-intersection = set(doc1) & set(doc2)  # Calculate the intersection
-print("Intersection of doc1 and doc2:", intersection)
+# Initialize rag_laws with None values to match the length of the DataFrame
+rag_laws = [None] * len(test_applicability)
 
-# python -m eval.case2law
+output_filename = ("train_generate_cases_hipaa_compliance_rag", "csv")
+# Iterate over each row in the DataFrame
+for index, row in test_applicability.iterrows():
+    case = row['generate_background']  # Get the case from the current row
+    print(f"Checkpoint 2: Processing case {index + 1}/{len(test_applicability)}: {case}")
+
+    doc1 = case2law_bm25(case, './document_27', 10)  # Get top documents using BM25
+    print(f"Checkpoint 3: Retrieved {len(doc1)} documents using BM25.")
+
+    doc2 = case2law_embedding(case, './embeddings', 10)  # Get top documents using embeddings
+    print(f"Checkpoint 4: Retrieved {len(doc2)} documents using embeddings.")
+
+    intersection = set(doc1) & set(doc2)  # Calculate the intersection
+    rag_laws[index] = intersection  # Assign the intersection to the corresponding index
+
+    # Save intermediate results every 10 cases
+    if (index + 1) % 10 == 0:
+        test_applicability['rag_laws'] = rag_laws  # Add the current results to the DataFrame
+        intermediate_filename = f'{output_filename[0]}_{index + 1}.{output_filename[1]}'
+        test_applicability.to_csv(intermediate_filename, index=False, encoding='utf-8')
+        print(f"Checkpoint 5: Saved intermediate results to '{intermediate_filename}'.")
+
+# Final save after processing all cases
+test_applicability['rag_laws'] = rag_laws  # Add the final results to the DataFrame
+final_filename = f'{output_filename[0]}.{output_filename[1]}'
+test_applicability.to_csv(final_filename, index=False, encoding='utf-8')
+print(f"Checkpoint 6: Saved the final DataFrame to '{final_filename}'.")
+    

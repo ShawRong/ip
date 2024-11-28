@@ -1,0 +1,23 @@
+To assess the compliance of the case with the HIPAA Privacy Rule, we will follow the specified steps:
+
+### Step 1: Check the HIPAA Regulation IDs
+
+1. **164.502(g) - Uses and disclosures of protected health information:**
+   - This provision outlines the conditions under which a covered entity may use or disclose protected health information (PHI) without the individual's authorization. Specifically, it allows disclosures for certain public interest purposes, including protecting the health and safety of individuals or the public.
+
+2. **164.512(b)(1)(ii) - Disclosures for public health activities:**
+   - This section allows covered entities to disclose PHI to public health authorities for public health activities, which includes the prevention or control of disease, injury, or disability. It specifically mentions disclosures to government authorities authorized to receive reports of child abuse or neglect.
+
+### Step 2: Determine Whether the HIPAA Privacy Rule Permits or Forbids the Case
+
+In this case, the Red Lake Children Services collected Y.P.'s medical records due to concerns of child abuse. The sharing of these records with the FBI, a law enforcement body, raises questions of compliance under HIPAA.
+
+- **Permissible Disclosures:**
+  - The sharing of information by Red Lake Children Services with the FBI could be justified under 164.512(b)(1)(ii) if the disclosure is necessary for the investigation of child abuse. Although consent was not obtained from Y.P.'s parents, HIPAA allows for disclosures without consent in certain circumstances, especially when addressing child safety and potential abuse.
+  
+- **Justification for Disclosure:**
+  - The primary concern in this scenario is the protection of Y.P. and the need for a thorough investigation to ensure her safety and wellbeing. Given that the FBI became involved due to the severity of the allegations, the disclosure appears to be aligned with the public interest exceptions outlined in HIPAA.
+
+### Conclusion
+
+Based on the evaluation of the relevant HIPAA regulations, the actions taken by Red Lake Children Services to share Y.P.'s medical records with the FBI can be considered permissible under the HIPAA Privacy Rule. The disclosure was made in the context of protecting a child from potential harm and facilitating an investigation into serious allegations of abuse, which is consistent with the objectives of the regulations.

@@ -1,0 +1,5 @@
+The HIPAA Privacy Rule generally forbids the disclosure of protected health information (PHI) without patient consent. In the case of the former NHL players seeking access to medical records related to concussions, the U.S. NHL Clubs, as healthcare providers, are obligated to protect the privacy of these medical records.
+
+The players' subpoenas for access to sensitive medical data raise significant privacy concerns. While the plaintiffs argue for the necessity of this information to support their legal claims, the U.S. NHL Clubs are correct to require individual player authorization before releasing any PHI. Without explicit consent from each player, the Clubs would be violating HIPAA regulations by disclosing this information.
+
+In summary, under HIPAA, the disclosure of the requested medical records without patient consent is forbidden, emphasizing the importance of confidentiality and the protection of individual privacy in healthcare.

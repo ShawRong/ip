@@ -1,0 +1,7 @@
+The HIPAA Privacy Rule generally forbids the disclosure of an individual's medical records without consent, even after their death. In this case, Margaret R. Puls is seeking Esther A. Broderick's medical records to contest the validity of her will, specifically to assess Broderick's mental condition at the time the will was executed. 
+
+Since there is no indication that Broderick provided consent for the release of her medical records, nor is there mention of a legally authorized representative providing such consent, the request for disclosure by Puls would typically be prohibited under HIPAA. 
+
+However, there are limited exceptions under HIPAA that might allow for the disclosure of health information in legal proceedings, such as a court order or specific legal requirements. In this particular case, since the consent is absent, the HIPAA Privacy Rule would most likely forbid the disclosure of Broderick's medical records by Medicalodge. 
+
+Therefore, without proper consent or a legal exception justifying the release of the medical records, the HIPAA Privacy Rule forbids this case.

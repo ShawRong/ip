@@ -1,0 +1,26 @@
+To assess the case of Margaret R. Puls seeking the medical records of Esther A. Broderick under the HIPAA Privacy Rule, we will follow the steps outlined in the instruction.
+
+### Step 1: Check the HIPAA Regulation IDs
+
+**Regulation ID 164.502(g)(5)** states that a covered entity may disclose protected health information (PHI) without the individual's authorization to a family member or other person who was involved in the individual's care or payment for care, provided that the disclosure is relevant to that person's involvement.
+
+**Regulation ID 164.502(g)(5)(ii)** specifies that a covered entity may disclose PHI to a person identified by the individual as being involved in their care or payment, or to a family member or another person that the covered entity believes is involved in the individual's care, unless the individual has expressed a preference to the contrary.
+
+### Step 2: Determine Compliance with the HIPAA Privacy Rule
+
+In this case:
+- **Requestor:** Margaret R. Puls, an heir of the decedent, Esther A. Broderick.
+- **Recipient:** Medicalodge, a healthcare provider.
+- **Purpose:** To contest the validity of Broderick's will based on her mental competency at the time of its execution.
+
+**Key Points:**
+- There is no indication that Esther A. Broderick provided consent for her medical records to be disclosed to Puls, nor is there evidence of consent from a legally authorized representative.
+- The request is made in the context of a legal dispute, specifically regarding the mental fitness of the decedent at the time of the will's creation.
+
+### Conclusion
+
+Based on the regulations reviewed:
+- **HIPAA Privacy Rule prohibits the disclosure of PHI without consent.** Since there is no documented consent from Broderick or her authorized representative for the release of her medical records, the request by Puls does not comply with the HIPAA Privacy Rule.
+- The case does not meet the criteria for permissible disclosure under 164.502(g)(5) and 164.502(g)(5)(ii) as it lacks the necessary consent, and the request is not made by someone directly involved in Broderick's healthcare.
+
+Thus, the HIPAA Privacy Rule **forbids** the disclosure of the medical records in this case without proper consent.

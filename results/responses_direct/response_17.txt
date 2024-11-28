@@ -1,0 +1,5 @@
+The HIPAA Privacy Rule generally forbids the disclosure of protected health information (PHI) without the individual's consent. In this case, Colonial Orthopaedics submitted a Proof of Claim that included highly sensitive and personal information about the Maples, including confidential medical details, without their consent. This action likely violates HIPAA regulations, as it constitutes an unauthorized disclosure of PHI in a public forum.
+
+The Maples' subsequent motion to restrict public access to the document further emphasizes their concern over the breach of privacy. The court's decision to grant this motion supports the notion that the submission of such sensitive information without consent was inappropriate and raises significant privacy concerns.
+
+In summary, the HIPAA Privacy Rule would permit the Maples' claim against Colonial Orthopaedics for the unauthorized disclosure of their private medical information, as it was shared without their consent and in a manner that exposed their sensitive information to public access.

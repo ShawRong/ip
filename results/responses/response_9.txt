@@ -1,0 +1,27 @@
+### Step 1: Review of HIPAA Regulation IDs
+
+1. **164.508(b)(5)(i)**: This regulation allows patients to revoke their authorization to disclose health information, except to the extent that a covered entity has already acted based on that authorization.
+   
+2. **164.508(a)**: This section outlines the general requirements for patient authorization for the use or disclosure of protected health information (PHI). It mandates that the authorization must be in writing and must specify the information to be disclosed.
+
+3. **164.508(a)(2)**: This subsection specifies that the authorization must be clear and understandable, detailing the purpose of the disclosure and the potential for information to be redisclosed.
+
+4. **164.508(b)(2)(iii)**: This part indicates that the revocation of authorization must be in writing, and it becomes effective on the date it is received by the covered entity.
+
+### Step 2: Compliance Assessment
+
+In assessing whether the HIPAA Privacy Rule permits or forbids the case of Randolph Koch:
+
+- **Initial Authorization**: Koch initially provided authorization for the SEC to access his medical records, which aligns with **164.508(a)** and **164.508(b)(5)(i)**.
+
+- **Revocation of Authorization**: Koch revoked his authorization prior to any disclosure of his psychotherapy records, which is in compliance with **164.508(b)(2)(iii)**, as he effectively communicated his desire to withdraw consent before any action was taken based on the initial authorization.
+
+- **Implied Waiver**: The district court's ruling that Koch impliedly waived his psychotherapist-patient privilege because he put his mental state into issue is a critical aspect. However, under HIPAA, revocation of authorization should prevent any disclosure of protected health information that has not yet occurred. Therefore, Koch's revocation stands firm against the disclosure that was sought by the SEC.
+
+### Conclusion
+
+Based on the review of the relevant HIPAA regulations:
+
+- The HIPAA Privacy Rule **permits** the revocation of authorization prior to the disclosure of any information. Since Koch revoked his authorization before any information was disclosed or any action was taken by the healthcare providers, the SEC should not have been permitted to obtain the psychotherapy records.
+
+In conclusion, the case suggests that Koch's revocation of authorization was valid, thus protecting his psychotherapist-patient privilege under HIPAA, and the district court's initial ruling should be reconsidered in light of the regulations governing patient consent and revocation.
