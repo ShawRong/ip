@@ -1,0 +1,21 @@
+To assess the case of William Crippen for compliance with the HIPAA Privacy Rule, we’ll follow the outlined steps:
+
+### Step 1: Review HIPAA Regulation IDs
+
+1. **164.512(a)**: This regulation allows covered entities to disclose protected health information (PHI) without individual authorization for certain public interest purposes. Specifically, it permits disclosures required by law.
+   
+2. **164.512(a)(2)**: This subsection elaborates that disclosures made to comply with a legal requirement, such as a subpoena or court order, are permissible without patient consent.
+
+3. **164.502(b)(2)(v)**: This section discusses the conditions under which a covered entity may disclose PHI to law enforcement. It states that such disclosures are permissible if they are mandated by law, such as through a subpoena, and provided that they comply with the necessary legal requirements.
+
+### Step 2: Determine Compliance with the HIPAA Privacy Rule
+
+In the case involving William Crippen, law enforcement obtained a subpoena to access pseudoephedrine purchase logs from a pharmacy. The logs contained sensitive information about Crippen’s purchases, which are considered PHI under HIPAA.
+
+- **Legal Basis for Disclosure**: The subpoena served as a legal requirement compelling the pharmacy to disclose the logs. According to **164.512(a)** and **164.512(a)(2)**, this disclosure aligns with HIPAA provisions, as it was initiated by a lawful order.
+
+- **Lack of Consent**: The situation clarified that obtaining explicit consent from Crippen was not necessary, as the disclosure was mandated by law for the purpose of a criminal investigation. This complies with **164.502(b)(2)(v)**, which allows for such disclosures when required by law enforcement.
+
+### Conclusion
+
+The case is compliant with the HIPAA Privacy Rule. The pharmacy's disclosure of Crippen's purchase logs, facilitated by a subpoena, falls within the permitted exceptions under HIPAA, ensuring that the balance between individual privacy rights and law enforcement needs is maintained. The legal protocols followed in this instance underscore the lawful navigation of privacy protections in the context of criminal investigations.
