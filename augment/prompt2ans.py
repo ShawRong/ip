@@ -2,13 +2,14 @@ import os
 import json
 import asyncio
 from poe_api_wrapper import AsyncPoeApi
-from pymongo import MongoClient
 from datetime import datetime
+import argparse
+
 
 # MongoDB connection
-mongo_client = MongoClient('mongodb://localhost:27017/')  # Replace with your MongoDB connection string
-db = mongo_client['qiwen_responses']  # Database name
-collection = db['responses']  # Collection name
+#mongo_client = MongoClient('mongodb://localhost:27017/')  # Replace with your MongoDB connection string
+#b = mongo_client['qiwen_responses']  # Database name
+#ollection = db['responses']  # Collection name
 
 # Define your tokens for the Poe API
 tokens = {
@@ -49,14 +50,14 @@ def append_response_to_json(response, prompt_filename, output_file_path):
     except Exception as e:
         print(f"An error occurred while appending the response: {e}")
 
-def save_response_to_mongodb(response, prompt_filename):
-    """Save response to MongoDB."""
-    try:
-        # Insert into MongoDB
-        collection.insert_one({"content": response, "prompt_file": prompt_filename})
-        print("Response saved to MongoDB.")
-    except Exception as e:
-        print(f"An error occurred while saving the response to MongoDB: {e}")
+#def save_response_to_mongodb(response, prompt_filename):
+#    """Save response to MongoDB."""
+#    try:
+#        # Insert into MongoDB
+#        collection.insert_one({"content": response, "prompt_file": prompt_filename})
+#        print("Response saved to MongoDB.")
+#    except Exception as e:
+#        print(f"An error occurred while saving the response to MongoDB: {e}")
 
 def check_response_exists(prompt_filename, output_file_path):
     """Check if the response for the given prompt_filename already exists in the output JSON file."""
@@ -75,12 +76,21 @@ def check_response_exists(prompt_filename, output_file_path):
     return False  # No matching prompt_file found
 
 async def main():
-    prompts_dir = './compliance_files/prompt_164'  # Replace with your prompts folder path
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-source_prompts", type=str, required=True, help="prompt documents directory")
+    parser.add_argument("-output_json", type=str, required=True, help="output json name")
+    parser.add_argument("-previous_json", type=str, required=True, help="previous json name")
+
+    args = parser.parse_args()
+    # args.source_prompts = './compliance_files/prompt_164'  
+    prompts_dir = args.source_prompts # Replace with your prompts folder path
     
     # Generate a timestamp for the output file name
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_file_path = f'response_content_{timestamp}.json'  # Output file path with timestamp
-    previous_file_path = "response_content_25.json"
+    #timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    #f'response_content_{timestamp}.json'
+    output_file_path = args.output_json # Output file path with timestamp
+    #"response_content_25.json"
+    previous_file_path = args.previous_json
 
     # Create JSON file and write the start of the array
     with open(output_file_path, 'a', encoding='utf-8') as json_file:
@@ -111,7 +121,7 @@ async def main():
                 append_response_to_json(response, filename, output_file_path)
                 
                 # Save response to MongoDB
-                save_response_to_mongodb(response, filename)
+#                save_response_to_mongodb(response, filename)
 
     # End JSON array
     with open(output_file_path, 'a', encoding='utf-8') as json_file:

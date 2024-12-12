@@ -2,6 +2,7 @@
 
 import json
 import os
+import argparse
 
 def load_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -30,8 +31,7 @@ def process_filename(filename):
     
     return filename
 
-document_name = 'document_27'
-def write_to_file(filename, content):
+def write_to_file(document_name, filename, content):
     # 将内容写入文件，确保在'document'子文件夹中
     os.makedirs(document_name, exist_ok=True)  # 创建'document'文件夹（如果不存在）
     file_path = os.path.join(document_name, filename)  # 生成完整的文件路径
@@ -39,7 +39,14 @@ def write_to_file(filename, content):
         file.write(content)
 
 def main():
-    file_path = './response_content_25.json'  # 更新为您的文件路径
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-json_path", type=str, required=True, help="json file to generate from")
+    parser.add_argument("-output_dir", type=str, required=True, help="dir path to output")
+    args = parser.parse_args()
+    # './response_content_25.json'  
+    file_path = args.json_path # 更新为您的文件路径
+    #  'document_27'
+    document_name = args.output_dir
     json_data = load_json(file_path)
 
     # 打印解析后的数据
@@ -67,7 +74,8 @@ def main():
 
         # 使用item['prompt_file']作为文件名
         output_filename = process_filename(item['prompt_file']) + '.txt'
-        write_to_file(output_filename, output_content)
+
+        write_to_file(document_name, output_filename, output_content)
 
 def parse_json_string(json_string):
     # 将字符串转换为合法的JSON对象

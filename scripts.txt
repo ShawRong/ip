@@ -1,0 +1,9 @@
+# augment
+python augment/prompt2ans.py -source_prompts './augment/prompt_164' -output_json './augment/response/resposne_1212.json' -previous_json './augment/response/reponse_25.json'
+python augment/read_content.py -json_path './response_content_25.json' -output_dir 'document_27' 
+
+
+#
+
+    
+    
