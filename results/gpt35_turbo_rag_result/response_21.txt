@@ -1,0 +1,11 @@
+### Response:
+
+#### Step 1:
+- HIPAA regulation IDs:
+  - HIPAA Privacy Rule
+
+#### Step 2:
+- The HIPAA Privacy Rule **permits** the limited ex parte communications under a qualified protective order in this case.
+
+#### Step 3:
+- **Permit**

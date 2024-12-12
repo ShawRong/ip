@@ -1,6 +1,6 @@
 import pandas as pd
-from bm25 import BM25, process_query, load_documents
-from embedding_calculate import get_document_embedding, list_filenames_in_directory, load_embeddings_from_file, cosine_similarity
+from similarity.bm25 import BM25, process_query, load_documents
+from similarity.embedding_calculate import get_document_embedding, list_filenames_in_directory, load_embeddings_from_file, cosine_similarity
 import os
 
 def bm25(cases, corpus, filenames, n):

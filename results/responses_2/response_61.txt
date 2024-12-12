@@ -1,0 +1,23 @@
+To assess the case for compliance with the HIPAA Privacy Rule, we will follow the specified steps:
+
+### Step 1: Check the HIPAA Regulation IDs
+
+**HIPAA Regulation 164.510(a)(3)(i)** states that a covered entity may disclose protected health information (PHI) without the individual’s consent to law enforcement if the disclosure is required by law, such as through a subpoena.
+
+**HIPAA Regulation 164.510(a)(3)** allows for disclosures of PHI for law enforcement purposes under specific conditions, including:
+- The individual is a victim of a crime, and the covered entity is unable to obtain consent due to the victim’s incapacity.
+- The disclosure is necessary to alert law enforcement to the commission of a crime.
+
+### Step 2: Determine Whether the HIPAA Privacy Rule Permits or Forbids the Case
+
+In the case provided:
+
+1. **Nature of the Disclosure**: Kennemur's medical records and blood alcohol test results were requested by law enforcement via a subpoena for purposes related to an intoxication manslaughter charge.
+
+2. **Absence of Consent**: The disclosure was made without Kennemur's consent, which raises concerns under HIPAA. However, the subpoena serves as a legal requirement for the disclosure.
+
+3. **Justification for Disclosure**: The information was deemed necessary to establish a link between Kennemur's intoxication and the fatal accident. This aligns with the conditions outlined in HIPAA, as the disclosure was required by law and essential for law enforcement's investigation.
+
+### Conclusion
+
+Based on the regulations, the disclosure of Kennemur's PHI to law enforcement was permissible under the HIPAA Privacy Rule due to the issuance of a subpoena and the necessity of the information for a criminal investigation. Therefore, the case complies with HIPAA, as it involved a lawful request for information pertinent to a crime, even in the absence of Kennemur's consent.

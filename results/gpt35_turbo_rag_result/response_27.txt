@@ -1,0 +1,10 @@
+### Response:
+1. **HIPAA Regulation IDs Checked**:
+   - 164.502(g)(5): Permits disclosures of PHI to a personal representative of the individual who is the subject of the information.
+   - 164.502(g)(5)(ii): Allows disclosures of PHI about a decedent to the personal representative or individuals involved in the decedent's health care or payment for health care.
+
+2. **Determination**:
+   - The HIPAA Privacy Rule permits the disclosure of the medical records in this case. As Margaret R. Puls is an heir of Esther A. Broderick and is involved in a legal dispute concerning Broderick's will, she could be considered a personal representative entitled to access the decedent's medical information for the purpose of resolving legal matters related to the will's validity.
+
+3. **Conclusion**:
+   - **Permit**: The disclosure of Esther A. Broderick's medical records to Margaret R. Puls is permitted under the HIPAA Privacy Rule as it aligns with the regulations allowing access to personal representatives in cases involving legal disputes such as the contesting of a will based on concerns about the decedent's mental competence.

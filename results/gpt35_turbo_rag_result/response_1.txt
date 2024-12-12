@@ -1,0 +1,9 @@
+### Response:
+#### Step 1:
+The relevant HIPAA regulation IDs to check for this case are 164.512(a)(2) and 164.502(b). 
+
+#### Step 2:
+After reviewing the case, it can be determined that the HIPAA Privacy Rule **forbids** the release of Zamora's medical records in response to the subpoena.
+
+#### Step 3:
+**Forbid**

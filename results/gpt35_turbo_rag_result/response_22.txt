@@ -1,0 +1,12 @@
+### Response:
+
+1. **Checking HIPAA Regulation IDs:**
+   - **164.501 Psychotherapy notes:** Psychotherapy notes are not applicable in this case as Ledcke is requesting his medical and psychiatric records, not specifically psychotherapy notes.
+   - **164.501 Inmate:** This regulation pertains to the rights of inmates under HIPAA.
+
+2. **Determining HIPAA Compliance:**
+   - The HIPAA Privacy Rule permits inmates to access their medical records, including psychiatric records, in most cases to ensure proper healthcare and treatment while incarcerated.
+
+3. **Answer:** Permit
+
+Given the circumstances and Ledcke's right to access his medical and psychiatric records for understanding his treatment and the prison's actions, the request aligns with HIPAA regulations.

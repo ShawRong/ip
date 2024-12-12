@@ -1,0 +1,2 @@
+python eval/my_parser.py -folder_path results/gpt35_turbo_rag_result/ -output_csv .gpt35_direct_answer.csv
+python eval/eval.py -case_file ./eval/cases/test_real_cases_hipaa_compliance_rag.csv -test_file ./eval/gpt35_direct_answer.csv

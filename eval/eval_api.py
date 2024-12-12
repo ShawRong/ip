@@ -9,20 +9,20 @@ import pandas as pd
 import os
 from poe_api_wrapper import AsyncPoeApi
 import asyncio
-from .build_instraction import build_instruction_compliance
+from build_instraction import build_instruction_compliance
 
 # Replace with your actual tokens
 tokens = {
     'p-b': 'Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D',  # Replace with your actual token
-    'p-lat': 'z1CIIXXmuEyntM4RMVrNe3puY2Us433OUME1hanapg%3D%3D',  # Replace with your actual token
+    'p-lat': '%2FJyLl2HrWb42Uh7oLhxw81N0Go%2FI7HZHrnoknnY38A%3D%3D',  # Replace with your actual token
 }
 
-async def send_prompt_to_poe(prompt):
+async def send_prompt_to_poe(prompt, model_name='capybara'):
     """Send prompt to Poe API and return response."""
     try:
         client = await AsyncPoeApi(tokens=tokens).create()
         full_response = ""  # Initialize an empty string to accumulate the response
-        async for chunk in client.send_message(bot="capybara", message=prompt):
+        async for chunk in client.send_message(bot=model_name, message=prompt):
             full_response += chunk["response"]  # Accumulate the response from chunks
         return full_response  # Return the complete response
     except Exception as e:
@@ -41,21 +41,21 @@ def build_prompt_legal_expert(msg="How are you today?"):
     ]
     return messages
 
-async def eval_cot_api(args):
+async def eval_cot_api(args, output_dir, model_name):
     df = pd.read_csv(args.input_file)
     start = 0
     
     # Create a directory for saving responses if it doesn't exist
-    output_dir = "results/responses_2"
+    output_dir = output_dir
     os.makedirs(output_dir, exist_ok=True)
 
     for i in tqdm(range(start, len(df))):
         row = df.iloc[i]
         
-        instruction = build_instruction_compliance(row, args.mode, True)
+        instruction = build_instruction_compliance(row, args.mode)
         prompt = generate_prompt(instruction["instruction"], instruction["input"])
         
-        resp = await send_prompt_to_poe(prompt)  # Get the response from Poe API
+        resp = await send_prompt_to_poe(prompt, model_name)  # Get the response from Poe API
         
         # Save the response to a text file named with the index i
         response_file_path = os.path.join(output_dir, f"response_{i}.txt")
@@ -68,15 +68,17 @@ async def eval_cot_api(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("-model", type=str, default="gpt-35-turbo")
+    parser.add_argument("-model", type=str, default="capybara")
     parser.add_argument("-task", type=str, default="compliance", choices=["compliance", "applicability"], help="Choose the task: compliance or applicability")
-    parser.add_argument("-mode", type=str, default="cot", choices=["cot", "direct"], help="Choose the mode: cot or direct")
+    parser.add_argument("-mode", type=str, default="rag", choices=["rag", "direct"], help="Choose the mode: rag or direct")
     parser.add_argument("-input_file", type=str, help="Input file path")
+    parser.add_argument("-output_file", type=str, help="Output file path")
     
     args = parser.parse_args()
     if not args.input_file:
-        args.input_file = f"../cases/train_val_test/test_real_cases_hipaa_{args.task}.csv"
+        args.input_file = f"./eval/cases/test_real_cases_hipaa_{args.task}_rag.csv"
 
-    os.makedirs("results", exist_ok=True)
+    output_dir = args.output_file
+    os.makedirs(output_dir, exist_ok=True)
     
-    asyncio.run(eval_cot_api(args))
+    asyncio.run(eval_cot_api(args, output_dir, args.model))
