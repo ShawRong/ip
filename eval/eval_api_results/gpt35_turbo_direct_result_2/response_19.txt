@@ -1,0 +1,2 @@
+### Response:
+The HIPAA Privacy Rule **Forbids** the disclosure of patient information in this case without explicit patient consent, as the subpoena requesting sensitive patient information did not come with patient authorization.

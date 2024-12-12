@@ -3,7 +3,12 @@ python augment/prompt2ans.py -source_prompts './augment/prompt_164' -output_json
 python augment/read_content.py -json_path './response_content_25.json' -output_dir 'document_27' 
 
 
-#
+# eval
+-pb 'Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D' -plat 'DnOq4x7zJq8AMEPwNGne85WiaYhYdDQSThY11WtD9w%3D%3D'
+python eval/eval_api.py -model chinchilla -task compliance -mode rag -output_file ./eval/eval_api_results/gpt35_turbo_rag_result_1/
+python eval/eval_api.py -model chinchilla -task compliance -mode direct -output_file ./eval/eval_api_results/gpt35_turbo_direct_result_1/
 
-    
-    
+python eval/my_parser.py -mode 'rag' -folder_path ./eval/eval_api_results/gpt35_turbo_rag_result1/ -output_csv .gpt35_rag_result.csv
+python eval/my_parser.py -mode 'direct' -folder_path ./eval/eval_api_results/gpt35_turbo_direct_result3/ -output_csv .gpt35_direct_result.csv
+python eval/eval.py -case_file ./eval/cases/test_real_cases_hipaa_compliance_rag.csv -test_file ./eval/gpt35_direct_result.csv
+python eval/eval.py -case_file ./eval/cases/test_real_cases_hipaa_compliance_rag.csv -test_file ./eval/gpt35_rag_result.csv

@@ -1,0 +1,2 @@
+### Response:
+The HIPAA Privacy Rule **Forbids** the act of obtaining medical records without patient consent, as it is designed to protect the privacy of individuals' healthcare information. Murray's medical records, including the blood-alcohol test results, were protected under HIPAA, granting him a reasonable expectation of privacy over his medical information. The state's use of a grand jury subpoena to acquire these records without Murray's consent violated his privacy rights as established by HIPAA.

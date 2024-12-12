@@ -1,0 +1,2 @@
+### Response:
+The HIPAA Privacy Rule **forbids** the release of medical records to spouses and attorneys-in-fact of deceased residents in this case, as they do not qualify as "personal representatives" under the rule. The facilities' decision to deny these requests aligns with the federal regulation's intent to protect the confidentiality of patients' health information.

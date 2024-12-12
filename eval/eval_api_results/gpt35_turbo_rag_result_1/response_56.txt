@@ -1,0 +1,13 @@
+### Response:
+
+#### Step 1:
+The relevant HIPAA regulation IDs are as follows:
+- 164.512(a): Uses and disclosures for which an authorization is required.
+- 164.512(a)(2): Uses and disclosures for which an authorization or opportunity to agree or object is not required.
+- 164.502(b)(2)(v): Standard: Disclosures for judicial and administrative proceedings.
+
+#### Step 2:
+After reviewing the case involving William Crippen, it can be determined that the HIPAA Privacy Rule **permits** the disclosure of protected health information in this scenario. 
+
+#### Step 3:
+**Permit**

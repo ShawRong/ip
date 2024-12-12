@@ -1,0 +1,10 @@
+### Response:
+1. **Check the HIPAA regulation IDs (160.202) and their content:**
+   - HIPAA regulation 45 C.F.R. § 160.202 defines the scope and applicability of the HIPAA Privacy Rule. It outlines the entities to which the rule applies and the key terms used within the regulation.
+
+2. **Determine whether the HIPAA Privacy Rule permits or forbids the case:**
+   - The HIPAA Privacy Rule permits the release of protected health information to "personal representatives" of deceased individuals. Personal representatives are individuals authorized under applicable law to make healthcare decisions on behalf of the deceased or otherwise have authority to act on their behalf.
+
+3. **Answer:** Permit
+
+Based on the HIPAA Privacy Rule's provisions regarding access to protected health information by personal representatives, the nursing facilities should have granted access to the medical records of deceased residents to spouses and attorneys-in-fact who qualified as personal representatives under the law. The conflict between the state law and federal regulations led to the legal dispute, highlighting the importance of understanding and balancing both sets of legal obligations while ensuring compliance with HIPAA regulations.

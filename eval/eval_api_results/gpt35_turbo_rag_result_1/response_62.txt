@@ -1,0 +1,7 @@
+### Response:
+1. **HIPAA Regulation IDs (164.502(j)(2)(ii)) and Content:**
+   - **164.502(j)(2)(ii)** states that a covered entity may disclose protected health information (PHI) to a law enforcement official if the information is requested by the official for the purpose of identifying or locating a suspect, fugitive, material witness, or missing person.
+
+2. **Permit or Forbidbid:** Permit
+
+Based on the provided case information, the HIPAA Privacy Rule permits the disclosure of Charles's medical records to law enforcement under 164.502(j)(2)(ii) as the State is investigating him for serious crimes such as attempted murder and aggravated assault. The disclosure is disclosure is necessary for law enforcement to identify and potentially prosecute a suspect, aligning with the exceptions outlined in the HIPAA regulation.

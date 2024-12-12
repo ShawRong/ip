@@ -1,0 +1,3 @@
+### Response: Forbid
+
+The sharing of the Appellee's medical records with law enforcement without his consent, initiated by the grand jury subpoena, violates the HIPAA Privacy Rule. The HIPAA Privacy Rule generally prohibits the disclosure of protected health information without the patient's authorization, except in specific circumstances outlined in the rule. In this case, the transfer of private health information from Covenant Medical Center to the District Attorney's office for a criminal investigation without the Appellee's consent is not permitted under the HIPAA Privacy Rule.

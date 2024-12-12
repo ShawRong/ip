@@ -1,0 +1,9 @@
+### Response:
+#### Step 1:
+The HIPAA regulation ID for Correctional Institutions is **164.501**. This regulation pertains to the requirements for uses and disclosures of protected health information (PHI) for correctional institutions.
+
+#### Step 2:
+Based on the information provided in the case, the HIPAA Privacy Rule would likely **permit** the release of Josh Sanchez's SSODA evaluation to the King County Sheriff’s Office. 
+
+#### Step 3:
+**Permit**

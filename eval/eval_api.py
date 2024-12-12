@@ -13,8 +13,16 @@ from build_instraction import build_instruction_compliance
 
 # Replace with your actual tokens
 tokens = {
-    'p-b': 'Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D',  # Replace with your actual token
-    'p-lat': '%2FJyLl2HrWb42Uh7oLhxw81N0Go%2FI7HZHrnoknnY38A%3D%3D',  # Replace with your actual token
+    #'p-b': 'Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D',  # Replace with your actual token
+    #'p-lat': '%2FJyLl2HrWb42Uh7oLhxw81N0Go%2FI7HZHrnoknnY38A%3D%3D',  # Replace with your actual token
+
+    #'p-b': 'Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D',
+    #'p-lat': 'DnOq4x7zJq8AMEPwNGne85WiaYhYdDQSThY11WtD9w%3D%3D'
+
+    #'p-b': "Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D",
+    #'p-lat': "DnOq4x7zJq8AMEPwNGne85WiaYhYdDQSThY11WtD9w%3D%3D"
+    'p-b': "Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D",
+    'p-lat': "DnOq4x7zJq8AMEPwNGne85WiaYhYdDQSThY11WtD9w%3D%3D"
 }
 
 async def send_prompt_to_poe(prompt, model_name='capybara'):
@@ -73,8 +81,13 @@ if __name__ == "__main__":
     parser.add_argument("-mode", type=str, default="rag", choices=["rag", "direct"], help="Choose the mode: rag or direct")
     parser.add_argument("-input_file", type=str, help="Input file path")
     parser.add_argument("-output_file", type=str, help="Output file path")
-    
+    parser.add_argument("-pb", type=str, help="Input file path")
+    parser.add_argument("-plat", type=str, help="Output file path")
+
     args = parser.parse_args()
+    if args.input_file != None:
+        tokens['p-b'] = args.pb
+        tokens['p-lat'] = args.plat
     if not args.input_file:
         args.input_file = f"./eval/cases/test_real_cases_hipaa_{args.task}_rag.csv"
 

@@ -1,0 +1,2 @@
+### Response:
+The HIPAA Privacy Rule **forbids** the disclosure of medical information in this case without the patient's consent. Murray had a reasonable expectation of privacy over his medical information, including the blood-alcohol test results, under the Health Insurance Portability and Accountability Act of 1996 (HIPAA). The state's acquisition of this information through a grand jury subpoena without Murray's consent violated his privacy rights established by HIPAA.

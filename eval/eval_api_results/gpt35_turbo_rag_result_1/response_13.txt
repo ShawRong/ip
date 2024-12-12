@@ -1,0 +1,8 @@
+### Response:
+1. **HIPAA Regulation IDs Checked:** 
+   - **164.502(g):** Uses and disclosures to avert a serious threat to health or safety.
+   - **164.512(b)(1)(ii):** Uses and disclosures for public health activities.
+
+2. **Determination:** The case involves sharing Y.P.'s medical records from a child protective agency to the FBI for the investigation of alleged child abuse, which aligns with the HIPAA Privacy Rule under 164.502(g) (averting serious threat to health or safety) and 164.512(b)(1)(ii) (public health activities) in circumstances where a child's welfare is at risk due to suspected abuse.
+
+3. **Conclusion:** **Permit**

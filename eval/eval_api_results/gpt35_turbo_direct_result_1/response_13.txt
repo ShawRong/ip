@@ -1,0 +1,2 @@
+### Response:
+The sharing of Y.P.'s medical records from the Red Lake Children Services to the FBI in this case is **Permitted** under the HIPAA Privacy Rule. The rule allows covered entities to disclose protected health information without individual authorization to authorized public health authorities, like child protective agencies, for the purpose of protecting vulnerable individuals from abuse or neglect. The disclosure in this situation aligns with the HIPAA Privacy Rule's provisions for ensuring the welfare and safety of individuals in critical circumstances.

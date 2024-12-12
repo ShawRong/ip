@@ -1,0 +1,3 @@
+### Response: Forbid
+
+The disclosure of James A1 White's HIV status by nurse practitioner Drexel Jordan to the court without the patient's consent violates the HIPAA Privacy Rule. HIPAA generally forbids the disclosure of sensitive health information without patient consent, except in limited circumstances such as for treatment, payment, or healthcare operations. In this case, the disclosure was not for any of these purposes but rather for legal proceedings, which does not fall under the exceptions allowed by the HIPAA Privacy Rule.

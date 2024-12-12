@@ -3,20 +3,22 @@ import argparse
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
 
-import pandas as pd
+
 
 def calculate_metrics(true_labels, predicted_labels):
     accuracy = accuracy_score(true_labels, predicted_labels)
-    precision = precision_score(true_labels, predicted_labels, average='macro')  # Adjust 'average' as needed
-    recall = recall_score(true_labels, predicted_labels, average='macro')  # Adjust 'average' as needed
-    f1 = f1_score(true_labels, predicted_labels, average='macro')  # Adjust 'average' as needed
+    
+    precision = precision_score(true_labels, predicted_labels, average=None)  # Precision for each label
+    recall = recall_score(true_labels, predicted_labels, average=None)  # Recall for each label
+    f1 = f1_score(true_labels, predicted_labels, average=None)  # F1 score for each label
     
     return {
         'accuracy': accuracy,
-        'precision': precision,
-        'recall': recall,
-        'f1_score': f1
+        'precision': precision.tolist(),
+        'recall': recall.tolist(),
+        'f1_score': f1.tolist()
     }
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -46,6 +48,6 @@ if __name__ == "__main__":
     # Calculate and print metrics
     print(test)
     print(predict)
-    metrics = calculate_metrics(test[:40]['label'], predict[:40]['label'])
+    metrics = calculate_metrics(test['label'], predict['label'])
     print(metrics)
 

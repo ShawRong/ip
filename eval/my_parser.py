@@ -44,8 +44,8 @@ def process_folder(folder_path, output_csv):
 
     # 将结果写入CSV文件
     results = pd.DataFrame(results)
-    results.sort_index()
-    results.to_csv(output_csv)
+    results = results.sort_values('index')
+    results.to_csv(output_csv, index=False)
         
 
     print(f"结果已保存到 {output_csv}")
@@ -54,6 +54,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-folder_path", type=str, required=True, help="目标文件夹路径")
     parser.add_argument("-output_csv", type=str, required=True, help="输出的CSV文件路径")
+    parser.add_argument("-mode", type=str, required=True, help="mode: direct, rag")
 
     args = parser.parse_args()
     process_folder(args.folder_path, args.output_csv)

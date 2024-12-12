@@ -1,0 +1,2 @@
+### Response:
+The HIPAA Privacy Rule **Permits** the routine use and disclosure of protected health information (PHI) by covered entities for treatment, payment, and healthcare operations without the explicit consent of patients.

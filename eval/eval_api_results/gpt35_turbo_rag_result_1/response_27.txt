@@ -1,0 +1,12 @@
+Based on the provided case involving Margaret R. Puls seeking the medical records of Esther A. Broderick from Medicalodge for a legal dispute concerning Broderick's will, we can assess the compliance with the HIPAA Privacy Rule as follows:
+
+#### Step 1: Check the HIPAA regulation IDs (164.502(g)(5),164.502(g)(5)(ii)) and their content.
+The relevant HIPAA regulations state that a covered entity may disclose protected health information in response to a subpoena in a civil litigation if the covered entity receives satisfactory assurance that the party seeking the information has made reasonable efforts to ensure that the individual who is the subject of the information has been given notice of the request. The disclosure must also be limited to the extent required by the subpoena.
+
+#### Step 2: Determine whether the HIPAA Privacy Rule permits or forbids the case.
+In this case, since there was no mention of consent from Esther A. Broderick or a legally authorized representative for the disclosure of her medical records, the disclosure does not comply with the HIPAA Privacy Rule as it lacks proper authorization.
+
+#### Step 3: Please use Permit or Forbid to answer.
+**Forbid**
+
+Therefore, based on the assessment, the disclosure of Esther A. Broderick's medical records by Medicalodge to Margaret R. Puls for the legal dispute concerning Broderick's will is not permissible under the HIPAA Privacy Rule without proper consent or authorization.
