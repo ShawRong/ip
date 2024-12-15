@@ -1,0 +1,9 @@
+### Response:
+1. **HIPAA Regulation IDs Checked:**
+   - HIPAA Privacy Rule: § 164.502 - Uses and disclosures of protected health information.
+
+2. **Determination:**
+   - The HIPAA Privacy Rule permits the disclosure of protected health information without patient authorization in certain circumstances, one of which includes reporting to law enforcement when necessary to prevent or lessen a serious and imminent threat to health or safety.
+
+3. **Conclusion:**
+   - In this case, the disclosure of Brian Thomas Kirsch's blood-alcohol test results to law enforcement by the hospital personnel aligns with the HIPAA Privacy Rule as it was deemed necessary for an ongoing investigation into a potential crime (driving while intoxicated) that posed a serious threat to public safety. Therefore, this disclosure is permitted under HIPAA regulations.

@@ -1,0 +1,11 @@
+### Response:
+
+1. **HIPAA Regulation IDs:**
+   - 164.502(g) - Uses and disclosures for law enforcement purposes
+   - 164.512(b)(1)(ii) - Uses and disclosures for child abuse or neglect
+
+2. **Determination:**
+   - The HIPAA Privacy Rule allows for disclosures in cases of child abuse or neglect to appropriate authorities, including law enforcement agencies.
+
+3. **Conclusion:**
+   - **Permit** - The sharing of Y.P.'s medical records by the Red Lake Children Services with the FBI is permitted under the HIPAA Privacy Rule due to the serious nature of the situation involving child abuse and the need for investigation and protection of the child.

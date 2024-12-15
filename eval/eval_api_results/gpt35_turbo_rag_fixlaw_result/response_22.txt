@@ -1,0 +1,11 @@
+### Response:
+Based on the provided case involving Shawn Michael Ledcke seeking access to his medical and psychiatric records from Lackawanna County Prison, we need to assess the compliance with the HIPAA Privacy Rule.
+
+#### Step 1:
+Checking the HIPAA regulation IDs (Part164) and their content reveals that the HIPAA Privacy Rule governs the protection of individually identifiable health information.
+
+#### Step 2:
+After reviewing the case details, it can be determined that the HIPAA Privacy Rule generally permits individuals to access their own medical records. However, there may be certain exceptions or procedures that need to be followed.
+
+#### Step 3:
+Given the circumstances described, the HIPAA Privacy Rule would likely **permit** Ledcke's request for access to his medical and psychiatric records created during his incarceration at Lackawanna County Prison between June 1, 2010, and September 30, 2010.

@@ -1,0 +1,9 @@
+### Response:
+#### Step 1:
+The relevant HIPAA regulation ID is 45 C.F.R. § 164.502, which governs the use and disclosure of protected health information.
+
+#### Step 2:
+Based on the HIPAA Privacy Rule, the case involving the nursing facilities in Florida would generally **Forbid** the release of medical records to spouses and attorneys-in-fact seeking access to the records of deceased residents. The HIPAA Privacy Rule restricts the disclosure of protected health information to individuals who are not considered "personal representatives" as defined under the regulation.
+
+#### Step 3:
+**Forbid**

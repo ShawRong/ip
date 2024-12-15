@@ -1,0 +1,6 @@
+Step 1: The relevant HIPAA regulation IDs are as follows:
+- HIPAA Privacy Rule: 45 CFR 160, 164
+
+Step 2: Based on the details provided in the case, the HIPAA Privacy Rule permits the limited ex parte communications with specific health care providers under a qualified protective order, as long as the discussions are focused on the medical conditions directly relevant to the lawsuit, excluding any discussions about Mary's mental health treatments or substance abuse unless directly relevant.
+
+Step 3: Permit

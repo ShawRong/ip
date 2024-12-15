@@ -1,0 +1,9 @@
+### Response:
+1. **Check the HIPAA regulation IDs (Part164) and their content:**
+   - The HIPAA Privacy Rule falls under 45 C.F.R. Part 164. It governs the use and disclosure of protected health information (PHI) and outlines the rights and responsibilities related to patient privacy and confidentiality.
+
+2. **Determine whether the HIPAA Privacy Rule permits or forbids the case:**
+   - The HIPAA Privacy Rule generally permits the release of PHI to personal representatives of deceased individuals. However, it restricts access to PHI to those who are authorized under the law to act on behalf of the deceased.
+
+3. **Answer: Forbid**
+   - Based on the information provided, the nursing facilities were correct in denying access to the medical records of deceased residents to spouses and attorneys-in-fact who did not meet the criteria of "personal representatives" as defined under HIPAA regulations. The facilities were acting in accordance with federal law to protect the privacy and confidentiality of patient information, even after their death.

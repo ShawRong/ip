@@ -1,0 +1,10 @@
+### Response:
+#### Step 1:
+The HIPAA Privacy Rule regulation IDs are as follows:
+- HIPAA Privacy Rule: 45 CFR Part 160 and Subparts A and E of Part 164.
+
+#### Step 2:
+Based on the case provided, the HIPAA Privacy Rule permits the Department of Homeland Security to request Mr. Sweeney's medical records for the fitness-for-duty examination. This is in line with standard procedures to ensure public safety and assess an employee's fitness for duty.
+
+#### Step 3:
+The HIPAA Privacy Rule **permits** the Department of Homeland Security to request and access Mr. Sweeney's medical records for the fitness-for-duty examination.

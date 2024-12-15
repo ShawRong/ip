@@ -1,0 +1,13 @@
+### Assessment of Compliance with HIPAA Privacy Rule:
+
+1. **Checking HIPAA Regulation IDs (164.502(g)(5), 164.502(g)(5)(ii)):**
+   - Regulation 164.502(g)(5) states that a covered entity may disclose PHI (Protected Health Information) to a personal representative of the individual who is the subject of the information.
+   - Regulation 164.502(g)(5)(ii) specifies that if the individual is deceased, the covered entity may disclose PHI to a personal representative of the individual.
+
+2. **Determination on Compliance with HIPAA Privacy Rule:**
+   - The case involves Margaret R. Puls, seeking medical records of Esther A. Broderick, the deceased patient, to contest the validity of Broderick's will based on mental competence concerns.
+   - As per HIPAA, a personal representative of the deceased individual can request and receive medical records. In this case, Puls, being an heir-at-law, qualifies as a personal representative.
+   - Since Puls is directly related to the deceased and has a legitimate interest in the medical records for a legal dispute, the disclosure can be considered compliant with the HIPAA Privacy Rule.
+
+3. **Compliance Assessment Outcome:**
+   - **Verdict: Permit**

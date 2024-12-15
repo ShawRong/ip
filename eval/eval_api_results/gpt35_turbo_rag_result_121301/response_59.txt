@@ -1,0 +1,5 @@
+Step 1: Checking the HIPAA regulation IDs (164.502(j)(2)(ii),160.314(a)), we find that these sections pertain to the requirements for uses and disclosures for which an authorization or opportunity to agree or object is not required. This includes disclosures for judicial and administrative proceedings.
+
+Step 2: After reviewing the case, it can be determined that the disclosure of Hector L. Rodriguez's medical records and blood-test results to the Harris County District Attorney's Office was initiated in response to a grand jury subpoena for prosecuting him under DWI charges. This disclosure was made for a legitimate law enforcement inquiry.
+
+Step 3: Given the circumstances outlined in the case, the disclosure of Rodriguez's medical information to the District Attorney's Office is permitted under the HIPAA Privacy Rule.

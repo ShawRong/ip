@@ -1,0 +1,16 @@
+### Response:
+#### Step 1:
+```python
+regulation_ids = {'164.502', '164.512', '164.514'}
+regulation_content = {
+    '164.502': 'Uses and disclosures of protected health information',
+    '164.512': 'Uses and disclosures for which an authorization or opportunity to agree or object is not required',
+    '164.514': 'Other requirements relating to uses and disclosures of protected health information'
+}
+```
+
+#### Step 2:
+The HIPAA Privacy Rule permits the disclosure of protected health information in the context of judicial proceedings when required by a court order.
+
+#### Step 3:
+Permit

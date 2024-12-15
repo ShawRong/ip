@@ -22,7 +22,7 @@ tokens = {
     #'p-b': "Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D",
     #'p-lat': "DnOq4x7zJq8AMEPwNGne85WiaYhYdDQSThY11WtD9w%3D%3D"
     'p-b': "Fs1mwf2Ym3oGvXooZG6Zsg%3D%3D",
-    'p-lat': "DnOq4x7zJq8AMEPwNGne85WiaYhYdDQSThY11WtD9w%3D%3D"
+    'p-lat': "TB6kb%2FUhdQNnsEdj4FnL59JsQ8nV8Eyd7O5aC9cl5A%3D%3D"
 }
 
 async def send_prompt_to_poe(prompt, model_name='capybara'):

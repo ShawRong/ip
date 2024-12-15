@@ -1,0 +1,12 @@
+Based on the provided case involving Margaret R. Puls seeking Esther A. Broderick's medical records from Medicalodge for a legal dispute concerning Broderick's will, we can assess the compliance of this scenario with the HIPAA Privacy Rule.
+
+### Step 1: 
+- The relevant HIPAA regulations in this case would primarily fall under the Privacy Rule, which governs the protection of individually identifiable health information.
+
+### Step 2: 
+- Considering the details of the case, the HIPAA Privacy Rule generally permits the disclosure of protected health information without authorization in the context of legal proceedings, including disputes over wills, when the information is relevant to the case. However, there are requirements and limitations to be met.
+
+### Step 3: 
+- **Answer: Permit**
+
+In this case, the disclosure of Esther A. Broderick's medical records by Medicalodge to Margaret R. Puls for the purpose of assessing Broderick's mental condition at the time of executing her will seems to align with the permissible uses outlined in the HIPAA Privacy Rule for legal disputes related to the individual's health condition. It is crucial to ensure that the disclosure is limited to the necessary information and that proper safeguards are in place to protect the privacy and security of the health information being shared.

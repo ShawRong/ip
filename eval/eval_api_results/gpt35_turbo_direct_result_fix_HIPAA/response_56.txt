@@ -1,0 +1,13 @@
+Based on the provided case involving William Crippen and the procurement of pseudoephedrine purchase logs by law enforcement for a criminal investigation, we can assess the compliance with the HIPAA Privacy Rule through the following steps:
+
+1. **Check the HIPAA regulation IDs (HIPAA) and their content:**
+   - The HIPAA regulation relevant to this case is likely the HIPAA Privacy Rule, which governs the protection of individually identifiable health information.
+  
+2. **Determine whether the HIPAA Privacy Rule permits or forbids the case:**
+   - In this scenario, the disclosure of Crippen's purchase logs by the pharmacy to law enforcement appears to be in compliance with the HIPAA Privacy Rule. 
+   - Given that the disclosure was mandated by law for the purpose of furthering a criminal investigation and was done through a subpoena, it likely falls under the permissible uses and disclosures outlined in the HIPAA regulations.
+
+3. **Assessment: Permit**
+   - Considering the circumstances described in the case, it seems that the disclosure of the pseudoephedrine purchase logs aligns with the provisions within the HIPAA Privacy Rule that allow for disclosures in response to legally issued subpoenas for law enforcement purposes.
+  
+Therefore, based on the analysis, the case of obtaining and using the pseudoephedrine purchase logs in William Crippen's investigation appears to comply with the HIPAA Privacy Rule and is permitted under the circumstances presented.

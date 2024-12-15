@@ -1,0 +1,12 @@
+### Response:
+1. **Step 1:**
+   - **HIPAA regulation IDs:** 164.501 “Health care operations” (6)(v)
+   - **Content:** This section of the HIPAA Privacy Rule pertains to the use of PHI for certain health care operations.
+
+2. **Step 2:**
+   - **Determination:** The HIPAA Privacy Rule permits the disclosure of protected health information (PHI) without patient authorization in response to a subpoena when required by law enforcement.
+
+3. **Step 3:**
+   - **Response:** Permit
+
+Based on the information provided in the case, Spring Harbor Hospital, as a covered entity under HIPAA, is permitted to disclose the patient's mental health history information in response to the federal grand jury's subpoena, as required by law enforcement. This disclosure is lawful under the HIPAA Privacy Rule.

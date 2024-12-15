@@ -1,0 +1,12 @@
+Based on the provided case involving Margaret R. Puls seeking medical records from Medicalodge for a legal dispute concerning Esther A. Broderick's will, let's assess the compliance with the HIPAA Privacy Rule:
+
+1. **Check the HIPAA regulation IDs (Part164) and their content:**
+   - The relevant sections of HIPAA regulation to review are Part 164, which outlines the Privacy Rule.
+
+2. **Determine whether the HIPAA Privacy Rule permits or forbids the case:**
+   - In this scenario, the disclosure of Esther A. Broderick's medical records without her consent or that of a legally authorized representative raises significant privacy and confidentiality concerns. HIPAA generally protects the privacy of individuals' health information and limits its disclosure without proper authorization.
+   
+3. **Answer (Permit or Forbid):**
+   - **Forbid**: Given that there was no mention of consent from the deceased or a legally authorized representative for disclosing the medical records in the context presented, and considering the sensitive nature of the information being sought for a legal dispute, it is likely that the HIPAA Privacy Rule would forbid the disclosure in this case.
+
+Therefore, based on the information provided, it seems that the disclosure of Esther A. Broderick's medical records to Margaret R. Puls for the legal dispute concerning Broderick's will would likely be forbidden under the HIPAA Privacy Rule due to the absence of proper consent for such disclosure.
